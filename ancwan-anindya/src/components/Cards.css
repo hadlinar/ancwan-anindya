@@ -1,0 +1,27 @@
+.card {
+    position: relative;
+    width: 285px;
+    margin-right: 120px;
+    margin-left: 15px;
+    margin-bottom: 48px;
+    border-radius: 0;
+    -webkit-box-shadow: 4px 8px 32px 0 #B7B7B7;  
+    -moz-box-shadow: 4px 8px 32px 0 #B7B7B7;  
+    box-shadow: 0 4px 4px 0 #B7B7B7; 
+}
+
+.card:hover {
+    -webkit-box-shadow: 4px 8px 32px 0 #B7B7B7;  
+    -moz-box-shadow: 4px 8px 32px 0 #B7B7B7;  
+    box-shadow: 4px 8px 32px 0 #B7B7B7;
+}
+
+.card-wrapper {
+    width: 285px;
+}
+
+.card-img {
+    height: 380px;
+    width: 285px;
+    border-radius: 0;
+}

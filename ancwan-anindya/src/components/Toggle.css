@@ -1,0 +1,49 @@
+.toggle {
+    margin: auto;
+    margin-left: 20px;
+    height: 25px;
+    width: 50px;
+    border-radius: 50px;
+    border: 1px solid #e0e0e0;
+    background-color: #F2F2F2;
+    position: relative;
+    cursor: pointer;
+}
+
+.notch {
+    height: 19px;
+    width: 19px;
+    border-radius: 50px;
+    background: url('https://api.iconify.design/emojione-v1:flag-for-united-kingdom.svg?width=75&height=30') no-repeat center center;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    box-shadow: 0 0 3px #e0e0e0;
+    z-index: 1;
+    transition: all 0.2s ease;
+}
+
+.notch.id {
+    background: url('https://api.iconify.design/emojione-v1:flag-for-indonesia.svg?width=75&height=30') no-repeat center center;
+    transform: translate(23px, 0);
+}
+
+.shape {
+    position: absolute;
+    border: 50%;
+    transition: all 0.2s ;
+}
+
+.shape.sm {
+    top: 1.5px;
+    left: 26px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.shape.id {
+    top: 1.5px;
+    left: 6px;
+    font-weight: 400;
+    font-size: 14px;
+}

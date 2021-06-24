@@ -1,0 +1,27 @@
+.section-service {
+    background-color: #F2F2F2;
+    max-width: 100%;
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 35px;
+    letter-spacing: 0.1rem;
+}
+
+.border-title-service {
+    border-bottom: 4px solid #3A7AE3;
+    width: 60px;
+    position: absolute;
+    left: 49.4%;
+}
+
+.row-title-services {
+    padding-top: 25px;
+    padding-bottom: 50px;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 600;
+}

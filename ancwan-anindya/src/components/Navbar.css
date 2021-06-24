@@ -1,0 +1,92 @@
+.navbar-light {
+  background-color: transparent;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  font-weight: 600;
+  padding: 0 120px 0 120px;
+}
+
+.logo {
+  max-height: 40px;
+  max-width: 124px;
+}
+
+.navbar-light .navbar-nav >.nav-link, 
+.navbar-light .navbar-nav .nav-link, 
+.navbar-light .navbar-nav .nav-link.show, 
+.navbar-light .navbar-nav .show>.nav-link {
+  color: black;
+  padding: 0.5rem 1rem;
+  height: 40px;
+}
+
+.navbar-light-body {
+  background-color: white;
+}
+
+.navbar-light.active {
+  background-color: transparent;
+}
+
+.navbar-light.active .navbar-nav >.nav-link, 
+.navbar-light.active .navbar-nav .nav-link, 
+.navbar-light.active .navbar-nav .nav-link.show, 
+.navbar-light.active .navbar-nav .show>.nav-link {
+  color: white;
+}
+
+.navbar-light .navbar-nav >.nav-link:hover, 
+.navbar-light .navbar-nav .nav-link:hover, 
+.navbar-light .navbar-nav .nav-link.show, 
+.navbar-light .navbar-nav .show>.nav-link:hover {
+  color: black;
+  border-bottom: 2px solid black;
+}
+
+.navbar-light.active .navbar-nav >.nav-link:hover, 
+.navbar-light.active .navbar-nav .nav-link:hover, 
+.navbar-light.active .navbar-nav .nav-link.show, 
+.navbar-light.active .navbar-nav .show>.nav-link:hover {
+  color: white;
+  border-bottom: 2px solid white;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, 
+.navbar-light .navbar-nav .nav-link.active, 
+.navbar-light .navbar-nav .nav-link.show, 
+.navbar-light .navbar-nav .show>.nav-link {
+  color: #3A7AE3;
+  border-bottom: none;
+}
+
+.navbar-light.active .navbar-nav .active>.nav-link, 
+.navbar-light.active .navbar-nav .nav-link.active, 
+.navbar-light.active .navbar-nav .nav-link.show, 
+.navbar-light.active .navbar-nav .show>.nav-link {
+  color: #3A7AE3;
+  border-bottom: none;
+}
+
+@media screen and (max-width: 960px) {
+  .navbar {
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  .navbar-light .navbar-nav >.nav-link, 
+  .navbar-light .navbar-nav .nav-link, 
+  .navbar-light .navbar-nav .nav-link.show, 
+  .navbar-light .navbar-nav .show>.nav-link {
+    background-color: white;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 100%;
+  }
+
+}
