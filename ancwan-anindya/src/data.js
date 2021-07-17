@@ -276,7 +276,11 @@ let data = {
                 },
             ],
         },
-    ]
+    ],
+    "our_company":"One stop authorized mining-related trading certification & verification services",
+    "about_company": "ANINDYA, initially established in Bandung City in August 1982, is an independent surveying company, providing quality and quantity superintending service for coal and minerals industry, the oil and gas sector as well as marine surveys. ANINDYA also received permission from the Directorate General of Foreign Trade, Ministry of Trade of the Republic of Indonesia to be able to verify imported products for commodities such as iron & steel, food & drinks, traditional medicine, toys, footwear, garment & textiles, and electronics. ANINDYA has branch offices and laboratories located in many strategic locations throughout Indonesia. In serving clients from abroad, ANINDYA has also opened offices in several countries, that includes China, India, Singapore, Bangladesh and Vietnam.",
+    "vision_company": "Confident to become one of the greatest independents surveying company in Indonesia who is able deliver superb service to our customer.",
+    "mission_company": "Ensure our consumers are satisfied with our superb services in an accurate, professional and timely manner. Provide quality and quantity superintending services for coal-related industry, minerals, marine survey as well as oil and gas sectors with a professional working culture supported by highly competent resources with high integrity attitude."
 }
 
 export default data
