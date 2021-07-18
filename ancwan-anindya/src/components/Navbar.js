@@ -16,12 +16,17 @@ function Navigation() {
     }
 
     const changeBackground = () => {
-        if(window.scrollY >= 70 && window.scrollY <= 680) {
-            setNavbar(true);
-            setBody(false);
-        } else if (window.scrollY < 70) {
-            setNavbar(false);
-            setBody(false);
+        if(window.location.pathname === '/') {
+            if(window.scrollY >= 70 && window.scrollY <= 680) {
+                setNavbar(true);
+                setBody(false);
+            } else if (window.scrollY < 70) {
+                setNavbar(false);
+                setBody(false);
+            } else {
+                setNavbar(false);
+                setBody(true);
+            }
         } else {
             setNavbar(false);
             setBody(true);
@@ -39,7 +44,7 @@ function Navigation() {
                     <Nav className="ml-auto" activeKey={window.location.pathname}>
                         {data.navpath && data.navpath.map(item => {
                             return(
-                                <Nav.Link key={item.key} href={item.path} className="items">{item.name}</Nav.Link>
+                                    <Nav.Link key={item.key} href={item.path} className="items">{item.name}</Nav.Link>
                                 
                             ); 
                         })}

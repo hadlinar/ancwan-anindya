@@ -3,6 +3,7 @@ import data from '../../../data'
 import { Row, Tabs, Tab } from 'react-bootstrap'
 import About from './About'
 import Branch from './Branch'
+import Licenses from './Licenses'
 
 function OurCompany() {
     return (
@@ -25,6 +26,7 @@ function OurCompany() {
                         </Tab>
                         <Tab eventKey="Licenses & Certification" title="Licenses & Certification" >
                             <div>
+                                <Licenses />
                             </div>
                         </Tab>
                     </Tabs>

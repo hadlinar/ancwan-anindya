@@ -1,0 +1,96 @@
+.title-license {
+    text-align: left;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 80px 0 0 0;
+}
+
+.title-desc {
+    text-align: left;
+    font-size: 16px;
+    padding-top: 12px;
+    padding-bottom: 14px;
+}
+
+.certif-desc {
+    text-align: left;
+    font-size: 16px;
+    padding-bottom: 14px;
+}
+
+.certif-list {
+    text-align: left;
+    font-size: 16px;
+}
+
+.tab-content .license-content {
+    background-color: #F2F2F2;
+    justify-content: left;
+    margin-left: 0;
+    flex-wrap: nowrap;
+    text-align: left;
+    font-size: 16px;
+    min-width: 100%;
+    padding-top: 20px;
+    padding-left: 20px;
+    height: 389.5px;
+}
+
+.tab-content .certif-content {
+    background-color: #F2F2F2;
+    justify-content: left;
+    margin-left: 0;
+    flex-wrap: nowrap;
+    text-align: left;
+    font-size: 16px;
+    min-width: 100%;
+    padding-top: 20px;
+    padding-left: 20px;
+    height: 504px;
+}
+
+.name-tab {
+    text-align: left;
+    font-size: 16px;
+    color: #001133;
+    height: 130px;
+    padding-top: 49px;
+}
+
+.certif-tab {
+    text-align: left;
+    font-size: 16px;
+    color: #001133;
+    height: 252px;
+    padding-top: 123px;
+}
+
+.list-content {
+    padding-left: 25px;
+    padding-top: 10px;
+}
+
+.nav-pills .nav-link, .nav-pills .show>.nav-link {
+    color: #001133;
+    border-left: 1px solid #E0E0E0;
+    border-bottom: 1px solid #E0E0E0;
+    border-right: 1px solid #E0E0E0;
+    border-top: 1px solid #E0E0E0;
+    background-color: #F2F2F2;
+    border-radius: 0%;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #001133;
+    border-left: 8px solid #3A7AE3;
+    border-bottom: none;
+    border-right: none;
+    border-top: none;
+    background-color: #F2F2F2;
+    font-weight: 600;
+    border-radius: 0%;
+}
+
+.nav-pills .nav-link:hover, .nav-pills .show>.nav-link {
+    color: #001133;
+}

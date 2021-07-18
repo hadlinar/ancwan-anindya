@@ -474,7 +474,85 @@ let data = {
                 }
             ]
         }
-    ]
+    ],
+    "licenses": "Licenses issued by Republic of Indonesia",
+    "licenses_desc": "ANINDYA is in compliance with government regulations by obtaining several licenses.",
+    "licenses_tab1": {
+        "name": "Import Commodities Verification (Laporan Surveyor)",
+        "title": "MINISTRY OF TRADE REPUBLIC OF INDONESIA",
+        "val": [
+            "Certain Products: No. 782/2019",
+            "Steel, Iron, Steel Alloy & Steel Derivatives: No. 781/2019",
+            "Tires: No. 365/2020",
+            "Cell Phones, Handheld Computers and Tablet Computers: No. 366/2020",
+            "Color Multipurpose Machines, Color Photocopy Machines, and Color Printers: No. 367/2020",
+            "Goods Based on the Cooling System: NO. 421/2020",
+            "Footwear, Electronics, Bicycles & Tricycles: No. 1067/2020",
+            "Secondhand Capital Goods: No. 1087/2020",
+            "Ceramics: No. 778/2021",
+            "Horticulture: No. 779/2021",
+            "Precursor: No. 780/2021"
+        ]
+    },
+    "licenses_tab2": {
+        "name": "Quality Analysis and Quantity Verification for Coal Trade:",
+        "title": "DIRECTORATE GENERAL OF MINERAL AND COAL - ESDM",
+        "val": [
+            "No. 1029.K/30/DJB/2014"
+        ]
+    },
+    "licenses_tab3": {
+        "name": "Export Verification (Laporan Surveyor)",
+        "title": "MINISTRY OF TRADE REPUBLIC OF INDONESIA",
+        "val": [
+            "Coal: No. 780/M-DAG/KEP/6/2017",
+            "Mineral: No. 558 TAHUN 2020"
+
+        ]
+    },
+    "certification": "Accreditation & Certification",
+    "certification_desc": "ANINDYA has passed and obtained the accreditation of laboratory testing and calibration for inspection by KAN (National Accreditation Committee), as well as the certificate of quality management system, environment, health and safety management system by Bureau Veritas.",
+    "certification_tab1": {
+        "name": "KAN (Komite Akreditasi Nasional)",
+        "desc": [
+            {
+                "no": "SNIISO/IEC 17020: 2012",
+                "detail": "Accreditation for Inspection Body No. LI-084-IDN"
+            },
+            {
+                "no": "SNI ISO/IEC 17025: 2017",
+                "detail": "Accreditation for Testing Laboratory "
+            }
+        ],
+        "val": [
+            "No. LP-844-IDN PT Anindya Wiraputra Konsult Banjarbaru",
+            "No. LP-882-IDN PT Anindya Wiraputra Konsult Samarinda",
+            "No. LP-955-IDN PT Anindya Wiraputra Konsult Baratabang",
+            "No. LP-1328-IDN PT Anindya Wiraputra Konsult Palembang",
+            "No. LP-1357-IDN PT Anindya Wiraputra Konsult Kendari",
+            "No. LP-1420-IDN PT Anindya Wiraputra Konsult Berau",
+            "No. LP-1421-IDN PT Anindya Wiraputra Konsult Cikarang",
+            "No. LP-1468-IDN PT Anindya Wiraputra Konsult Pontianak"
+        ]
+    },
+    "certification_tab2": {
+        "name": "Bureau Veritas",
+        "desc": [
+            {
+                "no": "ISO 9001:2015",
+                "detail": "Certification for Quality Management Systems: No. ID003510"
+            },
+            {
+                "no": "ISO 14001: 2015",
+                "detail": "Certification for Environmental Management Systems: No. ID003511"
+            },
+            {
+                "no": "ISO 45001: 2018",
+                "detail": "Certification for Occupational Health and Safety Management<br/>Systems: No. ID003741"
+            }
+        ],
+        "val": []
+    }
 }
 
 export default data
