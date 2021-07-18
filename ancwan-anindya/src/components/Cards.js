@@ -5,7 +5,7 @@ import { Row} from 'react-bootstrap'
 function Cards() {
     return (
         <>
-            <div>
+            <div  style={{margin: "auto"}}>
                 <Row md={4}>
                     <CardItem />
                 </Row>

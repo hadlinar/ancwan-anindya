@@ -1,6 +1,5 @@
 import React from 'react'
 import Footer from '../components/footer'
-import FooterLogo from '../images/anindya-logo-footer.png'
 
 export function FooterContainer() {
     return (
@@ -8,7 +7,7 @@ export function FooterContainer() {
             <Footer.Wrapper>
                 <Footer.Row>
                     <Footer.Column>
-                        <Footer.Link><img src={ FooterLogo } style={{maxWidth:"250px"}} alt="anindya-logo"/></Footer.Link>
+                        <Footer.Link><img src={require(`../images/anindya-logo-footer.png`).default} style={{maxWidth:"250px"}} alt="anindya-logo"/></Footer.Link>
                     </Footer.Column>
                     <Footer.Column>
                         <Footer.Title>About Anindya</Footer.Title>
