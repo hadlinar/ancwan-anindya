@@ -4,7 +4,7 @@ import Navigation from './components/Navbar';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import Home from './components/pages/Home/Home';
 import OurCompany from './components/pages/our company/OurCompany';
-import { FooterContainer } from './container/Footer'
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -12,11 +12,11 @@ function App() {
       <Router>
         <Navigation />
         <Switch>
-          <Route path='/' exact component={Home}/>
-          <Route path="/our-company" exact component={OurCompany}/>
+          <Route exact path="/" component={Home}/>
+          <Route path="/our-company" component={OurCompany}/>
         </Switch>
       </Router>
-      <FooterContainer />
+      <Footer />
     </>
   );
 }

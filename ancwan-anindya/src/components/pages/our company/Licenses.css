@@ -15,6 +15,12 @@
 .certif-desc {
     text-align: left;
     font-size: 16px;
+    /* padding-bottom: 14px; */
+}
+
+.certif-desc2 {
+    text-align: left;
+    font-size: 16px;
     padding-bottom: 14px;
 }
 

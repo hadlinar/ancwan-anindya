@@ -1,6 +1,7 @@
 import React from 'react'
 import '../App.css'
 import { Button } from './Button'
+import { Link } from 'react-router-dom'
 import './HeroSection.css'
 // import { useTranslation } from "react-i18next";
 
@@ -16,13 +17,17 @@ function HeroSection() {
             {/* <p>{t('hero_subtitle')}</p> */}
             <p>Our service network from branch, laboratory, and office to provide super services for our customers</p>
             <div className="hero-btns">
-                <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
-                    {/* {t('about_anindya')} */}
-                    About Anindya
-                </Button>
-                <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
-                    About VPTI
-                </Button>
+                <Link to='/our-company'>
+                    <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
+                        {/* {t('about_anindya')} */}
+                        About Anindya
+                    </Button>
+                </Link>
+                <Link to="/vpti">
+                    <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
+                        About VPTI
+                    </Button>
+                </Link>
             </div>
         </div>
     )

@@ -1,0 +1,31 @@
+.footer--light {
+    margin: auto;
+    padding: 20px 80px 40px 80px;
+}
+
+.row-footer {
+    padding: 20px 0 0 0;
+}
+
+.footer-logo {
+    max-width: 250px;
+}
+
+.footer-widget-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+    margin-bottom: 15px;
+}
+
+.footer-widget-content {
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+}
+
+.copywrite {
+    margin: auto;
+    padding: 10px 0 0 0;
+    font-size: 14px;
+}

@@ -99,7 +99,7 @@ function Licenses() {
                                         return(
                                             <>
                                                 <div style={{fontWeight: "600"}}>{i.no}</div>
-                                                <p className="certif-desc">{i.detail}</p>
+                                                <p className="certif-desc">{i.detail} <br/> {i.detail2}</p>
                                             </>
                                         )
                                     })}

@@ -288,9 +288,9 @@ let data = {
             "address": [
                 {
                     "name": "JI. Buah Batu No. 43 Lt. 2",
-                    "district": "Kel. Malabar, Kec. Lengkong",
-                    "province": "Bandung, Jawa Barat 40262",
-                    "phone": "(+62 22) 87346430"
+                    "district": "Kel. Malabar, Kec. Lengkong, Bandung, Jawa Barat 40262",
+                    "province": "(+62 22) 87346430",
+                    "phone": ""
                 }
             ]
         },
@@ -300,8 +300,8 @@ let data = {
             "address": [
                 {
                     "name": "Jl. Ahmad Yani KM 22.7 RT 02/RW 01",
-                    "district": "Kel. Landasan Ulin Tengah, Kec. Liang Anggang",
-                    "province": "Banjarbaru, Kalimantan Selatan 70722",
+                    "district": "Kel. Landasan Ulin Tengah, Kec. Liang Anggang, Banjarbaru, Kalimantan Selatan 70722",
+                    "province": "",
                     "phone": ""
                 }
             ]
@@ -312,9 +312,9 @@ let data = {
             "address": [
                 {
                     "name": "Jl. Ahmad Yani KM 21 RT 02/RW 02",
-                    "district": "Kel. Landasan Ulin Tengah, Kec. Liang Anggang",
-                    "province": "Banjarbaru, Kalimantan Selatan 70722",
-                    "phone": "(+62 511)4706093"
+                    "district": "Kel. Landasan Ulin Tengah, Kec. Liang Anggang, Banjarbaru, Kalimantan Selatan 70722",
+                    "province": "(+62 511)4706093",
+                    "phone": ""
                 }
             ]
         },
@@ -324,8 +324,8 @@ let data = {
             "address": [
                 {
                     "name": "Senyiur KM 00 Jetty PT Bayan Resources Tbk",
-                    "district": "Desa Senyiur, Kec. Muara Ancalong",
-                    "province": "Kab. Kutai Timur, Kalimantan Timur 75656",
+                    "district": "Desa Senyiur, Kec. Muara Ancalong, Kab. Kutai Timur, Kalimantan Timur 75656",
+                    "province": "",
                     "phone": ""
                 }
             ]
@@ -336,8 +336,8 @@ let data = {
             "address": [
                 {
                     "name": "Taman Golf Residence II Blok R1 No. 32",
-                    "district": "Kel. Sukajadi, Kec. Batam Kota",
-                    "province": "Batam, Kepulauan Riau 29444",
+                    "district": "Kel. Sukajadi, Kec. Batam Kota, Batam, Kepulauan Riau 29444",
+                    "province": "",
                     "phone": ""
                 }
             ]
@@ -348,9 +348,9 @@ let data = {
             "address": [
                 {
                     "name": "JI. Transmigrasi KM 3,5",
-                    "district": "Kel. Barokah, Kec. Simpang Empat Batulicin",
-                    "province": "Kab. Tanah Bumbu, Kalimantan Selatan 72213",
-                    "phone": "(+62 518) 75638"
+                    "district": "Kel. Barokah, Kec. Simpang Empat Batulicin, Kab. Tanah Bumbu, Kalimantan Selatan 72213",
+                    "province": "(+62 518) 75638",
+                    "phone": ""
                 }
             ]
         },
@@ -360,8 +360,8 @@ let data = {
             "address": [
                 {
                     "name": "JI. H.A.R.M Ayoeb RT 13 Gg. Rahmad No. 2",
-                    "district": "Kel. Gunung Tabur, Kec. Gunung Tabur",
-                    "province": "Kab. Berau, Kalimantan Timur 77352",
+                    "district": "Kel. Gunung Tabur, Kec. Gunung Tabur, Kab. Berau, Kalimantan Timur 77352",
+                    "province": "",
                     "phone": ""
                 }
             ]
@@ -373,8 +373,8 @@ let data = {
                 {
                     "name": "Kawasan Industri Delta Silikon 3 Lippo Cikarang",
                     "district": "Jl. Rotan Blok F 27 No. 23 C",
-                    "province": "Kel. Cicau, Kec. Cikarang Pusat",
-                    "phone": "Kab. Bekasi, Jawa Barat 17531"
+                    "province": "Kel. Cicau, Kec. Cikarang Pusat, Kab. Bekasi, Jawa Barat 17531",
+                    "phone": ""
                 }
             ]
         },
@@ -384,9 +384,9 @@ let data = {
             "address": [
                 {
                     "name": "Springhill Office Tower 17 th & 18th Floor",
-                    "district": "Jl. H. Benyamin Suaeb Ruas D7  Block D6",
-                    "province": "Pademangan Timur, Jakarta Utara 14410",
-                    "phone": "(+62 21) 2260 6207"
+                    "district": "Jl. H. Benyamin Suaeb Ruas D7  Block D6, Pademangan Timur, Jakarta Utara 14410",
+                    "province": "(+62 21) 2260 6207",
+                    "phone": ""
                 }
             ]
         },
@@ -396,9 +396,9 @@ let data = {
             "address": [
                 {
                     "name": "JI. Abdul Rahman Saleh No. 8",
-                    "district": "Kel. The Hok, Kec. Jambi Selatan",
-                    "province": "Jambi 36138",
-                    "phone": "(+62 741) 572805"
+                    "district": "Kel. The Hok, Kec. Jambi Selatan, Jambi 36138",
+                    "province": "(+62 741) 572805",
+                    "phone": ""
                 }
             ]
         },
@@ -408,8 +408,8 @@ let data = {
             "address": [
                 {
                     "name": "JI. Poros Bandara Haluoleo",
-                    "district": "Desa Onewila, Kec. Ranomeeto",
-                    "province": "Kab. Konawe Selatan, Sulawesi Tenggara 93372",
+                    "district": "Desa Onewila, Kec. Ranomeeto Kab. Konawe Selatan, Sulawesi Tenggara 93372",
+                    "province": "",
                     "phone": ""
                 }
             ]
@@ -421,8 +421,8 @@ let data = {
                 {
                     "name": "Komp. Pergudangan Sukarame Blok D No. 9",
                     "district": "JI. Tembus Terminal",
-                    "province": "Kel Talang Kelapa, Kec. Alang-Alang Lebar",
-                    "phone": "Palembang, Sumatera Selatan 30151"
+                    "province": "Kel Talang Kelapa, Kec. Alang-Alang Lebar, Palembang, Sumatera Selatan 30151",
+                    "phone": ""
                 }
             ]
         },
@@ -432,8 +432,8 @@ let data = {
             "address": [
                 {
                     "name": "JI. Arteri Supadio Gg. Anyar RT 07 RW 10",
-                    "district": "Desa Arang Limbung, Kec. Sungai Raya",
-                    "province": "Pontianak, Kalimantan Barat 78391",
+                    "district": "Desa Arang Limbung, Kec. Sungai Raya, Pontianak, Kalimantan Barat 78391",
+                    "province": "",
                     "phone": ""
                 }
             ]
@@ -444,9 +444,9 @@ let data = {
             "address": [
                 {
                     "name": "JI. KH. Harun Nafsi No. 56",
-                    "district": "Kel. Rapak Dalam, Kec. Loa Janan llir",
-                    "province": "Samarinda, Kalimantan Timur 75131",
-                    "phone": "(+62 541) 7269686, Fax: (+62 541) 7269705"
+                    "district": "Kel. Rapak Dalam, Kec. Loa Janan llir, Samarinda, Kalimantan Timur 75131",
+                    "province": "(+62 541) 7269686, Fax: (+62 541) 7269705",
+                    "phone": ""
                 }
             ]
         },
@@ -456,9 +456,9 @@ let data = {
             "address": [
                 {
                     "name": "JI. Tumpa Dayu RT 11",
-                    "district": "Desa Tamiang Layang, Kec. Dusun Timur",
-                    "province": "Kab. Barito Timur, Kalimantan Tengah 73617",
-                    "phone": "(+62 526) 2091361"
+                    "district": "Desa Tamiang Layang, Kec. Dusun Timur, Kab. Barito Timur, Kalimantan Tengah 73617",
+                    "province": "(+62 526) 2091361",
+                    "phone": ""
                 }
             ]
         },
@@ -468,9 +468,9 @@ let data = {
             "address": [   
                 {
                     "name": "JI. Flamboyan No. 57 RT 27",
-                    "district": "Kel. Karang Anyar, Kec. Tarakan Barat",
-                    "province": "Tarakan, Kalimantan Utara 77111",
-                    "phone": "(+62 511) 25210"
+                    "district": "Kel. Karang Anyar, Kec. Tarakan Barat, Tarakan, Kalimantan Utara 77111",
+                    "province": "(+62 511) 25210",
+                    "phone": ""
                 }
             ]
         }
@@ -540,15 +540,18 @@ let data = {
         "desc": [
             {
                 "no": "ISO 9001:2015",
-                "detail": "Certification for Quality Management Systems: No. ID003510"
+                "detail": "Certification for Quality Management Systems: No. ID003510",
+                "detail2": ""
             },
             {
                 "no": "ISO 14001: 2015",
-                "detail": "Certification for Environmental Management Systems: No. ID003511"
+                "detail": "Certification for Environmental Management Systems: No. ID003511",
+                "detail2": ""
             },
             {
                 "no": "ISO 45001: 2018",
-                "detail": "Certification for Occupational Health and Safety Management<br/>Systems: No. ID003741"
+                "detail": "Certification for Occupational Health and Safety Management",
+                "detail2": "Systems: No. ID003741"
             }
         ],
         "val": []
