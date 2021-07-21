@@ -1,6 +1,12 @@
 .list-branch {
     padding-top: 160px;
+    margin: auto;
 }
+
+/* .col-list-branch {
+    padding: 0;
+} */
+
 .title-branch {
     font-size: 24px;
     font-weight: 600;

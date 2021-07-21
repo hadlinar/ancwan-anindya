@@ -15,6 +15,7 @@ class Branch extends React.Component {
             zoom: 4
         }
     }
+    
 
     componentDidMount() {
         const map = new mapboxgl.Map({
@@ -24,20 +25,11 @@ class Branch extends React.Component {
             zoom: this.state.zoom
         })
 
-        // coordinate.forEach((geojson) => {
-        //     var el = document.createElement('div');
-        //     el.className = 'marker';
-
-        //     new mapboxgl.Marker(el)
-        //             .setLngLat(geojson.geometry.coordinates)
-        //             .setPopup(new mapboxgl.Popup({offset: 30})
-        //             .setHTML('<h4>' + geojson. + '</h4>'))
-        //             .addTo(map);
-        // })
+        map.once('idle', function() {
+            map.resize();
+        })
 
         map.on('load', function () {
-            map.resize();
-
             map.addSource('places', {
                 'type': 'geojson',
                 'data': {
@@ -251,15 +243,10 @@ class Branch extends React.Component {
                 var coordinates = e.features[0].geometry.coordinates.slice();
                 var description = e.features[0].properties.description;
                  
-                // Ensure that if the map is zoomed out such that multiple
-                // copies of the feature are visible, the popup appears
-                // over the copy being pointed to.
                 while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
                 coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
                 }
                  
-                // Populate the popup and set its coordinates
-                // based on the feature found.
                 popup.setLngLat(coordinates)
                     .setHTML(description)
                     .addTo(map);
@@ -285,7 +272,7 @@ class Branch extends React.Component {
                     <Row md={3} className="list-branch">
                         {data.branches && data.branches.map(item => {
                             return (
-                                <Col>
+                                <Col className="col-list-branch">
                                     <div>
                                         <div className="title-branch">{item.location}</div>
                                     </div>

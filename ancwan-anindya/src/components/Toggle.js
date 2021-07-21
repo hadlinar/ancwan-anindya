@@ -9,8 +9,8 @@ function Toggle({ toggled, onClick }) {
                 <div>
                     {
                         toggled ? 
-                        <div className="shape id"> EN </div> :
-                        <div className="shape sm"> ID </div> 
+                        <div className="shape id"> ID </div> :
+                        <div className="shape sm"> EN </div> 
                     }
                 </div>
             </div>  
