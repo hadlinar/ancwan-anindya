@@ -55,38 +55,38 @@ let data = {
             "img":"coal",
             "label":"Coal"
         },
+        // {
+        //     "key": 3,
+        //     "name":"Geological",
+        //     "img":"geo",
+        //     "label":"Geological"
+        // },
         {
             "key": 3,
-            "name":"Geological",
-            "img":"geo",
-            "label":"Geological"
-        },
-        {
-            "key": 4,
             "name":"Marine",
             "img":"marine",
             "label":"Marine"
         },
         {
-            "key": 5,
+            "key": 4,
             "name":"Oil & Gas",
             "img":"oil-and-gas",
             "label":"Oil and Gas"
         },
         {
-            "key": 6,
+            "key": 5,
             "name":"Agriculture & Food",
             "img":"agri",
             "label":"Agriculture and Food"
         },
         {
-            "key": 7,
+            "key": 6,
             "name":"Mineral & Water",
             "img":"mineral",
             "label":"Mineral and Water"
         },
         {
-            "key": 8,
+            "key": 7,
             "name":"Sand Pebble Crushed Stone",
             "img":"sand",
             "label":"Sand Pebble Crushed Stone"
@@ -120,32 +120,32 @@ let data = {
                 },
             ],
         },
-        {
-            "name":"Geological",
-            "img": [
-                {
-                    "img": "dummy1"
-                },
-                {
-                    "img": "dummy2"
-                },
-                {
-                    "img": "dummy3"
-                },
-                {
-                    "img": "dummy4"
-                },
-                {
-                    "img": "dummy5"
-                },
-                {
-                    "img": "dummy6"
-                },
-                {
-                    "img": "dummy7"
-                },
-            ],
-        },
+        // {
+        //     "name":"Geological",
+        //     "img": [
+        //         {
+        //             "img": "dummy1"
+        //         },
+        //         {
+        //             "img": "dummy2"
+        //         },
+        //         {
+        //             "img": "dummy3"
+        //         },
+        //         {
+        //             "img": "dummy4"
+        //         },
+        //         {
+        //             "img": "dummy5"
+        //         },
+        //         {
+        //             "img": "dummy6"
+        //         },
+        //         {
+        //             "img": "dummy7"
+        //         },
+        //     ],
+        // },
         {
             "name":"Marine",
             "img": [
@@ -198,32 +198,32 @@ let data = {
                 },
             ],
         },
-        {
-            "name":"Agriculture & Food",
-            "img": [
-                {
-                    "img": "dummy1"
-                },
-                {
-                    "img": "dummy2"
-                },
-                {
-                    "img": "dummy3"
-                },
-                {
-                    "img": "dummy4"
-                },
-                {
-                    "img": "dummy5"
-                },
-                {
-                    "img": "dummy6"
-                },
-                {
-                    "img": "dummy7"
-                },
-            ],
-        },
+        // {
+        //     "name":"Agriculture & Food",
+        //     "img": [
+        //         {
+        //             "img": "dummy1"
+        //         },
+        //         {
+        //             "img": "dummy2"
+        //         },
+        //         {
+        //             "img": "dummy3"
+        //         },
+        //         {
+        //             "img": "dummy4"
+        //         },
+        //         {
+        //             "img": "dummy5"
+        //         },
+        //         {
+        //             "img": "dummy6"
+        //         },
+        //         {
+        //             "img": "dummy7"
+        //         },
+        //     ],
+        // },
         {
             "name":"Mineral & Water",
             "img": [
@@ -250,32 +250,32 @@ let data = {
                 },
             ],
         },
-        {
-            "name":"Sand Pebble Crushed Stone",
-            "img": [
-                {
-                    "img": "dummy1"
-                },
-                {
-                    "img": "dummy2"
-                },
-                {
-                    "img": "dummy3"
-                },
-                {
-                    "img": "dummy4"
-                },
-                {
-                    "img": "dummy5"
-                },
-                {
-                    "img": "dummy6"
-                },
-                {
-                    "img": "dummy7"
-                },
-            ],
-        },
+        // {
+        //     "name":"Sand Pebble Crushed Stone",
+        //     "img": [
+        //         {
+        //             "img": "dummy1"
+        //         },
+        //         {
+        //             "img": "dummy2"
+        //         },
+        //         {
+        //             "img": "dummy3"
+        //         },
+        //         {
+        //             "img": "dummy4"
+        //         },
+        //         {
+        //             "img": "dummy5"
+        //         },
+        //         {
+        //             "img": "dummy6"
+        //         },
+        //         {
+        //             "img": "dummy7"
+        //         },
+        //     ],
+        // },
     ],
     "our_company":"One stop authorized mining-related trading certification & verification services",
     "about_company": "ANINDYA, initially established in Bandung City in August 1982, is an independent surveying company, providing quality and quantity superintending service for coal and minerals industry, the oil and gas sector as well as marine surveys. ANINDYA also received permission from the Directorate General of Foreign Trade, Ministry of Trade of the Republic of Indonesia to be able to verify imported products for commodities such as iron & steel, food & drinks, traditional medicine, toys, footwear, garment & textiles, and electronics. ANINDYA has branch offices and laboratories located in many strategic locations throughout Indonesia. In serving clients from abroad, ANINDYA has also opened offices in several countries, that includes China, India, Singapore, Bangladesh and Vietnam.",
