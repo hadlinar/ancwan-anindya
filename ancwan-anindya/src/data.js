@@ -1664,6 +1664,50 @@ let data = {
                 }
             ]
         },
+    ],
+    "our_offices": [
+        {
+            "location": "Indonesia",
+            "address": "Springhill Office Tower 18th Floor Unit E",
+            "detail": "Jl. H. Benyamin Suaeb Ruas D7  Block D6 Pademangan Timur, Jakarta 14410",
+            "email": "marketing@anindya.biz",
+            "phone": "+62 21 2260 6207"
+        },
+        {
+            "location": "Singapore",
+            "address": "5001 Beach Road",
+            "detail": "#07-14 Golden Mile Complex, SINGAPORE 199588",
+            "email": "singapore@anindya.biz",
+            "phone": ""
+        },
+        {
+            "location": "China",
+            "address": "3/F, No.13, Baijiazhuang Dongli",
+            "detail": "Chaoyang District - Beijing, CHINA 100026",
+            "email": "china@anindya.biz",
+            "phone": ""
+        },
+        {
+            "location": "Vietnam",
+            "address": "8th Floor, Le Meridien Building",
+            "detail": "3C Ton Duc Thang Street, Ben Nghe ward, District 1, Ho Chi Minh City",
+            "email": "vietnam@anindya.biz",
+            "phone": "+84 28 730 999 86"
+        },
+        {
+            "location": "India",
+            "address": "S-02, Regus – Times Square",
+            "detail": "Unit 1, Level 2, B Wing, Andheri-Kurla Road, Marol, Andheri East, Mumbai – 400059",
+            "email": "india@anindya.biz",
+            "phone": ""
+        },
+        {
+            "location": "Bangladesh",
+            "address": "110 Bir Uttam C R Dutta Road",
+            "detail": "Dhaka 1205",
+            "email": "bangladesh@anindya.biz",
+            "phone": ""
+        }
     ]
 }
 

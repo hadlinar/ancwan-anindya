@@ -1,7 +1,5 @@
 import React from 'react'
 import data from '../../../data'
-import Aos from 'aos'
-import 'aos/dist/aos.css'
 import './Flow.css'
 import ImageZoom from "react-medium-image-zoom";
 import FlowVPTI from '../../../images/flow-vpti.jpeg'

@@ -5,6 +5,7 @@ import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import Home from './components/pages/Home/Home';
 import OurCompany from './components/pages/our company/OurCompany';
 import Vpti from './components/pages/vpti/Vpti';
+import ContactUs from './components/pages/contact us/ContactUs';
 import Footer from './components/Footer';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
           <Route path="/" exact component={Home}/>
           <Route path="/our-company" component={OurCompany}/>
           <Route path="/vpti" component={Vpti}/>
+          <Route path="/contact-us" component={ContactUs}/>
         </Switch>
       </Router>
       <Footer />
