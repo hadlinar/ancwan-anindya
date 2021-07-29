@@ -9,6 +9,7 @@
   z-index: 999;
   font-weight: 600;
   padding: 0 80px 0 80px;
+  justify-content: center;
 }
 
 .logo {
@@ -27,10 +28,6 @@
 
 .navbar-light-body {
   background-color: white;
-}
-
-.navbar-light.active {
-  background-color: transparent;
 }
 
 .navbar-light.active .navbar-nav >.nav-link, 

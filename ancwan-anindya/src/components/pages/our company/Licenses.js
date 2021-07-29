@@ -13,17 +13,17 @@ function Licenses() {
                     <Tab.Container id="left-tabs-example" defaultActiveKey={data.licenses_tab1.name}>
                         <Row  style={{backgroundColor: "#E0E0E0", border: "1px solid #E0E0E0"}}>
                             <Col sm={4} style={{paddingLeft: "0", paddingRight: "0"}}>
-                            <Nav variant="pills" className="flex-column">
-                                <Nav.Item>
-                                    <Nav.Link eventKey={data.licenses_tab1.name} className="name-tab">{data.licenses_tab1.name}</Nav.Link>
-                                </Nav.Item>
-                                <Nav.Item>
-                                    <Nav.Link eventKey={data.licenses_tab2.name} className="name-tab">{data.licenses_tab2.name}</Nav.Link>
-                                </Nav.Item>
-                                <Nav.Item>
-                                    <Nav.Link eventKey={data.licenses_tab3.name} className="name-tab">{data.licenses_tab3.name}</Nav.Link>
-                                </Nav.Item>
-                            </Nav>
+                                <Nav variant="pills" className="flex-column">
+                                    <Nav.Item>
+                                        <Nav.Link eventKey={data.licenses_tab1.name} className="name-tab">{data.licenses_tab1.name}</Nav.Link>
+                                    </Nav.Item>
+                                    <Nav.Item>
+                                        <Nav.Link eventKey={data.licenses_tab2.name} className="name-tab">{data.licenses_tab2.name}</Nav.Link>
+                                    </Nav.Item>
+                                    <Nav.Item>
+                                        <Nav.Link eventKey={data.licenses_tab3.name} className="name-tab">{data.licenses_tab3.name}</Nav.Link>
+                                    </Nav.Item>
+                                </Nav>
                             </Col>
                             <Col sm={8} style={{paddingLeft: "0", paddingRight: "0"}}>
                             <Tab.Content className="license-content">
