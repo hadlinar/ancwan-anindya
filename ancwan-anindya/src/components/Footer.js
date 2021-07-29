@@ -29,7 +29,7 @@ function Footer() {
                             </p>
                             <p className="footer-widget-content"><i class="fas fa-phone-alt"/>    (+62 21) 2260 6207</p>
                             <p className="footer-widget-content"><i class="fas fa-fax"/>    (+62 21) 2260 6236</p>
-                            <p className="footer-widget-content"><i class="fas fa-envelope"/>    marketing@anindya.biz</p>
+                            <a className="footer-widget-content" href="mailto:marketing@anindya.biz"><i class="fas fa-envelope"/>    marketing@anindya.biz</a>
                         </Col>
                     </Row>
                     <Row className="row-footer">
