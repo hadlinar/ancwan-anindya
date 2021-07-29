@@ -1618,7 +1618,7 @@ let data = {
                     "permendag": [
                         {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 102/M-DAG/PER/12/2015 tentang Ketentuan Impor Mesin Multifungsi Berwarna, Mesin Fotokopi Berwarna, dan Mesin Printer Berwarna.",
-                            "url": "http://jdih.kemendag.go.id/peraturan/detail/587/2",
+                            "url": "http://jdih.kemendag.go.id/peraturan/detail/782/2",
                             "rev": [
                                 {
                                     "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 14 Tahun 2018 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 102/M-DAG/PER/12/2015 Tentang Ketentuan Impor Mesin Multifungsi Berwarna, Mesin Fotokopi Berwarna, dan Mesin Printer Berwarna.",
