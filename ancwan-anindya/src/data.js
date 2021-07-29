@@ -881,7 +881,7 @@ let data = {
                                 },
                                 {
                                     "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 12 Tahun 2018 tentang Perubahan keempat atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
-                                    "url": "hhttp://jdih.kemendag.go.id/peraturan/detail/1074/2"
+                                    "url": "http://jdih.kemendag.go.id/peraturan/detail/1074/2"
                                 },
                                 {
                                     "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94 Tahun 2017 tentang Perubahan ketiga atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
@@ -1570,11 +1570,11 @@ let data = {
                     "permendag": [
                         {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 118 Tahun 2018 tentang Ketentuan Impor Barang Modal dalam Keadaan Tidak Baru.",
-                            "url": "http://jdih.kemendag.go.id/peraturan/detail/1883/2",
+                            "url": "http://jdih.kemendag.go.id/peraturan/detail/1748/2",
                             "rev": [
                                 {
                                     "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 76 Tahun 2019 tentang Perubahan Atas Peraturan Menteri Perdagangan Nomor 118 Tahun 2018 tentang Ketentuan Impor Barang Modal dalam Keadaan Tidak Baru.",
-                                    "url": "https://drive.google.com/file/d/1LO60VN07LD1euAGVk1kMLqnO7L89gxYt/preview"
+                                    "url": "http://jdih.kemendag.go.id/peraturan/detail/1883/2"
                                 }
                             ]
                         },
