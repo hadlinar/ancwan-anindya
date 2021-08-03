@@ -106,26 +106,53 @@ let data = {
             "name":"Coal",
             "img": [
                 {
-                    "img": "dummy1"
+                    "img": "Borneo Indobara"
                 },
                 {
-                    "img": "dummy2"
+                    "img": "Kideco"
                 },
                 {
-                    "img": "dummy3"
+                    "img": "Jembayan"
                 },
                 {
-                    "img": "dummy4"
+                    "img": "Adani"
                 },
                 {
-                    "img": "dummy5"
+                    "img": "Tamtama"
                 },
                 {
-                    "img": "dummy6"
+                    "img": "SGE"
                 },
                 {
-                    "img": "dummy7"
+                    "img": "BSSR"
                 },
+                {
+                    "img": "BRE"
+                },
+                {
+                    "img": "RLK"
+                },
+                {
+                    "img": "Equentia"
+                },
+                {
+                    "img": "PKN"
+                },
+                {
+                    "img": "ABP"
+                },
+                {
+                    "img": "MEK"
+                },
+                {
+                    "img": "BMB"
+                },
+                {
+                    "img": "KJB"
+                },
+                {
+                    "img": "Titan"
+                }
             ],
         },
         // {
@@ -158,26 +185,62 @@ let data = {
             "name":"Marine",
             "img": [
                 {
-                    "img": "dummy1"
+                    "img": "SIT"
                 },
                 {
-                    "img": "dummy2"
+                    "img": "AKR"
                 },
                 {
-                    "img": "dummy3"
+                    "img": "Alexindo"
                 },
                 {
-                    "img": "dummy4"
+                    "img": "Duta Marine"
                 },
                 {
-                    "img": "dummy5"
+                    "img": "Figar"
                 },
                 {
-                    "img": "dummy6"
+                    "img": "Holcim"
                 },
                 {
-                    "img": "dummy7"
+                    "img": "Indocement"
                 },
+                {
+                    "img": "Lafarge"
+                },
+                {
+                    "img": "Victoria"
+                },
+                {
+                    "img": "Seapol"
+                },
+                {
+                    "img": "SLM"
+                },
+                {
+                    "img": "SBA"
+                },
+                {
+                    "img": "SBI"
+                },
+                {
+                    "img": "Trubaindo"
+                },
+                {
+                    "img": "HTK"
+                },
+                {
+                    "img": "Cotecna"
+                },
+                {
+                    "img": "DBS"
+                },
+                {
+                    "img": "Watama"
+                },
+                {
+                    "img": "MSD"
+                }
             ],
         },
         {
@@ -236,26 +299,44 @@ let data = {
             "name":"Mineral & Water",
             "img": [
                 {
-                    "img": "dummy1"
+                    "img": "VDNI"
                 },
                 {
-                    "img": "dummy2"
+                    "img": "SMI"
                 },
                 {
-                    "img": "dummy3"
+                    "img": "BSI"
                 },
                 {
-                    "img": "dummy4"
+                    "img": "YNI"
                 },
                 {
-                    "img": "dummy5"
+                    "img": "YII"
                 },
                 {
-                    "img": "dummy6"
+                    "img": "YII"
                 },
                 {
-                    "img": "dummy7"
+                    "img": "Ifishco"
                 },
+                {
+                    "img": "Ranger"
+                },
+                {
+                    "img": "Walsin"
+                },
+                {
+                    "img": "Hengjaya"
+                },
+                {
+                    "img": "TSI"
+                },
+                {
+                    "img": "GAG"
+                },
+                {
+                    "img": "CLM"
+                }
             ],
         },
         // {

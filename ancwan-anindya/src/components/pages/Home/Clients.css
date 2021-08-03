@@ -3,7 +3,7 @@
     padding-top: 80px;
     padding-left: 80px;
     padding-right: 80px;
-    padding-bottom: 35px;
+    padding-bottom: 80px;
     letter-spacing: 0.1rem;
 }
 
@@ -53,16 +53,25 @@
     margin-bottom: 0;
 }
 
-.tab-content {
+/* .tab-content {
     width: 100%;
     padding: 42px;
     justify-content: center;
     align-items: stretch;
-    display: flex;
+    display: block;
     flex-wrap: nowrap;
-
-}
+    margin-left: auto;
+    margin-right: auto;
+    background-color: yellow;
+    padding-left: auto;
+    padding-right: auto;
+} */
 
 .clients {
-    padding: 0 20px 48px 20px;
+    padding: 10px;
+    max-width: 250px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
 }
