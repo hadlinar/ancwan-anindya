@@ -5,7 +5,7 @@ import logo from '../images/anindya-logo.png';
 import logoWhite from '../images/anindya-logo-white.png';
 import Toggle from '../components/Toggle'
 import data from '../data';
-import { AppBar } from '@material-ui/core'
+// import { AppBar } from '@material-ui/core'
 
 function Navigation() {
     const [navbar, setNavbar] = useState(false);

@@ -8,7 +8,7 @@ import Licenses from './Licenses'
 function OurCompany() {
     return (
         <>
-            <div style={{padding: "80px", textAlign: "center"}}>
+            <div style={{maxWidth: "1440px", padding: "80px", margin: "auto", textAlign: "center"}}>
                 <h1>
                     {data.our_company}
                 </h1>

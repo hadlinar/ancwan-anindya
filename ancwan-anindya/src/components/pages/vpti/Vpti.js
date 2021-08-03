@@ -6,7 +6,9 @@ function Vpti() {
     return (
         <>
             <HeroSection/>
-            <Flow/>
+            <div style={{maxWidth: "1440px", margin: "auto"}}>
+                <Flow/>
+            </div>
         </>
     )
 }

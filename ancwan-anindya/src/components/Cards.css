@@ -1,8 +1,8 @@
 .card {
     position: relative;
-    width: 285px;
-    margin-right: 120px;
-    margin-left: 15px;
+    width: 146px;
+    margin-right: 8px;
+    margin-left: 8px;
     margin-bottom: 48px;
     border-radius: 0;
     -webkit-box-shadow: 4px 8px 32px 0 #B7B7B7;  
@@ -17,11 +17,11 @@
 }
 
 .card-wrapper {
-    width: 285px;
+    width: 146px;
 }
 
 .card-img {
-    height: 380px;
-    width: 285px;
+    height: 194px;
+    width: 146px;
     border-radius: 0;
 }
