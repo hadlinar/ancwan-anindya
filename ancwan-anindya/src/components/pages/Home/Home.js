@@ -11,10 +11,16 @@ function Home () {
     return(
         <>
             <HeroSection />
-            <About />
-            <OurService />
-            <Branch />
-            <Clients />
+            <div style={{maxWidth: "1440px", margin: "auto"}}>
+                <About />
+            </div>
+            <div style={{backgroundColor: "#F2F2F2"}}>
+                <OurService />
+            </div>
+                <Branch />
+            <div style={{backgroundColor: "#F2F2F2"}}>
+                <Clients />
+            </div>
         </>
     )
 }

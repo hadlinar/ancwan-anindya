@@ -86,7 +86,7 @@ function Flow() {
                                                         )
                                                     })}
                                                 </div>
-                                                <div>
+                                                <div style={{padding: '20px 0 0 0'}}>
                                                     {Array.isArray(item.daftar_perubahan) ?
                                                         item.daftar_perubahan.map(i => {
                                                             return (

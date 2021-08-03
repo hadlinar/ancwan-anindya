@@ -7,12 +7,9 @@ import data from '../../../data'
 import MapsImg from '../../../images/markered-maps.png'
 
 function Branch() {
-    const [objFocus, setFocus] = useState({
-        focus: false,
-        mapFocus: false
-    });
+    const [focus, setFocus] = useState(false)
+    const [mapFocus, setMapFocus] = useState(false)
 
-    const { focus, mapFocus } = objFocus;
 
     const canvasRef = useRef(null)
     const [context, setContext] = useState(null)
@@ -30,7 +27,6 @@ function Branch() {
         background.src = MapsImg
         
         if(context) {
-
             background.onload = function() {
                 context.drawImage(background, 0, 0)
             }
@@ -43,7 +39,7 @@ function Branch() {
                         start = timestamp;
                     
                     var delta = timestamp - start,
-                        progress = Math.min(delta / 800, 1);
+                        progress = Math.min(delta / 900, 1);
                     drawBezierSplit(ctx, 599.15625, 767, 276.15625, 680, 148.15625, 424, 0, progress)
                     drawBezierSplit(ctx, 599.15625, 767, 371.15625, 575, 381.15625, 360, 0, progress)
                     drawBezierSplit(ctx, 599.15625, 767, 560.15625, 666, 560.15625, 666, 0, progress)
@@ -98,10 +94,22 @@ function Branch() {
                 ctx.stroke();
                 ctx.closePath();
             }
+
             
-            animatePathDrawing(context);
+            if(window.scrollY > 2070) {
+                animatePathDrawing(context);
+            }
         }
-    }, [context])
+    })
+
+    const changeBackground = () => {
+        // console.log(window.scrollY)
+        if(window.scrollY > 2061) {
+            setMapFocus(true)
+        }  
+    }
+
+    window.addEventListener('scroll', changeBackground);
     
     return (
         <>
@@ -120,32 +128,29 @@ function Branch() {
                             </Row>
                         </Col>
                     </Row>
-                    <VisibilitySensor onChange={(isVisible) => {
-                        if (isVisible) { 
-                            setFocus({
-                                focus: false,
-                                mapFocus: true
-                            })
-                        }
-                    }}> 
-                        <Row className="maps" >
-                                { mapFocus ? 
-                                <>
-                                    <canvas id="canvas" ref={canvasRef} width="1143" height="847"/>
-                                </> : <div/>}
-                        </Row>
-                    </VisibilitySensor>
+                    <Row className="maps">
+                        <VisibilitySensor onChange={(isVisible) => {
+                            if (isVisible) { 
+                                setMapFocus(true)
+                            }
+                        }}>
+                            <canvas id="canvas" ref={canvasRef} width="1143" height="847"/>
+                        </VisibilitySensor>
+                        {/* {mapFocus ? 
+                            <>
+                                <canvas id="canvas" ref={canvasRef} width="1143" height="847"/> 
+                                {console.log("atas" + mapFocus)}
+                            </>
+                            : console.log(mapFocus)} */}
+                    </Row>
                     <Row className="counter">
                         <Col md={4}>
                             <Row className="count-up">
-                                <CountUp start={focus ? 0: null} end={14} redraw={true} duration={3}>
+                                <CountUp start={focus ? 0: null} end={14} redraw={false} duration={3}>
                                     {({ countUpRef }) => (
                                         <VisibilitySensor onChange={(isVisible) => {
                                             if (isVisible) { 
-                                                setFocus({
-                                                    focus: true,
-                                                    mapFocus: true
-                                                })
+                                                setFocus(true)
                                             }
                                         }}>
                                             <span ref={countUpRef} />
@@ -157,14 +162,11 @@ function Branch() {
                         </Col>
                         <Col md={4}>
                             <Row className='count-up'>
-                                <CountUp start={focus ? 0: null} end={8} redraw={true} duration={3}>
+                                <CountUp start={focus ? 0: null} end={8} redraw={false} duration={3}>
                                     {({ countUpRef }) => (
                                         <VisibilitySensor onChange={(isVisible) => {
                                             if (isVisible) { 
-                                                setFocus({
-                                                    focus: true,
-                                                    mapFocus: true
-                                                })
+                                                setFocus(true)
                                             }
                                         }}>
                                             <span ref={countUpRef} />
@@ -176,14 +178,11 @@ function Branch() {
                         </Col>
                         <Col md={4}>
                             <Row className='count-up'>
-                                <CountUp start={focus ? 0: null} end={7} redraw={true} duration={3}>
+                                <CountUp start={focus ? 0: null} end={7} redraw={false} duration={3}>
                                     {({ countUpRef }) => (
                                         <VisibilitySensor onChange={(isVisible) => {
                                             if (isVisible) { 
-                                                setFocus({
-                                                    focus: true,
-                                                    mapFocus: true
-                                                })
+                                                setFocus(true)
                                             }
                                         }}>
                                             <span ref={countUpRef} />

@@ -19,6 +19,7 @@
     padding-right: 240px;
     text-align: center;
     letter-spacing: 0.1rem;
+    max-width: 1440px;
 }
 
 .hero-container-vpti > p {
@@ -29,6 +30,7 @@
     padding-right: 150px;
     text-align: center;
     letter-spacing: 0.1rem;
+    max-width: 1440px;
 }
 
 .hero-btns {
