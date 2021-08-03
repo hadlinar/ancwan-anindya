@@ -17,7 +17,9 @@ function Home () {
             <div style={{backgroundColor: "#F2F2F2"}}>
                 <OurService />
             </div>
+            <div style={{maxWidth: "1440px", margin: "auto"}}>
                 <Branch />
+            </div>
             <div style={{backgroundColor: "#F2F2F2"}}>
                 <Clients />
             </div>
