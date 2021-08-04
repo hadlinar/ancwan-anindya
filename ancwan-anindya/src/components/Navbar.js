@@ -37,19 +37,21 @@ function Navigation() {
 
         <>
             <Navbar collapseOnSelect className={navbar ? "navbar-light active" : [body ? "navbar-light-body" : "navbar-light"]}>
-                <Navbar.Brand href="/"><img className="logo" src={navbar ? logoWhite : logo} alt="Anindya Logo"/></Navbar.Brand>
-                {/* <Navbar.Toggle /> */}
-                <Navbar.Collapse >
-                    <Nav className="ml-auto" activeKey={window.location.pathname}>
-                        {data.navpath && data.navpath.map(item => {
-                            return(
-                                    <Nav.Link key={item.key} href={item.path} className="items">{item.name}</Nav.Link>
-                                
-                            ); 
-                        })}
-                        <Toggle toggled={toggled} onClick={handleClick} /> 
-                    </Nav>
-                </Navbar.Collapse>
+                {/* <div> */}
+                    <Navbar.Brand href="/"><img className="logo" src={navbar ? logoWhite : logo} alt="Anindya Logo"/></Navbar.Brand>
+                    {/* <Navbar.Toggle /> */}
+                    <Navbar.Collapse >
+                        <Nav className="ml-auto" activeKey={window.location.pathname}>
+                            {data.navpath && data.navpath.map(item => {
+                                return(
+                                        <Nav.Link key={item.key} href={item.path} className="items">{item.name}</Nav.Link>
+                                    
+                                ); 
+                            })}
+                            <Toggle toggled={toggled} onClick={handleClick} /> 
+                        </Nav>
+                    </Navbar.Collapse>
+                {/* </div> */}
             </Navbar>
             
         </>
