@@ -19,7 +19,7 @@ function App() {
           <Route path="/our-company" component={OurCompany}/>
           <Route path="/vpti" component={Vpti}/>
           <Route path="/contact-us" component={ContactUs}/>
-          <Route path="/our-services" component={OurServices}/>
+          <Route path="/our-service" component={OurServices}/>
         </Switch>
       </Router>
       <Footer />
