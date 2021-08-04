@@ -8,7 +8,7 @@ let data = {
         {
             "key": 2,
             "name": "Our Service",
-            "path": "/our-services"
+            "path": "/our-service"
         },
         {
             "key": 3,
