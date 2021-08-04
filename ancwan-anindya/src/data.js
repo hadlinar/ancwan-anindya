@@ -65,35 +65,35 @@ let data = {
             // "path": "/our-service"
         // },
         {
-            "key": 4,
+            "key": 3,
             "name":"Marine",
             "img":"marine",
             "label":"Marine",
             "path": "/our-service"
         },
         {
-            "key": 5,
+            "key": 4,
             "name":"Oil & Gas",
             "img":"oil-and-gas",
             "label":"Oil and Gas",
             "path": "/our-service"
         },
         {
-            "key": 6,
+            "key": 5,
             "name":"Agriculture & Food",
             "img":"agri",
             "label":"Agriculture and Food",
             "path": "/our-service"
         },
         {
-            "key": 7,
+            "key": 6,
             "name":"Mineral & Water",
             "img":"mineral",
             "label":"Mineral and Water",
             "path": "/our-service"
         },
         {
-            "key": 8,
+            "key": 7,
             "name":"Sand Pebble Crushed Stone",
             "img":"sand",
             "label":"Sand Pebble Crushed Stone",
@@ -712,12 +712,12 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
                             "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
                             "rev": []
                         },
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 1067 Tahun 2020 tentang Penetapan PT Anindya Wiraputra Konsult (Persero) sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Alas Kaki, Elektronik, serta Sepeda Roda Dua dan Roda Tiga.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 1067 Tahun 2020 tentang Penetapan PT Anindya Wiraputra Konsult (Persero) sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Alas Kaki, Elektronik, serta Sepeda Roda Dua dan Roda Tiga.",
                             "url": "https://drive.google.com/file/d/1j54C2Cw48yguhx_UU9fhaY--8mbLGgQp/preview",
                             "rev": []
                         }
@@ -766,7 +766,7 @@ let data = {
                             "rev": [
                                 {
                                     "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 05 Tahun 2019 tentang Perubahan ketiga atas Peraturan Menteri Perdagangan (Permendag) Nomor 77/M-DAG/PER/11/2016 tentang Ketentuan Impor Ban;",
-                                    "url": "https://drive.google.com/file/d/1GClfdM-wM7CCrqSf4Zc96BjhGYQRx0fw/preview"
+                                    "url": "https://drive.google.com/file/d/1Ze6lWsYbUS8nI-vbg1qM0Ewtg1cQNyiV/preview"
                                 },
                                 {
                                     "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 117 Tahun 2018 tentang Perubahan kedua atas Peraturan Menteri Perdagangan (Permendag) Nomor 77/M-DAG/PER/11/2016 tentang Ketentuan Impor Ban;",
@@ -787,7 +787,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 365 tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelurusan Teknis Impor Ban.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 365 tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelurusan Teknis Impor Ban.",
                             "url": "https://drive.google.com/file/d/1Bf-4Hn-LjJQS55kn0JCzBsxFM4cywyGr/preview",
                             "rev": []
                         }
@@ -864,7 +864,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 421 tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelurusan Teknis Impor Barang Berbasis Sistem Pendingin.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 421 tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelurusan Teknis Impor Barang Berbasis Sistem Pendingin.",
                             "url": "https://drive.google.com/file/d/1hb0Tl2sa1hgs1E_XYyTVSzP33H7oWogR/preview",
                             "rev": []
                         }
@@ -927,7 +927,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 1087 Tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Barang Modal dalam Keadaan Tidak Baru.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 1087 Tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Barang Modal dalam Keadaan Tidak Baru.",
                             "url": "https://drive.google.com/file/d/1FbVwYtH_Vk-Z9ldItnJMrPlE3my4FBwn/preview",
                             "rev": []
                         }
@@ -982,7 +982,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 781 Tahun 2019 tentang Kenetaan Surveyor Sebagai elaksana Verifikasi atau enelusuran Teknis Imor Besi atau Baja, Baja aduan, dan roduk Turunannya",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 781 Tahun 2019 tentang Kenetaan Surveyor Sebagai elaksana Verifikasi atau enelusuran Teknis Imor Besi atau Baja, Baja aduan, dan roduk Turunannya",
                             "url": "https://drive.google.com/file/d/1u-MH0j3kR6N6jBnONuJn5G_RGgyuuhqm/preview",
                             "rev": []
                         }
@@ -1039,6 +1039,10 @@ let data = {
                                     "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
                                 },
                                 {
+                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 42 Tahun 2018 tentang Perubahan kelima atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
+                                },
+                                {
                                     "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 12 Tahun 2018 tentang Perubahan keempat atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
                                     "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
                                 },
@@ -1066,7 +1070,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
                             "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
                             "rev": []
                         }
@@ -1131,7 +1135,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 779 Tahun 2021 tentang Penetapan PT Anindya Wiraputra Konsult sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Hortikultura.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 779 Tahun 2021 tentang Penetapan PT Anindya Wiraputra Konsult sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Hortikultura.",
                             "url": "https://drive.google.com/file/d/1sXQ17iBOv4DBHvMaUmpgbxO1AY3Wtiyq/preview",
                             "rev": []
                         }
@@ -1206,7 +1210,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 778 Tahun 2021 tentang Penetapan PT Anindya Wiraputra Konsult sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Keramik.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 778 Tahun 2021 tentang Penetapan PT Anindya Wiraputra Konsult sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Keramik.",
                             "url": "https://drive.google.com/file/d/16oBelH4RHwKvAbMRcXTn8ZNuH6jHy34u/preview",
                             "rev": []
                         }
@@ -1295,7 +1299,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
                             "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
                             "rev": []
                         }
@@ -1387,7 +1391,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
                             "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
                             "rev": []
                         }
@@ -1451,7 +1455,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 367 Tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Mesin Multifungsi Berwarna, Mesin Fotokopi Berwarna, dan Mesin Printer Berwarna.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 367 Tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Mesin Multifungsi Berwarna, Mesin Fotokopi Berwarna, dan Mesin Printer Berwarna.",
                             "url": "https://drive.google.com/file/d/1Jy9QhMqitBHHTjwmRkfPjzVZV3kS8aDS/preview",
                             "rev": []
                         }
@@ -1542,7 +1546,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
                             "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
                             "rev": []
                         }
@@ -1626,7 +1630,7 @@ let data = {
                         },
                         {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 86/M-DAG/PER/10/2015 tentang Ketentuan Impor Tekstil dan Produk Tekstil Batik dan Motif Batik.",
-                            "url": "http://jdih.kemendag.go.id/peraturan/detail/574/2",
+                            "url": "https://drive.google.com/file/d/1_7rcw1eXc992MBgvtkGRX7BTsVwgCaX7/preview",
                             "rev": []
                         },
                     ],
@@ -1638,7 +1642,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
                             "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
                             "rev": []
                         }
@@ -1704,7 +1708,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 780 Tahun 2021 tentang Penetapan PT Anindya Wiraputra Konsult sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Prekursor.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 780 Tahun 2021 tentang Penetapan PT Anindya Wiraputra Konsult sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Prekursor.",
                             "url": "https://drive.google.com/file/d/1HDPRKTseRv_79cgeDIl1hwAHawyyggZC/preview",
                             "rev": []
                         }
@@ -1767,7 +1771,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 1067 Tahun 2020 tentang Penetapan PT Anindya Wiraputra Konsult (Persero) sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Alas Kaki, Elektronik, serta Sepeda Roda Dua dan Roda Tiga.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 1067 Tahun 2020 tentang Penetapan PT Anindya Wiraputra Konsult (Persero) sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Alas Kaki, Elektronik, serta Sepeda Roda Dua dan Roda Tiga.",
                             "url": "https://drive.google.com/file/d/1j54C2Cw48yguhx_UU9fhaY--8mbLGgQp/preview",
                             "rev": []
                         }
@@ -1838,7 +1842,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kemendag) Nomor 366 Tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Telepon Seluler, Komputer Genggam (Handheld), dan Komputer Tablet.",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 366 Tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Telepon Seluler, Komputer Genggam (Handheld), dan Komputer Tablet.",
                             "url": "https://drive.google.com/file/d/1gC2gNAp2trg6QMOiro0DPCI5AOVJKxFT/preview",
                             "rev": []
                         }
@@ -1904,6 +1908,304 @@ let data = {
             "detail": "Dhaka 1205",
             "email": "bangladesh@anindya.biz",
             "phone": ""
+        }
+    ],
+    "our_services": "Providing quality and quantity superintending service for coal and minerals industry, the oil and gas sector as well as marine surveys",
+    "service_val": [
+        {
+            "name": "Coal",
+            "subtitle": "The analysis of coal at any point in the production and distribution chain must be done with the utmost attention to accuracy and best practice. All our accredited laboratory facilities and experts offer reliable quality certification for coal inspection and testing.",
+            "col1": [
+                {
+                    "title": "Mine and Geological Service",
+                    "val": [
+                        "Verification Reports for Government Purposes (LHV & LS)",
+                        "Load and Discharge Supervision",
+                        "Draft Survey",
+                        "Cargo Condition & Readiness",
+                        "Laboratory Analysis",
+                        "Stock and Warehouse",
+                        "Sampling Analysis",
+                        "Cargo Hold & Cleanliness",
+                        "Stockpile Inventory Measurement",
+                        "Pre-Shipment",
+                        "Bias Testing",
+                        "Cargo Temperature",
+                        "Verification Report of Adjustment Cost and Distance Transport Certificate (LHV BP & SAJ)",
+                        "Quality Control Management System",
+                        "Core Sampling",
+                        "Exploration JORC",
+                        "Pit Sampling",
+                        "Channel Sampling",
+                        "Due Diligence",
+                        "General Survey",
+                        "Geological Mapping",
+                        "Feasibility Study Stage"
+                    ]
+                }
+            ],
+            "col2": [
+                {
+                    "title": "Laboratory Analysis",
+                    "val": [
+                        "Total Moisture",
+                        "Calorific Value",
+                        "Form of Sulphur",
+                        "Hardgrove Grindability Index",
+                        "Size Analysis",
+                        "Trace Elements (As, Se, Cl, F, P, Hg)",
+                        "Relative Density",
+                        "Ash Analysis",
+                        "Ash Fusion Temperature",
+                        "Crucible Swelling Number",
+                        "Light Transmittance",
+                        "Radioactivity",
+                        "G Value",
+                        "Plastometric Index (Y Value & X Value)",
+                        "Transmittance Value",
+                        "TML Testing",
+                        "Mechanical Strength of Coke",
+                        "Coke Re-Activity",
+                        "Post-Reaction Strength of Coke"
+                    ]
+                }
+            ],
+            "method": [
+                "astm",
+                "iso",
+                "standards-australia",
+                "gb"
+            ],
+            "clients" : [
+                "Borneo Indobara",
+                "Kideco",
+                "Jembayan",
+                "Adani",
+                "Tamtama",
+                "SGE",
+                "BSSR",
+                "BRE",
+                "RLK",
+                "Equentia",
+                "PKN",
+                "ABP",
+                "MEK",
+                "BMB",
+                "KJB",
+                "Titan"
+            ]
+        },
+        {
+            "name": "Marine",
+            "subtitle": "Inspections, surveys or examinations of marine vessels to assess, monitor and report on their conditions and the products on them, as well as investigate the nature/cause of damage to both vessel and cargo. ANINDYA operates on a 24/7 basis and has invested in a significant pool of expert surveyors so as to be operationally ready at a short notice. With the backing of experienced technical staff, we can assist customers with expert witnesses or perform duties in any legal, dispute and/or claims cases.",
+            "col1": [
+                {
+                    "title": "Technical Survey",
+                    "val": [
+                        "Vessel's Condition Survey",
+                        "Cargo Hold Cleanliness",
+                        "Bunker Survey",
+                        "On/Of-hire Survey",
+                        "Lashing/Securing and Towing Survey",
+                        "Investigation and Damage Survey Fuel Consumption Test",
+                        "P&l Pre-entry Condition Survey"
+                    ]
+                }
+            ],
+            "col2": [
+                {
+                    "title": "Cargo Survey",
+                    "val": [
+                        "Tally and Condition Survey",
+                        "Weighing and Measuring",
+                        "Stuffing & Unstuffing",
+                        "Loading & Unloading Survey",
+                        "Draught Survey",
+                        "Pre-shipment Survey",
+                        "Cargo Damage Survey & Sampling"
+                    ]
+                }
+            ],
+            "method": [],
+            "clients": [
+                "SIT",
+                "AKR",
+                "Alexindo",
+                "Duta Marine",
+                "Figar",
+                "Holcim",
+                "Indocement",
+                "Lafarge",
+                "Victoria",
+                "Seapol",
+                "SLM",
+                "SBA",
+                "SBI",
+                "Trubaindo",
+                "HTK",
+                "Cotecna",
+                "DBS",
+                "Watama",
+                "MSD"
+            ]
+        },
+        {
+            "name": "Oil & Gas",
+            "subtitle": "ANINDYA offers a wide range of inspection, survey, testing, control, calibration and other special services to the oil and gas industry. ANINDYA has a team of highly skilled inspectors, surveyors, chemists and technicians who can provide quality and timely services to your requirement.",
+            "col1": [
+                {
+                    "title": "Technical Survey",
+                    "val": [
+                        "Petroleum & crude oil inspection services",
+                        "Quality testing for crude oil, petroleum, gas and chemicals",
+                        "Expediting services",
+                        "Blending expertise",
+                        "Cargo treatment",
+                        "Collateral management & warehousing",
+                        "Used oil and lubricant condition monitoring"
+                    ]
+                }
+            ],
+            "col2": [],
+            "method": [],
+            "clients": []
+        },
+        {
+            "name": "Agriculture & Food",
+            "subtitle": "Agriculture and food are arguably the world's most important industries. Consumers want assurance of safety and quality at every stage of the process. We operate at every stage in the agricultural product journey and/or claims cases.",
+            "col1": [
+                {
+                    "title": "Our Services",
+                    "val": [
+                        "Cleanliness inspections",
+                        "Collateral management and warehousing",
+                        "Fumigation",
+                        "Weighing and sampling",
+                        "Supervision of loading and discharge",
+                        "Testing and analysis"
+                    ]
+                }
+            ],
+            "col2": [],
+            "method": [],
+            "clients": []
+        },
+        {
+            "name": "Mineral & Water",
+            "subtitle": "From mine site exploration to export shipment, ANINDYA provides minerals testing, inspection, assurance and certification services to support mining activities around the world. Whichever form your materials take, whether mined, processed or manufactured, ANINDYA can certify their true intrinsic value via our independent inspection, sampling and testing. We have highly trained and experienced surveyors globally to intervene at major ports, mining sites, smelting and refining facilities. This is further supported by an independent network of testing laboratories.",
+            "col1": [
+                {
+                    "title": "Our Services",
+                    "val": [
+                        "Mineral Export Verification (LS)",
+                        "Stockpile Survey",
+                        "Stock and Warehouse Audits",
+                        "Sampling",
+                        "Loading and Discharging Survey",
+                        "Draft Surveys",
+                        "Precision Weighing by Weighbridge or High Precision Balances",
+                        "Representative Sampling",
+                        "Supervision of Loading and Discharge",
+                        "Vessel Hatch/Hold Inspection",
+                        "Third Party and Umpire Testing"
+                    ]
+                }
+            ],
+            "col2": [
+                {
+                    "title": "Laboratory Analysis",
+                    "val": [
+                        "Nickel Ore",
+                        "Iron Ore",
+                        "Bauxite",
+                        "Manganese Ore",
+                        "Galena Ore",
+                        "Zinc Concentrate",
+                        "Lead Concentrate",
+                        "Tin Ore",
+                        "Chrome Ore",
+                        "Copper Concentrate"
+                    ]
+                }
+            ],
+            "method": [
+                "astm",
+                "iso",
+                "gb",
+                "jis"
+            ],
+            "clients": [
+                "VDNI",
+                "SMI",
+                "BSI",
+                "YNI",
+                "YII",
+                "YII",
+                "Ifishco",
+                "Ranger",
+                "Walsin",
+                "Hengjaya",
+                "TSI",
+                "GAG",
+                "CLM"
+            ]
+        },
+        {
+            "name": "Sand Pebble Crushed Stone",
+            "subtitle": "Introducing the new division in ANINDYA, in responding to the country's rapid infrastructure development activities.",
+            "col1": [
+                {
+                    "title": "Our Services",
+                    "val": [
+                        "Load and Discharge Supervision",
+                        "Draft Survey",
+                        "Pit Sampling and Analysis",
+                        "Stockpile Sampling and Analysis",
+                        "Barge Sampling and Analysis",
+                        "Vessel Sampling and Analysis",
+                        "Rail Sampling and Analysis",
+                        "Cargo Condition"
+                    ]
+                }
+            ],
+            "col2": [
+                {
+                    "title": "Laboratory Testing Parameters",
+                    "val": [
+                        {
+                            "sub": "Crushed Stone for Construction",
+                            "val_sub": [
+                                "Size Analysis",
+                                "Clay Lumps and Friable Particles Content",
+                                "Elongated or Flat Particle",
+                                "Sulfide and Sulfate  Content",
+                                "Chloride Content"
+                            ]
+                        },
+                        {
+                            "sub": "Sand for Construction",
+                            "val_sub": [
+                                "Size Analysis",
+                                "Stone Powder Content",
+                                "Clay Lumps and Friable Particles Content",
+                                "Elongated or Flat Particle",
+                                "Organic Content",
+                                "Sulfide and Sulfate Content",
+                                "Chloride Content",
+                                "Mica Content",
+                                "Soundness",
+                                "Crushing Indicator",
+                                "Apparent Density",
+                                "Stacked Void Ratio",
+                                "Moisture Content",
+                                "Bulk Density"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "method": [],
+            "clients": []
         }
     ]
 }
