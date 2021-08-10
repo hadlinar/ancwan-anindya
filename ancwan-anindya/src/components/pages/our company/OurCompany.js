@@ -4,11 +4,13 @@ import { Row, Tabs, Tab } from 'react-bootstrap'
 import About from './About'
 import Branch from './Branch'
 import Licenses from './Licenses'
+import Navigation2 from '../../NavbarLayout2';
 
 function OurCompany() {
     return (
         <>
-            <div style={{maxWidth: "1440px", padding: "80px", margin: "auto", textAlign: "center"}}>
+            <Navigation2/>
+            <div style={{maxWidth: "1440px", padding: "110px 80px 80px 80px", margin: "auto", textAlign: "center"}}>
                 <h1>
                     {data.our_company}
                 </h1>

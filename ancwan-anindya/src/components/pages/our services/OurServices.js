@@ -3,11 +3,13 @@ import './OurServices.css'
 import data from '../../../data'
 import { Row, Tabs, Tab, Col } from 'react-bootstrap'
 import { Carousel } from '3d-react-carousal'
+import Navigation2 from '../../NavbarLayout2';
 
 function OurServices() {
     return (
         <>
-            <div style={{maxWidth: "1440px", padding: "80px", margin: "auto", textAlign: "center"}}>
+            <Navigation2/>
+            <div style={{maxWidth: "1440px", padding: "110px 80px 80px 80px", margin: "auto", textAlign: "center"}}>
                 <h1>
                     {data.our_services}
                 </h1>

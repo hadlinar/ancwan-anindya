@@ -1,31 +1,28 @@
 let data = {
     "navpath": [
-        {   
-            "key": 1,
+        {
             "name": "Home",
             "path": "/"
         },
         {
-            "key": 2,
             "name": "Our Service",
             "path": "/our-service"
         },
         {
-            "key": 3,
             "name": "VPTI",
             "path": "/vpti"
         },
         {
-            "key": 4,
             "name": "Our Company",
             "path": "/our-company"
         },
         {
-            "key": 5,
             "name": "Contact Us",
             "path": "/contact-us"
         },
     ],
+    "hero_title": "We are Anindya, an independent surveying company",
+    "hero_subtitle": "Our service network from branch, laboratory, and office to provide super services for our customers",
     "about":"We are an independent surveying company providing quality and quantity superintending services export import verification for government purpose.",
     "subabout":"Our service network from branch, laboratory, and office to provide superb services for our customers.",
     "values": [

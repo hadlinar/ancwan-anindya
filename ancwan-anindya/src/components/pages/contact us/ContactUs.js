@@ -1,11 +1,13 @@
 import React from 'react'
 import Offices from './Offices'
 // import FormMessage from './FormMessage'
+import Navigation2 from '../../NavbarLayout2';
 
 function ContactUs() {
     return (
         <>
-        <div style={{maxWidth: "1440px", margin: "auto"}}>
+        <Navigation2/>
+        <div style={{maxWidth: "1440px", margin: "auto", padding: "40px 0 0 0"}}>
             <Offices />
             </div>
             {/* <FormMessage /> */}

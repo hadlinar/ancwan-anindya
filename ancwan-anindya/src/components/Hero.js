@@ -2,20 +2,21 @@ import React from 'react'
 import '../App.css'
 import { Button } from './Button'
 import { Link } from 'react-router-dom'
+import data from '../data'
 import './HeroSection.css'
-// import { useTranslation } from "react-i18next";
+import { useTranslation } from "react-i18next";
 
-function HeroSection() {
+const Hero = () => {
     // const { t } = useTranslation()
     return (
         <div className="hero-container">
             {/* <video src="/videos/lalala" autoplay loop muted> */}
             {/* <h1>{t('hero_title')}</h1> */}
-            <h1>We are Anindya,</h1>
+            <h1>{data.hero_title}</h1>
             {/* <h1>{t('hero_title2')}</h1> */}
-            <h1>an independent surveying company</h1>
+            {/* <h1>an independent surveying company</h1> */}
             {/* <p>{t('hero_subtitle')}</p> */}
-            <p>Our service network from branch, laboratory, and office to provide super services for our customers</p>
+            <p>{data.hero_subtitle}</p>
             <div className="hero-btns">
                 <Link to='/our-company'>
                     <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
@@ -33,4 +34,4 @@ function HeroSection() {
     )
 }
 
-export default HeroSection
+export default Hero
