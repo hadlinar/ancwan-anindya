@@ -37,7 +37,8 @@
 .nav-tabs .nav-item.show .nav-link, 
 .nav-tabs .nav-link.active {
     color: #3A7AE3;
-    background-color: #F2F2F2;
+    background-color: #E0E0E0;
+    /* background-color: pink; */
     border-left: none;
     border-right: none;
     border-top: none;
@@ -51,21 +52,8 @@
     border-right: none;
     border-top: none;
     margin-bottom: 0;
+    background-color: #E0E0E0;
 }
-
-/* .tab-content {
-    width: 100%;
-    padding: 42px;
-    justify-content: center;
-    align-items: stretch;
-    display: block;
-    flex-wrap: nowrap;
-    margin-left: auto;
-    margin-right: auto;
-    background-color: yellow;
-    padding-left: auto;
-    padding-right: auto;
-} */
 
 .clients {
     padding: 10px;

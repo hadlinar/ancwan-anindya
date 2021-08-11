@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { Nav, Navbar } from 'react-bootstrap';
 import './Navbar.css';
 import logo from '../images/anindya-logo.png';
-import logoWhite from '../images/anindya-logo-white.png';
 import Toggle from '../components/Toggle'
 import data from '../data';
 

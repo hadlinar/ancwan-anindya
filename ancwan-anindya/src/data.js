@@ -72,21 +72,21 @@ let data = {
             "key": 4,
             "name":"Oil & Gas",
             "img":"oil-and-gas",
-            "label":"Oil and Gas",
+            "label":"Oil & Gas",
             "path": "/our-service"
         },
         {
             "key": 5,
             "name":"Agriculture & Food",
             "img":"agri",
-            "label":"Agriculture and Food",
+            "label":"Agriculture & Food",
             "path": "/our-service"
         },
         {
             "key": 6,
             "name":"Mineral & Water",
             "img":"mineral",
-            "label":"Mineral and Water",
+            "label":"Mineral & Water",
             "path": "/our-service"
         },
         {
