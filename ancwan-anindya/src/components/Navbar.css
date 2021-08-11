@@ -8,7 +8,7 @@
   font-weight: 600;
   
   --contentWidth: 1340px;
-  padding: 2rem max(2rem, 50vw - var(--contentWidth) / 2);
+  padding: 2rem calc((100% - var(--contentWidth)) / 2);
 }
 
 .logo {
