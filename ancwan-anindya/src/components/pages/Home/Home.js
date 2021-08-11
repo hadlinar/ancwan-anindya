@@ -1,16 +1,19 @@
 import React from 'react';
 import '../../../App.css'
-import HeroSection from '../../HeroSection'
+import Hero from '../../Hero'
 import About from './About'
 import OurService from './OurService';
 import Branch from './Branch';
 import Clients from './Clients';
 
+import Navigation from '../../Navbar';
+
 function Home () {
 
     return(
         <>
-            <HeroSection />
+            <Navigation />
+            <Hero />
             <div style={{maxWidth: "1440px", margin: "auto"}}>
                 <About />
             </div>

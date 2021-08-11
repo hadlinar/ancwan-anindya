@@ -1,21 +1,32 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
+import { useLocation } from "react-router-dom"
 import './OurServices.css'
 import data from '../../../data'
 import { Row, Tabs, Tab, Col } from 'react-bootstrap'
 import { Carousel } from '3d-react-carousal'
+import Navigation2 from '../../NavbarLayout2';
 
-function OurServices() {
+function OurServices(props) {
+    const { pathname } = useLocation()
+
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, [pathname])
+
+    const [key, setKey] = useState(props.location.search.substring(6))
+
     return (
         <>
-            <div style={{maxWidth: "1440px", padding: "80px", margin: "auto", textAlign: "center"}}>
+            <Navigation2/>
+            <div style={{maxWidth: "1440px", padding: "110px 80px 80px 80px", margin: "auto", textAlign: "center"}}>
                 <h1>
                     {data.our_services}
                 </h1>
                 <Row style={{paddingTop: "80px"}}>
-                    <Tabs defaultActiveKey="Coal" id="controlled-tab-example">
+                    <Tabs defaultActiveKey="Coal" activeKey={key === "" ? "Coal" : key} onSelect={(k) => setKey(k)}>
                         {data.service_val.map(item => {
                             return (
-                                <Tab eventKey={item.name} title={item.name} >
+                                <Tab eventKey={item.name} title={item.name}>
                                     <div className="slides-services">
                                         <Carousel slides={
                                             [

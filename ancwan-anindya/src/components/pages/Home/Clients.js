@@ -22,7 +22,7 @@ function Clients() {
                     </Row>
 
                     <Row>
-                        <Tabs defaultActiveKey="Coal" id="controlled-tab-example">
+                        <Tabs defaultActiveKey="Coal">
                             {data.clients && data.clients.map(item => {
                                 return (
                                     <Tab eventKey={item.name} title={item.name}>
