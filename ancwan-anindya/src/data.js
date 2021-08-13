@@ -244,25 +244,28 @@ let data = {
             "name":"Oil & Gas",
             "img": [
                 {
-                    "img": "dummy1"
+                    "img": "DCG"
                 },
                 {
-                    "img": "dummy2"
+                    "img": "ABS"
                 },
                 {
-                    "img": "dummy3"
+                    "img": "FJS"
                 },
                 {
-                    "img": "dummy4"
+                    "img": "BNP"
                 },
                 {
-                    "img": "dummy5"
+                    "img": "PC"
                 },
                 {
-                    "img": "dummy6"
+                    "img": "RBN"
                 },
                 {
-                    "img": "dummy7"
+                    "img": "MAP"
+                },
+                {
+                    "img": "DSI"
                 },
             ],
         },
@@ -2065,7 +2068,16 @@ let data = {
             ],
             "col2": [],
             "method": [],
-            "clients": []
+            "clients": [
+                "DCG",
+                "ABS",
+                "FJS",
+                "BNP",
+                "PC",
+                "RBN",
+                "MAP",
+                "DSI"
+            ]
         },
         {
             "name": "Agriculture & Food",
