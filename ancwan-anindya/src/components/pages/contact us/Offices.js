@@ -1,14 +1,26 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import './Offices.css'
 import data from '../../../data'
 import { Row, Col } from 'react-bootstrap'
+import { useTranslation } from "react-i18next";
 
 function Offices() {
+    const { t, i18n } = useTranslation()
+
+    useEffect(() => {
+        if(JSON.parse(localStorage.getItem('toggled')) === true) {
+            i18n.changeLanguage("id")
+        } else {
+            i18n.changeLanguage("en")
+        }
+
+    }, [i18n])
+
     return (
         <>
             <div className='container-office'>
                 <div className='border-title-office'/>
-                <h1 className='title-office'>Our Offices</h1>
+                <h1 className='title-office'>{t('our_offices')}</h1>
                 <div className='list-container'>
                 <Row md={3} className="list-office">
                         {data.our_offices.map(item => {

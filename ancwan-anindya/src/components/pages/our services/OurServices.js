@@ -5,13 +5,21 @@ import data from '../../../data'
 import { Row, Tabs, Tab, Col } from 'react-bootstrap'
 import { Carousel } from '3d-react-carousal'
 import Navigation2 from '../../NavbarLayout2';
+import { useTranslation } from "react-i18next";
 
 function OurServices(props) {
     const { pathname } = useLocation()
+    const { t, i18n } = useTranslation()
 
     useEffect(() => {
         window.scrollTo(0, 0);
-    }, [pathname])
+
+        if(JSON.parse(localStorage.getItem('toggled')) === true) {
+            i18n.changeLanguage("id")
+        } else {
+            i18n.changeLanguage("en")
+        }
+    }, [pathname, i18n])
 
     const [key, setKey] = useState(props.location.search.substring(6))
 
@@ -20,13 +28,13 @@ function OurServices(props) {
             <Navigation2/>
             <div style={{maxWidth: "1440px", padding: "110px 80px 80px 80px", margin: "auto", textAlign: "center"}}>
                 <h1>
-                    {data.our_services}
+                    {t('our_service')}
                 </h1>
                 <Row style={{paddingTop: "80px"}}>
-                    <Tabs defaultActiveKey="Coal" activeKey={key === "" ? "Coal" : key} onSelect={(k) => setKey(k)}>
-                        {data.service_val.map(item => {
+                    <Tabs activeKey={key === "" ? 1 : key} onSelect={(k) => setKey(k)}>
+                        {Array.from(data.service_val, (item , i) => {
                             return (
-                                <Tab eventKey={item.name} title={item.name}>
+                                <Tab eventKey={i+1} title={t(`service_val.${i}.name`)}>
                                     <div className="slides-services">
                                         <Carousel slides={
                                             [
@@ -38,25 +46,25 @@ function OurServices(props) {
                                     </div>
                                     <div>
                                         <p className="desc-our-service">
-                                            {item.subtitle}
+                                            {t(`service_val.${i}.subtitle`)}
                                         </p>
                                         <Row style={{paddingTop: "80px", margin: "auto"}}>
                                             {
-                                                item.name !== "Sand Pebble Crushed Stone" ? 
+                                                item.name !== "Sand Pebble & Crushed Stone" ? 
                                                 <>
                                                         <Col md={6} style={{paddingRight: "80px"}}>
                                                             <Row className="border-title-services"/>
-                                                            {item.col1.map(i => {
+                                                            { Array.from(item.col1, (e, index) => {
                                                                 return (
                                                                     <>
                                                                         <Row className="col-title">
-                                                                            {i.title}
+                                                                            {t(`service_val.${i}.col1.${index}.title`)}
                                                                         </Row>
                                                                         <Row>
                                                                             <ol className="list_">
-                                                                                {i.val.map(isi => {
+                                                                                { Array.from(e.val, (isi, ind) => {
                                                                                     return(
-                                                                                        <li>{isi}</li>
+                                                                                        <li>{t(`service_val.${i}.col1.${index}.val.${ind}`)}</li>
                                                                                     )
                                                                                 })}
                                                                             </ol>
@@ -69,21 +77,20 @@ function OurServices(props) {
                                                             {
                                                                 item.col2.length !== 0 ? 
                                                                 <>
-                                                                    {console.log(Array.isArray(item.col2))}
                                                                     <Row className="border-title-services"/>
-                                                                    {item.col2.map(i => {
+                                                                    {Array.from(item.col2, (e, index) => {
                                                                         return (
                                                                             <>
                                                                                 <Row className="col-title">
-                                                                                    {i.title}
+                                                                                    {t(`service_val.${i}.col2.${index}.title`)}
                                                                                 </Row>
                                                                                 <Row>
                                                                                     <ol className="list_">
-                                                                                        {i.val.map(isi => {
-                                                                                            return(
-                                                                                                <li>{isi}</li>
-                                                                                            )
-                                                                                        })}
+                                                                                    { Array.from(e.val, (isi, ind) => {
+                                                                                        return(
+                                                                                            <li>{t(`service_val.${i}.col2.${index}.val.${ind}`)}</li>
+                                                                                        )
+                                                                                    })}
                                                                                     </ol>
                                                                                 </Row>
                                                                             </>
@@ -97,17 +104,17 @@ function OurServices(props) {
                                                 <>
                                                     <Col md={4}>
                                                         <Row className="border-title-services"/>
-                                                        {item.col1.map(i => {
+                                                        {Array.from(item.col1, (e, index) => {
                                                             return (
                                                                 <>
                                                                     <Row className="col-title">
-                                                                        {i.title}
+                                                                        {t(`service_val.${i}.col1.${index}.title`)}
                                                                     </Row>
                                                                     <Row>
                                                                         <ol className="list_">
-                                                                            {i.val.map(isi => {
+                                                                            { Array.from(e.val, (isi, ind) => {
                                                                                 return(
-                                                                                    <li>{isi}</li>
+                                                                                    <li>{t(`service_val.${i}.col1.${index}.val.${ind}`)}</li>
                                                                                 )
                                                                             })}
                                                                         </ol>
@@ -118,21 +125,24 @@ function OurServices(props) {
                                                     </Col>
                                                     <Col md={8}>
                                                             <Row className="border-title-services"/>
-                                                            {item.col2.map(i => {
+                                                            {Array.from(item.col2, (item, index) => {
                                                                 return (
                                                                     <>
                                                                         <Row className="col-title">
-                                                                            {i.title}
+                                                                            {t(`service_val.${i}.col2.${index}.title`)}
                                                                         </Row>
                                                                         <Row>
-                                                                            {i.val.map(isi => {
+                                                                            {
+                                                                            // i.val.map(isi => {
+                                                                                Array.from(item.val, (item_val, idx) => {
                                                                                 return(
                                                                                     <Col>
-                                                                                        <div style={{fontWeight: "600", textAlign: "left"}}>{isi.sub}</div>
+                                                                                        <div style={{fontWeight: "600", textAlign: "left"}}>{t(`service_val.${i}.col2.${index}.val.${idx}.sub`)}</div>
                                                                                         <ol className="list_">
-                                                                                            {isi.val_sub.map(val_sub => {
+                                                                                            {
+                                                                                                Array.from(item_val.val_sub, (item_sub_val, ind) => {
                                                                                                 return (
-                                                                                                    <li>{val_sub}</li>
+                                                                                                    <li>{t(`service_val.${i}.col2.${index}.val.${idx}.val_sub.${ind}`)}</li>
                                                                                                 )
                                                                                             })}
                                                                                         </ol>
@@ -151,7 +161,7 @@ function OurServices(props) {
                                             <Row style={{paddingTop: "40px", margin: "auto"}}>
                                                 <Row className="border-title-services"/>
                                                 <Row className="col-title" style={{width: "100%"}}>
-                                                    Methodologies
+                                                    {t('methodologies')}
                                                 </Row>
                                                 <Row style={{margin: "auto"}}>
                                                     {item.method.map(i => {
@@ -168,7 +178,7 @@ function OurServices(props) {
                                             <Row style={{paddingTop: "40px", margin: "auto"}}>
                                                 <Row className="border-title-services"/>
                                                 <Row className="col-title" style={{width: "100%"}}>
-                                                    Clients
+                                                    {t('client')}
                                                 </Row>
                                                 <Row style={{margin: "auto"}}>
                                                     {item.clients.map((item2,i) => {

@@ -1,0 +1,917 @@
+{
+    "navpath": [
+        {
+            "name": "Beranda",
+            "path": "/"
+        },
+        {
+            "name": "Layanan Kami",
+            "path": "/our-service"
+        },
+        {
+            "name": "VPTI",
+            "path": "/vpti"
+        },
+        {
+            "name": "Perusahaan Kami",
+            "path": "/our-company"
+        },
+        {
+            "name": "Hubungi Kami",
+            "path": "/contact-us"
+        }
+    ],
+    "hero_title": "Kami Anindya,",
+    "hero_title2": "sebuah perusahaan survei independen",
+    "hero_subtitle": "Jaringan layanan kami dari cabang, laboratorium, dan kantor untuk memberikan layanan super bagi pelanggan kami",
+    "about_anindya": "Tentang Anindya",
+    "about_vpti": "Tentang VPTI",
+
+    "about": "Kami adalah perusahaan survey independen yang menyediakan jasa pengawasan kualitas dan kuantitas verifikasi ekspor impor untuk keperluan pemerintah.",
+    "subabout": "Jaringan layanan kami dari cabang, laboratorium, dan kantor untuk memberikan layanan yang luar biasa bagi pelanggan kami.",
+    "values": [
+        {
+            "key": 1,
+            "val":"Ketepatan"
+        },
+        {
+            "key": 2,
+            "val":"Kualitas"
+        },
+        {
+            "key": 3,
+            "val":"Tepat waktu"
+        }
+    ],
+    "our_service_title": "Layanan Kami",
+    "services": [
+        {
+            "key": 0,
+            "name":"VPTI",
+            "img":"vpti",
+            "label":"VPTI",
+            "path": "/vpti"
+        },
+        {
+            "key": 1,
+            "name":"Batubara",
+            "img":"coal-id",
+            "label":"Batubara",
+            "path": "/our-service"
+        },
+        {
+            "key": 2,
+            "name":"Survei Kapal Laut",
+            "img":"marine-id",
+            "label":"Survei Kapal Laut",
+            "path": "/our-service"
+        },
+        {
+            "key": 3,
+            "name":"Minyak & Gas",
+            "img":"oil-and-gas-id",
+            "label":"Minyak & Gas",
+            "path": "/our-service"
+        },
+        {
+            "key": 4,
+            "name":"Pertanian & Makanan",
+            "img":"agri-id",
+            "label":"Pertanian & Makanan",
+            "path": "/our-service"
+        },
+        {
+            "key": 5,
+            "name":"Mineral & Air",
+            "img":"mineral-id",
+            "label":"Mineral & Air",
+            "path": "/our-service"
+        },
+        {
+            "key": 6,
+            "name":"Pasir Kerikil & Pecahan Batu",
+            "img":"sand-id",
+            "label":"Pasir Kerikil & Pecahan Batu",
+            "path": "/our-service"
+        }
+    ],
+    "branch_office": "Kantor Cabang & Perwakilan",
+    "branch": "Anindya memiliki kantor cabang dan laboratorium yang terdapat di banyak lokasi strategis di seluruh Indonesia. Dalam memberikan pelayanan untuk klien internasional, ANINDYA juga memiliki kantor di beberapa negara yaitu Cina, India, Singapura, Banglades, dan Vietnam.",
+    "location_in_indonesia": "Lokasi di Indonesia",
+    "lab_around_the_world": "Laboratorium di Seluruh Dunia",
+    "location_in_overseas": "Lokasi di Luar Negeri",
+    "our_client": "Klien Kami",
+    "default_key_coal": "Batubara",
+    "clients": [
+        {
+            "name":"Batubara",
+            "img": [
+                {
+                    "img": "Borneo Indobara"
+                },
+                {
+                    "img": "Kideco"
+                },
+                {
+                    "img": "Jembayan"
+                },
+                {
+                    "img": "Adani"
+                },
+                {
+                    "img": "Tamtama"
+                },
+                {
+                    "img": "SGE"
+                },
+                {
+                    "img": "BSSR"
+                },
+                {
+                    "img": "BRE"
+                },
+                {
+                    "img": "RLK"
+                },
+                {
+                    "img": "Equentia"
+                },
+                {
+                    "img": "PKN"
+                },
+                {
+                    "img": "ABP"
+                },
+                {
+                    "img": "MEK"
+                },
+                {
+                    "img": "BMB"
+                },
+                {
+                    "img": "KJB"
+                },
+                {
+                    "img": "Titan"
+                }
+            ]
+        },
+        {
+            "name":"Survei Kapal Laut",
+            "img": [
+                {
+                    "img": "SIT"
+                },
+                {
+                    "img": "AKR"
+                },
+                {
+                    "img": "Alexindo"
+                },
+                {
+                    "img": "Duta Marine"
+                },
+                {
+                    "img": "Figar"
+                },
+                {
+                    "img": "Holcim"
+                },
+                {
+                    "img": "Indocement"
+                },
+                {
+                    "img": "Lafarge"
+                },
+                {
+                    "img": "Victoria"
+                },
+                {
+                    "img": "Seapol"
+                },
+                {
+                    "img": "SLM"
+                },
+                {
+                    "img": "SBA"
+                },
+                {
+                    "img": "SBI"
+                },
+                {
+                    "img": "Trubaindo"
+                },
+                {
+                    "img": "HTK"
+                },
+                {
+                    "img": "Cotecna"
+                },
+                {
+                    "img": "DBS"
+                },
+                {
+                    "img": "Watama"
+                },
+                {
+                    "img": "MSD"
+                }
+            ]
+        },
+        {
+            "name":"Minyak & Gas",
+            "img": [
+                {
+                    "img": "DCG"
+                },
+                {
+                    "img": "ABS"
+                },
+                {
+                    "img": "FJS"
+                },
+                {
+                    "img": "BNP"
+                },
+                {
+                    "img": "PC"
+                },
+                {
+                    "img": "RBN"
+                },
+                {
+                    "img": "MAP"
+                },
+                {
+                    "img": "DSI"
+                }
+            ]
+        },
+        {
+            "name":"Mineral & Air",
+            "img": [
+                {
+                    "img": "VDNI"
+                },
+                {
+                    "img": "SMI"
+                },
+                {
+                    "img": "BSI"
+                },
+                {
+                    "img": "YNI"
+                },
+                {
+                    "img": "YII"
+                },
+                {
+                    "img": "YII"
+                },
+                {
+                    "img": "Ifishco"
+                },
+                {
+                    "img": "Ranger"
+                },
+                {
+                    "img": "Walsin"
+                },
+                {
+                    "img": "Hengjaya"
+                },
+                {
+                    "img": "TSI"
+                },
+                {
+                    "img": "GAG"
+                },
+                {
+                    "img": "CLM"
+                }
+            ]
+        }
+    ],
+
+
+
+    "our_service": "Memberikan jasa pengawasan kualitas dan kuantitas untuk industri batubara dan mineral, sektor minyak dan gas serta survei kapal laut",
+    "service_val": [
+        {
+            "name": "Batubara",
+            "subtitle": "Penganalisan batubara dalam proses produksi dan distribusi harus dilakukan dengan perhatian penuh terhadap akurasi dan metode terbaik. Seluruh fasilitas laboratorium terakreditasi kami dan ahli menawarkan sertifikasi kualitas terpercaya untuk inspeksi dan pengujian batubara.",
+            "col1": [
+                {
+                    "title": "Layanan Tambang dan Geologis",
+                    "val": [
+                        "Laporan Verifikasi untuk Keperluan Pemerintah (LHV & LS)",
+                        "Supervisi Bongkar dan Muat",
+                        "Survei Draf",
+                        "Kondisi dan Kesiapan Kargo",
+                        "Analisis Laboratorium",
+                        "Pergudangan dan Stok",
+                        "Analisis Sampel",
+                        "Ruang Kargo dan Kebersihan",
+                        "Pengukuran Persediaan Stockpile",
+                        "Pra-Pengiriman",
+                        "Bias Testing",
+                        "Temperatur Kargo",
+                        "Laporan Verifikasi atas Penyesuaian Harga dan Sertifikat Jarak Transportasi (LHV BP  & SAJ)",
+                        "Quality Control Management System",
+                        "Core Sampling",
+                        "Exploration JORC",
+                        "Pit Sampling",
+                        "Channel Sampling",
+                        "Due Diligence",
+                        "General Survey",
+                        "Geological Mapping",
+                        "Feasibility Study Stage"
+                    ]
+                }
+            ],
+            "col2": [
+                {
+                    "title": "Analisis Laboratorium",
+                    "val": [
+                        "Total Moisture",
+                        "Calorific Value",
+                        "Form of Sulphur",
+                        "Hardgrove Grindability Index",
+                        "Size Analysis",
+                        "Trace Elements (As, Se, Cl, F, P, Hg)",
+                        "Relative Density",
+                        "Ash Analysis",
+                        "Ash Fusion Temperature",
+                        "Crucible Swelling Number",
+                        "Light Transmittance",
+                        "Radioactivity",
+                        "G Value",
+                        "Plastometric Index (Y Value & X Value)",
+                        "Transmittance Value",
+                        "TML Testing",
+                        "Mechanical Strength of Coke",
+                        "Coke Re-Activity",
+                        "Post-Reaction Strength of Coke"
+                    ]
+                }
+            ],
+            "method": [
+                "astm",
+                "iso",
+                "standards-australia",
+                "gb"
+            ],
+            "clients" : [
+                "Borneo Indobara",
+                "Kideco",
+                "Jembayan",
+                "Adani",
+                "Tamtama",
+                "SGE",
+                "BSSR",
+                "BRE",
+                "RLK",
+                "Equentia",
+                "PKN",
+                "ABP",
+                "MEK",
+                "BMB",
+                "KJB",
+                "Titan"
+            ]
+        },
+        {
+            "name": "Survei Kapal Laut",
+            "subtitle": "Inspeksi, surveI, atau pemeriksaan dari kapal laut untuk menilai, memantau dan melaporkan kondisi kapal dan produknya, juga untuk menyelidiki penyebab kerusakan baik dari kapal maupun kargo. ANINDYA beroperasi selama 24/7 dan telah berinvestasi dalam kumpulan surveyor ahli yang signifikan sehingga siap secara operasional dalam waktu singkat. Dengan dukungan dari staf teknisi yang berpengalaman, kami dapat membantu customers dalam saksi ahli atau melakukan tugas dalam kasus hukum, sengketa, dan klaim apa pun.",
+            "col1": [
+                {
+                    "title": "Survei Teknis",
+                    "val": [
+                        "Survei Kondisi Kapal",
+                        "Kebersihan Ruang Kargo",
+                        "Survei Bunker",
+                        "On / Of-hire Survey",
+                        "Survei Towing",
+                        "Survei Penyelidikan dan Kerusakan",
+                        "Uji Coba Konsumsi Bahan Bakar",
+                        "P&l Pre-entry Condition Survey"
+                    ]
+                }
+            ],
+            "col2": [
+                {
+                    "title": "Survei Kargo",
+                    "val": [
+                        "Survei Penghitungan dan Kondisi",
+                        "Menimbang dan Mengukur",
+                        "Stuffing & Unstuffing",
+                        "Loading & Unloading Survey",
+                        "Draf Survei",
+                        "Pre-shipment Survey",
+                        "Survei Kerusakan Kargo dan Sampling"
+                    ]
+                }
+            ],
+            "method": [],
+            "clients": [
+                "SIT",
+                "AKR",
+                "Alexindo",
+                "Duta Marine",
+                "Figar",
+                "Holcim",
+                "Indocement",
+                "Lafarge",
+                "Victoria",
+                "Seapol",
+                "SLM",
+                "SBA",
+                "SBI",
+                "Trubaindo",
+                "HTK",
+                "Cotecna",
+                "DBS",
+                "Watama",
+                "MSD"
+            ]
+        },
+        {
+            "name": "Minyak & Gas",
+            "subtitle": "ANINDYA menawarkan berbagai inspeksi, survei, uji coba, kontrol, kolaborasi, dan layanan lainnya untuk industri minyak dan gas. ANINDYA memiliki tim inspektur, surveyor, ahli kimia, dan teknisi yang sangat terampil yang dapat memberikan kualitas dan layanan yang tepat waktu untuk kebutuhan Anda.",
+            "col1": [
+                {
+                    "title": "Survei Teknis",
+                    "val": [
+                        "Inspeksi Minyak Bumi dan Minyak Mentah",
+                        "Uji kualitas untuk minyak mentah, minyak bumi, gas, dan kemikal",
+                        "Expediting services",
+                        "Blending expertise",
+                        "Cargo treatment",
+                        "PengelolaanvJaminan dan Pergudangan",
+                        "Pemantauan Kondisi Oli dan Lubrikan Bekas"
+                    ]
+                }
+            ],
+            "col2": [],
+            "method": [],
+            "clients": [
+                "DCG",
+                "ABS",
+                "FJS",
+                "BNP",
+                "PC",
+                "RBN",
+                "MAP",
+                "DSI"
+            ]
+        },
+        {
+            "name": "Pertanian & Makanan",
+            "subtitle": "Pertanian dan makanan dapat dikatakan industri yang paling penting di dunia. Konsumen menginginkan jaminan dari keamanan dan kualitas pada setiap prosesnya. Kami mengoperasikan setiap tahapan dalam perjalanan produk pertanian dan makanan.",
+            "col1": [
+                {
+                    "title": "Layanan Kami",
+                    "val": [
+                        "Inspeksi Kebersihan Produk Pertanian dan Makanan",
+                        "Manajemen Jaminan dan Pergudangan",
+                        "Pengasapan",
+                        "Penimbangan dan Pengambilan Sampel",
+                        "Supervisi Bongkar dan Muat",
+                        "Uji Coba dan Analisa"
+                    ]
+                }
+            ],
+            "col2": [],
+            "method": [],
+            "clients": []
+        },
+        {
+            "name": "Mineral & Air",
+            "subtitle": "Dari eksplorasi tambang hingga pengiriman ekspor, ANINDYA menyediakan layanan uji coba mineral, inspeksi, asuransi dan sertifikasi servis untuk mendukung aktivitas pertambangan di seluruh dunia. Segala jenis mineral, baik ditambang, diproses, ataupun diproduksi, ANINDYA dapat menyertakan nilai intrinsik melalui inspeksi independen kami, sampel, dan uji coba. Kami telah memiliki surveyor yang sangat terlatih dan berpengalaman secara global untuk melakukan intervensi di pelabuhan utama, lokasi penambangan, fasilitas peleburan, dan pemurnian yang didukung oleh independen laboratorium uji coba.",
+            "col1": [
+                {
+                    "title": "Layanan Kami",
+                    "val": [
+                        "Verifikasi Ekspor Mineral (LS)",
+                        "Survei Stockpile",
+                        "Audit Stok dan Gudang",
+                        "Pengambilan Sampel",
+                        "Survei Bongkar dan Muat",
+                        "Survei Draf",
+                        "Penimbangan Presisi dengan Jembatan Timbang & Keseimbangan Presisi",
+                        "Representative Sampling",
+                        "Supervisi Bongkar dan Muat",
+                        "Vessel Hatch / Hold Inspection",
+                        "Uji Coba Pihak Ketiga"
+                    ]
+                }
+            ],
+            "col2": [
+                {
+                    "title": "Analisis Laboratorium",
+                    "val": [
+                        "Nickel Ore",
+                        "Iron Ore",
+                        "Bauxite",
+                        "Manganese Ore",
+                        "Galena Ore",
+                        "Zinc Concentrate",
+                        "Lead Concentrate",
+                        "Tin Ore",
+                        "Chrome Ore",
+                        "Copper Concentrate"
+                    ]
+                }
+            ],
+            "method": [
+                "astm",
+                "iso",
+                "gb",
+                "jis"
+            ],
+            "clients": [
+                "VDNI",
+                "SMI",
+                "BSI",
+                "YNI",
+                "YII",
+                "YII",
+                "Ifishco",
+                "Ranger",
+                "Walsin",
+                "Hengjaya",
+                "TSI",
+                "GAG",
+                "CLM"
+            ]
+        },
+        {
+            "name": "Pasir Kerikil & Pecahan Batu",
+            "subtitle": "Memperkenalkan divisi baru di ANINDYA, dalam merespon kegiatan pembangunan infrastruktur negara yang pesat.",
+            "col1": [
+                {
+                    "title": "Layanan Kami",
+                    "val": [
+                        "Supervisi Bongkar dan Muat",
+                        "Survei Draf",
+                        "Pengambilan Sampel Pit dan Analisis",
+                        "Pengambilan Sampel Stockpile dan Analisis",
+                        "Pengambilan Sampel Tongkang dan Analisis",
+                        "Pengambilan Sampel Kapal dan Analisis",
+                        "Pengambilan Sampel Rel dan Analisis",
+                        "Kondisi Kargo"
+                    ]
+                }
+            ],
+            "col2": [
+                {
+                    "title": "Parameter Uji Coba Laboratorium",
+                    "val": [
+                        {
+                            "sub": "Pecahan Batu untuk Konstruksi",
+                            "val_sub": [
+                                "Analisis Ukuran",
+                                "Gumpalan Tanah Liat dan Komponen Partikel Rapuh",
+                                "Partikel Memanjang dan Mendatar",
+                                "Kandungan Sulfida dan Sulfit",
+                                "Kandungan Klorida",
+                                "Kekuatan",
+                                "Indikator Penghancuran",
+                                "Apparent Density",
+                                "Rasio Kekosongan Bertumpuk",
+                                "Tingkat Penyerapan Air",
+                                "Kadar Air",
+                                "Bulk Density"
+                            ]
+                        },
+                        {
+                            "sub": "Pasir untuk Konstruksi",
+                            "val_sub": [
+                                "Analisis Ukuran",
+                                "Kandungan Bubuk Batu",
+                                "Gumpalan Tanah Liat dan Komponen Partikel Rapuh",
+                                "Partikel Memanjang dan Mendatar",
+                                "Kandungan Organik",
+                                "Kandungan Sulfida dan Sulfit",
+                                "Kandungan Klorida",
+                                "Kandungan Mika",
+                                "Kekuatan",
+                                "Indikator Penghancuran",
+                                "Apparent Density",
+                                "Rasio Kekosongan Bertumpuk",
+                                "Kadar Air",
+                                "Bulk Density"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "method": [],
+            "clients": []
+        }
+    ],
+    "methodologies": "Metodologi",
+    "client": "Klien",
+
+
+    "anindya_vpti_system": "Sistem VPTI ANINDYA",
+    "sub_vpti": "Cabang, laboratorium, dan kantor yang tersebar di berbagai lokasi strategis untuk memberikan layanan terbaik bagi pelanggan kami",
+    "login": "MASUK SISTEM VPTI",
+    "desc_vpti": "Mulai tahun 2019, ANINDYA, telah ditunjuk oleh Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia untuk mengatur pelaksanaan verifikasi dari beberapa komoditi yang di impor.",
+    "flow_vpti": "Alur VPTI",
+    "desc_flow": "Mulai tahun 2019, ANINDYA, telah ditunjuk oleh Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia untuk mengatur pelaksanaan verifikasi dari beberapa komoditi yang di impor.",
+    "import_verif": "Verifikasi Impor",
+
+
+    "our_company": "One stop authorized mining-related trading certification & verfification services",
+    "about_our_company": "Tentang Perusahaan Kami",
+    "branches": "Cabang Indonesia",
+    "licenses_tab": "Lisensi & Sertifikasi",
+    "desc_about_us": "ANINDYA berdiri di Bandung pada Agustus 1982, merupakan perusahaan survei independen yang memberikan layanan pengawasan kualitas dan kuantitas untuk industri batubara dan mineral, sektor minyak dan gas, begitu juga survei kapal laut. ANINDYA juga mendapatkan izin dari Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia, untuk dapat melakukan verifikasi barang impor di beberapa komoditi seperti besi baja, makanan minuman, obat tradisional, mainan anak, sepatu, pakaian jadi, elektronik, dll. Anindya memiliki kantor cabang dan laboratorium yang terdapat di banyak lokasi strategis di seluruh Indonesia. Dalam memberikan pelayanan untuk klien internasional, ANINDYA juga memiliki kantor di beberapa negara yaitu Cina, India, Singapura, Banglades, dan Vietnam.",
+    "vission": "Visi",
+    "mission": "Misi",
+    "membership": "Keanggotaan & Asosiasi",
+    "vission_company": "Percaya diri untuk menjadi salah satu perusahaan survei independen terbesar di Indonesia yang mampu memberikan layanan terbaik kepada pelanggan kami.",
+    "mission_company": "Memastikan konsumen kami puas dengan layanan kami dengan memberikan layanan secara akurat, profesional, dan tepat waktu. Memberikan jasa pengawasan kualitas dan kuantitas untuk industri batubara, mineral, survei kelautan, serta minyak dan gas bumi dengan budaya kerja profesional yang didukung oleh sumber daya yang berkompeten dengan integritas yang tinggi.",
+    "branches_our_company": [
+        {
+            "location": "Bandung",
+            "type": "Kantor Utama",
+            "address": [
+                {
+                    "name": "JI. Buah Batu No. 43 Lt. 2",
+                    "district": "Kel. Malabar, Kec. Lengkong, Bandung, Jawa Barat 40262",
+                    "province": "(+62 22) 87346430",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Banjarbaru",
+            "type": "Kantor",
+            "address": [
+                {
+                    "name": "Jl. Ahmad Yani KM 22.7 RT 02/RW 01",
+                    "district": "Kel. Landasan Ulin Tengah, Kec. Liang Anggang, Banjarbaru, Kalimantan Selatan 70722",
+                    "province": "",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Banjarbaru",
+            "type": "Laboratorium",
+            "address": [
+                {
+                    "name": "Jl. Ahmad Yani KM 21 RT 02/RW 02",
+                    "district": "Kel. Landasan Ulin Tengah, Kec. Liang Anggang, Banjarbaru, Kalimantan Selatan 70722",
+                    "province": "(+62 511)4706093",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Bara Tabang",
+            "type": "Kantor",
+            "address": [
+                {
+                    "name": "Senyiur KM 00 Jetty PT Bayan Resources Tbk",
+                    "district": "Desa Senyiur, Kec. Muara Ancalong, Kab. Kutai Timur, Kalimantan Timur 75656",
+                    "province": "",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Batam",
+            "type": "Kantor",
+            "address": [
+                {
+                    "name": "Taman Golf Residence II Blok R1 No. 32",
+                    "district": "Kel. Sukajadi, Kec. Batam Kota, Batam, Kepulauan Riau 29444",
+                    "province": "",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Batulicin",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "JI. Transmigrasi KM 3,5",
+                    "district": "Kel. Barokah, Kec. Simpang Empat Batulicin, Kab. Tanah Bumbu, Kalimantan Selatan 72213",
+                    "province": "(+62 518) 75638",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Berau",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "JI. H.A.R.M Ayoeb RT 13 Gg. Rahmad No. 2",
+                    "district": "Kel. Gunung Tabur, Kec. Gunung Tabur, Kab. Berau, Kalimantan Timur 77352",
+                    "province": "",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Cikarang",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "Kawasan Industri Delta Silikon 3 Lippo Cikarang",
+                    "district": "Jl. Rotan Blok F 27 No. 23 C",
+                    "province": "Kel. Cicau, Kec. Cikarang Pusat, Kab. Bekasi, Jawa Barat 17531",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Jakarta",
+            "type": "Kantor Pusat",
+            "address": [
+                {
+                    "name": "Springhill Office Tower 17 th & 18th Floor",
+                    "district": "Jl. H. Benyamin Suaeb Ruas D7  Block D6, Pademangan Timur, Jakarta Utara 14410",
+                    "province": "(+62 21) 2260 6207",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Jambi",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "JI. Abdul Rahman Saleh No. 8",
+                    "district": "Kel. The Hok, Kec. Jambi Selatan, Jambi 36138",
+                    "province": "(+62 741) 572805",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Kendari",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "JI. Poros Bandara Haluoleo",
+                    "district": "Desa Onewila, Kec. Ranomeeto Kab. Konawe Selatan, Sulawesi Tenggara 93372",
+                    "province": "",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Palembang",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "Komp. Pergudangan Sukarame Blok D No. 9",
+                    "district": "JI. Tembus Terminal",
+                    "province": "Kel Talang Kelapa, Kec. Alang-Alang Lebar, Palembang, Sumatera Selatan 30151",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Pontianak",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "JI. Arteri Supadio Gg. Anyar RT 07 RW 10",
+                    "district": "Desa Arang Limbung, Kec. Sungai Raya, Pontianak, Kalimantan Barat 78391",
+                    "province": "",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Samarinda",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "JI. KH. Harun Nafsi No. 56",
+                    "district": "Kel. Rapak Dalam, Kec. Loa Janan llir, Samarinda, Kalimantan Timur 75131",
+                    "province": "(+62 541) 7269686, Fax: (+62 541) 7269705",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Tamiang Layang",
+            "type": "Kantor",
+            "address": [
+                {
+                    "name": "JI. Tumpa Dayu RT 11",
+                    "district": "Desa Tamiang Layang, Kec. Dusun Timur, Kab. Barito Timur, Kalimantan Tengah 73617",
+                    "province": "(+62 526) 2091361",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Tarakan",
+            "type": "Kantor",
+            "address": [   
+                {
+                    "name": "JI. Flamboyan No. 57 RT 27",
+                    "district": "Kel. Karang Anyar, Kec. Tarakan Barat, Tarakan, Kalimantan Utara 77111",
+                    "province": "(+62 511) 25210",
+                    "phone": ""
+                }
+            ]
+        }
+    ],
+    "licenses": "Lisensi yang diberikan oleh Republik Indonesia",
+    "licenses_desc": "ANINDYA telah sesuai dengan ketentuan pemerintah dengan mendapatkan beberapa lisensi.",
+    "licenses_tab1": {
+        "name": "Verifikasi Impor Komoditas (Laporan Surveyor)",
+        "title": "KEMENTERIAN PERDAGANGAN REPUBLIK INDONESIA",
+        "val": [
+            "Produk Tertentu: No. 782/2019",
+            "Besi, Baja dan Produk Turunannya: No. 781/2019",
+            "Ban: No. 365/2020",
+            "Telepon Seluler, Komputer Genggam (Hand Held), dan Komputer Tablet: No. 366/2020",
+            "Mesin Multifungsi Berwarna, Mesin Fotokopi Berwarna, dan Mesin Printer Berwarna: No. 367/2020",
+            "Barang Berbasis Sistem Pendingin: NO. 421/2020",
+            "Alas Kaki, Elektronika, Sepeda Roda Dua dan Roda Tiga: No. 1067/2020",
+            "Barang Modal Tidak Baru: No. 1087/2020",
+            "Keramik: No. 778/2021",
+            "Hortikultura: No. 779/2021",
+            "Prekurso: No. 780/2021"
+        ]
+    },
+    "licenses_tab2": {
+        "name": "Analisis Kualitas dan Verifikasi Kuantitas untuk Perdagangan Batubara",
+        "title": "DIREKTORAT JENDERAL MINERAL DAN BATUBARA - ESDM",
+        "val": [
+            "No. 1029.K/30/DJB/2014"
+        ]
+    },
+    "licenses_tab3": {
+        "name": "Verifikasi Eksport (Laporan Surveyor)",
+        "title": "KEMENTERIAN PERDAGANGAN REPUBLIK INDONESIA",
+        "val": [
+            "Batubara: No. 780/M-DAG/KEP/6/2017",
+            "Mineral: No. 558 TAHUN 2020"
+
+        ]
+    },
+    "certification": "Akreditasi & Sertifikasi",
+    "certification_desc": "ANINDYA telah memperoleh akreditasi laboratorium pengujian dan kalibrasi untuk pemeriksaan oleh KAN (Komite Akreditasi Nasional) dan juga telah mendapatkan sertifikasi sistem manajemen kualitas, lingkungan, kesehatan, dan sistem manajemen keamanan oleh Bureau Veritas.",
+    "certification_tab1": {
+        "name": "KAN (Komite Akreditasi Nasional)",
+        "desc": [
+            {
+                "no": "SNIISO/IEC 17020: 2012",
+                "detail": "Accreditation for Inspection Body No. LI-084-IDN"
+            },
+            {
+                "no": "SNI ISO/IEC 17025: 2017",
+                "detail": "Accreditation for Testing Laboratory "
+            }
+        ],
+        "val": [
+            "No. LP-844-IDN PT Anindya Wiraputra Konsult Banjarbaru",
+            "No. LP-882-IDN PT Anindya Wiraputra Konsult Samarinda",
+            "No. LP-955-IDN PT Anindya Wiraputra Konsult Baratabang",
+            "No. LP-1328-IDN PT Anindya Wiraputra Konsult Palembang",
+            "No. LP-1357-IDN PT Anindya Wiraputra Konsult Kendari",
+            "No. LP-1420-IDN PT Anindya Wiraputra Konsult Berau",
+            "No. LP-1421-IDN PT Anindya Wiraputra Konsult Cikarang",
+            "No. LP-1468-IDN PT Anindya Wiraputra Konsult Pontianak"
+        ]
+    },
+    "certification_tab2": {
+        "name": "Bureau Veritas",
+        "desc": [
+            {
+                "no": "ISO 9001:2015",
+                "detail": "Certification for Quality Management Systems: No. ID003510",
+                "detail2": ""
+            },
+            {
+                "no": "ISO 14001: 2015",
+                "detail": "Certification for Environmental Management Systems: No. ID003511",
+                "detail2": ""
+            },
+            {
+                "no": "ISO 45001: 2018",
+                "detail": "Certification for Occupational Health and Safety Management",
+                "detail2": "Systems: No. ID003741"
+            }
+        ],
+        "val": []
+    },
+    "our_offices": "Kantor Kami",
+
+
+    "desc_footer_top": "Perusahaan survei independen yang memberikan layanan pengawasan kualitas dan kuantitas untuk industri batubara dan mineral, sektor minyak dan gas, serta survei kapal laut.",
+    "desc_footer_bottom": "Telah mendapatkan izin dari Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia, untuk dapat melakukan verifikasi barang impor di beberapa komoditi.",
+    "hq": "Kantor Pusat Kami"
+}

@@ -3,17 +3,19 @@ import '../../../App.css'
 import { Button } from '../../Button'
 import { Link } from 'react-router-dom'
 import './HeroSection.css'
+import { useTranslation } from "react-i18next";
 
 function HeroSectionVpti() {
+    const { t } = useTranslation()
 
     return (
         <div className="hero-container-vpti">
-            <h1>ANINDYA VPTI System</h1>
-            <p>Our service network from branch, laboratory, and office to provide super services for our customers</p>
+            <h1>{t('anindya_vpti_system')}</h1>
+            <p>{t('sub_vpti')}</p>
             <div className="hero-btns">
                 <Link to={{ pathname: "https://avs.anindya.biz/" }} target="_blank">
                     <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
-                        LOGIN VPTI SYSTEM
+                        {t('login')}
                     </Button>
                 </Link>
             </div>

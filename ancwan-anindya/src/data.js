@@ -21,10 +21,6 @@ let data = {
             "path": "/contact-us"
         },
     ],
-    "hero_title": "We are Anindya, an independent surveying company",
-    "hero_subtitle": "Our service network from branch, laboratory, and office to provide super services for our customers",
-    "about":"We are an independent surveying company providing quality and quantity superintending services export import verification for government purpose.",
-    "subabout":"Our service network from branch, laboratory, and office to provide superb services for our customers.",
     "values": [
         {
             "key": 1,
@@ -91,9 +87,9 @@ let data = {
         },
         {
             "key": 7,
-            "name":"Sand Pebble Crushed Stone",
+            "name":"Sand Pebble & Crushed Stone",
             "img":"sand",
-            "label":"Sand Pebble Crushed Stone",
+            "label":"Sand Pebble & Crushed Stone",
             "path": "/our-service"
         },
     ],
@@ -244,25 +240,28 @@ let data = {
             "name":"Oil & Gas",
             "img": [
                 {
-                    "img": "dummy1"
+                    "img": "DCG"
                 },
                 {
-                    "img": "dummy2"
+                    "img": "ABS"
                 },
                 {
-                    "img": "dummy3"
+                    "img": "FJS"
                 },
                 {
-                    "img": "dummy4"
+                    "img": "BNP"
                 },
                 {
-                    "img": "dummy5"
+                    "img": "PC"
                 },
                 {
-                    "img": "dummy6"
+                    "img": "RBN"
                 },
                 {
-                    "img": "dummy7"
+                    "img": "MAP"
+                },
+                {
+                    "img": "DSI"
                 },
             ],
         },
@@ -2065,7 +2064,16 @@ let data = {
             ],
             "col2": [],
             "method": [],
-            "clients": []
+            "clients": [
+                "DCG",
+                "ABS",
+                "FJS",
+                "BNP",
+                "PC",
+                "RBN",
+                "MAP",
+                "DSI"
+            ]
         },
         {
             "name": "Agriculture & Food",
@@ -2148,7 +2156,7 @@ let data = {
             ]
         },
         {
-            "name": "Sand Pebble Crushed Stone",
+            "name": "Sand Pebble & Crushed Stone",
             "subtitle": "Introducing the new division in ANINDYA, in responding to the country's rapid infrastructure development activities.",
             "col1": [
                 {

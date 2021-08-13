@@ -1,21 +1,23 @@
 import React from 'react'
 import data from '../../../data'
 import './Flow.css'
-import ImageZoom from "react-medium-image-zoom";
+import ImageZoom from 'react-medium-image-zoom'
 import FlowVPTI from '../../../images/flow-vpti.jpeg'
 import { Row, Col, Tab, Nav } from 'react-bootstrap'
+import { useTranslation } from "react-i18next";
 
 function Flow() {
+    const { t } = useTranslation()
 
     return (
         <>
             <div className='container-vpti'>
-                <p className='about-vpti'>{data.vpti}</p>
+                <p className='about-vpti'>{t('desc_vpti')}</p>
                 <div className='flow-vpti'>
                     <div className='border-title-vpti'/>
-                    <h1 className='title'>Flow VPTI</h1>
+                    <h1 className='title'>{t('flow_vpti')}</h1>
                     <div>
-                        <p className='detail-flow-vpti'>{data.flow_vpti}</p>
+                        <p className='detail-flow-vpti'>{t('desc_flow')}</p>
                     </div>
                     <div className='flow-img'>
                     <ImageZoom
@@ -34,7 +36,7 @@ function Flow() {
                     />
                     </div>
                     <div className='border-title-vpti'/>
-                    <h1 className='title'>Import Verification</h1>
+                    <h1 className='title'>{t('import_verif')}</h1>
                     <Tab.Container id="left-tabs-example" defaultActiveKey="ALAS KAKI">
                         <Row  style={{backgroundColor: "#F2F2F2", border: "1px solid #E0E0E0", height: '2110px'}}>
                             <Col sm={4} style={{paddingLeft: "0", paddingRight: "0"}}>

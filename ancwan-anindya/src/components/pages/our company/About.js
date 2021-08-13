@@ -2,7 +2,7 @@ import React from 'react'
 import { Carousel } from '3d-react-carousal'
 import './About.css'
 import { Row, Col } from 'react-bootstrap'
-import data from '../../../data'
+import { useTranslation } from "react-i18next";
 
 let slides = [
     <img src={require(`../../../images/image-2.png`).default} alt=""/>,
@@ -11,32 +11,34 @@ let slides = [
 ]
 
 function About() {
+    const { t } = useTranslation()
+
     return (
         <>
             <div className="slide">
                 <Carousel slides={slides} arrows={true} />
             </div>
             <p className="desc-about-company">
-                {data.about_company}
+                {t('desc_about_us')}
             </p>
             <Row className="detail-about">
                 <Col>
                     <Row className="border-title-company"/>
                     <Row className="subtitle">
-                        Vission
+                        {t('vission')}
                     </Row>
                     <Row className="detail-text">
-                        {data.vision_company}
+                        {t('vission_company')}
                     </Row>
                 </Col>
                 <Col  md={{ span: 1, offset: 0}}/>
                 <Col>
                     <Row className="border-title-company"/>
                     <Row className="subtitle">
-                        Mission
+                        {t('mission')}
                     </Row>
                     <Row className="detail-text">
-                        {data.mission_company}
+                        {t('mission_company')}
                     </Row>
                 </Col>
             </Row>
@@ -44,7 +46,7 @@ function About() {
                 <Col>
                     <Row className="border-title-member"/>
                     <Row className="subtitle">
-                        Membership & Association
+                        {t('membership')}
                     </Row>
                     <Row style={{margin:"auto"}}>
                         <Col>

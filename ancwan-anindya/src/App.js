@@ -10,6 +10,10 @@ import OurServices from './components/pages/our services/OurServices';
 import Footer from './components/Footer';
 
 function App() {
+  window.onbeforeunload = () => {
+    localStorage.clear()
+  }
+  
   return (
     <>
       <Router>
@@ -17,9 +21,9 @@ function App() {
         <Switch>
           <Route path="/" exact component={Home}/>
           <Route path="/our-company" component={OurCompany}/>
-          <Route path="/vpti" component={Vpti}/>
-          <Route path="/contact-us" component={ContactUs}/>
-          <Route path="/our-service" component={OurServices}/>
+          <Route path="/vpti" exact component={Vpti}/>
+          <Route path="/contact-us" exact component={ContactUs}/>
+          <Route path="/our-service" exact component={OurServices}/>
         </Switch>
       </Router>
       <Footer />
