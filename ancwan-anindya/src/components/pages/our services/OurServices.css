@@ -1,0 +1,47 @@
+.slides-services {
+    margin: auto;
+    height: 600px;
+    width: 900px;
+    border-radius: 5px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    align-content: center;
+}
+
+.desc-our-service {
+    text-align: center;
+    font-size: 16px;
+    line-height: 160%;
+}
+
+.border-title-services {
+    border-top: 4px solid #3A7AE3;
+    width: 60px;
+    position: absolute;
+    /* left: 4%; */
+}
+
+.col-title {
+    font-size: 24px;
+    font-weight: 600;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    /* padding-left: 20px; */
+    margin-right: 32px;
+    text-align: left;
+}
+
+.list_ {
+    line-height: 180%;
+    padding: 0 0 0 20px;
+    text-align: left;
+}
+
+.clients-services {
+    padding: 10px;
+    max-width: 200px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}

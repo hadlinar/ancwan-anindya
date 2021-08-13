@@ -1,0 +1,32 @@
+.container-office {
+    padding: 80px 80px 40px 80px;
+}
+
+.border-title-office {
+    border-top: 4px solid #3A7AE3;
+    width: 60px;
+    position: absolute;
+    /* left: 4%; */
+}
+
+.title-office {
+    font-size: 24px;
+    font-weight: 600;
+    padding-top: 16px;
+    margin-right: 32px;
+}
+
+.list-container {
+    padding: 20px 0 0 0;
+}
+
+.list-office {
+    margin: auto;
+}
+
+.location-office {
+    font-size: 24px;
+    font-weight: 600;
+    color: #001133;
+    text-align: left;
+}

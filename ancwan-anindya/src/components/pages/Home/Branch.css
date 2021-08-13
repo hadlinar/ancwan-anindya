@@ -42,80 +42,12 @@
     letter-spacing: 1px;
 }
 
-
-.map-wrapper-home {
-    position: relative;
-    width: 1280px;
-    height: 979px;
-    margin: auto;
-    padding: 48px 0 48px 0;
-}
-
 .maps {
     padding: 48px 0 48px 0;
     justify-content: center;
     position: relative; 
     left: 0;
     top: 0;
-}
-
-.maps img {
-    position: relative;
-    top: 0;
-    left: 0;
-}
-
-.maps svg {
-    position: absolute;
-    top: 258px;
-    left: 191px;
-}
-
-#maps-arrow path:nth-child(1) {
-    stroke-dasharray: 1000;
-    stroke-dashoffset: 1000;
-    animation: dash 1s linear forwards;
-}
-
-#maps-arrow path:nth-child(2) {
-    stroke-dasharray: 1000;
-    stroke-dashoffset: 1000;
-    animation: dash 1s linear forwards;
-}
-
-#maps-arrow path:nth-child(3) {
-    stroke-dasharray: 1000;
-    stroke-dashoffset: 1000;
-    animation: dash 2s linear forwards;
-    
-}
-
-#maps-arrow path:nth-child(4) {
-    stroke-dasharray: 1000;
-    stroke-dashoffset: 1000;
-    animation: dash 4s linear forwards;
-    
-}
-
-#maps-arrow path:nth-child(5) {
-    stroke-dasharray: 1000;
-    stroke-dashoffset: 1000;
-    animation: dash 2s linear forwards;
-    
-}
-
-#maps-arrow path:nth-child(6) {
-    stroke-dasharray: 1000;
-    stroke-dashoffset: 1000;
-    animation: dash 1s linear forwards;
-    
-}
-
-#maps-arrow path:nth-child(7) {
-    stroke-dasharray: 1000;
-    stroke-dashoffset: 1000;
-    animation: dash 1s linear forwards;
-    
 }
 
 @keyframes dash {

@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import './Clients.css'
-import { Container, Row, Tabs, Tab } from 'react-bootstrap'
+import { Container, Row, Tabs, Tab, Col } from 'react-bootstrap'
 import data from '../../../data'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
@@ -22,17 +22,19 @@ function Clients() {
                     </Row>
 
                     <Row>
-                        <Tabs defaultActiveKey="Coal" id="controlled-tab-example" >
+                        <Tabs defaultActiveKey="Coal">
                             {data.clients && data.clients.map(item => {
                                 return (
-                                    <Tab eventKey={item.name} title={item.name} >
-                                        <div>
+                                    <Tab eventKey={item.name} title={item.name}>
+                                        <Row style={{margin: "auto"}}>
                                             {item.img && item.img.map((item2, i) => {
                                                 return (
-                                                    <img className="clients" src={require(`../../../images/clients-dummy${i+1}.png`).default} alt={item2.img}  />
+                                                    <Col key={i} style={{margin: "auto"}}>
+                                                        <img className="clients" src={require(`../../../images/clients/${item.name}/${i+1} - ${item2.img} - ${item.name}.png`).default} alt={item2.img}  />
+                                                    </Col>
                                                 )
                                             })}
-                                        </div>
+                                        </Row>
                                     </Tab>
                                 )
                             })}

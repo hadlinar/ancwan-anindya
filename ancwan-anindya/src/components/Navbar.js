@@ -7,7 +7,7 @@ import Toggle from '../components/Toggle'
 import data from '../data';
 
 function Navigation() {
-    const [navbar, setNavbar] = useState(false);
+    const [navbar, setNavbar] = useState(true);
     const [body, setBody] = useState(false);
     const [toggled, setToggled] = useState(false);
 
@@ -16,19 +16,11 @@ function Navigation() {
     }
 
     const changeBackground = () => {
-        if(window.location.pathname === '/') {
-            if(window.scrollY >= 70 && window.scrollY <= 680) {
-                setNavbar(true);
-                setBody(false);
-            } else if (window.scrollY < 70) {
-                setNavbar(false);
-                setBody(false);
-            } else {
-                setNavbar(false);
-                setBody(true);
-            }
-        } else {
+        if(window.scrollY > 680) {
             setNavbar(false);
+            setBody(true);
+        }  else {
+            setNavbar(true);
             setBody(true);
         }
     }
@@ -36,10 +28,11 @@ function Navigation() {
     window.addEventListener('scroll', changeBackground);
 
     return (
+
         <>
-            <Navbar expand="lg" collapseOnSelect className={navbar ? "navbar-light active" : [body ? "navbar-light-body" : "navbar-light"]}>
+            <Navbar collapseOnSelect className={navbar ? "navbar-light active" : [body ? "navbar-light-body" : "navbar-light"]}>
                 <Navbar.Brand href="/"><img className="logo" src={navbar ? logoWhite : logo} alt="Anindya Logo"/></Navbar.Brand>
-                <Navbar.Toggle />
+                {/* <Navbar.Toggle /> */}
                 <Navbar.Collapse >
                     <Nav className="ml-auto" activeKey={window.location.pathname}>
                         {data.navpath && data.navpath.map(item => {
@@ -52,6 +45,7 @@ function Navigation() {
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
+            
         </>
     )
 }

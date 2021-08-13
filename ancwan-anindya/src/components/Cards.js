@@ -6,7 +6,7 @@ function Cards() {
     return (
         <>
             <div  style={{margin: "auto"}}>
-                <Row md={4}>
+                <Row>
                     <CardItem />
                 </Row>
             </div>

@@ -1,10 +1,9 @@
 .section-client {
-    background-color: #F2F2F2;
-    max-width: 100%;
+    max-width: 1440px;
     padding-top: 80px;
     padding-left: 80px;
     padding-right: 80px;
-    padding-bottom: 35px;
+    padding-bottom: 80px;
     letter-spacing: 0.1rem;
 }
 
@@ -38,7 +37,8 @@
 .nav-tabs .nav-item.show .nav-link, 
 .nav-tabs .nav-link.active {
     color: #3A7AE3;
-    background-color: #F2F2F2;
+    background-color: #E0E0E0;
+    /* background-color: pink; */
     border-left: none;
     border-right: none;
     border-top: none;
@@ -52,18 +52,14 @@
     border-right: none;
     border-top: none;
     margin-bottom: 0;
-}
-
-.tab-content {
-    width: 100%;
-    padding: 42px;
-    justify-content: center;
-    align-items: stretch;
-    display: flex;
-    flex-wrap: nowrap;
-
+    background-color: #E0E0E0;
 }
 
 .clients {
-    padding: 0 20px 48px 20px;
+    padding: 10px;
+    max-width: 250px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
 }
