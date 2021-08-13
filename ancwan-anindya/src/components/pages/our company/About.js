@@ -2,7 +2,6 @@ import React from 'react'
 import { Carousel } from '3d-react-carousal'
 import './About.css'
 import { Row, Col } from 'react-bootstrap'
-import data from '../../../data'
 import { useTranslation } from "react-i18next";
 
 let slides = [

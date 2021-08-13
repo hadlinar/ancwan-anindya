@@ -21,10 +21,6 @@ let data = {
             "path": "/contact-us"
         },
     ],
-    "hero_title": "We are Anindya, an independent surveying company",
-    "hero_subtitle": "Our service network from branch, laboratory, and office to provide super services for our customers",
-    "about":"We are an independent surveying company providing quality and quantity superintending services export import verification for government purpose.",
-    "subabout":"Our service network from branch, laboratory, and office to provide superb services for our customers.",
     "values": [
         {
             "key": 1,

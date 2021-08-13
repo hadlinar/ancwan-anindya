@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import '../../../App.css'
 import Hero from '../../Hero'
 import About from './About'
@@ -7,8 +7,19 @@ import Branch from './Branch';
 import Clients from './Clients';
 
 import Navigation from '../../Navbar';
+import { useTranslation } from 'react-i18next'
 
 function Home () {
+    const { i18n } = useTranslation();
+
+    useEffect(() => {
+        if(JSON.parse(localStorage.getItem('toggled')) === true) {
+            i18n.changeLanguage("id")
+        } else {
+            i18n.changeLanguage("en")
+        }
+
+    }, [i18n])
 
     return(
         <>

@@ -7,6 +7,7 @@ i18next
   .use(HttpApi)
   .init({
     // lng: "en",
+    whitelist: ['en', 'id'],
     fallbackLng: "en",
     interpolation: {
       escapeValue: false,

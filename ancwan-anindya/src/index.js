@@ -7,7 +7,7 @@ import { BrowserRouter as Router } from 'react-router-dom'
 
 ReactDOM.render(
   <React.StrictMode>
-    <React.Suspense fallback="Wait a minute...">
+    <React.Suspense fallback="Please wait a minute">
     <Router>
       <App />
     </Router>

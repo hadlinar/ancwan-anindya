@@ -17,13 +17,13 @@ function Navigation() {
 
     const handleClick = () => {
         setToggled((t) => !t);
-        var valLngId = "id"
-        var valLngEn = "en"
 
-        if(!toggled) {
-            i18n.changeLanguage(valLngId)
+        if(toggled) {
+            i18n.changeLanguage("id")
+            localStorage.setItem('toggled', JSON.stringify(toggled))
         } else {
-            i18n.changeLanguage(valLngEn)
+            i18n.changeLanguage("en")
+            localStorage.setItem('toggled', JSON.stringify(toggled))
         }
     }
 

@@ -1,11 +1,20 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import './Offices.css'
 import data from '../../../data'
 import { Row, Col } from 'react-bootstrap'
 import { useTranslation } from "react-i18next";
 
 function Offices() {
-    const { t } = useTranslation()
+    const { t, i18n } = useTranslation()
+
+    useEffect(() => {
+        if(JSON.parse(localStorage.getItem('toggled')) === true) {
+            i18n.changeLanguage("id")
+        } else {
+            i18n.changeLanguage("en")
+        }
+
+    }, [i18n])
 
     return (
         <>
