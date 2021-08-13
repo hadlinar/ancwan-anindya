@@ -91,9 +91,9 @@ let data = {
         },
         {
             "key": 7,
-            "name":"Sand Pebble Crushed Stone",
+            "name":"Sand Pebble & Crushed Stone",
             "img":"sand",
-            "label":"Sand Pebble Crushed Stone",
+            "label":"Sand Pebble & Crushed Stone",
             "path": "/our-service"
         },
     ],
@@ -2148,7 +2148,7 @@ let data = {
             ]
         },
         {
-            "name": "Sand Pebble Crushed Stone",
+            "name": "Sand Pebble & Crushed Stone",
             "subtitle": "Introducing the new division in ANINDYA, in responding to the country's rapid infrastructure development activities.",
             "col1": [
                 {

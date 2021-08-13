@@ -1,0 +1,292 @@
+{
+    "navpath": [
+        {
+            "name": "Beranda",
+            "path": "/"
+        },
+        {
+            "name": "Layanan Kami",
+            "path": "/our-service"
+        },
+        {
+            "name": "VPTI",
+            "path": "/vpti"
+        },
+        {
+            "name": "Perusahaan Kami",
+            "path": "/our-company"
+        },
+        {
+            "name": "Hubungi Kami",
+            "path": "/contact-us"
+        }
+    ],
+    "hero_title": "Kami Anindya,",
+    "hero_title2": "sebuah perusahaan survei independen",
+    "hero_subtitle": "Jaringan layanan kami dari cabang, laboratorium, dan kantor untuk memberikan layanan super bagi pelanggan kami",
+    "about_anindya": "Tentang Anindya",
+    "about_vpti": "Tentang VPTI",
+
+    "about": "Kami adalah perusahaan survey independen yang menyediakan jasa pengawasan kualitas dan kuantitas verifikasi ekspor impor untuk keperluan pemerintah.",
+    "subabout": "Jaringan layanan kami dari cabang, laboratorium, dan kantor untuk memberikan layanan yang luar biasa bagi pelanggan kami.",
+    "values": [
+        {
+            "key": 1,
+            "val":"Ketepatan"
+        },
+        {
+            "key": 2,
+            "val":"Kualitas"
+        },
+        {
+            "key": 3,
+            "val":"Tepat waktu"
+        }
+    ],
+    "our_service": "Layanan Kami",
+    "services": [
+        {
+            "key": 1,
+            "name":"VPTI",
+            "img":"vpti",
+            "label":"VPTI",
+            "path": "/vpti"
+        },
+        {
+            "key": 2,
+            "name":"Batubara",
+            "img":"coal-id",
+            "label":"Batubara",
+            "path": "/our-service"
+        },
+        {
+            "key": 3,
+            "name":"Survei Kapal Laut",
+            "img":"marine-id",
+            "label":"Survei Kapal Laut",
+            "path": "/our-service"
+        },
+        {
+            "key": 4,
+            "name":"Minyak & Gas",
+            "img":"oil-and-gas-id",
+            "label":"Minyak & Gas",
+            "path": "/our-service"
+        },
+        {
+            "key": 5,
+            "name":"Pertanian & Makanan",
+            "img":"agri-id",
+            "label":"Pertanian & Makanan",
+            "path": "/our-service"
+        },
+        {
+            "key": 6,
+            "name":"Mineral & Air",
+            "img":"mineral-id",
+            "label":"Mineral & Air",
+            "path": "/our-service"
+        },
+        {
+            "key": 7,
+            "name":"Pasir Kerikil & Pecahan Batu",
+            "img":"sand-id",
+            "label":"Pasir Kerikil & Pecahan Batu",
+            "path": "/our-service"
+        }
+    ],
+    "branch_office": "Kantor Cabang & Perwakilan",
+    "branch": "Anindya memiliki kantor cabang dan laboratorium yang terdapat di banyak lokasi strategis di seluruh Indonesia. Dalam memberikan pelayanan untuk klien internasional, ANINDYA juga memiliki kantor di beberapa negara yaitu Cina, India, Singapura, Banglades, dan Vietnam.",
+    "location_in_indonesia": "Lokasi di Indonesia",
+    "lab_around_the_world": "Laboratorium di Seluruh Dunia",
+    "location_in_overseas": "Lokasi di Luar Negeri",
+    "our_client": "Klien Kami",
+    "default_key_coal": "Batubara",
+    "clients": [
+        {
+            "name":"Batubara",
+            "img": [
+                {
+                    "img": "Borneo Indobara"
+                },
+                {
+                    "img": "Kideco"
+                },
+                {
+                    "img": "Jembayan"
+                },
+                {
+                    "img": "Adani"
+                },
+                {
+                    "img": "Tamtama"
+                },
+                {
+                    "img": "SGE"
+                },
+                {
+                    "img": "BSSR"
+                },
+                {
+                    "img": "BRE"
+                },
+                {
+                    "img": "RLK"
+                },
+                {
+                    "img": "Equentia"
+                },
+                {
+                    "img": "PKN"
+                },
+                {
+                    "img": "ABP"
+                },
+                {
+                    "img": "MEK"
+                },
+                {
+                    "img": "BMB"
+                },
+                {
+                    "img": "KJB"
+                },
+                {
+                    "img": "Titan"
+                }
+            ]
+        },
+        {
+            "name":"Survei Kapal Laut",
+            "img": [
+                {
+                    "img": "SIT"
+                },
+                {
+                    "img": "AKR"
+                },
+                {
+                    "img": "Alexindo"
+                },
+                {
+                    "img": "Duta Marine"
+                },
+                {
+                    "img": "Figar"
+                },
+                {
+                    "img": "Holcim"
+                },
+                {
+                    "img": "Indocement"
+                },
+                {
+                    "img": "Lafarge"
+                },
+                {
+                    "img": "Victoria"
+                },
+                {
+                    "img": "Seapol"
+                },
+                {
+                    "img": "SLM"
+                },
+                {
+                    "img": "SBA"
+                },
+                {
+                    "img": "SBI"
+                },
+                {
+                    "img": "Trubaindo"
+                },
+                {
+                    "img": "HTK"
+                },
+                {
+                    "img": "Cotecna"
+                },
+                {
+                    "img": "DBS"
+                },
+                {
+                    "img": "Watama"
+                },
+                {
+                    "img": "MSD"
+                }
+            ]
+        },
+        {
+            "name":"Minyak & Gas",
+            "img": [
+                {
+                    "img": "dummy1"
+                },
+                {
+                    "img": "dummy2"
+                },
+                {
+                    "img": "dummy3"
+                },
+                {
+                    "img": "dummy4"
+                },
+                {
+                    "img": "dummy5"
+                },
+                {
+                    "img": "dummy6"
+                },
+                {
+                    "img": "dummy7"
+                }
+            ]
+        },
+        {
+            "name":"Mineral & Air",
+            "img": [
+                {
+                    "img": "VDNI"
+                },
+                {
+                    "img": "SMI"
+                },
+                {
+                    "img": "BSI"
+                },
+                {
+                    "img": "YNI"
+                },
+                {
+                    "img": "YII"
+                },
+                {
+                    "img": "YII"
+                },
+                {
+                    "img": "Ifishco"
+                },
+                {
+                    "img": "Ranger"
+                },
+                {
+                    "img": "Walsin"
+                },
+                {
+                    "img": "Hengjaya"
+                },
+                {
+                    "img": "TSI"
+                },
+                {
+                    "img": "GAG"
+                },
+                {
+                    "img": "CLM"
+                }
+            ]
+        }
+    ]
+}

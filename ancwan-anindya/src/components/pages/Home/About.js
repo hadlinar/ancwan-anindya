@@ -4,10 +4,10 @@ import './About.css'
 import { Container, Row, Col } from 'react-bootstrap'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
-// import { useTranslation } from "react-i18next";
+import { useTranslation } from "react-i18next";
 
 function About() {
-    // const { t } = useTranslation()
+    const { t } = useTranslation()
 
     useEffect(() => {
         Aos.init({
@@ -23,32 +23,31 @@ function About() {
                         <Col md={3}>
                             <Row className="border-title" />
                             <Row className="col-title-about">
-                                {/* <h1>{t('about_anindya')}</h1> */}
-                                <h1>About Anindya</h1>
+                                <h1>{t('about_anindya')}</h1>
                             </Row>
                         </Col>
                         <Col md={9}>
                             <Row className="col-desc-about">
                                 <p>
-                                    {/* {t('about')} */}
-                                    {data.about}
+                                    {t('about')}
                                 </p>
                             </Row>
                             <Row className="col-desc-about">
                                 <p>
-                                    {/* {t('subabout')} */}
-                                    {data.subabout}
+                                    {t('subabout')}
                                 </p>
                             </Row>
                             <Row className="col-val">
 
-                                {data.values && data.values.map(item => {
-                                    return (
-                                        <Col className="values" key={item.key}>
-                                            {item.val}
-                                        </Col>
-                                    )
-                                })}
+                                {
+                                    Array.from(data.values, (e, i) => {
+                                        return (
+                                            <Col className="values" key={i}>
+                                                {t(`values.${i}.val`, { returnObjects: true })}
+                                            </Col>
+                                        )
+                                    })
+                                }
                             </Row>
                         </Col>
                     </Row>

@@ -1,7 +1,7 @@
 import React from 'react'
 import data from '../../../data'
 import './Flow.css'
-import ImageZoom from "react-medium-image-zoom";
+import ImageZoom from 'react-medium-image-zoom'
 import FlowVPTI from '../../../images/flow-vpti.jpeg'
 import { Row, Col, Tab, Nav } from 'react-bootstrap'
 

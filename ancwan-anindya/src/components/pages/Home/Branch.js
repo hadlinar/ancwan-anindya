@@ -3,12 +3,13 @@ import './Branch.css'
 import { Container, Row, Col } from 'react-bootstrap'
 import CountUp from 'react-countup'
 import VisibilitySensor from 'react-visibility-sensor'
-import data from '../../../data'
 import MapsImg from '../../../images/markered-maps.png'
+import { useTranslation } from "react-i18next";
 
 function Branch() {
     const [focus, setFocus] = useState(false)
     const [mapFocus, setMapFocus] = useState(false)
+    const { t } = useTranslation()
 
 
     const canvasRef = useRef(null)
@@ -103,7 +104,6 @@ function Branch() {
     })
 
     const changeBackground = () => {
-        // console.log(window.scrollY)
         if(window.scrollY > 2061) {
             setMapFocus(true)
         }  
@@ -119,11 +119,11 @@ function Branch() {
                         <Col >
                             <Row className="border-title-branch" />
                             <Row className="title-branch">
-                                <h1>Branch Office & Representative</h1>
+                                <h1>{t('branch_office')}</h1>
                             </Row>
                             <Row>
                                 <p className="text-description">
-                                    {data.branch}
+                                {t('branch')}
                                 </p>
                             </Row>
                         </Col>
@@ -136,12 +136,6 @@ function Branch() {
                         }}>
                             <canvas id="canvas" ref={canvasRef} width="1143" height="847"/>
                         </VisibilitySensor>
-                        {/* {mapFocus ? 
-                            <>
-                                <canvas id="canvas" ref={canvasRef} width="1143" height="847"/> 
-                                {console.log("atas" + mapFocus)}
-                            </>
-                            : console.log(mapFocus)} */}
                     </Row>
                     <Row className="counter">
                         <Col md={4}>
@@ -158,7 +152,7 @@ function Branch() {
                                     )}
                                 </CountUp>
                             </Row>
-                            <Row className="count-text">Location in Indonesia</Row>
+                            <Row className="count-text">{t('location_in_indonesia')}</Row>
                         </Col>
                         <Col md={4}>
                             <Row className='count-up'>
@@ -174,7 +168,7 @@ function Branch() {
                                     )}
                                 </CountUp>
                             </Row>
-                            <Row className="count-text">Laboratories around the world</Row>
+                            <Row className="count-text">{t('lab_around_the_world')}</Row>
                         </Col>
                         <Col md={4}>
                             <Row className='count-up'>
@@ -190,7 +184,7 @@ function Branch() {
                                     )}
                                 </CountUp>
                             </Row>
-                            <Row className="count-text">Location in Overseas</Row>
+                            <Row className="count-text">{t('location_in_overseas')}</Row>
                         </Col>
                     </Row>
                 </div>

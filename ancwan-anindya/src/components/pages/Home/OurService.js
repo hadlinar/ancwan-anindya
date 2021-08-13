@@ -4,8 +4,10 @@ import { Container, Row } from 'react-bootstrap'
 import Cards from '../../Cards'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
+import { useTranslation } from "react-i18next";
 
 function OurService() {
+    const { t } = useTranslation()
 
     useEffect(() => {
         Aos.init({
@@ -19,7 +21,7 @@ function OurService() {
                 <div data-aos="fade-up">
                     <Row className="border-title-service" />
                     <Row className="row-title-services">
-                        <h1>Our Services</h1>
+                        <h1>{t('our_service')}</h1>
                     </Row>
                     <Row>
                         <Cards />

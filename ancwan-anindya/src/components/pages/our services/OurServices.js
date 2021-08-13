@@ -42,7 +42,7 @@ function OurServices(props) {
                                         </p>
                                         <Row style={{paddingTop: "80px", margin: "auto"}}>
                                             {
-                                                item.name !== "Sand Pebble Crushed Stone" ? 
+                                                item.name !== "Sand Pebble & Crushed Stone" ? 
                                                 <>
                                                         <Col md={6} style={{paddingRight: "80px"}}>
                                                             <Row className="border-title-services"/>
@@ -69,7 +69,6 @@ function OurServices(props) {
                                                             {
                                                                 item.col2.length !== 0 ? 
                                                                 <>
-                                                                    {console.log(Array.isArray(item.col2))}
                                                                     <Row className="border-title-services"/>
                                                                     {item.col2.map(i => {
                                                                         return (
