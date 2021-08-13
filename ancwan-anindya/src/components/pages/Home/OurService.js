@@ -21,7 +21,7 @@ function OurService() {
                 <div data-aos="fade-up">
                     <Row className="border-title-service" />
                     <Row className="row-title-services">
-                        <h1>{t('our_service')}</h1>
+                        <h1>{t('our_service_title')}</h1>
                     </Row>
                     <Row>
                         <Cards />

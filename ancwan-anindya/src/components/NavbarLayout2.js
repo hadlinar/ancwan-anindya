@@ -4,12 +4,23 @@ import './Navbar.css';
 import logo from '../images/anindya-logo.png';
 import Toggle from '../components/Toggle'
 import data from '../data';
+import { useTranslation } from 'react-i18next'
 
 function Navigation2() {
     const [toggled, setToggled] = useState(false);
 
+    const { t, i18n } = useTranslation();
+
     const handleClick = () => {
         setToggled((t) => !t);
+        var valLngId = "id"
+        var valLngEn = "en"
+
+        if(!toggled) {
+            i18n.changeLanguage(valLngId)
+        } else {
+            i18n.changeLanguage(valLngEn)
+        }
     }
 
     return (
@@ -20,12 +31,14 @@ function Navigation2() {
                 {/* <Navbar.Toggle /> */}
                 <Navbar.Collapse >
                     <Nav className="ml-auto" activeKey={window.location.pathname}>
-                        {data.navpath && data.navpath.map(item => {
-                            return(
-                                    <Nav.Link key={item.key} href={item.path} className="items">{item.name}</Nav.Link>
-                                
-                            ); 
-                        })}
+                        {   
+                            Array.from(data.navpath, (e, i) => {
+                                return (
+                                    <Nav.Link key={e.key} href={e.path} className="items">{t(`navpath.${i}.name`, { returnObjects: true })}</Nav.Link>
+                                )
+                            })
+                            
+                        }
                         <Toggle toggled={toggled} onClick={handleClick} /> 
                     </Nav>
                 </Navbar.Collapse>

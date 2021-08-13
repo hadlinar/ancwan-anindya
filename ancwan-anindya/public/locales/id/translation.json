@@ -43,52 +43,52 @@
             "val":"Tepat waktu"
         }
     ],
-    "our_service": "Layanan Kami",
+    "our_service_title": "Layanan Kami",
     "services": [
         {
-            "key": 1,
+            "key": 0,
             "name":"VPTI",
             "img":"vpti",
             "label":"VPTI",
             "path": "/vpti"
         },
         {
-            "key": 2,
+            "key": 1,
             "name":"Batubara",
             "img":"coal-id",
             "label":"Batubara",
             "path": "/our-service"
         },
         {
-            "key": 3,
+            "key": 2,
             "name":"Survei Kapal Laut",
             "img":"marine-id",
             "label":"Survei Kapal Laut",
             "path": "/our-service"
         },
         {
-            "key": 4,
+            "key": 3,
             "name":"Minyak & Gas",
             "img":"oil-and-gas-id",
             "label":"Minyak & Gas",
             "path": "/our-service"
         },
         {
-            "key": 5,
+            "key": 4,
             "name":"Pertanian & Makanan",
             "img":"agri-id",
             "label":"Pertanian & Makanan",
             "path": "/our-service"
         },
         {
-            "key": 6,
+            "key": 5,
             "name":"Mineral & Air",
             "img":"mineral-id",
             "label":"Mineral & Air",
             "path": "/our-service"
         },
         {
-            "key": 7,
+            "key": 6,
             "name":"Pasir Kerikil & Pecahan Batu",
             "img":"sand-id",
             "label":"Pasir Kerikil & Pecahan Batu",
@@ -288,5 +288,316 @@
                 }
             ]
         }
-    ]
+    ],
+
+
+
+    "our_service": "Memberikan jasa pengawasan kualitas dan kuantitas untuk industri batubara dan mineral, sektor minyak dan gas serta survei kapal laut",
+    "service_val": [
+        {
+            "name": "Batubara",
+            "subtitle": "Penganalisan batubara dalam proses produksi dan distribusi harus dilakukan dengan perhatian penuh terhadap akurasi dan metode terbaik. Seluruh fasilitas laboratorium terakreditasi kami dan ahli menawarkan sertifikasi kualitas terpercaya untuk inspeksi dan pengujian batubara.",
+            "col1": [
+                {
+                    "title": "Layanan Tambang dan Geologis",
+                    "val": [
+                        "Laporan Verifikasi untuk Keperluan Pemerintah (LHV & LS)",
+                        "Supervisi Bongkar dan Muat",
+                        "Survei Draf",
+                        "Kondisi dan Kesiapan Kargo",
+                        "Analisis Laboratorium",
+                        "Pergudangan dan Stok",
+                        "Analisis Sampel",
+                        "Ruang Kargo dan Kebersihan",
+                        "Pengukuran Persediaan Stockpile",
+                        "Pra-Pengiriman",
+                        "Bias Testing",
+                        "Temperatur Kargo",
+                        "Laporan Verifikasi atas Penyesuaian Harga dan Sertifikat Jarak Transportasi (LHV BP  & SAJ)",
+                        "Quality Control Management System",
+                        "Core Sampling",
+                        "Exploration JORC",
+                        "Pit Sampling",
+                        "Channel Sampling",
+                        "Due Diligence",
+                        "General Survey",
+                        "Geological Mapping",
+                        "Feasibility Study Stage"
+                    ]
+                }
+            ],
+            "col2": [
+                {
+                    "title": "Analisis Laboratorium",
+                    "val": [
+                        "Total Moisture",
+                        "Calorific Value",
+                        "Form of Sulphur",
+                        "Hardgrove Grindability Index",
+                        "Size Analysis",
+                        "Trace Elements (As, Se, Cl, F, P, Hg)",
+                        "Relative Density",
+                        "Ash Analysis",
+                        "Ash Fusion Temperature",
+                        "Crucible Swelling Number",
+                        "Light Transmittance",
+                        "Radioactivity",
+                        "G Value",
+                        "Plastometric Index (Y Value & X Value)",
+                        "Transmittance Value",
+                        "TML Testing",
+                        "Mechanical Strength of Coke",
+                        "Coke Re-Activity",
+                        "Post-Reaction Strength of Coke"
+                    ]
+                }
+            ],
+            "method": [
+                "astm",
+                "iso",
+                "standards-australia",
+                "gb"
+            ],
+            "clients" : [
+                "Borneo Indobara",
+                "Kideco",
+                "Jembayan",
+                "Adani",
+                "Tamtama",
+                "SGE",
+                "BSSR",
+                "BRE",
+                "RLK",
+                "Equentia",
+                "PKN",
+                "ABP",
+                "MEK",
+                "BMB",
+                "KJB",
+                "Titan"
+            ]
+        },
+        {
+            "name": "Survei Kapal Laut",
+            "subtitle": "Inspeksi, surveI, atau pemeriksaan dari kapal laut untuk menilai, memantau dan melaporkan kondisi kapal dan produknya, juga untuk menyelidiki penyebab kerusakan baik dari kapal maupun kargo. ANINDYA beroperasi selama 24/7 dan telah berinvestasi dalam kumpulan surveyor ahli yang signifikan sehingga siap secara operasional dalam waktu singkat. Dengan dukungan dari staf teknisi yang berpengalaman, kami dapat membantu customers dalam saksi ahli atau melakukan tugas dalam kasus hukum, sengketa, dan klaim apa pun.",
+            "col1": [
+                {
+                    "title": "Survei Teknis",
+                    "val": [
+                        "Survei Kondisi Kapal",
+                        "Kebersihan Ruang Kargo",
+                        "Survei Bunker",
+                        "On / Of-hire Survey",
+                        "Survei Towing",
+                        "Survei Penyelidikan dan Kerusakan",
+                        "Uji Coba Konsumsi Bahan Bakar",
+                        "P&l Pre-entry Condition Survey"
+                    ]
+                }
+            ],
+            "col2": [
+                {
+                    "title": "Survei Kargo",
+                    "val": [
+                        "Survei Penghitungan dan Kondisi",
+                        "Menimbang dan Mengukur",
+                        "Stuffing & Unstuffing",
+                        "Loading & Unloading Survey",
+                        "Draf Survei",
+                        "Pre-shipment Survey",
+                        "Survei Kerusakan Kargo dan Sampling"
+                    ]
+                }
+            ],
+            "method": [],
+            "clients": [
+                "SIT",
+                "AKR",
+                "Alexindo",
+                "Duta Marine",
+                "Figar",
+                "Holcim",
+                "Indocement",
+                "Lafarge",
+                "Victoria",
+                "Seapol",
+                "SLM",
+                "SBA",
+                "SBI",
+                "Trubaindo",
+                "HTK",
+                "Cotecna",
+                "DBS",
+                "Watama",
+                "MSD"
+            ]
+        },
+        {
+            "name": "Minyak & Gas",
+            "subtitle": "ANINDYA menawarkan berbagai inspeksi, survei, uji coba, kontrol, kolaborasi, dan layanan lainnya untuk industri minyak dan gas. ANINDYA memiliki tim inspektur, surveyor, ahli kimia, dan teknisi yang sangat terampil yang dapat memberikan kualitas dan layanan yang tepat waktu untuk kebutuhan Anda.",
+            "col1": [
+                {
+                    "title": "Survei Teknis",
+                    "val": [
+                        "Inspeksi Minyak Bumi dan Minyak Mentah",
+                        "Uji kualitas untuk minyak mentah, minyak bumi, gas, dan kemikal",
+                        "Expediting services",
+                        "Blending expertise",
+                        "Cargo treatment",
+                        "PengelolaanvJaminan dan Pergudangan",
+                        "Pemantauan Kondisi Oli dan Lubrikan Bekas"
+                    ]
+                }
+            ],
+            "col2": [],
+            "method": [],
+            "clients": []
+        },
+        {
+            "name": "Pertanian & Makanan",
+            "subtitle": "Pertanian dan makanan dapat dikatakan industri yang paling penting di dunia. Konsumen menginginkan jaminan dari keamanan dan kualitas pada setiap prosesnya. Kami mengoperasikan setiap tahapan dalam perjalanan produk pertanian dan makanan.",
+            "col1": [
+                {
+                    "title": "Layanan Kami",
+                    "val": [
+                        "Inspeksi Kebersihan Produk Pertanian dan Makanan",
+                        "Manajemen Jaminan dan Pergudangan",
+                        "Pengasapan",
+                        "Penimbangan dan Pengambilan Sampel",
+                        "Supervisi Bongkar dan Muat",
+                        "Uji Coba dan Analisa"
+                    ]
+                }
+            ],
+            "col2": [],
+            "method": [],
+            "clients": []
+        },
+        {
+            "name": "Mineral & Air",
+            "subtitle": "Dari eksplorasi tambang hingga pengiriman ekspor, ANINDYA menyediakan layanan uji coba mineral, inspeksi, asuransi dan sertifikasi servis untuk mendukung aktivitas pertambangan di seluruh dunia. Segala jenis mineral, baik ditambang, diproses, ataupun diproduksi, ANINDYA dapat menyertakan nilai intrinsik melalui inspeksi independen kami, sampel, dan uji coba. Kami telah memiliki surveyor yang sangat terlatih dan berpengalaman secara global untuk melakukan intervensi di pelabuhan utama, lokasi penambangan, fasilitas peleburan, dan pemurnian yang didukung oleh independen laboratorium uji coba.",
+            "col1": [
+                {
+                    "title": "Layanan Kami",
+                    "val": [
+                        "Verifikasi Ekspor Mineral (LS)",
+                        "Survei Stockpile",
+                        "Audit Stok dan Gudang",
+                        "Pengambilan Sampel",
+                        "Survei Bongkar dan Muat",
+                        "Survei Draf",
+                        "Penimbangan Presisi dengan Jembatan Timbang & Keseimbangan Presisi",
+                        "Representative Sampling",
+                        "Supervisi Bongkar dan Muat",
+                        "Vessel Hatch / Hold Inspection",
+                        "Uji Coba Pihak Ketiga"
+                    ]
+                }
+            ],
+            "col2": [
+                {
+                    "title": "Analisis Laboratorium",
+                    "val": [
+                        "Nickel Ore",
+                        "Iron Ore",
+                        "Bauxite",
+                        "Manganese Ore",
+                        "Galena Ore",
+                        "Zinc Concentrate",
+                        "Lead Concentrate",
+                        "Tin Ore",
+                        "Chrome Ore",
+                        "Copper Concentrate"
+                    ]
+                }
+            ],
+            "method": [
+                "astm",
+                "iso",
+                "gb",
+                "jis"
+            ],
+            "clients": [
+                "VDNI",
+                "SMI",
+                "BSI",
+                "YNI",
+                "YII",
+                "YII",
+                "Ifishco",
+                "Ranger",
+                "Walsin",
+                "Hengjaya",
+                "TSI",
+                "GAG",
+                "CLM"
+            ]
+        },
+        {
+            "name": "Pasir Kerikil & Pecahan Batu",
+            "subtitle": "Memperkenalkan divisi baru di ANINDYA, dalam merespon kegiatan pembangunan infrastruktur negara yang pesat.",
+            "col1": [
+                {
+                    "title": "Layanan Kami",
+                    "val": [
+                        "Supervisi Bongkar dan Muat",
+                        "Survei Draf",
+                        "Pengambilan Sampel Pit dan Analisis",
+                        "Pengambilan Sampel Stockpile dan Analisis",
+                        "Pengambilan Sampel Tongkang dan Analisis",
+                        "Pengambilan Sampel Kapal dan Analisis",
+                        "Pengambilan Sampel Rel dan Analisis",
+                        "Kondisi Kargo"
+                    ]
+                }
+            ],
+            "col2": [
+                {
+                    "title": "Parameter Uji Coba Laboratorium",
+                    "val": [
+                        {
+                            "sub": "Pecahan Batu untuk Konstruksi",
+                            "val_sub": [
+                                "Analisis Ukuran",
+                                "Gumpalan Tanah Liat dan Komponen Partikel Rapuh",
+                                "Partikel Memanjang dan Mendatar",
+                                "Kandungan Sulfida dan Sulfit",
+                                "Kandungan Klorida",
+                                "Kekuatan",
+                                "Indikator Penghancuran",
+                                "Apparent Density",
+                                "Rasio Kekosongan Bertumpuk",
+                                "Tingkat Penyerapan Air",
+                                "Kadar Air",
+                                "Bulk Density"
+                            ]
+                        },
+                        {
+                            "sub": "Pasir untuk Konstruksi",
+                            "val_sub": [
+                                "Analisis Ukuran",
+                                "Kandungan Bubuk Batu",
+                                "Gumpalan Tanah Liat dan Komponen Partikel Rapuh",
+                                "Partikel Memanjang dan Mendatar",
+                                "Kandungan Organik",
+                                "Kandungan Sulfida dan Sulfit",
+                                "Kandungan Klorida",
+                                "Kandungan Mika",
+                                "Kekuatan",
+                                "Indikator Penghancuran",
+                                "Apparent Density",
+                                "Rasio Kekosongan Bertumpuk",
+                                "Kadar Air",
+                                "Bulk Density"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "method": [],
+            "clients": []
+        }
+    ],
+    "methodologies": "Metodologi",
+    "client": "Klien"
 }

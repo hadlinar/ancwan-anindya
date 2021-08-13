@@ -47,12 +47,6 @@ function Navigation() {
                 {/* <Navbar.Toggle /> */}
                 <Navbar.Collapse >
                     <Nav className="ml-auto" activeKey={window.location.pathname}>
-                        {/* {data.navpath.map(item => {
-                            return(
-                                <Nav.Link key={item.key} href={item.path} className="items">{t(item.name)}</Nav.Link>
-                                
-                            ); 
-                        })} */}
                         {   
                             Array.from(data.navpath, (e, i) => {
                                 return (

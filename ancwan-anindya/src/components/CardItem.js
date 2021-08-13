@@ -15,7 +15,7 @@ function CardItem() {
                     return (
                         <Link to={{
                             pathname: e.path,
-                            search: "?sort="+e.label,
+                            search: "?sort="+t(`services.${i}.key`),
                         }}>
                             <div className="card">
                                 <div className="card-wrapper">
