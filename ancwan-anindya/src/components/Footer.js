@@ -1,8 +1,11 @@
 import React from 'react'
 import { Row, Col } from 'react-bootstrap'
 import './Footer.css'
+import { useTranslation } from "react-i18next";
 
 function Footer() {
+    const { t } = useTranslation()
+
     return (
         <>
             <footer>
@@ -12,15 +15,15 @@ function Footer() {
                             <img className="footer-logo" src={require(`../images/anindya-logo-footer.png`).default} alt="anindya-logo"/>
                         </Col>
                         <Col className="col-footer2">
-                            <p className="footer-widget-title">About Anindya</p>
+                            <p className="footer-widget-title">{t('about_anindya')}</p>
                             <p className="footer-widget-content">
-                                An independent surveying company, providing quality and quantity superintending service for coal and minerals industry, the oil and gas sector as well as marine surveys.
+                                {t('desc_footer_top')}
                                 <br/>
-                                Received permission from the Directorate General of Foreign Trade, Ministry of Trade of the Republic of Indonesia to be able to verify imported products for commodities.
+                                {t('desc_footer_bottom')}
                             </p>
                         </Col>
                         <Col>
-                            <p className="footer-widget-title">Our HQ</p>
+                            <p className="footer-widget-title">{t('hq')}</p>
                             <p className="footer-widget-content">
                                 Springhill Office Tower 17 th & 18th Floor
                                 <br/>Jl. H. Benyamin Suaeb Ruas D7  Block D6
