@@ -608,5 +608,292 @@
     "desc_vpti": "Mulai tahun 2019, ANINDYA, telah ditunjuk oleh Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia untuk mengatur pelaksanaan verifikasi dari beberapa komoditi yang di impor.",
     "flow_vpti": "Alur VPTI",
     "desc_flow": "Mulai tahun 2019, ANINDYA, telah ditunjuk oleh Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia untuk mengatur pelaksanaan verifikasi dari beberapa komoditi yang di impor.",
-    "import_verif": "Verifikasi Impor"
+    "import_verif": "Verifikasi Impor",
+
+
+    "our_company": "One stop authorized mining-related trading certification & verfification services",
+    "about_our_company": "Tentang Perusahaan Kami",
+    "branches": "Cabang Indonesia",
+    "licenses_tab": "Lisensi & Sertifikasi",
+    "desc_about_us": "ANINDYA berdiri di Bandung pada Agustus 1982, merupakan perusahaan survei independen yang memberikan layanan pengawasan kualitas dan kuantitas untuk industri batubara dan mineral, sektor minyak dan gas, begitu juga survei kapal laut. ANINDYA juga mendapatkan izin dari Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia, untuk dapat melakukan verifikasi barang impor di beberapa komoditi seperti besi baja, makanan minuman, obat tradisional, mainan anak, sepatu, pakaian jadi, elektronik, dll. Anindya memiliki kantor cabang dan laboratorium yang terdapat di banyak lokasi strategis di seluruh Indonesia. Dalam memberikan pelayanan untuk klien internasional, ANINDYA juga memiliki kantor di beberapa negara yaitu Cina, India, Singapura, Banglades, dan Vietnam.",
+    "vission": "Visi",
+    "mission": "Misi",
+    "membership": "Keanggotaan & Asosiasi",
+    "vission_company": "Percaya diri untuk menjadi salah satu perusahaan survei independen terbesar di Indonesia yang mampu memberikan layanan terbaik kepada pelanggan kami.",
+    "mission_company": "Memastikan konsumen kami puas dengan layanan kami dengan memberikan layanan secara akurat, profesional, dan tepat waktu. Memberikan jasa pengawasan kualitas dan kuantitas untuk industri batubara, mineral, survei kelautan, serta minyak dan gas bumi dengan budaya kerja profesional yang didukung oleh sumber daya yang berkompeten dengan integritas yang tinggi.",
+    "branches_our_company": [
+        {
+            "location": "Bandung",
+            "type": "Kantor Utama",
+            "address": [
+                {
+                    "name": "JI. Buah Batu No. 43 Lt. 2",
+                    "district": "Kel. Malabar, Kec. Lengkong, Bandung, Jawa Barat 40262",
+                    "province": "(+62 22) 87346430",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Banjarbaru",
+            "type": "Kantor",
+            "address": [
+                {
+                    "name": "Jl. Ahmad Yani KM 22.7 RT 02/RW 01",
+                    "district": "Kel. Landasan Ulin Tengah, Kec. Liang Anggang, Banjarbaru, Kalimantan Selatan 70722",
+                    "province": "",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Banjarbaru",
+            "type": "Laboratorium",
+            "address": [
+                {
+                    "name": "Jl. Ahmad Yani KM 21 RT 02/RW 02",
+                    "district": "Kel. Landasan Ulin Tengah, Kec. Liang Anggang, Banjarbaru, Kalimantan Selatan 70722",
+                    "province": "(+62 511)4706093",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Bara Tabang",
+            "type": "Kantor",
+            "address": [
+                {
+                    "name": "Senyiur KM 00 Jetty PT Bayan Resources Tbk",
+                    "district": "Desa Senyiur, Kec. Muara Ancalong, Kab. Kutai Timur, Kalimantan Timur 75656",
+                    "province": "",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Batam",
+            "type": "Kantor",
+            "address": [
+                {
+                    "name": "Taman Golf Residence II Blok R1 No. 32",
+                    "district": "Kel. Sukajadi, Kec. Batam Kota, Batam, Kepulauan Riau 29444",
+                    "province": "",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Batulicin",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "JI. Transmigrasi KM 3,5",
+                    "district": "Kel. Barokah, Kec. Simpang Empat Batulicin, Kab. Tanah Bumbu, Kalimantan Selatan 72213",
+                    "province": "(+62 518) 75638",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Berau",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "JI. H.A.R.M Ayoeb RT 13 Gg. Rahmad No. 2",
+                    "district": "Kel. Gunung Tabur, Kec. Gunung Tabur, Kab. Berau, Kalimantan Timur 77352",
+                    "province": "",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Cikarang",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "Kawasan Industri Delta Silikon 3 Lippo Cikarang",
+                    "district": "Jl. Rotan Blok F 27 No. 23 C",
+                    "province": "Kel. Cicau, Kec. Cikarang Pusat, Kab. Bekasi, Jawa Barat 17531",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Jakarta",
+            "type": "Kantorpusat",
+            "address": [
+                {
+                    "name": "Springhill Office Tower 17 th & 18th Floor",
+                    "district": "Jl. H. Benyamin Suaeb Ruas D7  Block D6, Pademangan Timur, Jakarta Utara 14410",
+                    "province": "(+62 21) 2260 6207",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Jambi",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "JI. Abdul Rahman Saleh No. 8",
+                    "district": "Kel. The Hok, Kec. Jambi Selatan, Jambi 36138",
+                    "province": "(+62 741) 572805",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Kendari",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "JI. Poros Bandara Haluoleo",
+                    "district": "Desa Onewila, Kec. Ranomeeto Kab. Konawe Selatan, Sulawesi Tenggara 93372",
+                    "province": "",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Palembang",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "Komp. Pergudangan Sukarame Blok D No. 9",
+                    "district": "JI. Tembus Terminal",
+                    "province": "Kel Talang Kelapa, Kec. Alang-Alang Lebar, Palembang, Sumatera Selatan 30151",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Pontianak",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "JI. Arteri Supadio Gg. Anyar RT 07 RW 10",
+                    "district": "Desa Arang Limbung, Kec. Sungai Raya, Pontianak, Kalimantan Barat 78391",
+                    "province": "",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Samarinda",
+            "type": "Kantor & Laboratorium",
+            "address": [
+                {
+                    "name": "JI. KH. Harun Nafsi No. 56",
+                    "district": "Kel. Rapak Dalam, Kec. Loa Janan llir, Samarinda, Kalimantan Timur 75131",
+                    "province": "(+62 541) 7269686, Fax: (+62 541) 7269705",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Tamiang Layang",
+            "type": "Kantor",
+            "address": [
+                {
+                    "name": "JI. Tumpa Dayu RT 11",
+                    "district": "Desa Tamiang Layang, Kec. Dusun Timur, Kab. Barito Timur, Kalimantan Tengah 73617",
+                    "province": "(+62 526) 2091361",
+                    "phone": ""
+                }
+            ]
+        },
+        {
+            "location": "Tarakan",
+            "type": "Kantor",
+            "address": [   
+                {
+                    "name": "JI. Flamboyan No. 57 RT 27",
+                    "district": "Kel. Karang Anyar, Kec. Tarakan Barat, Tarakan, Kalimantan Utara 77111",
+                    "province": "(+62 511) 25210",
+                    "phone": ""
+                }
+            ]
+        }
+    ],
+    "licenses": "Lisensi yang diberikan oleh Republik Indonesia",
+    "licenses_desc": "ANINDYA telah sesuai dengan ketentuan pemerintah dengan mendapatkan beberapa lisensi.",
+    "licenses_tab1": {
+        "name": "Verifikasi Impor Komoditas (Laporan Surveyor)",
+        "title": "KEMENTERIAN PERDAGANGAN REPUBLIK INDONESIA",
+        "val": [
+            "Produk Tertentu: No. 782/2019",
+            "Besi, Baja dan Produk Turunannya: No. 781/2019",
+            "Ban: No. 365/2020",
+            "Telepon Seluler, Komputer Genggam (Hand Held), dan Komputer Tablet: No. 366/2020",
+            "Mesin Multifungsi Berwarna, Mesin Fotokopi Berwarna, dan Mesin Printer Berwarna: No. 367/2020",
+            "Barang Berbasis Sistem Pendingin: NO. 421/2020",
+            "Alas Kaki, Elektronika, Sepeda Roda Dua dan Roda Tiga: No. 1067/2020",
+            "Barang Modal Tidak Baru: No. 1087/2020",
+            "Keramik: No. 778/2021",
+            "Hortikultura: No. 779/2021",
+            "Prekurso: No. 780/2021"
+        ]
+    },
+    "licenses_tab2": {
+        "name": "Analisis Kualitas dan Verifikasi Kuantitas untuk Perdagangan Batubara",
+        "title": "DIREKTORAT JENDERAL MINERAL DAN BATUBARA - ESDM",
+        "val": [
+            "No. 1029.K/30/DJB/2014"
+        ]
+    },
+    "licenses_tab3": {
+        "name": "Verifikasi Eksport (Laporan Surveyor)",
+        "title": "KEMENTERIAN PERDAGANGAN REPUBLIK INDONESIA",
+        "val": [
+            "Batubara: No. 780/M-DAG/KEP/6/2017",
+            "Mineral: No. 558 TAHUN 2020"
+
+        ]
+    },
+    "certification": "Akreditasi & Sertifikasi",
+    "certification_desc": "ANINDYA telah memperoleh akreditasi laboratorium pengujian dan kalibrasi untuk pemeriksaan oleh KAN (Komite Akreditasi Nasional) dan juga telah mendapatkan sertifikasi sistem manajemen kualitas, lingkungan, kesehatan, dan sistem manajemen keamanan oleh Bureau Veritas.",
+    "certification_tab1": {
+        "name": "KAN (Komite Akreditasi Nasional)",
+        "desc": [
+            {
+                "no": "SNIISO/IEC 17020: 2012",
+                "detail": "Accreditation for Inspection Body No. LI-084-IDN"
+            },
+            {
+                "no": "SNI ISO/IEC 17025: 2017",
+                "detail": "Accreditation for Testing Laboratory "
+            }
+        ],
+        "val": [
+            "No. LP-844-IDN PT Anindya Wiraputra Konsult Banjarbaru",
+            "No. LP-882-IDN PT Anindya Wiraputra Konsult Samarinda",
+            "No. LP-955-IDN PT Anindya Wiraputra Konsult Baratabang",
+            "No. LP-1328-IDN PT Anindya Wiraputra Konsult Palembang",
+            "No. LP-1357-IDN PT Anindya Wiraputra Konsult Kendari",
+            "No. LP-1420-IDN PT Anindya Wiraputra Konsult Berau",
+            "No. LP-1421-IDN PT Anindya Wiraputra Konsult Cikarang",
+            "No. LP-1468-IDN PT Anindya Wiraputra Konsult Pontianak"
+        ]
+    },
+    "certification_tab2": {
+        "name": "Bureau Veritas",
+        "desc": [
+            {
+                "no": "ISO 9001:2015",
+                "detail": "Certification for Quality Management Systems: No. ID003510",
+                "detail2": ""
+            },
+            {
+                "no": "ISO 14001: 2015",
+                "detail": "Certification for Environmental Management Systems: No. ID003511",
+                "detail2": ""
+            },
+            {
+                "no": "ISO 45001: 2018",
+                "detail": "Certification for Occupational Health and Safety Management",
+                "detail2": "Systems: No. ID003741"
+            }
+        ],
+        "val": []
+    }
 }

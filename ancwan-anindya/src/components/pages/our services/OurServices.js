@@ -16,7 +16,6 @@ function OurServices(props) {
     }, [pathname])
 
     const [key, setKey] = useState(props.location.search.substring(6))
-    console.log("aaaaa " + props.location.search.substring(6))
 
     return (
         <>

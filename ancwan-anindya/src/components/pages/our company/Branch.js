@@ -3,6 +3,7 @@ import { Row, Col } from 'react-bootstrap'
 import data from '../../../data'
 import './Branch.css'
 import mapboxgl from 'mapbox-gl'
+import { withTranslation } from "react-i18next";
 
 mapboxgl.accessToken = 'pk.eyJ1IjoiaGFkbGluYSIsImEiOiJja3I4cTVzbmcyNHBsMm5uM3NycXVhbm5yIn0.YflnOZPZMDIMtS9XeAjhZQ';
 
@@ -14,6 +15,7 @@ class Branch extends React.Component {
             lat: -1.307473,
             zoom: 4
         }
+
     }
     
 
@@ -270,23 +272,24 @@ class Branch extends React.Component {
                         </div>
                     </Row>
                     <Row md={3} className="list-branch">
-                        {data.branches && data.branches.map(item => {
+                        { Array.from(data.branches, (e, i) => {
                             return (
                                 <Col className="col-list-branch">
                                     <div>
-                                        <div className="title-branch">{item.location}</div>
+                                        <div className="title-branch">{this.props.t(`branches_our_company.${i}.location`)}</div>
                                     </div>
                                     <div>
-                                        <div className="type-branch">{item.type}</div>
+                                        <div className="type-branch">{this.props.t(`branches_our_company.${i}.type`)}</div>
                                     </div>
                                     <div className="address-branch">
-                                        {item.address && item.address.map(i => {
+                                        {
+                                            Array.from(e.address, (item, id) => {
                                             return (
                                                 <div>
-                                                    {i.name} <br/>
-                                                    {i.district} <br/>
-                                                    {i.province} <br/>
-                                                    {i.phone}
+                                                    {this.props.t(`branches_our_company.${i}.address.${id}.name`)} <br/>
+                                                    {this.props.t(`branches_our_company.${i}.address.${id}.district`)} <br/>
+                                                    {this.props.t(`branches_our_company.${i}.address.${id}.province`)} <br/>
+                                                    {this.props.t(`branches_our_company.${i}.address.${id}.phone`)}
                                                 </div>
                                             )
                                         })}
@@ -301,4 +304,4 @@ class Branch extends React.Component {
     }
 }
 
-export default Branch
+export default withTranslation() (Branch)
