@@ -599,5 +599,14 @@
         }
     ],
     "methodologies": "Metodologi",
-    "client": "Klien"
+    "client": "Klien",
+
+
+    "anindya_vpti_system": "Sistem VPTI ANINDYA",
+    "sub_vpti": "Cabang, laboratorium, dan kantor yang tersebar di berbagai lokasi strategis untuk memberikan layanan terbaik bagi pelanggan kami",
+    "login": "MASUK SISTEM VPTI",
+    "desc_vpti": "Mulai tahun 2019, ANINDYA, telah ditunjuk oleh Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia untuk mengatur pelaksanaan verifikasi dari beberapa komoditi yang di impor.",
+    "flow_vpti": "Alur VPTI",
+    "desc_flow": "Mulai tahun 2019, ANINDYA, telah ditunjuk oleh Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia untuk mengatur pelaksanaan verifikasi dari beberapa komoditi yang di impor.",
+    "import_verif": "Verifikasi Impor"
 }

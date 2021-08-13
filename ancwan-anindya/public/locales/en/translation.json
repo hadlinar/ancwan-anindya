@@ -590,5 +590,14 @@
         }
     ],
     "methodologies": "Methodologies",
-    "client": "Clients"
+    "client": "Clients",
+
+
+    "anindya_vpti_system": "ANINDYA VPTI System",
+    "sub_vpti": "Our service network from branch, laboratory, and office to provide super services for our customers",
+    "login": "LOGIN VPTI SYSTEM",
+    "desc_vpti": "Indonesia’s Ministry of Trade has mandated that a wide range of goods be inspected prior to export to the country to demonstrate compliance with various national regulations. To meet the Indonesian market requirements our technical verification services identify the eligibility of the goods to be imported into Indonesia as well as the quantity, tariff classification and Ministry of Trade specifications. The issuance of the ANINDYA report known as a Laporan Surveyor or Surveyor’s Report facilitates international trade, reduces the risk of delays in Customs clearance and reduces potential losses from the import of non-compliant goods.",
+    "flow_vpti": "Flow VPTI",
+    "desc_flow": "Indonesia’s Ministry of Trade has mandated that a wide range of goods be inspected prior to export to the country to demonstrate compliance with various national regulations. To meet the Indonesian market requirements our technical verification services identify the eligibility of the goods to be imported into Indonesia as well as the quantity, tariff classification and Ministry of Trade specifications. The issuance of the ANINDYA report known as a Laporan Surveyor or Surveyor’s Report facilitates international trade, reduces the risk of delays in Customs clearance and reduces potential losses from the import of non-compliant goods.",
+    "import_verif": "Import Verification"
 }
