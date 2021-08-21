@@ -8,7 +8,7 @@ function Footer() {
 
     return (
         <>
-            <footer>
+            <footer style={{backgroundColor: "white"}}>
                 <div className="footer--light">
                     <Row className="row-footer">
                         <Col md={3} className="col-footer1">
