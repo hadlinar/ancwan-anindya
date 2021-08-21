@@ -42,6 +42,13 @@
     font-weight: 400;
 }
 
+.btn--xsmall {
+    height: 43px;
+    font-size: 14px;
+    font-weight: 400;
+    padding: auto;
+}
+
 .btn--medium:hover, 
 .btn--large:hover{
     background: #fff;

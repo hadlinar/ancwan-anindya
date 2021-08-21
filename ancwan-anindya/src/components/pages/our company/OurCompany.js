@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import { Row, Tabs, Tab } from 'react-bootstrap'
 import About from './About'
 import Branch from './Branch'
@@ -7,16 +7,7 @@ import Navigation2 from '../../NavbarLayout2';
 import { useTranslation } from "react-i18next";
 
 function OurCompany() {
-    const { t, i18n } = useTranslation()
-
-    useEffect(() => {
-        if(JSON.parse(localStorage.getItem('toggled')) === true) {
-            i18n.changeLanguage("id")
-        } else {
-            i18n.changeLanguage("en")
-        }
-
-    }, [i18n])
+    const { t } = useTranslation()
 
     return (
         <>

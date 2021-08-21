@@ -1,10 +1,10 @@
 import React from 'react'
 import data from '../../../data'
 import './Flow.css'
-import ImageZoom from 'react-medium-image-zoom'
-import FlowVPTI from '../../../images/flow-vpti.jpeg'
 import { Row, Col, Tab, Nav } from 'react-bootstrap'
-import { useTranslation } from "react-i18next";
+import { useTranslation } from "react-i18next"
+import { Button } from '../../Button'
+import { Link } from 'react-router-dom'
 
 function Flow() {
     const { t } = useTranslation()
@@ -15,68 +15,71 @@ function Flow() {
                 <p className='about-vpti'>{t('desc_vpti')}</p>
                 <div className='flow-vpti'>
                     <div className='border-title-vpti'/>
-                    <h1 className='title'>{t('flow_vpti')}</h1>
+                    <Row>
+                        <Col md={6}>
+                            <h1 className='title'>{t('flow_vpti')}</h1>
+                        </Col>
+                        <Col md={6} style={{justifyContent: 'flex-end', display: 'flex', paddingRight: '20px'}}>
+                            <Link to={{ pathname: "https://drive.google.com/file/d/1ANSEJ77k0btyqWIKYBXVASqy7uZmj6cp/preview" }} target="_blank">
+                                <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--xsmall'>
+                                    {t('button')}
+                                </Button>
+                            </Link>
+                        </Col>
+                    </Row>
                     <div>
-                        <p className='detail-flow-vpti'>{t('desc_flow')}</p>
+                        <p className='detail-flow-vpti'>{t('desc_vpti')}</p>
                     </div>
                     <div className='flow-img'>
-                    <ImageZoom
-                        image={{
-                            src:
-                            FlowVPTI,
-                            alt: "VPTI Flow",
-                            className: "image-flow-vpti"
-                        }}
-                        zoomImage={{
-                            src:
-                            FlowVPTI,
-                            alt: "VPTI Flow",
-                            className: "image-flow-vpti--zoomed"
-                        }}
-                    />
+                    <img src={require(`../../../images/flow-vpti.png`).default} alt='VPTI Flow'/>
                     </div>
                     <div className='border-title-vpti'/>
                     <h1 className='title'>{t('import_verif')}</h1>
-                    <Tab.Container id="left-tabs-example" defaultActiveKey="ALAS KAKI">
+                    <Tab.Container id="left-tabs-example" defaultActiveKey={1}>
                         <Row  style={{backgroundColor: "#F2F2F2", border: "1px solid #E0E0E0", height: '2110px'}}>
                             <Col sm={4} style={{paddingLeft: "0", paddingRight: "0"}}>
                                 <Nav variant="pills" className="flex-column">
-                                    {data.import_vpti && data.import_vpti.map((item) => {
-                                        return (
-                                            <Nav.Item>
-                                                <Nav.Link eventKey={item.tab_title} className="name-tab-vpti">{item.tab_title}</Nav.Link>
-                                            </Nav.Item>
-                                        )
-                                    })}
+                                    {
+                                        Array.from(data.import_vpti, (item, i) => {
+                                            return (
+                                                <Nav.Item>
+                                                    <Nav.Link eventKey={i+1} className="name-tab-vpti">{t(`import_vpti.${i}.tab_title`)}</Nav.Link>
+                                                </Nav.Item>
+                                            )
+                                        })
+                                    }
                                 </Nav>
                             </Col>
                             <Col sm={8} style={{paddingLeft: "0", paddingRight: "0"}}>
                                 <Tab.Content className="vpti-content">
-                                    {data.import_vpti && data.import_vpti.map(item => {
+                                    {Array.from(data.import_vpti, (item, i) => {
                                         return (
-                                            <Tab.Pane eventKey={item.tab_title}>
+                                            <Tab.Pane eventKey={i+1}>
                                                 <div>
-                                                    <img src={require(`../../../images/${item.pic}.png`).default} alt={item.tab_title} className='content-img'/>
+                                                    <img src={require(`../../../images/${item.pic}.png`).default} alt={t(`import_vpti.${i}.tab_title`)} className='content-img'/>
                                                 </div>
                                                 <div className='content-title'>
-                                                    {item.tab_title}
+                                                    {t(`import_vpti.${i}.tab_title`)}
                                                 </div>
                                                 <div>
-                                                    {item.dasar_hukum && item.dasar_hukum.map(i => {
+                                                    {
+                                                        Array.from(item.dasar_hukum, (item2, ind) => {
                                                         return (
                                                             <>
-                                                                <h3 className='subtitle-vpti'>{i.title}</h3>
-                                                                {i.permendag.map(permendag => {
+                                                                <h3 className='subtitle-vpti'>{t(`import_vpti.${i}.dasar_hukum.${ind}.title`)}</h3>
+                                                                {
+                                                                    Array.from(item2.permendag, (item3, id) => {
                                                                     return (
                                                                         <>
-                                                                            <a href={permendag.url} target='_blank' className='permendag-main' rel="noreferrer">
-                                                                                {permendag.main}<br/>
+                                                                            <a href={item3.url} target='_blank' className='permendag-main' rel="noreferrer">
+                                                                                {t(`import_vpti.${i}.dasar_hukum.${ind}.permendag.${id}.main`)}<br/>
                                                                             </a>
                                                                             <ol className="list-rev">
-                                                                                {permendag.rev.map(rev => {
+                                                                                {
+                                                                                Array.from(item3.rev, (item4, idRev) => {
                                                                                     return(
                                                                                         <li>
-                                                                                            <a href={rev.url} className="rev" target='_blank' rel="noreferrer"> {rev.text} </a>
+                                                                                            <a href={item4.url} className="rev" target='_blank' rel="noreferrer"> {t(`import_vpti.${i}.dasar_hukum.${ind}.permendag.${id}.rev.${idRev}.text`)} </a>
                                                                                         </li>
                                                                                     )
                                                                                 })}
@@ -90,30 +93,15 @@ function Flow() {
                                                 </div>
                                                 <div style={{padding: '20px 0 0 0'}}>
                                                     {Array.isArray(item.daftar_perubahan) ?
-                                                        item.daftar_perubahan.map(i => {
+                                                        Array.from(item.daftar_perubahan, (item2, ind) => {
                                                             return (
                                                                 <>
-                                                                    <h3 className='subtitle-vpti'>{i.title}</h3>
-                                                                    {i.permendag.map(permendag => {
+                                                                    <h3 className='subtitle-vpti'>{t(`import_vpti.${i}.daftar_perubahan.${ind}.title`)}</h3>
+                                                                    {Array.from(item2.kepmendag, (item3, id) => {
                                                                         return (
                                                                             <>
-                                                                                <ol className="list-rev">
-                                                                                    {permendag.rev.map(rev => {
-                                                                                        return(
-                                                                                            <li>
-                                                                                                <a href={rev.url} className="rev" target='_blank' rel="noreferrer"> {rev.text} </a>
-                                                                                            </li>
-                                                                                        )
-                                                                                    })}
-                                                                                </ol>
-                                                                            </>
-                                                                        )
-                                                                    })}
-                                                                    {i.kepmendag.map(kepmendag => {
-                                                                        return (
-                                                                            <>
-                                                                                <a href={kepmendag.url} target='_blank' className='kepmendag-main' rel="noreferrer">
-                                                                                    {kepmendag.main}<br/><br/>
+                                                                                <a href={item3.url} target='_blank' className='kepmendag-main' rel="noreferrer">
+                                                                                    {t(`import_vpti.${i}.daftar_perubahan.${ind}.kepmendag.${id}.main`)}<br/><br/>
                                                                                 </a>
                                                                             </>
                                                                         )
@@ -124,15 +112,16 @@ function Flow() {
                                                     }
                                                 </div>
                                                 <div style={{padding: '20px 0 0 0'}}>
-                                                    {item.ruang_lingkup.map(i => {
+                                                    {
+                                                        Array.from(item.ruang_lingkup, (item2, ind) => {
                                                             return (
                                                                 <>
-                                                                    <h3 className='subtitle-vpti'>{i.title}</h3>
-                                                                    <p className='subtitle-ruang-lingkup'>{i.subtitle}</p>
+                                                                    <h3 className='subtitle-vpti'>{t(`import_vpti.${i}.ruang_lingkup.${ind}.title`)}</h3>
+                                                                    <p className='subtitle-ruang-lingkup'>{t(`import_vpti.${i}.ruang_lingkup.${ind}.subtitle`)}</p>
                                                                     <ol className='list-rev-rl'>
-                                                                        {i.val.map(items => {
+                                                                        {Array.from(item2.val, (item3, indVal) => {
                                                                             return (
-                                                                                <li>{items}</li>
+                                                                                <li>{t(`import_vpti.${i}.ruang_lingkup.${ind}.val.${indVal}`)}</li>
                                                                             )
                                                                         })}
                                                                     </ol>
@@ -143,21 +132,13 @@ function Flow() {
                                                 { 
                                                     item.tab_title !== "BARANG MODAL TIDAK BARU" ? 
                                                         <>
-                                                            <div className={item.tab_title === "BARANG BERBASIS SISTEM PENDINGIN" ? 'rectangle-large' 
-                                                                : [item.tab_title === "ELEKTRONIKA" || 
-                                                                    item.tab_title === "KERAMIK" ||
-                                                                    item.tab_title === "MAINAN ANAK" ||
-                                                                    item.tab_title === "MAKANAN MINUMAN" ||
-                                                                    item.tab_title === "OBAT TRADISIONAL DAN SUPLEMEN KESEHATAN" ||
-                                                                    item.tab_title === "TELEPON SELULER, KOMPUTER GENGGAM (HANDHELD), DAN KOMPUTER TABLET" ||
-                                                                    item.tab_title === "MESIN MULTIFUNGSI BERWARNA, MESIN FOTOKOPI BERWARNA, DAN MESIN PRINTER BERWARNA" 
-                                                                    ? 'rectangle-small' : 'rectangle']}>
+                                                            <div className="rectangle">
                                                                 {
-                                                                    item.catatan.map(i => {
+                                                                    Array.from(item.catatan, (item2, ind) => {
                                                                         return(
                                                                             <>
-                                                                                <p className='catatan-content'>{i.title}</p>
-                                                                                <p className='catatan-content'>{i.text}</p>
+                                                                                <p className='catatan-content'>{t(`import_vpti.${i}.catatan.${ind}.title`)}</p>
+                                                                                <p className='catatan-content'>{t(`import_vpti.${i}.catatan.${ind}.text`)}</p>
                                                                             </>
                                                                         )
                                                                     })
@@ -167,13 +148,13 @@ function Flow() {
                                                     : <div/>
                                                 }
                                                 <div style={{padding: '40px 0 0 0'}}>
-                                                    {item.kontak.map(i => {
+                                                    {Array.from(item.kontak, (item2, ind) => {
                                                         return (
                                                             <>
-                                                                <h3 className='subtitle-vpti'>{i.title}</h3>
-                                                                <p style={{fontSize: '16px', fontWeight: '300', color: 'black', margin: '0'}}>{i.nama}</p>
-                                                                <a style={{fontSize: '16px', fontWeight: '300', color: '#3A7AE3', margin: '0'}} href={"mailto:"+i.email}>{i.email}</a>
-                                                                <p style={{fontSize: '16px', fontWeight: '300', color: 'black', margin: '0'}}>{i.telp}</p>
+                                                                <h3 className='subtitle-vpti'>{t(`import_vpti.${i}.kontak.${ind}.title`)}</h3>
+                                                                <p style={{fontSize: '16px', fontWeight: '300', color: 'black', margin: '0'}}>{t(`import_vpti.${i}.kontak.${ind}.nama`)}</p>
+                                                                <a style={{fontSize: '16px', fontWeight: '300', color: '#3A7AE3', margin: '0'}} href={"mailto:"+item2.email}>{t(`import_vpti.${i}.kontak.${ind}.email`)}</a>
+                                                                <p style={{fontSize: '16px', fontWeight: '300', color: 'black', margin: '0'}}>{t(`import_vpti.${i}.kontak.${ind}.telp`)}</p>
                                                             </>
                                                         )
                                                     })}

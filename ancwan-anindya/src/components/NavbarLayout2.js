@@ -16,9 +16,11 @@ function Navigation2() {
 
         if(toggled) {
             i18n.changeLanguage("id")
+            localStorage.setItem('language', 'id')
             localStorage.setItem('toggled', JSON.stringify(toggled))
         } else {
             i18n.changeLanguage("en")
+            localStorage.setItem('language', 'en')
             localStorage.setItem('toggled', JSON.stringify(toggled))
         }
     }

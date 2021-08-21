@@ -7,7 +7,7 @@ import { useTranslation } from "react-i18next";
 let slides = [
     <img src={require(`../../../images/image-2.png`).default} alt=""/>,
     <img src={require(`../../../images/image-1.png`).default} alt=""/>,
-    <img src={require(`../../../images/image-1.png`).default} alt=""/>
+    <img src={require(`../../../images/image-3.png`).default} alt=""/>
 ]
 
 function About() {
