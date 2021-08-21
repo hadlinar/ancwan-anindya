@@ -1,5 +1,6 @@
 .container-vpti {
     padding: 80px 80px 80px 80px;
+    background-color: white;
 }
 
 .about-vpti {
@@ -147,28 +148,12 @@
 }
 
 .rectangle {
-  height: 128px;
-  width: 100%;
+  /* height: 128px;
+  width: 100%; */
   background-color: #E0E0E0;
-  margin: 40px 0 0 0;
-  padding: 16px;
+  /* margin: 40px 0 0 0; */
+  padding: 10px 20px 10px 20px;
 }
-
-.rectangle-small {
-    height: 100px;
-    width: 100%;
-    background-color: #E0E0E0;
-    margin: 40px 0 0 0;
-    padding: 16px;
-  }
-
-.rectangle-large {
-    height: 150px;
-    width: 100%;
-    background-color: #E0E0E0;
-    margin: 40px 0 0 0;
-    padding: 16px;
-  }
 
 .catatan-content {
     color: black;

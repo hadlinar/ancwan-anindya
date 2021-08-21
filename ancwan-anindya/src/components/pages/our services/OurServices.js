@@ -9,17 +9,11 @@ import { useTranslation } from "react-i18next";
 
 function OurServices(props) {
     const { pathname } = useLocation()
-    const { t, i18n } = useTranslation()
+    const { t } = useTranslation()
 
     useEffect(() => {
         window.scrollTo(0, 0);
-
-        if(JSON.parse(localStorage.getItem('toggled')) === true) {
-            i18n.changeLanguage("id")
-        } else {
-            i18n.changeLanguage("en")
-        }
-    }, [pathname, i18n])
+    }, [pathname])
 
     const [key, setKey] = useState(props.location.search.substring(6))
 
@@ -50,7 +44,7 @@ function OurServices(props) {
                                         </p>
                                         <Row style={{paddingTop: "80px", margin: "auto"}}>
                                             {
-                                                item.name !== "Sand Pebble & Crushed Stone" ? 
+                                                item.name !== "Sand, Pebble & Crushed Stone" ? 
                                                 <>
                                                         <Col md={6} style={{paddingRight: "80px"}}>
                                                             <Row className="border-title-services"/>

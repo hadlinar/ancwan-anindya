@@ -6,12 +6,14 @@ i18next
   .use(initReactI18next)
   .use(HttpApi)
   .init({
-    // lng: "en",
+    lng: localStorage.getItem('language') || 'en',
     whitelist: ['en', 'id'],
     fallbackLng: "en",
     interpolation: {
       escapeValue: false,
     },
+    order: ['localStorage', 'navigator'],
+    caches: 'localStorage',
     supportedLngs: ["en", "id"],
     debug: process.env.NODE_ENV === "production",
   });

@@ -88,9 +88,9 @@
         },
         {
             "key": 6,
-            "name":"Sand Pebble & Crushed Stone",
+            "name":"Sand, Pebble & Crushed Stone",
             "img":"sand",
-            "label":"Sand Pebble & Crushed Stone",
+            "label":"Sand, Pebble & Crushed Stone",
             "path": "/our-service"
         }
     ],
@@ -544,7 +544,7 @@
             ]
         },
         {
-            "name": "Sand Pebble & Crushed Stone",
+            "name": "Sand, Pebble & Crushed Stone",
             "subtitle": "Introducing the new division in ANINDYA, in responding to the country's rapid infrastructure development activities.",
             "col1": [
                 {
@@ -606,15 +606,1235 @@
 
 
     "anindya_vpti_system": "ANINDYA VPTI System",
+    "button": "LEARN MORE",
     "sub_vpti": "Our service network from branch, laboratory, and office to provide super services for our customers",
     "login": "LOGIN VPTI SYSTEM",
     "desc_vpti": "Indonesia’s Ministry of Trade has mandated that a wide range of goods be inspected prior to export to the country to demonstrate compliance with various national regulations. To meet the Indonesian market requirements our technical verification services identify the eligibility of the goods to be imported into Indonesia as well as the quantity, tariff classification and Ministry of Trade specifications. The issuance of the ANINDYA report known as a Laporan Surveyor or Surveyor’s Report facilitates international trade, reduces the risk of delays in Customs clearance and reduces potential losses from the import of non-compliant goods.",
     "flow_vpti": "Flow VPTI",
     "desc_flow": "Indonesia’s Ministry of Trade has mandated that a wide range of goods be inspected prior to export to the country to demonstrate compliance with various national regulations. To meet the Indonesian market requirements our technical verification services identify the eligibility of the goods to be imported into Indonesia as well as the quantity, tariff classification and Ministry of Trade specifications. The issuance of the ANINDYA report known as a Laporan Surveyor or Surveyor’s Report facilitates international trade, reduces the risk of delays in Customs clearance and reduces potential losses from the import of non-compliant goods.",
     "import_verif": "Import Verification",
+    "import_vpti": [
+        {
+            "tab_title": "FOOTWEAR",
+            "pic": "alas-kaki",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
+                            "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 concerning the Eighth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1JWCPymLibiK72u7tzyg3gN8llytWXMI0/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 24 of the Year 2019 concerning the Seventh Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1Wa66lbZnpuBrmStAy-pf4pao3Dj-pADF/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 121 of the Year 2018 concerning the Sixth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 42 of the Year 2018 concerning the Fifth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 12 of the Year 2018 concerning the Fourth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94 of the Year 2017 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1HkEDhBMj6Lg7FppOR06J6uJctIQDo4NI/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 81 of the Year 2017 concerning the Second Amendment to the Regulation of the Minister of Trade (Permendag) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1rUBYQFKDKJHyvKXENybVbcYdl5feHDts/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94/M-DAG/PER/10/2015 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1rUvUxyVExAo9dzYgSOnAMhWy1EFiMjLn/preview"
+                                }
+                            ]
+                        },
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
+                            "url": "https://drive.google.com/file/d/1qqnL8WYoyVPtkqNbOvjHVhw0wdPgdo3k/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 78 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
+                                    "url": "https://drive.google.com/file/d/1o47ZpzBwRlLKS10Ry9Q6CwUJi4DX4ciD/preview"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Footwear Products",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of the Year 2019 concerning Delegation of Surveyors to execute Verification or Technical Investigation for the Import of Certain Products.",
+                            "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
+                            "rev": []
+                        },
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 1067 of the Year 2020 concerning the Appointment of PT Anindya Wiraputra Konsult (Persero) as a Surveyor to Execute Verification or Technical Investigation for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
+                            "url": "https://drive.google.com/file/d/1j54C2Cw48yguhx_UU9fhaY--8mbLGgQp/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Country of origin and port of loading",
+                        "Description of goods and Tariff Post / HS code",
+                        "Product Certification Number Using National Standard Mark (SPPT SNI), for certain required products",
+                        "Goods Registration Number (NPB)",
+                        "Shipping time",
+                        "Destination port"
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "Regulations on the Limit and Restrictions (Lartas) for Footwear Products are separated into 2 (two) categories, under the Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 and Number 78 of the Year 2020."
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Intan Rusli",
+                    "email": "intan.rusli_lsi@anindya.biz",
+                    "telp": "+62 813-1331-1168"
+                }
+            ]
+        },
+        {
+            "tab_title": "TIRE",
+            "pic": "ban",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 77/M-DAG/PER/11/2016 concerning Provisions for the Import of Tires.",
+                            "url": "https://drive.google.com/file/d/1ShZAPLUSq5f129wuDEE_rGbBupEZU07Q/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 05 of the Year 2019 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 77/M-DAG/PER/11/2016 concerning Provisions for the Import of Tires;",
+                                    "url": "https://drive.google.com/file/d/1Ze6lWsYbUS8nI-vbg1qM0Ewtg1cQNyiV/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (Permendag) Number 117 of the Year 2018 concerning the Second Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 77/M-DAG/PER/11/2016 concerning Provisions for the Import of Tires;",
+                                    "url": "https://drive.google.com/file/d/1xLMoMFoiS7c0cSk4gcgPuwm0ttLfHYbp/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 06 of the Year 2018 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 77/M-DAG/PER/11/2016 concerning Provisions for the Import of Tires;",
+                                    "url": "https://drive.google.com/file/d/1GClfdM-wM7CCrqSf4Zc96BjhGYQRx0fw/preview"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Tires",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 365 of the Year 2020 concerning the Delegation of Surveyors to Execute Verification or Technical Investigation for the Import of Tires.",
+                            "url": "https://drive.google.com/file/d/1Bf-4Hn-LjJQS55kn0JCzBsxFM4cywyGr/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Country of origin and port of loading",
+                        "Tariff Post or HS code and description",
+                        "Brand and quantity",
+                        "Type and size",
+                        "Shipping time",
+                        "Destination port",
+                        "Propriety of Product Certification Number Using Indonesian National Standard Mark (SPPT SNI) for Tires with documents from origin"
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "Import Approval from the Minister of Trade (PI) expiration date differs for API-P (valid for 1 year) and API-U (valid for 6 months)."
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Zulkifli Heru Susanto",
+                    "email": "zulkifli.heru@anindya.biz",
+                    "telp": "+62 856-9242-7289"
+                }
+            ]
+        },
+        {
+            "tab_title": "COOLING SYSTEM BASED GOOD",
+            "pic": "barang",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 84/M-DAG/PER/10/2015 concerning Provisions on Import of Cooling System Based Goods.",
+                            "url": "https://drive.google.com/file/d/1VJgJX5OiQjrw06vV5ucybkf8b25YLY0j/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 18 of the Year 2018 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 84/M-DAG/PER/10/2015 concerning Provisions on Import of Cooling System Based Goods;",
+                                    "url": "https://drive.google.com/file/d/1cZh1EQOnBpZjopZ9qft_kgVt-_YppWAV/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 40 of the Year 2016 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 84/M-DAG/PER/10/2015 concerning Provisions on Import of Cooling System Based Goods.",
+                                    "url": "https://drive.google.com/file/d/1SQGtjq3FTWUrMZ7nmMWkcrkkzmES6LHW/preview"
+                                }
+                            ]
+                        },
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
+                            "url": "https://drive.google.com/file/d/1qqnL8WYoyVPtkqNbOvjHVhw0wdPgdo3k/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 78 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
+                                    "url": "https://drive.google.com/file/d/1o47ZpzBwRlLKS10Ry9Q6CwUJi4DX4ciD/preview"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Letter of Appointment of PT Anindya Wiraputra Kosult for Cooling System Based Goods",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 421 of the Year 2020 concerning Delegation of Surveyors to Execute Verification or Technical Investigation of Imported Cooling System Based Goods.",
+                            "url": "https://drive.google.com/file/d/1hb0Tl2sa1hgs1E_XYyTVSzP33H7oWogR/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Name and address of importer and exporter",
+                        "Type, Tariff Post / HS code 10 (ten) digits and their description",
+                        "Specification of refrigerants used",
+                        "Amount, volume or weight",
+                        "Country of origin",
+                        "Country and port of loading",
+                        "Destination port"
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "Non-New Capital Goods that are included in Cooling System Based Goods in the Minister of Trade Regulation 75/2013 are subject to the Provisions for the Import of Cooling System Based Goods. For Refrigerant System Based Goods, also pay attention to the provisions in the Minister of Trade Regulation Number. 84/2015 and Number 68/2020."
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Dicky Muis",
+                    "email": "dicky.muis_lsi@anindya.biz",
+                    "telp": "+62 812-2297-0989"
+                }
+            ]
+        },
+        {
+            "tab_title": "SECOND HAND CAPITAL GOOD",
+            "pic": "barang-modal-tidak-baru",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 118 of 2018 concerning Provisions on the Import of Second Hand Capital Goods.",
+                            "url": "https://drive.google.com/file/d/10Q001ky7mbDXotDkBtYtyviyhKb5aoWW/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (Permendag) Number 76 of 2019 concerning Amendments to Regulation of the Minister of Trade Number 118 of 2018 concerning Provisions on the Import of Capital Goods in Non-New Conditions.",
+                                    "url": "https://drive.google.com/file/d/1b1v2gs8fY5cKkxwHmGqkSFOBbF6EasUw/preview"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Letter of Appointment of PT Anindya Wiraputra Kosult for Second Hand Capital Goods",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 1087 of the Year 2020 concerning Delegation of Surveyors to Execute Verification or Technical Investigation of Imported Capital Goods in Non-New Conditions.",
+                            "url": "https://drive.google.com/file/d/1FbVwYtH_Vk-Z9ldItnJMrPlE3my4FBwn/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Usability: suitable for use, repair, and/or re-operation",
+                        "HS Code",
+                        "Age for goods which import age limit is set",
+                        "Amount and value"
+                    ]
+                }
+            ],
+            "catatan": [],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Adhy Herlastadhy",
+                    "email": "adhy_lsi@anindya.biz",
+                    "telp": "+62 812-5954-8903"
+                }
+            ]
+        },
+        {
+            "tab_title": "STEEL IRON, STEEL ALLOY, & STEEL DERIVATIVE PRODUCT",
+            "pic": "besi-baja",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 110 of the Year 2018 concerning Provisions for the Import of Steel Iron, Steel Alloy, & Steel Derivatives.",
+                            "url": "https://drive.google.com/file/d/11Lpjv_3Ch2tSij7kjaIly510d1ijshLX/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 03 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 110 of the Year 2018 concerning Provisions on the Import of Steel Iron, Steel Alloy, and Steel Derivative Products.",
+                                    "url": "https://drive.google.com/file/d/1QSmCyZ6cV4ptLCxNuEigvhECdS_wdsYY/preview"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Appointment Letter of PT Anindya Wiraputra Kosult for Steel Iron, Steel Alloy, & Steel Derivative Products",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 781 of the Year 2019 concerning Delegation of Surveyors to Execute Verification or Technical Investigation for the Import of Steel Iron, Steel Alloy, and Steel Derivative Products",
+                            "url": "https://drive.google.com/file/d/1u-MH0j3kR6N6jBnONuJn5G_RGgyuuhqm/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Data or information in the Import Approval (PI) from the Minister of Trade",
+                        "Conformity of imported Iron or Steel and Alloy Steel with mill test certificate (MTC)",
+                        "Product Certification Number Using National Standard Mark (SPPT SNI), for certain required products"
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "There are 360 ​Post ​Tariff Codes for Iron and Steel, 65 Post ​Tariff Codes for Alloy Steel, and 55 Post ​Tariff Codes for Steel Derivative Products."
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Gunawan Pragusty Indrabuana",
+                    "email": "gunawan_lsi@anindya.biz",
+                    "telp": "+62 812-2392-6667"
+                }
+            ]
+        },
+        {
+            "tab_title": "ELEKTRONIKA",
+            "pic": "elektronika",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
+                            "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 concerning the Eighth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1JWCPymLibiK72u7tzyg3gN8llytWXMI0/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 24 of the Year 2019 concerning the Seventh Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1Wa66lbZnpuBrmStAy-pf4pao3Dj-pADF/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 121 of the Year 2018 concerning the Sixth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 42 of the Year 2018 concerning the Fifth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 12 of the Year 2018 concerning the Fourth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94 of the Year 2017 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1HkEDhBMj6Lg7FppOR06J6uJctIQDo4NI/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 81 of the Year 2017 concerning the Second Amendment to the Regulation of the Minister of Trade (Permendag) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1rUBYQFKDKJHyvKXENybVbcYdl5feHDts/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94/M-DAG/PER/10/2015 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1rUvUxyVExAo9dzYgSOnAMhWy1EFiMjLn/preview"
+                                }
+                            ]
+                        }
+                        
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Electronics",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of the Year 2019 concerning Delegation of Surveyors to execute Verification or Technical Investigation for the Import of Certain Products.",
+                            "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Country of origin and port of loading",
+                        "Description of goods and Post Tariff / HS Code",
+                        "Product Certification Number Using National Standard Mark (SPPT SNI), for certain required products",
+                        "Goods Registration Number (NPB);",
+                        "Instructions for use (manuals) and after-sales warranty/guarantee cards in Indonesian, for certain required products",
+                        "Certification of Telecommunication Tools and Equipment (POSTEL), for certain required products",
+                        "Shipping time",
+                        "Destination port"
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "Electronics has 93 Post Tariff Codes that is required for VPTI."
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Zulkifli Heru Susanto",
+                    "email": "zulkifli.heru@anindya.biz",
+                    "telp": "+62 856-9242-7289"
+                }
+            ]
+        },
+        {
+            "tab_title": "HORTICULTURAL",
+            "pic": "hortikultura",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade of the Republic of Indonesia Number 44 of the Year 2019 concerning Provisions for the Import of Horticultural Products.",
+                            "url": "https://drive.google.com/file/d/1SEAiybeBxGkVi-920jaepGS_99UowBGF/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade of the Republic of Indonesia Number 27 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade Number 44 of the Year 2019 concerning Provisions for the Import of Horticultural Products.",
+                                    "url": "https://drive.google.com/file/d/1yn5wqtS4gl_UBeyL-oMzMQToAm7xg6ZM/preview"
+                                }
+                            ]
+                        }
+                        
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Appointment Letter of PT Anindya Wiraputra Kosult for Horticultural Products",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 779 of the Year 2021 concerning the Appointment of PT Anindya Wiraputra Konsult as the Surveyor to Execute Verification or Technical Investigation for the Import of Horticultural Product.",
+                            "url": "https://drive.google.com/file/d/1sXQ17iBOv4DBHvMaUmpgbxO1AY3Wtiyq/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Country and port of origin",
+                        "Product Description & Tariff Post / HS Code",
+                        "Type & volume",
+                        "Shipping time",
+                        "Destination port",
+                        "Food safe & recycling symbols in the packaging",
+                        "Health certificate",
+                        "Phytosanitary Certificate",
+                        "Certificate of Origin",
+                        "Food grade packaging certificate or statement"
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "There are 2 types of Import Approval (PI) from the Minister of Trade, namely PI for Fresh Horticultural Products for Consumption and Fresh Horticultural Products for Industrial Raw Materials."
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Novia Giselaputri Sukandar",
+                    "email": "novia_lsi@anindya.biz",
+                    "telp": "+62 812-9511-1380"
+                }
+            ]
+        },
+        {
+            "tab_title": "CERAMIC",
+            "pic": "keramik",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of The Minister of Trade (PERMENDAG) Number 06/M-DAG/PER/1/2007 concerning Verification or Technical Investigation for the Import of Ceramic.",
+                            "url": "https://drive.google.com/file/d/1kg-ZltuTemWnJf6eu9sim83rZkihi6SL/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (Permendag) Number 10 of the Year 2018 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 06/M-DAG/PER/1/2007 concerning Verification or Technical Investigation for the Import of Ceramic;",
+                                    "url": "https://drive.google.com/file/d/1Ho0WzCx2N20CyIjHjrt8_9RWNVrmDTlj/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 72/M-DAG/PER/11/2012 concerning the Second Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 06/M-DAG/PER/1/2007 concerning Verification or Technical Investigation for the Import of Ceramic;",
+                                    "url": "https://drive.google.com/file/d/1Vo9ur4WzDP7h9gmbwb7lMXAJZBWCfaWO/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25/M-DAG/PER/6/2007 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 06/M-DAG/PER/1/2007 concerning Verification or Technical Investigation for the Import of Ceramic..",
+                                    "url": "https://drive.google.com/file/d/1iAGvtlTC1fARqYNxEryusqWbC4jy9BMX/preview"
+                                }
+                            ]
+                        }
+                        
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Appointment Letter of PT Anindya Wiraputra Kosult for Ceramic",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 778 of 2021 concerning the Appointment of PT Anindya Wiraputra Konsult as the Surveyor to Execute Verification or Technical Investigation for the Import of Ceramic.",
+                            "url": "https://drive.google.com/file/d/16oBelH4RHwKvAbMRcXTn8ZNuH6jHy34u/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Description and specifications of goods which include tariff post/HS Code",
+                        "Amount (volume) and net weight per type of goods",
+                        "Data or information regarding the country of origin of the goods",
+                        "Shipping time."
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "Post Border Commodities, under Sub-Directorate III (Miscellaneous Industrial Goods and Industrial Raw Materials)"
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Tia Regita",
+                    "email": "tiaregita_lsi@anindya.biz",
+                    "telp": "+62 811-9279-197"
+                }
+            ]
+        },
+        {
+            "tab_title": "CHILDREN'S TOYS",
+            "pic": "mainan",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
+                            "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 concerning the Eighth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1JWCPymLibiK72u7tzyg3gN8llytWXMI0/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 24 of the Year 2019 concerning the Seventh Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1Wa66lbZnpuBrmStAy-pf4pao3Dj-pADF/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 121 of the Year 2018 concerning the Sixth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 42 of the Year 2018 concerning the Fifth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 12 of the Year 2018 concerning the Fourth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94 of the Year 2017 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1HkEDhBMj6Lg7FppOR06J6uJctIQDo4NI/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 81 of the Year 2017 concerning the Second Amendment to the Regulation of the Minister of Trade (Permendag) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1rUBYQFKDKJHyvKXENybVbcYdl5feHDts/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94/M-DAG/PER/10/2015 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1rUvUxyVExAo9dzYgSOnAMhWy1EFiMjLn/preview"
+                                }
+                            ]
+                        }
+                        
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Children's Toys",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of the Year 2019 concerning Delegation of Surveyors to execute Verification or Technical Investigation for the Import of Certain Products.",
+                            "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Country of origin and port of loading",
+                        "Description of goods and Tariff Post / HS Code",
+                        "Product Certification Number Using National Standard Mark (SPPT SNI), for certain required products",
+                        "Goods Registration Number (NPB);",
+                        "Instructions for use (manuals) and after-sales warranty/guarantee cards in Indonesian, for certain required products",
+                        "Shipping time",
+                        "Destination port"
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "Children's Toys consist of 29 Tariff Post Code that is required for VPTI."
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Intan Rusli",
+                    "email": "intan.rusli_lsi@anindya.biz",
+                    "telp": "+62 813-1331-1168"
+                }
+            ]
+        },
+        {
+            "tab_title": "FOOD & BEVERAGE",
+            "pic": "makanan",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
+                            "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 concerning the Eighth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1JWCPymLibiK72u7tzyg3gN8llytWXMI0/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 24 of the Year 2019 concerning the Seventh Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1Wa66lbZnpuBrmStAy-pf4pao3Dj-pADF/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 121 of the Year 2018 concerning the Sixth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 42 of the Year 2018 concerning the Fifth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 12 of the Year 2018 concerning the Fourth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94 of the Year 2017 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1HkEDhBMj6Lg7FppOR06J6uJctIQDo4NI/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 81 of the Year 2017 concerning the Second Amendment to the Regulation of the Minister of Trade (Permendag) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1rUBYQFKDKJHyvKXENybVbcYdl5feHDts/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94/M-DAG/PER/10/2015 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1rUvUxyVExAo9dzYgSOnAMhWy1EFiMjLn/preview"
+                                }
+                            ]
+                        }
+                        
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Food & Beverage",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of the Year 2019 concerning Delegation of Surveyors to execute Verification or Technical Investigation for the Import of Certain Products.",
+                            "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Country of origin and port of loading;",
+                        "Description of goods and Tariff Post / HS Code",
+                        "Product Certification Number Using National Standard Mark (SPPT SNI), for certain required products",
+                        "Goods Registration Number (NPB);",
+                        "Certificate of Analysis (COA), for certain required products",
+                        "Shipping time",
+                        "Destination port"
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "Food and Beverage consists of 231 Tariff Post Code that is required for VPTI."
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Intan Rusli",
+                    "email": "intan.rusli_lsi@anindya.biz",
+                    "telp": "+62 813-1331-1168"
+                }
+            ]
+        },
+        {
+            "tab_title": "COLOR MULTIFUNCTION MACHINE, COLOR PHOTOCOPY MACHINE, AND COLOR PRINTER MACHINE",
+            "pic": "mesin",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 102/M-DAG/PER/12/2015 concerning Provisions for the Import of Color Multifunction Machine, Color Photocopy Machine, and Color Printer Machine.",
+                            "url": "https://drive.google.com/file/d/1GY4riqL5OrPs3xeUXI8yKNQvirT_EE5p/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 14 of the Year 2018 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 102/M-DAG/PER/12/2015 concerning Provisions on Import of Color Multifunction Machine, Color Photocopy Machine, and Color Printer Machine.",
+                                    "url": "https://drive.google.com/file/d/1S5PRjJfltdwFeiBnXkmNJTm8WNnhUx9e/preview"
+                                }
+                            ]
+                        }
+                        
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Appointment Letter of PT Anindya Wiraputra Kosult for Color Multifunction Machines, Color Photocopy Machine, and Color Printer Machine",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 367 of the Year 2020 concerning Delegation of Surveyors to Execute Verification or Technical Investigation of the Import of Color Multifunction Machine, Color Photocopy Machine, and Color Printer Machine.",
+                            "url": "https://drive.google.com/file/d/1Jy9QhMqitBHHTjwmRkfPjzVZV3kS8aDS/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Country of origin and port of loading",
+                        "Description of goods and Tariff Post / HS Code",
+                        "Type, quantity, and specification of goods",
+                        "Item type",
+                        "Shipping time",
+                        "Destination port"
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "API with recommendation from BOTASUPAL."
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Dicky Muis",
+                    "email": "dicky.muis_lsi@anindya.biz",
+                    "telp": "+62 812-2297-0989"
+                }
+            ]
+        },
+        {
+            "tab_title": "TRADITIONAL MEDICINE AND HEALTH SUPPLEMENTS",
+            "pic": "obat",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
+                            "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 concerning the Eighth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1JWCPymLibiK72u7tzyg3gN8llytWXMI0/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 24 of the Year 2019 concerning the Seventh Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1Wa66lbZnpuBrmStAy-pf4pao3Dj-pADF/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 121 of the Year 2018 concerning the Sixth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 42 of the Year 2018 concerning the Fifth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 12 of the Year 2018 concerning the Fourth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94 of the Year 2017 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1HkEDhBMj6Lg7FppOR06J6uJctIQDo4NI/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 81 of the Year 2017 concerning the Second Amendment to the Regulation of the Minister of Trade (Permendag) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1rUBYQFKDKJHyvKXENybVbcYdl5feHDts/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94/M-DAG/PER/10/2015 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1rUvUxyVExAo9dzYgSOnAMhWy1EFiMjLn/preview"
+                                }
+                            ]
+                        }
+                        
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Letter of Appointment of PT Anindya Wiraputra Kosult for Traditional Medicine Products and Health Supplements",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of the Year 2019 concerning Delegation of Surveyors to execute Verification or Technical Investigation for the Import of Certain Products.",
+                            "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Country of origin and port of loading",
+                        "Description of goods and postal Tariff Post / HS Number",
+                        "Product Certification Number Using the National Standard Mark (SPPT SNI), for certain Products that is deemed mandatory",
+                        "Goods Registration Number (NPB)",
+                        "Certificate of Analysis (COA), for certain required products",
+                        "Shipping time",
+                        "Destination port."
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "Traditional Medicines and Food Supplements consist of 30 Tariff Post Code that is required for VPTI."
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Intan Rusli",
+                    "email": "intan.rusli_lsi@anindya.biz",
+                    "telp": "+62 813-1331-1168"
+                }
+            ]
+        },
+        {
+            "tab_title": "APPAREL",
+            "pic": "pakaian",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
+                            "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 concerning the Eighth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1JWCPymLibiK72u7tzyg3gN8llytWXMI0/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 24 of the Year 2019 concerning the Seventh Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1Wa66lbZnpuBrmStAy-pf4pao3Dj-pADF/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 121 of the Year 2018 concerning the Sixth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 42 of the Year 2018 concerning the Fifth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 12 of the Year 2018 concerning the Fourth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94 of the Year 2017 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1HkEDhBMj6Lg7FppOR06J6uJctIQDo4NI/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 81 of the Year 2017 concerning the Second Amendment to the Regulation of the Minister of Trade (Permendag) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
+                                    "url": "https://drive.google.com/file/d/1rUBYQFKDKJHyvKXENybVbcYdl5feHDts/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94/M-DAG/PER/10/2015 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1rUvUxyVExAo9dzYgSOnAMhWy1EFiMjLn/preview"
+                                }
+                            ]
+                        },
+                        {
+                            "main": "Minister of Trade Regulation (PERMENDAG) Number 86/M-DAG/PER/10/2015 concerning Provisions on Import of Textiles and Batik Textile Products and Batik Pattern.",
+                            "url": "https://drive.google.com/file/d/1_7rcw1eXc992MBgvtkGRX7BTsVwgCaX7/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Letter of Appointment PT Anindya Wiraputra Kosult for Apparel Products",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of the Year 2019 concerning Delegation of Surveyors to execute Verification or Technical Investigation for the Import of Certain Products.",
+                            "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Country of origin and port of loading",
+                        "Description of goods and Tariff Post / HS number",
+                        "Product Certification Number for Using the SNI Mark (SPPT SNI), for certain Products that is deemed mandatory",
+                        "Goods Registration Number (NPB)",
+                        "Shipping time",
+                        "Destination port."
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "Apparel and Other Finished Textile Goods consist of 436 Tariff Post Code that is required for VPTI, there is also the Minister of Trade Regulation. Number 86 of the Year 2015 which regulates Batik Pattern."
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Shania Chantaly",
+                    "email": "shania_lsi@anindya.biz",
+                    "telp": "+62 811-8700-650"
+                }
+            ]
+        },
+        {
+            "tab_title": "PRECURSOR",
+            "pic": "prekursor",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Decree of the Minister of Industry and the Minister of Trade (KEPMENPERINDAG) Number 647/MPP/KEP/10/2004 concerning Provisions on Import of Precursor.",
+                            "url": "https://drive.google.com/file/d/1ECm0v4rF7uEsLZN5uqyaFjtlSGS-oM4n/preview",
+                            "rev": [
+                                {
+                                    "text": "Decree of the Minister of Industry and the Minister of Trade (KEPMENPERINDAG) Number 649/MPP/KEP/10/2004 concerning Provisions on Import of Precursor;",
+                                    "url": "https://drive.google.com/file/d/1vUc4BJqVrN9qnVkiCeJ6-GEVYOSnFlfV/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Health of the Republic of Indonesia Number 26 of the Year 2014.",
+                                    "url": "http://hukor.kemkes.go.id/uploads/produk_hukum/PMK%20No.%2026%20ttg%20Kebutuhan%20Narkotika,%20Psikotropika%20dan%20Prekursor.pdf"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Precursor Products",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Industry and the Minister of Trade (KEPMENPERINDAG) Number 780 of the Year 2021 concerning the Delegation of PT Anindya Wiraputra Konsult as the Surveyor to execute Verification or Technical Investigation of the Import of Precursor.",
+                            "url": "https://drive.google.com/file/d/1HDPRKTseRv_79cgeDIl1hwAHawyyggZC/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Name and address of exporter",
+                        "Country of manufacture",
+                        "Description of goods and Tariff Post / HS number",
+                        "Types and technical specifications",
+                        "Chemical composition of the precursor and",
+                        "The number of precursors to be imported"
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "For IP - Precursor there is a Recommendation from the Ministry of Industry's DJ IAK, while for IT - Precursor there is a Recommendation from the Head of the Indonesian Police Criminal Investigation Agency (KABARESKRIM POLRI) and the Head of the National Narcotics Board (BNN)."
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Shania Chantaly",
+                    "email": "shania_lsi@anindya.biz",
+                    "telp": "+62 811-8700-650"
+                }
+            ]
+        },
+        {
+            "tab_title": "TWO WHEEL AND THREE WHEEL BICYCLE",
+            "pic": "sepeda",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
+                            "url": "https://drive.google.com/file/d/1qqnL8WYoyVPtkqNbOvjHVhw0wdPgdo3k/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 78 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
+                                    "url": "https://drive.google.com/file/d/1o47ZpzBwRlLKS10Ry9Q6CwUJi4DX4ciD/preview"
+                                }
+                            ]
+                        }
+                        
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Letter of Appointment of PT Anindya Wiraputra Kosult for Two-Wheel and Three-Wheel Bicycle Products",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 1067 of the Year 2020 concerning the Appointment of PT Anindya Wiraputra Konsult (Persero) as a Surveyor to Execute Verification or Technical Investigation for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
+                            "url": "https://drive.google.com/file/d/1j54C2Cw48yguhx_UU9fhaY--8mbLGgQp/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Country of origin and port of loading;",
+                        "Information on the type of goods",
+                        "Product Certification Number for Using National Standard Mark (SNI), for two-wheel and three-wheel bicycle products that are deemed mandatory",
+                        "Goods Registration Number (NPB)",
+                        "Shipping time",
+                        "Destination port"
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "Bicycles for Racing or Competition purposes, requires content or information regarding the weight, height, and description of the bicycle after it is assembled."
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Intan Rusli",
+                    "email": "intan.rusli_lsi@anindya.biz",
+                    "telp": "+62 813-1331-1168"
+                }
+            ]
+        },
+        {
+            "tab_title": "CELLULAR PHONE, HANDHELD, AND COMPUTER TABLET",
+            "pic": "telepon",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 82/M-DAG/PER/12/2012 concerning Provisions for the Import of Cellular Phone, Handheld, and Computers Tablet.",
+                            "url": "https://drive.google.com/file/d/12XVAczCBOTtp78pUS_oNZjB-koAIupcq/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 41/M-DAG/PER/5/2016 concerning the 3rd Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 82/M-DAG/PER/12/2012 concerning Provisions for the Import of Cellular Phone, Handheld, and Computers Tablet;",
+                                    "url": "https://drive.google.com/file/d/1vVL-vJ3CHwpcYaVCARtgqp0_Td1k0d6a/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 48/M-DAG/PER/8/2014 concerning the 2nd Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 82/M-DAG/PER/12/2012 concerning Provisions for the Import of Cellular Phone, Handheld, and Computers Tablet;",
+                                    "url": "http://jdih.kemendag.go.id/peraturan/detail/479/2"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 38/M-DAG/PER/8/2013 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 82/M-DAG/PER/12/2012 concerning Provisions on the Import of Cellular Phone, Handheld, and Computers Tablet.",
+                                    "url": "https://drive.google.com/file/d/1aMz6KipJHmSXxKnEERbIuOBIC-_H1ZMC/preview"
+                                }
+                            ]
+                        }
+                        
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Letter of Appointment PT Anindya Wiraputra Kosult for Cellular Phone, Handheld, and Computers Tablet",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 366 of the Year 2020 concerning Delegation of Surveyors to execute Verification or Technical Investigation of the Import of Cellular Phone, Handheld, and Computers Tablet.",
+                            "url": "https://drive.google.com/file/d/1gC2gNAp2trg6QMOiro0DPCI5AOVJKxFT/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [],
+            "catatan": [
+                {
+                    "title": "Notes",
+                    "text": "There is a Director General's Industrial Investment Recommendation. ILMATE, Ministry of Industry."
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Dicky Muis",
+                    "email": "dicky.muis_lsi@anindya.biz",
+                    "telp": "+62 812-2297-0989"
+                }
+            ]
+        }
+    ],
 
 
-    "our_company": "One stop authorized mining-related trading certification & verfification services",
+    "our_company": "One stop authorized mining-related trading certification & verification services",
     "about_our_company": "About Our Company",
     "branches": "Indonesia Branches",
     "licenses_tab": "Licenses & Certification",
