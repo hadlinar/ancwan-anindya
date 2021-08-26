@@ -21,6 +21,7 @@
 .text-description {
     letter-spacing: 1px;
     padding-top: 8px;
+    font-size: 16px;
 }
 
 .counter {
