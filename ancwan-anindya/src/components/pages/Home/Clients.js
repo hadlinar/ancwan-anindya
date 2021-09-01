@@ -64,7 +64,7 @@ function Clients() {
                                         {
                                             data.clients[dropdownState].img.map((item, i) => {
                                                 return (
-                                                    <img className="clients" src={require(`../../../images/clients/${data.clients[dropdownState].name}/${item.img}.png`).default} alt={item.img}  />
+                                                    <img className="clients" src={require(`../../../images/clients/${data.clients[dropdownState].name}/${item}.png`).default} alt={item}  />
                                                 )
                                             })
                                             
@@ -81,7 +81,7 @@ function Clients() {
                                                     {e.img.map((pic, i) => {
                                                         return (
                                                             <Col key={i} style={{margin: "auto"}}>
-                                                                <img className="clients" src={require(`../../../images/clients/${e.name}/${pic.img}.png`).default} alt={pic.img}  />
+                                                                <img className="clients" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
                                                             </Col>
                                                         )
                                                     })}
