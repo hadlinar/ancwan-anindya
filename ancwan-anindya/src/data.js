@@ -97,7 +97,7 @@ let data = {
     "clients": [
         {
             "name":"Coal",
-            "index": 0,
+            "index": "0",
             "img": [
                 "Borneo Indobara",
                 "Kideco",
@@ -119,7 +119,7 @@ let data = {
         },
         {
             "name":"Marine",
-            "index": 1,
+            "index": "1",
             "img": [
                 "SIT",
                 "AKR",
@@ -144,7 +144,7 @@ let data = {
         },
         {
             "name":"Oil & Gas",
-            "index": 2,
+            "index": "2",
             "img": [
                 "DCG",
                 "ABS",
@@ -158,7 +158,7 @@ let data = {
         },
         {
             "name":"Mineral & Water",
-            "index": 3,
+            "index": "3",
             "img": [
                 "VDNI",
                 "SMI",

@@ -9,7 +9,9 @@ import { useTranslation } from "react-i18next";
 function Clients() {
     const { t } = useTranslation()
     const [mobile, setMobile] = useState(false)
-    const [dropdownState, setDropdown] = useState(0)
+    const [dropdownState, setDropdown] = useState("0")
+
+    var d = data.clients.filter(x => x.index === dropdownState)
 
     useEffect(() => {
         Aos.init({
@@ -62,22 +64,19 @@ function Clients() {
                                     </select>
                                     <div className='container-clients'>
                                         {
-                                            Array.from(data.clients[dropdownState].img, (item,i) => {
+                                            Array.from(d, e => {
                                                 return (
-                                                    <img className="clients" src={require(`../../../images/clients/${data.clients[dropdownState].name}/${item}.png`).default} alt={item}  />
+                                                    Array.from(e.img, (pic, i) => {
+                                                        return (
+                                                            <Row style={{margin: "auto"}}>
+                                                                 <Col key={i} style={{margin: "auto"}}>
+                                                                     <img className="clients" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
+                                                                 </Col>
+                                                             </Row>
+                                                        )
+                                                    })
                                                 )
                                             })
-
-
-
-
-
-                                            // data.clients[dropdownState].img.map((item, i) => {
-                                            //     return (
-                                            //         <img className="clients" src={require(`../../../images/clients/${data.clients[dropdownState].name}/${item}.png`).default} alt={item}  />
-                                            //     )
-                                            // })
-                                            
                                         }
                                     </div>
                                 </div>
