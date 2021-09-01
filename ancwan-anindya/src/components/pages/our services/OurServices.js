@@ -178,7 +178,7 @@ function OurServices(props) {
                                                     {item.clients.map((item2,i) => {
                                                         return (
                                                             <Col key={i} style={{margin: "auto"}}>
-                                                                <img className="clients-services" src={require(`../../../images/clients/${item.name}/${i+1} - ${item2} - ${item.name}.png`).default} alt={item2}  />
+                                                                <img className="clients-services" src={require(`../../../images/clients/${item.name}/${item2}.png`).default} alt={item2}  />
                                                             </Col>
                                                         )
                                                     })}

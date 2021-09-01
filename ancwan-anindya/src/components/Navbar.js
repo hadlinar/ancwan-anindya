@@ -59,12 +59,6 @@ function Navbar() {
   }, []);
 
   window.addEventListener('resize', showButton);
-  
-  if (window.location.pathname === data.navpath[0].path) {
-    console.log(data.navpath, " aaaa")
-  } else {
-    console.log(window.location.pathname)
-  }
 
   return (
     <>
