@@ -62,11 +62,21 @@ function Clients() {
                                     </select>
                                     <div className='container-clients'>
                                         {
-                                            data.clients[dropdownState].img.map((item, i) => {
+                                            Array.from(data.clients[dropdownState].img, (item,i) => {
                                                 return (
                                                     <img className="clients" src={require(`../../../images/clients/${data.clients[dropdownState].name}/${item}.png`).default} alt={item}  />
                                                 )
                                             })
+
+
+
+
+
+                                            // data.clients[dropdownState].img.map((item, i) => {
+                                            //     return (
+                                            //         <img className="clients" src={require(`../../../images/clients/${data.clients[dropdownState].name}/${item}.png`).default} alt={item}  />
+                                            //     )
+                                            // })
                                             
                                         }
                                     </div>
