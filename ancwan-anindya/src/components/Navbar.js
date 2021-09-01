@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Nav, Navbar } from 'react-bootstrap';
+import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import './Navbar.css';
 import logo from '../images/anindya-logo.png';
 import logoWhite from '../images/anindya-logo-white.png';
@@ -7,15 +7,16 @@ import Toggle from '../components/Toggle'
 import data from '../data';
 import { useTranslation } from 'react-i18next'
 
-function Navigation() {
-
+function Navbar() {
+    const [click, setClick] = useState(false);
+    const [button, setButton] = useState(true);
     const [navbar, setNavbar] = useState(true);
     const [body, setBody] = useState(false);
     const [toggled, setToggled] = useState(false);
 
     const { t, i18n } = useTranslation();
 
-    const handleClick = () => {
+    const handleClickLan = () => {
         setToggled((t) => !t);
 
         if(toggled) {
@@ -29,6 +30,18 @@ function Navigation() {
         }
     }
 
+  const handleClick = () => setClick(!click);
+  const closeMobileMenu = () => setClick(false);
+
+  const showButton = () => {
+    if (window.innerWidth <= 960) {
+      setButton(false);
+    } else {
+      setButton(true);
+    }
+  };
+
+
     const changeBackground = () => {
         if(window.scrollY > 680) {
             setNavbar(false);
@@ -41,29 +54,47 @@ function Navigation() {
 
     window.addEventListener('scroll', changeBackground);
 
-    return (
+  useEffect(() => {
+    showButton();
+  }, []);
 
-        <>
-            <Navbar collapseOnSelect className={navbar ? "navbar-light active" : [body ? "navbar-light-body" : "navbar-light"]}>
-                <Navbar.Brand href="/"><img className="logo" src={navbar ? logoWhite : logo} alt="Anindya Logo"/></Navbar.Brand>
-                {/* <Navbar.Toggle /> */}
-                <Navbar.Collapse >
-                    <Nav className="ml-auto" activeKey={window.location.pathname}>
-                        {   
-                            Array.from(data.navpath, (e, i) => {
-                                return (
-                                    <Nav.Link key={e.key} href={e.path} className="items">{t(`navpath.${i}.name`, { returnObjects: true })}</Nav.Link>
-                                )
-                            })
-                            
-                        }
-                        <Toggle toggled={toggled} onClick={handleClick} /> 
-                    </Nav>
-                </Navbar.Collapse>
-            </Navbar>
-            
-        </>
-    )
+  window.addEventListener('resize', showButton);
+  
+  if (window.location.pathname === data.navpath[0].path) {
+    console.log(data.navpath, " aaaa")
+  } else {
+    console.log(window.location.pathname)
+  }
+
+  return (
+    <>
+      <nav className={navbar ? 'navbar' : 'navbar active'}>
+        <div className='navbar-container'>
+          <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
+            <img className="navbar-logo" src={navbar ? logoWhite : logo} alt="Anindya Logo"/>
+          </Link>
+          <div className='menu-icon' onClick={handleClick}>
+            <i className={click ? [navbar ? 'fas fa-times' : 'fas fa-times active'] : [navbar ? 'fas fa-bars' : 'fas fa-bars active']} />
+          </div>
+          <ul className={click ? 'nav-menu active' : 'nav-menu'}>
+                {   
+                    Array.from(data.navpath, (e, i) => {
+                        return (
+                            <li className='nav-item'>
+                                <Link key={i+1} to={e.path} className={window.location.pathname === data.navpath[i].path ? 'selected' : [ navbar ? 'nav-links' : 'nav-links active']} onClick={closeMobileMenu}>{t(`navpath.${i}.name`, { returnObjects: true })}</Link>
+                            </li>
+                        )
+                    })
+                    
+                }
+                <li className='nav-item-toggle'>
+                    <Toggle toggled={toggled} onClick={handleClickLan} /> 
+                </li>
+          </ul>
+        </div>
+      </nav>
+    </>
+  );
 }
 
-export default Navigation
+export default Navbar;

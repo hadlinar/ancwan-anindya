@@ -23,7 +23,7 @@ function OurService() {
                     <Row className="row-title-services">
                         <h1>{t('our_service_title')}</h1>
                     </Row>
-                    <Row>
+                    <Row className='container-cards'>
                         <Cards />
                     </Row>
                 </div>

@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import '../App.css'
 import { Button } from './Button'
 import { Link } from 'react-router-dom'
@@ -16,16 +16,12 @@ const Hero = () => {
             <h1>{t('hero_title2')}</h1>
             <p>{t('hero_subtitle')}</p>
             <div className="hero-btns">
-                <Link to='/our-company'>
-                    <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
-                        {t('about_anindya')}
-                    </Button>
-                </Link>
-                <Link to="/vpti">
-                    <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'>
-                        {t('about_vpti')}
-                    </Button>
-                </Link>
+                <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large' link='/our-company'>
+                    {t('about_anindya')}
+                </Button>
+                <Button className='btns' buttonStyle='btn--outline' buttonSize='btn--large'link='/vpti'>
+                    {t('about_vpti')}
+                </Button>
             </div>
         </div>
     )

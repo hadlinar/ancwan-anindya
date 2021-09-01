@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React, { useEffect, useState } from 'react'
 import './Clients.css'
 import { Container, Row, Tabs, Tab, Col } from 'react-bootstrap'
 import data from '../../../data'
@@ -8,12 +8,28 @@ import { useTranslation } from "react-i18next";
 
 function Clients() {
     const { t } = useTranslation()
+    const [mobile, setMobile] = useState(false)
+    const [dropdownState, setDropdown] = useState(0)
 
     useEffect(() => {
         Aos.init({
             duration: 1000
         });
     }, [])
+
+    const dropdownClient = () => {
+        if (window.innerWidth <= 960) {
+            setMobile(true)
+        } else {
+            setMobile(false)
+        }
+    }
+
+    useEffect(() => {
+        dropdownClient();
+    }, []);
+
+    window.addEventListener('resize', dropdownClient);
 
     return (
         <>
@@ -25,27 +41,57 @@ function Clients() {
                     </Row>
 
                     <Row>
-                        <Tabs defaultActiveKey={1}>
-
-                            {
-                                Array.from(data.clients, (e, i) => {
-                                    return (
-                                        <Tab eventKey={i+1} title={t(`clients.${i}.name`)}>
-                                            <Row style={{margin: "auto"}}>
-                                                {e.img.map((pic, i) => {
-                                                    return (
-                                                        <Col key={i} style={{margin: "auto"}}>
-                                                            <img className="clients" src={require(`../../../images/clients/${e.name}/${i+1} - ${pic.img} - ${e.name}.png`).default} alt={pic.img}  />
-                                                        </Col>
-                                                    )
-                                                })}
-                                            </Row>
-                                        </Tab>
-                                    )
-                                })
-                            }
-                        </Tabs>
-                        
+                        {
+                            mobile ? 
+                            <>
+                                <div className='dropdown-container'>
+                                    <select
+                                        className='custom-select'
+                                        onChange={(e) => {
+                                            const selectedClient = e.target.value
+                                            setDropdown(selectedClient)
+                                        }}
+                                    >
+                                        {
+                                            Array.from(data.clients, (e,i) => {
+                                                return (
+                                                    <option value={t(`clients.${i}.index`)}>{t(`clients.${i}.name`)}</option>
+                                                )
+                                            })
+                                        }
+                                    </select>
+                                    <div className='container-clients'>
+                                        {
+                                            data.clients[dropdownState].img.map((item, i) => {
+                                                return (
+                                                    <img className="clients" src={require(`../../../images/clients/${data.clients[dropdownState].name}/${item.img}.png`).default} alt={item.img}  />
+                                                )
+                                            })
+                                            
+                                        }
+                                    </div>
+                                </div>
+                            </>
+                            : <Tabs defaultActiveKey={1}>
+                                {
+                                    Array.from(data.clients, (e, i) => {
+                                        return (
+                                            <Tab eventKey={i+1} title={t(`clients.${i}.name`)}>
+                                                <Row style={{margin: "auto"}}>
+                                                    {e.img.map((pic, i) => {
+                                                        return (
+                                                            <Col key={i} style={{margin: "auto"}}>
+                                                                <img className="clients" src={require(`../../../images/clients/${e.name}/${pic.img}.png`).default} alt={pic.img}  />
+                                                            </Col>
+                                                        )
+                                                    })}
+                                                </Row>
+                                            </Tab>
+                                        )
+                                    })
+                                }
+                            </Tabs>
+                        }
                     </Row>
 
                 </div>

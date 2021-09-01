@@ -17,7 +17,7 @@ function Vpti() {
             <Navigation />
             <HeroSection/>
             <div style={{backgroundColor: "white"}}>
-                <div style={{maxWidth: "1440px", margin: "auto"}}>
+                <div style={{maxWidth: "1340px", margin: "auto"}}>
                     <Flow/>
                 </div>
             </div>

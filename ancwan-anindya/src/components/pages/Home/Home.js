@@ -7,6 +7,7 @@ import Branch from './Branch';
 import Clients from './Clients';
 
 import Navigation from '../../Navbar';
+import Footer from '../../Footer'
 
 function Home () {
 
@@ -14,19 +15,13 @@ function Home () {
         <>
             <Navigation />
             <Hero />
-            <div style={{backgroundColor: "white"}}>
-                <div style={{maxWidth: "1440px", margin: "auto"}}>
-                    <About />
-                </div>
-                <div style={{backgroundColor: "#F2F2F2"}}>
-                    <OurService />
-                </div>
-                <div style={{maxWidth: "1440px", margin: "auto"}}>
-                    <Branch />
-                </div>
-                <div style={{backgroundColor: "#F2F2F2"}}>
-                    <Clients />
-                </div>
+            <About />
+            <div style={{backgroundColor: "#F2F2F2"}}>
+                <OurService />
+            </div>
+            <Branch />
+            <div style={{backgroundColor: "#F2F2F2"}}>
+                <Clients />
             </div>
         </>
     )

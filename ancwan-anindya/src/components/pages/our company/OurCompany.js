@@ -12,7 +12,7 @@ function OurCompany() {
     return (
         <>
             <Navigation2/>
-            <div style={{maxWidth: "1440px", padding: "110px 80px 80px 80px", margin: "auto", textAlign: "center"}}>
+            <div style={{maxWidth: "1340px", padding: "110px 80px 80px 80px", margin: "auto", textAlign: "center"}}>
                 <h1>
                     {t('our_company')}
                 </h1>

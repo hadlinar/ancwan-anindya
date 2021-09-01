@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react'
 import './Branch.css'
-import { Container, Row, Col } from 'react-bootstrap'
+import { Row, Col } from 'react-bootstrap'
 import CountUp from 'react-countup'
 import VisibilitySensor from 'react-visibility-sensor'
 import MapsImg from '../../../images/markered-maps.png'
@@ -9,27 +9,38 @@ import { useTranslation } from "react-i18next";
 function Branch() {
     const [focus, setFocus] = useState(false)
     const [mapFocus, setMapFocus] = useState(false)
+    const [mobile, setMobile] = useState(false)
     const { t } = useTranslation()
 
 
     const canvasRef = useRef(null)
     const [context, setContext] = useState(null)
+    const [canvasImg, setImage] = useState(null)
+
+    useEffect(() => {
+        showMap();
+    }, [])
     
     useEffect(() => {
         if(canvasRef.current) {
+            const canvasImg = document.getElementById('canvas')
             const ctx = canvasRef.current.getContext('2d')
 
             if(ctx) {
                 setContext(ctx)
+                setImage(canvasImg)
             }
         }
         
         var background = new Image()
         background.src = MapsImg
         
-        if(context) {
+        if(context && canvasImg) {
+
             background.onload = function() {
-                context.drawImage(background, 0, 0)
+                canvasImg.width = background.width
+                canvasImg.height = background.height
+                context.drawImage(background, 0, 0, 1143, 847)
             }
 
             function animatePathDrawing(ctx) {
@@ -97,7 +108,7 @@ function Branch() {
             }
 
             
-            if(window.scrollY > 2070) {
+            if(window.scrollY > 2061) {
                 animatePathDrawing(context);
             }
         }
@@ -109,87 +120,98 @@ function Branch() {
         }  
     }
 
+    const showMap = () => {
+        if (window.innerWidth <= 960) {
+            setMobile(true)
+        } else {
+            setMobile(false)
+        }
+    }
+
+    window.addEventListener('resize', showMap);
+
     window.addEventListener('scroll', changeBackground);
     
     return (
-        <>
-            <Container className="section-branch">
-                <div data-aos="zoom-in-up">
-                    <Row>
-                        <Col >
-                            <Row className="border-title-branch" />
-                            <Row className="title-branch">
-                                <h1>{t('branch_office')}</h1>
-                            </Row>
-                            <Row>
-                                <p className="text-description">
-                                {t('branch')}
-                                </p>
-                            </Row>
-                        </Col>
-                    </Row>
-                    <Row className="maps">
-                        <VisibilitySensor onChange={(isVisible) => {
-                            if (isVisible) { 
-                                setMapFocus(true)
-                            }
-                        }}>
-                            <canvas id="canvas" ref={canvasRef} width="1143" height="847"/>
-                        </VisibilitySensor>
-                    </Row>
-                    <Row className="counter">
-                        <Col md={4}>
-                            <Row className="count-up">
-                                <CountUp start={focus ? 0: null} end={14} redraw={false} duration={3}>
-                                    {({ countUpRef }) => (
-                                        <VisibilitySensor onChange={(isVisible) => {
-                                            if (isVisible) { 
-                                                setFocus(true)
-                                            }
-                                        }}>
-                                            <span ref={countUpRef} />
-                                        </VisibilitySensor>
-                                    )}
-                                </CountUp>
-                            </Row>
-                            <Row className="count-text">{t('location_in_indonesia')}</Row>
-                        </Col>
-                        <Col md={4}>
-                            <Row className='count-up'>
-                                <CountUp start={focus ? 0: null} end={8} redraw={false} duration={3}>
-                                    {({ countUpRef }) => (
-                                        <VisibilitySensor onChange={(isVisible) => {
-                                            if (isVisible) { 
-                                                setFocus(true)
-                                            }
-                                        }}>
-                                            <span ref={countUpRef} />
-                                        </VisibilitySensor>
-                                    )}
-                                </CountUp>
-                            </Row>
-                            <Row className="count-text">{t('lab_around_the_world')}</Row>
-                        </Col>
-                        <Col md={4}>
-                            <Row className='count-up'>
-                                <CountUp start={focus ? 0: null} end={7} redraw={false} duration={3}>
-                                    {({ countUpRef }) => (
-                                        <VisibilitySensor onChange={(isVisible) => {
-                                            if (isVisible) { 
-                                                setFocus(true)
-                                            }
-                                        }}>
-                                            <span ref={countUpRef} />
-                                        </VisibilitySensor>
-                                    )}
-                                </CountUp>
-                            </Row>
-                            <Row className="count-text">{t('location_in_overseas')}</Row>
-                        </Col>
-                    </Row>
-                </div>
-            </Container>
-        </>
+        <div className='branch-home'>
+            <div data-aos="zoom-in-up">
+                <Row>
+                    <Col md={12}>
+                        <Row className="border-title-branch" />
+                        <Row className="title-branch">
+                            <h1>{t('branch_office')}</h1>
+                        </Row>
+                        <Row>
+                            <p className="text-description">
+                            {t('branch')}
+                            </p>
+                        </Row>
+                    </Col>
+                </Row>
+                {
+                    mobile ? <div/> 
+                    : <Row className="maps">
+                    <VisibilitySensor onChange={(isVisible) => {
+                        if (isVisible) { 
+                            setMapFocus(true)
+                        }
+                    }}>
+                        <canvas id='canvas' ref={canvasRef}/>
+                    </VisibilitySensor>
+                </Row>
+                }
+                <Row className="counter">
+                    <Col md={4}>
+                        <Row className="count-up">
+                            <CountUp start={focus ? 0: null} end={14} redraw={false} duration={3}>
+                                {({ countUpRef }) => (
+                                    <VisibilitySensor onChange={(isVisible) => {
+                                        if (isVisible) { 
+                                            setFocus(true)
+                                        }
+                                    }}>
+                                        <span ref={countUpRef} />
+                                    </VisibilitySensor>
+                                )}
+                            </CountUp>
+                        </Row>
+                        <Row className="count-text">{t('location_in_indonesia')}</Row>
+                    </Col>
+                    <Col md={4}>
+                        <Row className='count-up'>
+                            <CountUp start={focus ? 0: null} end={8} redraw={false} duration={3}>
+                                {({ countUpRef }) => (
+                                    <VisibilitySensor onChange={(isVisible) => {
+                                        if (isVisible) { 
+                                            setFocus(true)
+                                        }
+                                    }}>
+                                        <span ref={countUpRef} />
+                                    </VisibilitySensor>
+                                )}
+                            </CountUp>
+                        </Row>
+                        <Row className="count-text">{t('lab_around_the_world')}</Row>
+                    </Col>
+                    <Col md={4}>
+                        <Row className='count-up'>
+                            <CountUp start={focus ? 0: null} end={7} redraw={false} duration={3}>
+                                {({ countUpRef }) => (
+                                    <VisibilitySensor onChange={(isVisible) => {
+                                        if (isVisible) { 
+                                            setFocus(true)
+                                        }
+                                    }}>
+                                        <span ref={countUpRef} />
+                                    </VisibilitySensor>
+                                )}
+                            </CountUp>
+                        </Row>
+                        <Row className="count-text">{t('location_in_overseas')}</Row>
+                    </Col>
+                </Row>
+            </div>
+        </div>
     )
 }
 
