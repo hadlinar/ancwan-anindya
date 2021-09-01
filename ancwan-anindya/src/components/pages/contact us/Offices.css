@@ -6,7 +6,11 @@
     border-top: 4px solid #3A7AE3;
     width: 60px;
     position: absolute;
-    /* left: 4%; */
+}
+
+.address-branch {
+    color: black;
+    font-size: 16px;
 }
 
 .title-office {
@@ -29,4 +33,22 @@
     font-weight: 600;
     color: #001133;
     text-align: left;
+}
+
+@media screen and (max-width: 960px) {
+    .container-office {
+        padding: 10px 40px 40px 40px;
+    }
+
+    .list-office {
+        margin: 0;
+    }
+
+    .location-office {
+        font-size: 20px;
+    }
+
+    .address-branch {
+        font-size: 14px;
+    }
 }

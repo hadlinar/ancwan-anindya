@@ -25,3 +25,21 @@
     width: 146px;
     border-radius: 0;
 }
+
+@media screen and (max-width: 960px) { 
+    .card {
+        width: 100px;
+        margin-right: 15px;
+        margin-left: 15px;
+        margin-bottom: 28px;
+    }
+
+    .card-wrapper {
+        width: 100px;
+    }
+    .card-img {
+        height: 150px;
+        width: 113px;
+        border-radius: 0;
+    }
+}

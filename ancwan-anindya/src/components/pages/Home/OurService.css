@@ -1,6 +1,6 @@
 .section-service {
     background-color: #F2F2F2;
-    max-width: 1440px;
+    max-width: 1340px;
     padding-top: 80px;
     padding-left: 80px;
     padding-right: 80px;
@@ -21,7 +21,32 @@
     justify-content: center;
 }
 
+.container-cards {
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
 h1 {
     font-size: 32px;
     font-weight: 600;
+}
+
+@media screen and (max-width: 960px) {
+    .section-service {
+        padding: 1rem;
+        background: #F2F2F2;
+        margin: auto;
+        max-width: 1340px;
+    }
+
+    .container-cards {
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        grid-gap: 10px;
+        list-style: none;
+        text-align: center;
+        justify-content: center;
+        margin: auto 20px auto 20px;
+    }
 }

@@ -20,7 +20,7 @@ function OurServices(props) {
     return (
         <>
             <Navigation2/>
-            <div style={{maxWidth: "1440px", padding: "110px 80px 80px 80px", margin: "auto", textAlign: "center"}}>
+            <div style={{maxWidth: "1340px", padding: "110px 80px 80px 80px", margin: "auto", textAlign: "center"}}>
                 <h1>
                     {t('our_service')}
                 </h1>
@@ -178,7 +178,7 @@ function OurServices(props) {
                                                     {item.clients.map((item2,i) => {
                                                         return (
                                                             <Col key={i} style={{margin: "auto"}}>
-                                                                <img className="clients-services" src={require(`../../../images/clients/${item.name}/${i+1} - ${item2} - ${item.name}.png`).default} alt={item2}  />
+                                                                <img className="clients-services" src={require(`../../../images/clients/${item.name}/${item2}.png`).default} alt={item2}  />
                                                             </Col>
                                                         )
                                                     })}

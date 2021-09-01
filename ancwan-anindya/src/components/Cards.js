@@ -5,8 +5,8 @@ import { Row} from 'react-bootstrap'
 function Cards() {
     return (
         <>
-            <div  style={{margin: "auto"}}>
-                <Row>
+            <div>
+                <Row style={{margin: "auto", justifyContent: "center", alignItems: "center"}}>
                     <CardItem />
                 </Row>
             </div>

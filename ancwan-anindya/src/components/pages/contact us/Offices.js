@@ -13,7 +13,7 @@ function Offices() {
                 <div className='border-title-office'/>
                 <h1 className='title-office'>{t('our_offices')}</h1>
                 <div className='list-container'>
-                <Row md={3} className="list-office">
+                    <Row md={3} className="list-office">
                         {data.our_offices.map(item => {
                             return (
                                 <Col style={{paddingLeft: '0', paddingBottom: '40px'}}>

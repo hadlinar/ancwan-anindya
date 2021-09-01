@@ -104,190 +104,82 @@
     "clients": [
         {
             "name":"Coal",
+            "index": 0,
             "img": [
-                {
-                    "img": "Borneo Indobara"
-                },
-                {
-                    "img": "Kideco"
-                },
-                {
-                    "img": "Jembayan"
-                },
-                {
-                    "img": "Adani"
-                },
-                {
-                    "img": "Tamtama"
-                },
-                {
-                    "img": "SGE"
-                },
-                {
-                    "img": "BSSR"
-                },
-                {
-                    "img": "BRE"
-                },
-                {
-                    "img": "RLK"
-                },
-                {
-                    "img": "Equentia"
-                },
-                {
-                    "img": "PKN"
-                },
-                {
-                    "img": "ABP"
-                },
-                {
-                    "img": "MEK"
-                },
-                {
-                    "img": "BMB"
-                },
-                {
-                    "img": "KJB"
-                },
-                {
-                    "img": "Titan"
-                }
+                "Borneo Indobara",
+                "Kideco",
+                "Jembayan",
+                "Adani",
+                "Tamtama",
+                "SGE",
+                "BSSR",
+                "BRE",
+                "RLK",
+                "Equentia",
+                "PKN",
+                "ABP",
+                "MEK",
+                "BMB",
+                "KJB",
+                "Titan"
             ]
         },
         {
             "name":"Marine",
+            "index": 1,
             "img": [
-                {
-                    "img": "SIT"
-                },
-                {
-                    "img": "AKR"
-                },
-                {
-                    "img": "Alexindo"
-                },
-                {
-                    "img": "Duta Marine"
-                },
-                {
-                    "img": "Figar"
-                },
-                {
-                    "img": "Holcim"
-                },
-                {
-                    "img": "Indocement"
-                },
-                {
-                    "img": "Lafarge"
-                },
-                {
-                    "img": "Victoria"
-                },
-                {
-                    "img": "Seapol"
-                },
-                {
-                    "img": "SLM"
-                },
-                {
-                    "img": "SBA"
-                },
-                {
-                    "img": "SBI"
-                },
-                {
-                    "img": "Trubaindo"
-                },
-                {
-                    "img": "HTK"
-                },
-                {
-                    "img": "Cotecna"
-                },
-                {
-                    "img": "DBS"
-                },
-                {
-                    "img": "Watama"
-                },
-                {
-                    "img": "MSD"
-                }
+                "SIT",
+                "AKR",
+                "Alexindo",
+                "Duta Marine",
+                "Figar",
+                "Holcim",
+                "Indocement",
+                "Lafarge",
+                "Victoria",
+                "Seapol",
+                "SLM",
+                "SBA",
+                "SBI",
+                "Trubaindo",
+                "HTK",
+                "Cotecna",
+                "DBS",
+                "Watama",
+                "MSD"
             ]
         },
         {
             "name":"Oil & Gas",
+            "index": 2,
             "img": [
-                {
-                    "img": "DCG"
-                },
-                {
-                    "img": "ABS"
-                },
-                {
-                    "img": "FJS"
-                },
-                {
-                    "img": "BNP"
-                },
-                {
-                    "img": "PC"
-                },
-                {
-                    "img": "RBN"
-                },
-                {
-                    "img": "MAP"
-                },
-                {
-                    "img": "DSI"
-                }
+                "DCG",
+                "ABS",
+                "FJS",
+                "BNP",
+                "PC",
+                "RBN",
+                "MAP",
+                "DSI"
             ]
         },
         {
             "name":"Mineral & Water",
+            "index": 3,
             "img": [
-                {
-                    "img": "VDNI"
-                },
-                {
-                    "img": "SMI"
-                },
-                {
-                    "img": "BSI"
-                },
-                {
-                    "img": "YNI"
-                },
-                {
-                    "img": "YII"
-                },
-                {
-                    "img": "YII"
-                },
-                {
-                    "img": "Ifishco"
-                },
-                {
-                    "img": "Ranger"
-                },
-                {
-                    "img": "Walsin"
-                },
-                {
-                    "img": "Hengjaya"
-                },
-                {
-                    "img": "TSI"
-                },
-                {
-                    "img": "GAG"
-                },
-                {
-                    "img": "CLM"
-                }
+                "VDNI",
+                "SMI",
+                "BSI",
+                "YNI",
+                "YII",
+                "YII-2",
+                "Ifishco",
+                "Ranger",
+                "Walsin",
+                "Hengjaya",
+                "TSI",
+                "GAG",
+                "CLM"
             ]
         }
     ],

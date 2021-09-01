@@ -7,7 +7,7 @@ function ContactUs() {
     return (
         <>
         <Navigation2/>
-        <div style={{maxWidth: "1440px", margin: "auto", padding: "40px 0 0 0"}}>
+        <div style={{maxWidth: "1340px", margin: "auto", padding: "40px 0 0 0"}}>
             <Offices />
             </div>
             {/* <FormMessage /> */}

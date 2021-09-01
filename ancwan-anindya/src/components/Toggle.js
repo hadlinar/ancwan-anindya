@@ -3,7 +3,6 @@ import './Toggle.css'
 
 function Toggle({ toggled, onClick }) {
     toggled = JSON.parse(localStorage.getItem('toggled'))
-    console.log(toggled)
     return (
         <>
             <div onClick={onClick} className="toggle">
