@@ -1,8 +1,18 @@
+.service-container{
+    padding: 80px 80px 40px 80px;
+    margin: auto;
+    max-width: 1340px;
+    text-align: center;
+}
+
+h1 {
+    letter-spacing: 1px;
+}
+
 .slides-services {
     margin: auto;
     height: 600px;
     width: 900px;
-    border-radius: 5px;
     padding-top: 80px;
     padding-bottom: 80px;
     align-content: center;
@@ -18,7 +28,6 @@
     border-top: 4px solid #3A7AE3;
     width: 60px;
     position: absolute;
-    /* left: 4%; */
 }
 
 .col-title {
@@ -26,7 +35,6 @@
     font-weight: 600;
     padding-top: 15px;
     padding-bottom: 15px;
-    /* padding-left: 20px; */
     margin-right: 32px;
     text-align: left;
 }
@@ -44,4 +52,70 @@
     display: flex;
     align-items: center;
     flex-wrap: wrap;
+}
+
+@media screen and (max-width: 960px){
+    .service-container{
+        padding: 10px 50px 40px 50px;
+    }
+
+    h1 { 
+        text-align: center;
+        letter-spacing: 1px;
+        font-size: 28;
+    }
+
+    .container-service {
+        background: white;
+    }
+
+    .slides-services {
+        width: 100%;
+        padding-top: 40px;
+        height: 32vh;
+    }
+
+    .desc-our-service {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+
+    .content-container {
+        background-color: white;
+    }
+
+    .border-title-services {
+        width: 50px;
+    }
+
+    .col-title {
+        font-size: 20px;
+    }
+
+    .list_ {
+        font-size: 14px;
+        padding-bottom: 20px;
+    }
+
+    .sub-title {
+        font-size: 14px;
+        font-weight: 600;
+        text-align: left;
+    }
+
+    .pic-container-mobile {
+        padding: 20px 0 20px 0;
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        grid-gap: 30px;
+        list-style: none;
+        text-align: center;
+        justify-content: center;
+        margin: auto;
+    }
+
+    .method-pic {
+        max-width: 110px;
+        margin: auto;
+    }
 }
