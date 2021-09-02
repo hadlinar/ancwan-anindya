@@ -25,15 +25,4 @@
     .dropdown-container {
         width: 100%;
     }
-
-    .container-clients {
-        padding: 20px 0 0 0;
-        display: grid;
-        grid-template-columns: repeat(2, auto);
-        grid-gap: 30px;
-        list-style: none;
-        text-align: center;
-        justify-content: center;
-        margin: auto;
-    }
 }

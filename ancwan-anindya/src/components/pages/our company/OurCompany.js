@@ -65,9 +65,7 @@ function OurCompany() {
                                 <option value={1}>{t('branches')}</option> 
                                 <option value={2}>{t('licenses_tab')}</option> 
                                 </select>
-                                <div className='container-clients'>
                                     {d.component}
-                                </div>
                             </div>
                         </Row>
                     : <Row style={{paddingTop: "80px"}}>
