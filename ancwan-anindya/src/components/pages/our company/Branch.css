@@ -1,11 +1,7 @@
 .list-branch {
-    padding-top: 160px;
+    padding-top: 100px;
     margin: auto;
 }
-
-/* .col-list-branch {
-    padding: 0;
-} */
 
 .title-branch {
     font-size: 24px;
@@ -53,4 +49,28 @@
 
 .popups {
     min-width: 300px;
+}
+
+#canvas {
+    width: 100%;
+}
+
+.maps {
+    padding: 48px 0 0px 0;
+    justify-content: center;
+    position: relative; 
+    left: 0;
+    top: 0;
+}
+
+@media screen and (max-width: 960px) {
+    .list-branch {
+        margin-top: -90px;
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        grid-gap: none;
+        list-style: none;
+        text-align: center;
+        justify-content: center;
+    }
 }
