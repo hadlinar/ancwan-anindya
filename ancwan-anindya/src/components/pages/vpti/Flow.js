@@ -31,7 +31,7 @@ function Flow() {
                         <p className='detail-flow-vpti'>{t('desc_vpti')}</p>
                     </div>
                     <div className='flow-img'>
-                    <img src={require(`../../../images/flow-vpti.png`).default} alt='VPTI Flow'/>
+                    <img className='img-vpti' src={require(`../../../images/flow-vpti.png`).default} alt='VPTI Flow'/>
                     </div>
                     <div className='border-title-vpti'/>
                     <h1 className='title'>{t('import_verif')}</h1>

@@ -17,7 +17,6 @@
     border-top: 4px solid #3A7AE3;
     width: 60px;
     position: absolute;
-    /* left: 4%; */
 }
 
 .title {
@@ -25,8 +24,8 @@
     font-weight: 600;
     padding-top: 16px;
     padding-bottom: 15px;
-    /* padding-left: 20px; */
     margin-right: 32px;
+    text-align: left;
 }
 
 .detail-flow-vpti {
@@ -37,6 +36,10 @@
 
 .flow-img {
     padding: 80px 0 80px 0;
+}
+
+.img-vpti {
+    max-width: 1200px;
 }
 
 .image-flow-vpti {
@@ -148,10 +151,7 @@
 }
 
 .rectangle {
-  /* height: 128px;
-  width: 100%; */
   background-color: #E0E0E0;
-  /* margin: 40px 0 0 0; */
   padding: 10px 20px 10px 20px;
 }
 
