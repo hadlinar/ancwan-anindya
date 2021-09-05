@@ -9,9 +9,7 @@ import { useTranslation } from 'react-i18next'
 
 function Navbar() {
     const [click, setClick] = useState(false);
-    const [button, setButton] = useState(true);
     const [navbar, setNavbar] = useState(true);
-    const [body, setBody] = useState(false);
     const [toggled, setToggled] = useState(false);
 
     const { t, i18n } = useTranslation();
@@ -33,32 +31,19 @@ function Navbar() {
   const handleClick = () => setClick(!click);
   const closeMobileMenu = () => setClick(false);
 
-  const showButton = () => {
-    if (window.innerWidth <= 960) {
-      setButton(false);
-    } else {
-      setButton(true);
-    }
-  };
-
-
     const changeBackground = () => {
         if(window.scrollY > 680) {
             setNavbar(false);
-            setBody(true);
         }  else {
             setNavbar(true);
-            setBody(true);
         }
     }
 
+    useEffect(() => {
+      changeBackground();
+    }, []);
+
     window.addEventListener('scroll', changeBackground);
-
-  useEffect(() => {
-    showButton();
-  }, []);
-
-  window.addEventListener('resize', showButton);
 
   return (
     <>

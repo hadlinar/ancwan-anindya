@@ -11,9 +11,7 @@ function HeroSectionVpti() {
 
     return (
         <div className="hero-container-vpti">
-            <div className="vid-container">
-                <video src={vid} autoPlay loop muted />
-            </div>
+            <video src={vid} autoPlay loop muted />
             <h1>{t('anindya_vpti_system')}</h1>
             <p>{t('sub_vpti')}</p>
             <div className="hero-btns">

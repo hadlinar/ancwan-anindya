@@ -7,7 +7,6 @@ import Branch from './Branch';
 import Clients from './Clients';
 
 import Navigation from '../../Navbar';
-import Footer from '../../Footer'
 
 function Home () {
 

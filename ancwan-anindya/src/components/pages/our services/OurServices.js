@@ -39,11 +39,41 @@ function OurServices(props) {
             "sort": "6"
         }
     ]
+
+    var dropdownDictId = [
+        {
+            "name": "Batubara",
+            "sort": "1"
+        },
+        {
+            "name": "Survei Kapal Laut",
+            "sort": "2"
+        },
+        {
+            "name": "Minyak & Gas",
+            "sort": "3"
+        },
+        {
+            "name": "Pertanian & Makanan",
+            "sort": "4"
+        },
+        {
+            "name": "Mineral & Air",
+            "sort": "5"
+        },
+        {
+            "name": "Pasir Kerikil & Pecahan Batu",
+            "sort": "6"
+        }
+    ]
     var val = dropdownDict.find(x => x.sort === key)
-    const [dropdownState, setDropdown] = useState(key !== "" ? val.name : "Coal")
+    const [dropdownState, setDropdown] = useState(key !== "" ? val.sort : "1")
+    var f = dropdownDict.find(x => x.sort === dropdownState)
     
-    var d = data.service_val.findIndex(x => x.name === dropdownState)
-    var filtered = data.service_val.filter(x => x.name === dropdownState)
+    
+    var d = data.service_val.findIndex(x => x.name === f.name)
+    var filtered = data.service_val[d]
+    
 
     useEffect(() => {
         window.scrollTo(0, 0);
@@ -74,6 +104,7 @@ function OurServices(props) {
                             <div className='dropdown-container'>
                                 <select
                                     className='custom-select'
+                                    defaultValue={key !== "" ? parseInt(val.sort) : 0}
                                     onChange={(e) => {
                                         const selectedClient = e.target.value
                                         setDropdown(selectedClient)
@@ -82,7 +113,7 @@ function OurServices(props) {
                                     {
                                         Array.from(data.service_val, (e,i) => {
                                             return (
-                                                <option value={e.name}>{t(`service_val.${d}.name`)}</option>
+                                                <option value={i+1}>{t(`service_val.${i}.name`)}</option>
                                             )
                                         })
                                     }
@@ -91,9 +122,9 @@ function OurServices(props) {
                                     <div className="slides-services">
                                         <Carousel slides={
                                             [
-                                                <img src={require(`../../../images/services/${dropdownState}-1.png`).default} alt={dropdownState}/>,
-                                                <img src={require(`../../../images/services/${dropdownState}-2.png`).default} alt={dropdownState}/>,
-                                                <img src={require(`../../../images/services/${dropdownState}-3.png`).default} alt={dropdownState}/>
+                                                <img src={require(`../../../images/services/${f.name}-1.png`).default} alt={f.name}/>,
+                                                <img src={require(`../../../images/services/${f.name}-2.png`).default} alt={f.name}/>,
+                                                <img src={require(`../../../images/services/${f.name}-3.png`).default} alt={f.name}/>
                                             ]
                                         } arrows={false} />
                                     </div>
@@ -106,7 +137,7 @@ function OurServices(props) {
                                         <div className='content-container'>
                                             <div className="border-title-services"/>
                                             {
-                                                Array.from(filtered, (e, i) => {
+                                                Array.from(filtered.col1, (e, i) => {
                                                     return (
                                                         <>
                                                             <div className="col-title">
@@ -114,13 +145,9 @@ function OurServices(props) {
                                                             </div>
                                                             <div>
                                                                 <ol className="list_">
-                                                                    { Array.from(e.col1, a => {
-                                                                        return (
-                                                                            Array.from(a.val, (e, id) => {
-                                                                                return(
-                                                                                    <li>{t(`service_val.${d}.col1.${i}.val.${id}`)}</li>
-                                                                                )
-                                                                            })
+                                                                    {Array.from(e.val, (a, id) => {
+                                                                        return(
+                                                                            <li>{t(`service_val.${d}.col1.${i}.val.${id}`)}</li>
                                                                         )
                                                                     })}
                                                                 </ol>
@@ -132,54 +159,47 @@ function OurServices(props) {
                                         </div>
                                         <div className='content-container'>
                                             {
-                                                Array.from(filtered, (e, i) => {
+                                                Array.from(filtered.col2, (e, i) => {
                                                     return (
                                                         <>
                                                             {
-                                                                e.col2.length !== 0 ? 
+                                                                e.length !== 0 ? 
                                                                 <>  
                                                                     <div className="border-title-services"/>
                                                                     <div className="col-title">
                                                                         {t(`service_val.${d}.col2.${i}.title`)}
                                                                     </div>
                                                                     {
-                                                                        dropdownState !== "Sand, Pebble & Crushed Stone" ? 
+                                                                        filtered.name !== "Sand, Pebble & Crushed Stone" ? 
                                                                             <div>
                                                                                 <ol className="list_">
-                                                                                    { Array.from(e.col2, a => {
-                                                                                        return (
-                                                                                            Array.from(a.val, (e, id) => {
-                                                                                                return(
-                                                                                                    <li>{t(`service_val.${d}.col2.${i}.val.${id}`)}</li>
-                                                                                                )
-                                                                                            })
+                                                                                    {Array.from(e.val, (e, id) => {
+                                                                                        return(
+                                                                                            <li>{t(`service_val.${d}.col2.${i}.val.${id}`)}</li>
                                                                                         )
                                                                                     })}
                                                                                 </ol>
                                                                             </div>
                                                                         : 
-                                                                        Array.from(e.col2, a => {
-                                                                            return (
-                                                                                Array.from(a.val, (e, id) => {
-                                                                                    return(
-                                                                                        <>
-                                                                                            <div className="sub-title">
-                                                                                                {t(`service_val.${d}.col2.${i}.val.${id}.sub`)}
-                                                                                            </div>
-                                                                                            <div>
-                                                                                                <ol className="list_" style={{paddingBottom: '0'}}>
-                                                                                                    { Array.from(e.val_sub, (a, index) => {
-                                                                                                        return (
-                                                                                                            <li>{t(`service_val.${d}.col2.${i}.val.${id}.val_sub.${index}`)}</li>
-                                                                                                        )
-                                                                                                    })}
-                                                                                                </ol>
-                                                                                            </div>
-                                                                                        </>
-                                                                                    )
-                                                                                })
-                                                                            )
-                                                                        })
+                                                                            Array.from(e.val, (a, id) => {
+                                                                                return(
+                                                                                    <>
+                                                                                        <div className="sub-title">
+                                                                                            {t(`service_val.${d}.col2.${i}.val.${id}.sub`)}
+                                                                                        </div>
+                                                                                        <div>
+                                                                                            <ol className="list_" style={{paddingBottom: '0'}}>
+                                                                                                { Array.from(a.val_sub, (a, index) => {
+                                                                                                    return (
+                                                                                                        <li>{t(`service_val.${d}.col2.${i}.val.${id}.val_sub.${index}`)}</li>
+                                                                                                    )
+                                                                                                })}
+                                                                                            </ol>
+                                                                                        </div>
+                                                                                    </>
+                                                                                )
+                                                                            })
+                                                                            
                                                                     }
                                                                 </>
                                                                 : <div/>
@@ -190,61 +210,45 @@ function OurServices(props) {
                                             }
                                         </div>
                                         <div className='content-container'>
-                                        {
-                                                Array.from(filtered, (e, i) => {
-                                                    return (
-                                                        <>
+                                                {
+                                                    filtered.method.length !== 0 ? 
+                                                    <>  
+                                                        <div className="border-title-services"/>
+                                                        <div className="col-title">
+                                                            {t(`methodologies`)}
+                                                        </div>
+                                                        <div className='pic-container-mobile'>
                                                             {
-                                                                e.method.length !== 0 ? 
-                                                                <>  
-                                                                    <div className="border-title-services"/>
-                                                                    <div className="col-title">
-                                                                        {t(`methodologies`)}
-                                                                    </div>
-                                                                    <div className='pic-container-mobile'>
-                                                                        {
-                                                                            Array.from(e.method, pic => {
-                                                                                return (
-                                                                                    <img className='method-pic' src={require(`../../../images/${pic}.png`).default} alt={pic}  />
-                                                                                )
-                                                                            })
-                                                                        }
-                                                                    </div>
-                                                                </>
-                                                                : <div/>
+                                                                Array.from(filtered.method, pic => {
+                                                                    return (
+                                                                        <img className='method-pic' src={require(`../../../images/${pic}.png`).default} alt={pic}  />
+                                                                    )
+                                                                })
                                                             }
-                                                        </>
-                                                    )
-                                                })
-                                            }
+                                                        </div>
+                                                    </>
+                                                    : <div/>
+                                                }
                                         </div>
                                         <div className='content-container' style={{paddingTop: '20px'}}>
-                                        {
-                                                Array.from(filtered, (e, i) => {
-                                                    return (
-                                                        <>
-                                                            {
-                                                                e.clients.length !== 0 ? 
-                                                                <>  
-                                                                    <div className="border-title-services"/>
-                                                                    <div className="col-title">
-                                                                        {t(`client`)}
-                                                                    </div>
-                                                                    <div className='pic-container-mobile'>
-                                                                        {
-                                                                            Array.from(e.clients, pic => {
-                                                                                return (
-                                                                                    <img className='method-pic' src={require(`../../../images/clients/${dropdownState}/${pic}.png`).default} alt={pic}  />
-                                                                                )
-                                                                            })
-                                                                        }
-                                                                    </div>
-                                                                </>
-                                                                : <div/>
-                                                            }
-                                                        </>
-                                                    )
-                                                })
+                                            {
+                                                filtered.clients.length !== 0 ? 
+                                                <>  
+                                                    <div className="border-title-services"/>
+                                                    <div className="col-title">
+                                                        {t(`client`)}
+                                                    </div>
+                                                    <div className='pic-container-mobile'>
+                                                        {
+                                                            Array.from(filtered.clients, pic => {
+                                                                return (
+                                                                    <img className='method-pic' src={require(`../../../images/clients/${filtered.name}/${pic}.png`).default} alt={pic}  />
+                                                                )
+                                                            })
+                                                        }
+                                                    </div>
+                                                </>
+                                                : <div/>
                                             }
                                         </div>
                                     </div>
