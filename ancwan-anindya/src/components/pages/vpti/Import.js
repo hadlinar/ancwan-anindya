@@ -10,8 +10,6 @@ function Import() {
     const [mobile, setMobile] = useState(false)
     const [dropdownState, setDropdown] = useState("0")
 
-    console.log(data.import_vpti[parseInt(dropdownState)])
-
     useEffect(() => {
         dropdownVPTI();
     }, [])
