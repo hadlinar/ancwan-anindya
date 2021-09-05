@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import './Flow.css'
 import { Row, Col, Tab, Nav } from 'react-bootstrap'
 import { useTranslation } from "react-i18next"
-import { Button } from '../../Button'
+import { Button, ButtonVPTI } from '../../Button'
 import { Link } from 'react-router-dom'
 
 function Flow() {
@@ -27,7 +27,7 @@ function Flow() {
         <>
             <div className='container-flow'>
                 <div className='flow-vpti'>
-                    <div style={{backgroundColor: 'pink'}}>
+                    <div>
                         <div className='border-title-vpti'/>
                         {
                             mobile ? 
@@ -39,11 +39,11 @@ function Flow() {
                                     <h1 className='title'>{t('flow_vpti')}</h1>
                                 </Col>
                                 <Col md={6} style={{justifyContent: 'flex-end', display: 'flex', paddingRight: '20px'}}>
-                                    <Link to={{ pathname: "https://drive.google.com/file/d/1ANSEJ77k0btyqWIKYBXVASqy7uZmj6cp/preview" }} target="_blank">
-                                        <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--xsmall'>
+                                    <div className="hero-btns" style={{marginTop: '-10px'}}>
+                                        <ButtonVPTI className='btns' buttonStyle='btn--primary' buttonSize='btn--xsmall' pathn='https://drive.google.com/file/d/1ANSEJ77k0btyqWIKYBXVASqy7uZmj6cp/preview'>
                                             {t('button')}
-                                        </Button>
-                                    </Link>
+                                        </ButtonVPTI>
+                                    </div>
                                 </Col>
                             </Row>
                         }
@@ -57,11 +57,11 @@ function Flow() {
                             mobile ? 
                             <Row>
                                 <Col md={12}>
-                                    <Link to={{ pathname: "https://drive.google.com/file/d/1ANSEJ77k0btyqWIKYBXVASqy7uZmj6cp/preview" }} target="_blank">
-                                        <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--xsmall'>
+                                    <div className="hero-btns">
+                                        <ButtonVPTI className='btns' buttonStyle='btn--primary' buttonSize='btn--xsmall' pathn='https://drive.google.com/file/d/1ANSEJ77k0btyqWIKYBXVASqy7uZmj6cp/preview'>
                                             {t('button')}
-                                        </Button>
-                                    </Link>
+                                        </ButtonVPTI>
+                                    </div>
                                 </Col>
                             </Row>
                             : <div/>

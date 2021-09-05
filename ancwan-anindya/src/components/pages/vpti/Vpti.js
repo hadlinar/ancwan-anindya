@@ -19,7 +19,7 @@ function Vpti() {
             <Navigation />
             <HeroSection/>
             <Desc />
-            <div style={{backgroundColor: "pink"}}>
+            <div style={{backgroundColor: "#F2F2F2"}}>
                 <Flow/>
             </div>
             <Import />
