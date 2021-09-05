@@ -3,7 +3,6 @@ import data from '../../../data'
 import './Import.css'
 import { Row, Col, Tab, Nav } from 'react-bootstrap'
 import { useTranslation } from "react-i18next"
-import { Link } from 'react-router-dom'
 
 function Import() {
     const { t } = useTranslation()
@@ -49,7 +48,7 @@ function Import() {
                             </select>
                             <div className='container-vpti-mobile'>
                                 <div>
-                                    <img src={require(`../../../images/${data.import_vpti[parseInt(dropdownState)].pic}.png`).default} alt={t(`import_vpti.${parseInt(dropdownState)}.tab_title`)} className='content-img'/>
+                                    <img src={require(`../../../images/${t(`import_vpti.${parseInt(dropdownState)}.pic`)}.png`).default} alt={t(`import_vpti.${parseInt(dropdownState)}.tab_title`)} className='content-img'/>
                                 </div>
                                 <div>
                                     {
