@@ -3,6 +3,8 @@ import { useLocation } from "react-router-dom"
 import HeroSection from './HeroSection'
 import Flow from './Flow'
 import Navigation from '../../Navbar';
+import Import from './Import';
+import Desc from './Desc';
 
 function Vpti() {
     const { pathname } = useLocation()
@@ -16,11 +18,11 @@ function Vpti() {
         <>  
             <Navigation />
             <HeroSection/>
-            <div style={{backgroundColor: "white"}}>
-                <div style={{maxWidth: "1340px", margin: "auto"}}>
-                    <Flow/>
-                </div>
+            <Desc />
+            <div style={{backgroundColor: "pink"}}>
+                <Flow/>
             </div>
+            <Import />
         </>
     )
 }

@@ -1,6 +1,8 @@
-.container-vpti {
-    padding: 80px 80px 80px 80px;
-    background-color: white;
+.container-flow {
+    padding: 0px 80px 0px 80px;
+    background-color: pink;
+    max-width: 1340px;
+    margin: auto;
 }
 
 .about-vpti {
@@ -159,4 +161,31 @@
     color: black;
     font-size: 16px;
     font-weight: 300;
+}
+
+@media screen and (max-width: 960px) {
+    .container-flow {
+        padding: 0px 40px 40px 40px;
+    }
+
+    .title {
+        font-size: 20px;
+    }
+
+    .border-title-vpti {
+        width: 50px;
+    }
+
+    .detail-flow-vpti {
+        font-size: 14px;
+    }
+
+    .flow-img {
+        padding-top: 20px;
+    }
+
+    .img-vpti {
+        margin: auto;
+        max-width: 100%;
+    }
 }
