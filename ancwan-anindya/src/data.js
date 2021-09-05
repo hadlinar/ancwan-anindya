@@ -41,7 +41,7 @@ let data = {
             "name":"VPTI",
             "img":"vpti",
             "label":"VPTI",
-            "path": "/vpti"
+            "path": "/our-service"
         },
         {
             "key": 2,
@@ -1722,6 +1722,81 @@ let data = {
     ],
     "our_services": "Providing quality and quantity superintending service for coal and minerals industry, the oil and gas sector as well as marine surveys",
     "service_val": [
+        {
+            "name": "VPTI",
+            "subtitle": "Indonesia’s Ministry of Trade has mandated that a wide range of goods be inspected prior to export to the country to demonstrate compliance with various national regulations. To meet the Indonesian market requirements our technical verification services identify the eligibility of the goods to be imported into Indonesia as well as the quantity, tariff classification and Ministry of Trade specifications. The issuance of the ANINDYA report known as a Laporan Surveyor or Surveyor’s Report facilitates international trade, reduces the risk of delays in Customs clearance and reduces potential losses from the import of non-compliant goods.",
+            "col1": [
+                {
+                    "title": "Our Services",
+                    "val": [
+                        {
+                            "sub_val": "Import Verification",
+                            "val": [
+                                {
+                                    "item": "Iron & Steel",
+                                    "sub_item": [
+                                        "Steel Iron",
+                                        "Alloy Steel",
+                                        "Steel Product Derivatives"
+                                    ]
+                                },
+                                {
+                                    "item": "Spesific Products",
+                                    "sub_item": [
+                                        "Food and Drink",
+                                        "Toys",
+                                        "Footwear",
+                                        "Garment",
+                                        "Cosmetics",
+                                        "Electronics",
+                                        "Traditional Medicine"
+                                    ]
+                                },
+                                {
+                                    "item": "Tires",
+                                    "sub_item": []
+                                },
+                                {
+                                    "item": "Cell Phones, Handheld Computers, Tablet Computers",
+                                    "sub_item": []
+                                },
+                                {
+                                    "item": "Color Multipurpose Machines, Color Photocopy Machines, Color Printers",
+                                    "sub_item": []
+                                },
+                                {
+                                    "item": "Goods Based on the Cooling System",
+                                    "sub_item": []
+                                },
+                                {
+                                    "item": "Footwear, Electronics, Bicycles & Tricycles",
+                                    "sub_item": []
+                                },
+                                {
+                                    "item": "Secondhand Capital Goods",
+                                    "sub_item": []
+                                },
+                                {
+                                    "item": "Ceramics",
+                                    "sub_item": []
+                                },
+                                {
+                                    "item": "Horticulture",
+                                    "sub_item": []
+                                },
+                                {
+                                    "item": "Precursor",
+                                    "sub_item": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "col2": [],
+            "method": [],
+            "clients" : []
+        },
         {
             "name": "Coal",
             "subtitle": "The analysis of coal at any point in the production and distribution chain must be done with the utmost attention to accuracy and best practice. All our accredited laboratory facilities and experts offer reliable quality certification for coal inspection and testing.",

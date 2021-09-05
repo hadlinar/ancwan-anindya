@@ -45,6 +45,19 @@ h1 {
     text-align: left;
 }
 
+.list-dash {
+    line-height: 180%;
+    padding: 0 0 0 20px;
+    text-align: left;
+    list-style-type: none;
+}
+
+.list-dash li:before {
+    content: '\2014';
+    position: absolute;
+    margin-left: -20px;
+}
+
 .clients-services {
     padding: 10px;
     max-width: 200px;

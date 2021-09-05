@@ -1,6 +1,6 @@
 import React from 'react'
 import '../../../App.css'
-import { Button } from '../../Button'
+import { ButtonVPTI } from '../../Button'
 import { Link } from 'react-router-dom'
 import './HeroSection.css'
 import { useTranslation } from "react-i18next"
@@ -15,11 +15,9 @@ function HeroSectionVpti() {
             <h1>{t('anindya_vpti_system')}</h1>
             <p>{t('sub_vpti')}</p>
             <div className="hero-btns">
-                <Link to={{ pathname: "https://avs.anindya.biz/" }} target="_blank">
-                    <Button className='btns' buttonStyle='btn--primary' buttonSize='btn--large'>
-                        {t('login')}
-                    </Button>
-                </Link>
+                <ButtonVPTI className='btns' buttonStyle='btn--primary' buttonSize='btn--large' pathn='https://avs.anindya.biz/'>
+                    {t('login')}
+                </ButtonVPTI>
             </div>
         </div>
     )

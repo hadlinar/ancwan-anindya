@@ -15,57 +15,35 @@ function OurServices(props) {
     
     var dropdownDict = [
         {
-            "name": "Coal",
+            "name": "VPTI",
             "sort": "1"
+        },
+        {
+            "name": "Coal",
+            "sort": "2"
         },
         {
             "name": "Marine",
-            "sort": "2"
+            "sort": "3"
         },
         {
             "name": "Oil & Gas",
-            "sort": "3"
+            "sort": "4"
         },
         {
             "name": "Agriculture & Food",
-            "sort": "4"
+            "sort": "5"
         },
         {
             "name": "Mineral & Water",
-            "sort": "5"
+            "sort": "6"
         },
         {
             "name": "Sand, Pebble & Crushed Stone",
-            "sort": "6"
+            "sort": "7"
         }
     ]
 
-    var dropdownDictId = [
-        {
-            "name": "Batubara",
-            "sort": "1"
-        },
-        {
-            "name": "Survei Kapal Laut",
-            "sort": "2"
-        },
-        {
-            "name": "Minyak & Gas",
-            "sort": "3"
-        },
-        {
-            "name": "Pertanian & Makanan",
-            "sort": "4"
-        },
-        {
-            "name": "Mineral & Air",
-            "sort": "5"
-        },
-        {
-            "name": "Pasir Kerikil & Pecahan Batu",
-            "sort": "6"
-        }
-    ]
     var val = dropdownDict.find(x => x.sort === key)
     const [dropdownState, setDropdown] = useState(key !== "" ? val.sort : "1")
     var f = dropdownDict.find(x => x.sort === dropdownState)
@@ -137,24 +115,62 @@ function OurServices(props) {
                                         <div className='content-container'>
                                             <div className="border-title-services"/>
                                             {
-                                                Array.from(filtered.col1, (e, i) => {
-                                                    return (
-                                                        <>
-                                                            <div className="col-title">
-                                                                {t(`service_val.${d}.col1.${i}.title`)}
-                                                            </div>
-                                                            <div>
-                                                                <ol className="list_">
-                                                                    {Array.from(e.val, (a, id) => {
-                                                                        return(
-                                                                            <li>{t(`service_val.${d}.col1.${i}.val.${id}`)}</li>
-                                                                        )
+                                                filtered.name !== "VPTI" ? 
+                                                    Array.from(filtered.col1, (e, i) => {
+                                                        return (
+                                                            <>
+                                                                <div className="col-title">
+                                                                    {t(`service_val.${d}.col1.${i}.title`)}
+                                                                </div>
+                                                                <div>
+                                                                    <ol className="list_">
+                                                                        {Array.from(e.val, (a, id) => {
+                                                                            return(
+                                                                                <li>{t(`service_val.${d}.col1.${i}.val.${id}`)}</li>
+                                                                            )
+                                                                        })}
+                                                                    </ol>
+                                                                </div>
+                                                            </>
+                                                        )
+                                                    }) 
+                                                    : Array.from(filtered.col1, (item, index) => {
+                                                        return (
+                                                            <>
+                                                                <div className="col-title">
+                                                                    {t(`service_val.${d}.col1.${index}.title`)}
+                                                                </div>
+                                                                <div>
+                                                                    {
+                                                                        Array.from(item.val, (item_val, idx) => {
+                                                                            return(
+                                                                                <div>
+                                                                                    <div style={{fontWeight: "600", textAlign: "left"}}>{t(`service_val.${d}.col1.${index}.val.${idx}.sub_val`)}</div>
+                                                                                    <ol className="list_">
+                                                                                        {
+                                                                                            Array.from(item_val.val, (e, ind) => {
+                                                                                                return (
+                                                                                                    <>
+                                                                                                        <li>{t(`service_val.${d}.col1.${index}.val.${idx}.val.${ind}.item`)}</li>
+                                                                                                        <ul className="list-dash">
+                                                                                                        {
+                                                                                                            Array.from(e.sub_item, (el, u) => {
+                                                                                                                return (
+                                                                                                                    <li>{t(`service_val.${d}.col1.${index}.val.${idx}.val.${ind}.sub_item.${u}`)}</li>
+                                                                                                                )
+                                                                                                        })}
+                                                                                                        </ul>
+                                                                                                    </>
+                                                                                                )
+                                                                                        })}
+                                                                                    </ol>
+                                                                                </div>
+                                                                            )
                                                                     })}
-                                                                </ol>
-                                                            </div>
-                                                        </>
-                                                    )
-                                                })
+                                                                </div>
+                                                            </>
+                                                        )
+                                                    })
                                             }
                                         </div>
                                         <div className='content-container'>
@@ -285,24 +301,64 @@ function OurServices(props) {
                                                         <>
                                                                 <Col md={6} style={{paddingRight: "80px"}}>
                                                                     <Row className="border-title-services"/>
-                                                                    { Array.from(item.col1, (e, index) => {
-                                                                        return (
-                                                                            <>
-                                                                                <Row className="col-title">
-                                                                                    {t(`service_val.${i}.col1.${index}.title`)}
-                                                                                </Row>
-                                                                                <Row>
-                                                                                    <ol className="list_">
-                                                                                        { Array.from(e.val, (isi, ind) => {
-                                                                                            return(
-                                                                                                <li>{t(`service_val.${i}.col1.${index}.val.${ind}`)}</li>
-                                                                                            )
+                                                                    {
+                                                                        item.name !== "VPTI" ? 
+                                                                        Array.from(item.col1, (e, index) => {
+                                                                            return (
+                                                                                <>
+                                                                                    <Row className="col-title">
+                                                                                        {t(`service_val.${i}.col1.${index}.title`)}
+                                                                                    </Row>
+                                                                                    <Row>
+                                                                                        <ol className="list_">
+                                                                                            { Array.from(e.val, (isi, ind) => {
+                                                                                                return(
+                                                                                                    <li>{t(`service_val.${i}.col1.${index}.val.${ind}`)}</li>
+                                                                                                )
+                                                                                            })}
+                                                                                        </ol>
+                                                                                    </Row>
+                                                                                </>
+                                                                            )
+                                                                        })
+                                                                        : Array.from(item.col1, (item, index) => {
+                                                                            return (
+                                                                                <>
+                                                                                    <Row className="col-title">
+                                                                                        {t(`service_val.${i}.col1.${index}.title`)}
+                                                                                    </Row>
+                                                                                    <Row>
+                                                                                        {
+                                                                                            Array.from(item.val, (item_val, idx) => {
+                                                                                                return(
+                                                                                                    <Col>
+                                                                                                        <div style={{fontWeight: "600", textAlign: "left"}}>{t(`service_val.${i}.col1.${index}.val.${idx}.sub_val`)}</div>
+                                                                                                        <ol className="list_">
+                                                                                                            {
+                                                                                                                Array.from(item_val.val, (e, ind) => {
+                                                                                                                    return (
+                                                                                                                        <>
+                                                                                                                            <li>{t(`service_val.${i}.col1.${index}.val.${idx}.val.${ind}.item`)}</li>
+                                                                                                                            <ul className="list-dash">
+                                                                                                                            {
+                                                                                                                                Array.from(e.sub_item, (el, u) => {
+                                                                                                                                    return (
+                                                                                                                                        <li>{t(`service_val.${i}.col1.${index}.val.${idx}.val.${ind}.sub_item.${u}`)}</li>
+                                                                                                                                    )
+                                                                                                                            })}
+                                                                                                                            </ul>
+                                                                                                                        </>
+                                                                                                                    )
+                                                                                                            })}
+                                                                                                        </ol>
+                                                                                                    </Col>
+                                                                                                )
                                                                                         })}
-                                                                                    </ol>
-                                                                                </Row>
-                                                                            </>
-                                                                        )
-                                                                    })}
+                                                                                    </Row>
+                                                                                </>
+                                                                            )
+                                                                        })
+                                                                    }
                                                                 </Col>
                                                                 <Col md={6}>
                                                                     {
@@ -327,7 +383,8 @@ function OurServices(props) {
                                                                                     </>
                                                                                 )
                                                                             })}
-                                                                        </> : <div/>
+                                                                        </> 
+                                                                        : <div/>
                                                                     }
                                                                 </Col>
                                                         </>   
@@ -356,34 +413,35 @@ function OurServices(props) {
                                                             </Col>
                                                             <Col md={8}>
                                                                     <Row className="border-title-services"/>
-                                                                    {Array.from(item.col2, (item, index) => {
-                                                                        return (
-                                                                            <>
-                                                                                <Row className="col-title">
-                                                                                    {t(`service_val.${i}.col2.${index}.title`)}
-                                                                                </Row>
-                                                                                <Row>
-                                                                                    {
-                                                                                    // i.val.map(isi => {
-                                                                                        Array.from(item.val, (item_val, idx) => {
-                                                                                        return(
-                                                                                            <Col>
-                                                                                                <div style={{fontWeight: "600", textAlign: "left"}}>{t(`service_val.${i}.col2.${index}.val.${idx}.sub`)}</div>
-                                                                                                <ol className="list_">
-                                                                                                    {
-                                                                                                        Array.from(item_val.val_sub, (item_sub_val, ind) => {
-                                                                                                        return (
-                                                                                                            <li>{t(`service_val.${i}.col2.${index}.val.${idx}.val_sub.${ind}`)}</li>
-                                                                                                        )
-                                                                                                    })}
-                                                                                                </ol>
-                                                                                            </Col>
-                                                                                        )
-                                                                                    })}
-                                                                                </Row>
-                                                                            </>
-                                                                        )
-                                                                    })}
+                                                                    {
+                                                                        Array.from(item.col2, (item, index) => {
+                                                                            return (
+                                                                                <>
+                                                                                    <Row className="col-title">
+                                                                                        {t(`service_val.${i}.col2.${index}.title`)}
+                                                                                    </Row>
+                                                                                    <Row>
+                                                                                        {
+                                                                                            Array.from(item.val, (item_val, idx) => {
+                                                                                            return(
+                                                                                                <Col>
+                                                                                                    <div style={{fontWeight: "600", textAlign: "left"}}>{t(`service_val.${i}.col2.${index}.val.${idx}.sub`)}</div>
+                                                                                                    <ol className="list_">
+                                                                                                        {
+                                                                                                            Array.from(item_val.val_sub, (item_sub_val, ind) => {
+                                                                                                            return (
+                                                                                                                <li>{t(`service_val.${i}.col2.${index}.val.${idx}.val_sub.${ind}`)}</li>
+                                                                                                            )
+                                                                                                        })}
+                                                                                                    </ol>
+                                                                                                </Col>
+                                                                                            )
+                                                                                        })}
+                                                                                    </Row>
+                                                                                </>
+                                                                            )
+                                                                        })
+                                                                    }
                                                             </Col>
                                                         </>
                                                     }
