@@ -3,6 +3,7 @@ import data from '../../../data'
 import './Import.css'
 import { Row, Col, Tab, Nav } from 'react-bootstrap'
 import { useTranslation } from "react-i18next"
+import Sidebar from '../../Sidebar'
 
 function Import() {
     const { t } = useTranslation()
@@ -158,14 +159,15 @@ function Import() {
                                 </div>
                             </div>
                         </>
-                    : <Tab.Container id="left-tabs-example" defaultActiveKey={1}>
-                        <Row  style={{backgroundColor: "#F2F2F2", border: "1px solid #E0E0E0", height: '2110px'}}>
-                            <Col sm={4} style={{paddingLeft: "0", paddingRight: "0"}}>
-                                <Nav variant="pills" className="flex-column">
+                    : 
+                    <Tab.Container defaultActiveKey={1}>
+                        <Row>
+                            <Col sm={4} className='left-col-vpti'>
+                                <Nav variant="pills" className="nav-left-vpti">
                                     {
                                         Array.from(data.import_vpti, (item, i) => {
                                             return (
-                                                <Nav.Item>
+                                                <Nav.Item className="nav_pills-vpti">
                                                     <Nav.Link eventKey={i+1} className="name-tab-vpti">{t(`import_vpti.${i}.tab_title`)}</Nav.Link>
                                                 </Nav.Item>
                                             )
@@ -173,7 +175,7 @@ function Import() {
                                     }
                                 </Nav>
                             </Col>
-                            <Col sm={8} style={{paddingLeft: "0", paddingRight: "0"}}>
+                            <Col sm={8} className='right-col-vpti'>
                                 <Tab.Content className="vpti-content">
                                     {Array.from(data.import_vpti, (item, i) => {
                                         return (
