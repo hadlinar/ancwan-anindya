@@ -39,8 +39,9 @@
     border-bottom: 1px solid #E0E0E0;
     border-right: 1px solid #E0E0E0;
     border-top: 1px solid #E0E0E0;
-    padding-top: 50px;
     border-radius: 0%;
+    vertical-align: middle;
+    align-items:center;
 }
 
 .name-tab:hover{
@@ -128,8 +129,9 @@
     border-bottom: 1px solid #E0E0E0;
     border-right: 1px solid #E0E0E0;
     border-top: 1px solid #E0E0E0;
-    padding-top: 123px;
     border-radius: 0%;
+    vertical-align: middle;
+    align-items:center;
 }
 
 .name-tab-certif:hover{

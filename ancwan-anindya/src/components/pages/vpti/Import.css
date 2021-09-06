@@ -77,8 +77,78 @@
 }
 
 .rectangle {
-  background-color: #E0E0E0;
+  background-color: #BEBEBE;
   padding: 10px 20px 10px 20px;
+}
+
+.left-col-vpti {
+    padding: 0;
+    border-radius: 0%;
+}
+
+.nav-left-vpti {
+    background-color: #F2F2F2;
+    text-align: left;
+    padding: 0;
+    border-radius: 0%;
+}
+
+.nav_pills-vpti {
+    background-color: #F2F2F2;
+    width: 100%;
+    height: 140px;
+    margin: auto;
+    border-radius: 0%;
+    color: black
+}
+
+.nav_pills-vpti:hover{
+    background-color: #E0E0E0;
+    border-radius: 0%;
+}
+
+.name-tab-vpti {
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    height: 100%;
+    border-radius: none;
+    border-left: 1px solid #E0E0E0;
+    border-bottom: 1px solid #E0E0E0;
+    border-right: 1px solid #E0E0E0;
+    border-top: 1px solid #E0E0E0;
+    vertical-align: middle;
+    align-items:center;
+    border-radius: 0%;
+}
+
+.name-tab-vpti:hover{
+    color: black;
+}
+
+.name-tab-vpti.active {
+    background-color: #E0E0E0;
+    border-left: 8px solid #3A7AE3;
+    border-bottom: none;
+    border-right: none;
+    border-top: none;
+    font-weight: 600;
+    border-radius: 0%;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: black;
+    background-color: #E0E0E0;
+    border-radius: 0%;
+}
+
+.right-col-vpti {
+    padding: 0;
+    margin-left: 0;
+    flex-wrap: nowrap;
+    text-align: left;
+    justify-content: left;
+    background-color: #E0E0E0;
 }
 
 @media screen and (max-width: 960px) {
@@ -129,4 +199,8 @@
     .catatan-content {
         font-size: 14px;
     }
+
+    .rectangle {
+        background-color: #E0E0E0;
+      }
 }
