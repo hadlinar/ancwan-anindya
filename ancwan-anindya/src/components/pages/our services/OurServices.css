@@ -67,6 +67,15 @@ h1 {
     flex-wrap: wrap;
 }
 
+.clients-services-lv {
+    padding: 10px;
+    max-width: 150px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
 @media screen and (max-width: 960px){
     .service-container{
         padding: 10px 50px 40px 50px;
@@ -129,6 +138,11 @@ h1 {
 
     .method-pic {
         max-width: 110px;
+        margin: auto;
+    }
+
+    .method-pic-lv {
+        max-width: 80px;
         margin: auto;
     }
 }

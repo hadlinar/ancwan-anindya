@@ -70,7 +70,11 @@ function Clients() {
                                                         return (
                                                             <Row style={{margin: "auto"}}>
                                                                  <Col key={i} style={{margin: "auto"}}>
-                                                                     <img className="clients" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
+                                                                {
+                                                                    pic !== "LV" ? <img className="clients" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
+                                                                    : 
+                                                                    <img className="clients-lv" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
+                                                                }
                                                                  </Col>
                                                              </Row>
                                                         )
@@ -90,7 +94,11 @@ function Clients() {
                                                     {e.img.map((pic, i) => {
                                                         return (
                                                             <Col key={i} style={{margin: "auto"}}>
-                                                                <img className="clients" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
+                                                                {
+                                                                    pic !== "LV" ? <img className="clients" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
+                                                                    : 
+                                                                    <img className="clients-lv" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
+                                                                }
                                                             </Col>
                                                         )
                                                     })}

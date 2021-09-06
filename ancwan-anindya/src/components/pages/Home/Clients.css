@@ -65,14 +65,22 @@
     flex-wrap: wrap;
 }
 
+.clients-lv {
+    padding: 10px;
+    max-width: 150px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
 @media screen and (max-width: 960px) {
     .clients {
-        padding: 10px;
         max-width: 180px;
-        margin: auto;
-        display: flex;
-        align-items: center;
-        flex-wrap: wrap;
+    }
+
+    .clients-lv {
+        max-width: 120px;
     }
 
     .custom-select {

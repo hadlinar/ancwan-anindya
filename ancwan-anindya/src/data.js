@@ -100,9 +100,9 @@ let data = {
             "index": "0",
             "img": [
                 "Philips",
-                "Xiaomi",
-                "Pomelo",
                 "LV",
+                "Pomelo",
+                "Xiaomi",
                 "Sharp",
                 "Samsung",
                 "Ikea",
@@ -1823,9 +1823,9 @@ let data = {
             "method": [],
             "clients" : [
                 "Philips",
-                "Xiaomi",
-                "Pomelo",
                 "LV",
+                "Pomelo",
+                "Xiaomi",
                 "Sharp",
                 "Samsung",
                 "Ikea",

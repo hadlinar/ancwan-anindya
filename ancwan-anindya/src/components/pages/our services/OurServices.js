@@ -258,7 +258,8 @@ function OurServices(props) {
                                                         {
                                                             Array.from(filtered.clients, pic => {
                                                                 return (
-                                                                    <img className='method-pic' src={require(`../../../images/clients/${filtered.name}/${pic}.png`).default} alt={pic}  />
+                                                                    pic !== "LV" ? <img className='method-pic' src={require(`../../../images/clients/${filtered.name}/${pic}.png`).default} alt={pic}  /> 
+                                                                    : <img className='method-pic-lv' src={require(`../../../images/clients/${filtered.name}/${pic}.png`).default} alt={pic}  />
                                                                 )
                                                             })
                                                         }
@@ -473,7 +474,11 @@ function OurServices(props) {
                                                             {item.clients.map((item2,i) => {
                                                                 return (
                                                                     <Col key={i} style={{margin: "auto"}}>
-                                                                        <img className="clients-services" src={require(`../../../images/clients/${item.name}/${item2}.png`).default} alt={item2}  />
+                                                                        {
+                                                                            item2 !== "LV" ? <img className="clients-services" src={require(`../../../images/clients/${item.name}/${item2}.png`).default} alt={item2}  />
+                                                                            : 
+                                                                            <img className="clients-services-lv" src={require(`../../../images/clients/${item.name}/${item2}.png`).default} alt={item2}  />
+                                                                        }
                                                                     </Col>
                                                                 )
                                                             })}
