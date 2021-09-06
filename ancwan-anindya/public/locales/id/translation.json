@@ -104,8 +104,34 @@
     "default_key_coal": "Batubara",
     "clients": [
         {
-            "name":"Batubara",
+            "name":"VPTI",
             "index": 0,
+            "img": [
+                "Philips",
+                "Xiaomi",
+                "Pomelo",
+                "LV",
+                "Sharp",
+                "Samsung",
+                "Ikea",
+                "Puma",
+                "Chanel",
+                "Cheerios",
+                "Uniqlo",
+                "Unilever",
+                "United Tractors",
+                "Hero",
+                "Lulu",
+                "Indofresh",
+                "Mulia Raya",
+                "Tunas Maju",
+                "Wingsfood",
+                "Indofood"
+            ]
+        },
+        {
+            "name":"Batubara",
+            "index": 1,
             "img": [
                 "Borneo Indobara",
                 "Kideco",
@@ -127,7 +153,7 @@
         },
         {
             "name":"Survei Kapal Laut",
-            "index": 1,
+            "index": 2,
             "img": [
                 "SIT",
                 "AKR",
@@ -152,7 +178,7 @@
         },
         {
             "name":"Minyak & Gas",
-            "index": 2,
+            "index": 3,
             "img": [
                 "VDNI",
                 "SMI",
@@ -171,7 +197,7 @@
         },
         {
             "name":"Mineral & Air",
-            "index": 3,
+            "index": 4,
             "img": [
                 "VDNI",
                 "SMI",
@@ -267,7 +293,28 @@
             ],
             "col2": [],
             "method": [],
-            "clients" : []
+            "clients" : [
+                "Philips",
+                "Xiaomi",
+                "Pomelo",
+                "LV",
+                "Sharp",
+                "Samsung",
+                "Ikea",
+                "Puma",
+                "Chanel",
+                "Cheerios",
+                "Uniqlo",
+                "Unilever",
+                "United Tractors",
+                "Hero",
+                "Lulu",
+                "Indofresh",
+                "Mulia Raya",
+                "Tunas Maju",
+                "Wingsfood",
+                "Indofood"
+            ]
         },
         {
             "name": "Batubara",

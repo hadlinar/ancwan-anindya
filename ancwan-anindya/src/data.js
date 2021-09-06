@@ -96,8 +96,34 @@ let data = {
     "branch":"ANINDYA has branch offices and laboratories located in many strategic locations throughout Indonesia. In serving clients from abroad, ANINDYA has also opened offices in several countries, that includes China, India, Singapore, Bangladesh and Vietnam.",
     "clients": [
         {
-            "name":"Coal",
+            "name":"VPTI",
             "index": "0",
+            "img": [
+                "Philips",
+                "Xiaomi",
+                "Pomelo",
+                "LV",
+                "Sharp",
+                "Samsung",
+                "Ikea",
+                "Puma",
+                "Chanel",
+                "Cheerios",
+                "Uniqlo",
+                "Unilever",
+                "United Tractors",
+                "Hero",
+                "Lulu",
+                "Indofresh",
+                "Mulia Raya",
+                "Tunas Maju",
+                "Wingsfood",
+                "Indofood"
+            ]
+        },
+        {
+            "name":"Coal",
+            "index": "1",
             "img": [
                 "Borneo Indobara",
                 "Kideco",
@@ -119,7 +145,7 @@ let data = {
         },
         {
             "name":"Marine",
-            "index": "1",
+            "index": "2",
             "img": [
                 "SIT",
                 "AKR",
@@ -144,7 +170,7 @@ let data = {
         },
         {
             "name":"Oil & Gas",
-            "index": "2",
+            "index": "3",
             "img": [
                 "DCG",
                 "ABS",
@@ -158,7 +184,7 @@ let data = {
         },
         {
             "name":"Mineral & Water",
-            "index": "3",
+            "index": "4",
             "img": [
                 "VDNI",
                 "SMI",
@@ -1795,7 +1821,28 @@ let data = {
             ],
             "col2": [],
             "method": [],
-            "clients" : []
+            "clients" : [
+                "Philips",
+                "Xiaomi",
+                "Pomelo",
+                "LV",
+                "Sharp",
+                "Samsung",
+                "Ikea",
+                "Puma",
+                "Chanel",
+                "Cheerios",
+                "Uniqlo",
+                "Unilever",
+                "United Tractors",
+                "Hero",
+                "Lulu",
+                "Indofresh",
+                "Mulia Raya",
+                "Tunas Maju",
+                "Wingsfood",
+                "Indofood"
+            ]
         },
         {
             "name": "Coal",

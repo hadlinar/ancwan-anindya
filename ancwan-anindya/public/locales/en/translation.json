@@ -103,8 +103,34 @@
     "default_key_coal": "Coal",
     "clients": [
         {
-            "name":"Coal",
+            "name":"VPTI",
             "index": 0,
+            "img": [
+                "Philips",
+                "Xiaomi",
+                "Pomelo",
+                "LV",
+                "Sharp",
+                "Samsung",
+                "Ikea",
+                "Puma",
+                "Chanel",
+                "Cheerios",
+                "Uniqlo",
+                "Unilever",
+                "United Tractors",
+                "Hero",
+                "Lulu",
+                "Indofresh",
+                "Mulia Raya",
+                "Tunas Maju",
+                "Wingsfood",
+                "Indofood"
+            ]
+        },
+        {
+            "name":"Coal",
+            "index": 1,
             "img": [
                 "Borneo Indobara",
                 "Kideco",
@@ -126,7 +152,7 @@
         },
         {
             "name":"Marine",
-            "index": 1,
+            "index": 2,
             "img": [
                 "SIT",
                 "AKR",
@@ -151,7 +177,7 @@
         },
         {
             "name":"Oil & Gas",
-            "index": 2,
+            "index": 3,
             "img": [
                 "DCG",
                 "ABS",
@@ -165,7 +191,7 @@
         },
         {
             "name":"Mineral & Water",
-            "index": 3,
+            "index": 4,
             "img": [
                 "VDNI",
                 "SMI",
@@ -261,7 +287,28 @@
             ],
             "col2": [],
             "method": [],
-            "clients" : []
+            "clients" : [
+                "Philips",
+                "Xiaomi",
+                "Pomelo",
+                "LV",
+                "Sharp",
+                "Samsung",
+                "Ikea",
+                "Puma",
+                "Chanel",
+                "Cheerios",
+                "Uniqlo",
+                "Unilever",
+                "United Tractors",
+                "Hero",
+                "Lulu",
+                "Indofresh",
+                "Mulia Raya",
+                "Tunas Maju",
+                "Wingsfood",
+                "Indofood"
+            ]
         },
         {
             "name": "Coal",
