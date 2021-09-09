@@ -1,9 +1,8 @@
 import React, { useState, useEffect } from 'react'
 import './Flow.css'
-import { Row, Col, Tab, Nav } from 'react-bootstrap'
+import { Row, Col } from 'react-bootstrap'
 import { useTranslation } from "react-i18next"
-import { Button, ButtonVPTI } from '../../Button'
-import { Link } from 'react-router-dom'
+import { ButtonVPTI } from '../../Button'
 
 function Flow() {
     const { t } = useTranslation()

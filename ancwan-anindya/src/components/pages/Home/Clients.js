@@ -71,7 +71,7 @@ function Clients() {
                                                             <Row style={{margin: "auto"}}>
                                                                  <Col key={i} style={{margin: "auto"}}>
                                                                 {
-                                                                    pic !== "LV" ? <img className="clients" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
+                                                                    pic !== "Unilever" ? <img className="clients" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
                                                                     : 
                                                                     <img className="clients-lv" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
                                                                 }

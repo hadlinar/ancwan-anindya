@@ -145,7 +145,6 @@
                 "Equentia",
                 "PKN",
                 "ABP",
-                "MEK",
                 "BMB",
                 "KJB",
                 "Titan"
@@ -393,7 +392,6 @@
                 "Equentia",
                 "PKN",
                 "ABP",
-                "MEK",
                 "BMB",
                 "KJB",
                 "Titan"
@@ -409,7 +407,7 @@
                         "Survei Kondisi Kapal",
                         "Kebersihan Ruang Kargo",
                         "Survei Bunker",
-                        "On / Of-hire Survey",
+                        "On / Off-hire Survey",
                         "Survei Towing",
                         "Survei Penyelidikan dan Kerusakan",
                         "Uji Coba Konsumsi Bahan Bakar",
@@ -975,7 +973,7 @@
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 781 Tahun 2019 tentang Kenetaan Surveyor Sebagai elaksana Verifikasi atau enelusuran Teknis Imor Besi atau Baja, Baja aduan, dan roduk Turunannya",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 781 Tahun 2019 tentang Penetapan Surveyor Sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Besi atau Baja, Baja Paduan, dan Produk Turunannya",
                             "url": "https://drive.google.com/file/d/1u-MH0j3kR6N6jBnONuJn5G_RGgyuuhqm/preview",
                             "rev": []
                         }
@@ -1095,9 +1093,9 @@
             "kontak": [
                 {
                     "title": "Kontak Kami",
-                    "nama": "Zulkifli Heru Susanto",
-                    "email": "zulkifli.heru@anindya.biz",
-                    "telp": "+62 856-9242-7289"
+                    "nama": "Dicky Muis",
+                    "email": "dicky.muis_lsi@anindya.biz",
+                    "telp": "+62 812-2297-0989"
                 }
             ]
         },
@@ -1665,9 +1663,9 @@
             "kontak": [
                 {
                     "title": "Kontak Kami",
-                    "nama": "Shania Chantaly",
-                    "email": "shania_lsi@anindya.biz",
-                    "telp": "+62 811-8700-650"
+                    "nama": "Intan Rusli",
+                    "email": "intan.rusli_lsi@anindya.biz",
+                    "telp": "+62 813-1331-1168"
                 }
             ]
         },
@@ -2150,6 +2148,6 @@
 
 
     "desc_footer_top": "Perusahaan survei independen yang memberikan layanan pengawasan kualitas dan kuantitas untuk industri batubara dan mineral, sektor minyak dan gas, serta survei kapal laut.",
-    "desc_footer_bottom": "Telah mendapatkan izin dari Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia, untuk dapat melakukan verifikasi barang impor di beberapa komoditi.",
+    "desc_footer_bottom": "Telah mendapatkan izin dari Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia, untuk dapat melakukan verifikasi barang impor.",
     "hq": "Kantor Pusat Kami"
 }

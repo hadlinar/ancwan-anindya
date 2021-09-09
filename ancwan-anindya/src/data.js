@@ -137,7 +137,6 @@ let data = {
                 "Equentia",
                 "PKN",
                 "ABP",
-                "MEK",
                 "BMB",
                 "KJB",
                 "Titan"
@@ -818,7 +817,7 @@ let data = {
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 781 Tahun 2019 tentang Kenetaan Surveyor Sebagai elaksana Verifikasi atau enelusuran Teknis Imor Besi atau Baja, Baja aduan, dan roduk Turunannya",
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 781 Tahun 2019 tentang Penetapan Surveyor Sebagai pelaksana Verifikasi atau penelusuran Teknis Impor Besi atau Baja, Baja Paduan, dan Produk Turunannya",
                             "url": "https://drive.google.com/file/d/1u-MH0j3kR6N6jBnONuJn5G_RGgyuuhqm/preview",
                             "rev": []
                         }
@@ -1921,7 +1920,6 @@ let data = {
                 "Equentia",
                 "PKN",
                 "ABP",
-                "MEK",
                 "BMB",
                 "KJB",
                 "Titan"
@@ -1937,7 +1935,7 @@ let data = {
                         "Vessel's Condition Survey",
                         "Cargo Hold Cleanliness",
                         "Bunker Survey",
-                        "On/Of-hire Survey",
+                        "On/Off-hire Survey",
                         "Lashing/Securing and Towing Survey",
                         "Investigation and Damage Survey Fuel Consumption Test",
                         "P&l Pre-entry Condition Survey"
