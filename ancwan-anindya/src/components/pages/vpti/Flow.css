@@ -59,7 +59,7 @@
     flex-wrap: nowrap;
 }
 
-.tab-content .vpti-content {
+/* .tab-content .vpti-content {
     background-color: #F2F2F2;
     justify-content: left;
     margin-left: 0;
@@ -69,7 +69,7 @@
     min-width: 100%;
     height: 1787px;
     padding-top: 20px;
-}
+} */
 
 .content-title {
     font-weight: 600;

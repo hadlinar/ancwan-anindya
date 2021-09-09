@@ -160,7 +160,7 @@ function Import() {
                             </div>
                         </>
                     : 
-                    <Tab.Container defaultActiveKey={1}>
+                    <Tab.Container defaultActiveKey={1} className='scroll-view'>
                         <Row>
                             <Col sm={4} className='left-col-vpti'>
                                 <Nav variant="pills" className="nav-left-vpti">
