@@ -177,7 +177,6 @@ let data = {
                 "BNP",
                 "PC",
                 "RBN",
-                "MAP",
                 "DSI"
             ]
         },
@@ -2005,7 +2004,6 @@ let data = {
                 "BNP",
                 "PC",
                 "RBN",
-                "MAP",
                 "DSI"
             ]
         },
