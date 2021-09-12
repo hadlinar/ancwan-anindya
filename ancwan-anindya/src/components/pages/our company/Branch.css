@@ -63,6 +63,14 @@
     top: 0;
 }
 
+.map-wrapper {
+    position: relative;
+    width: 1280px;
+    height: 550px;
+    margin: auto;
+    padding-top: 80px;
+}
+
 @media screen and (max-width: 960px) {
     .list-branch {
         margin-top: -90px;
