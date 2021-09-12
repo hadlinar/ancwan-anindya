@@ -98,7 +98,7 @@ function OurServices(props) {
                                 </select>
                                 <div className='container-service'>
                                     <div className="slides-services">
-                                        <Carousel slides={
+                                        <Carousel className="slider-img" slides={
                                             [
                                                 <img src={require(`../../../images/services/${f.name}-1.png`).default} alt={f.name}/>,
                                                 <img src={require(`../../../images/services/${f.name}-2.png`).default} alt={f.name}/>,
