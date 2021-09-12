@@ -30,7 +30,8 @@ class Branch extends React.Component {
             container: this.mapContainer,
             style: 'mapbox://styles/hadlina/ckr8q6xvv4l0h17qf38zw0gbz',
             center: [this.state.lng, this.state.lat],
-            zoom: this.state.zoom
+            zoom: this.state.zoom,
+            interactive: false
         })
 
         map.once('idle', function() {

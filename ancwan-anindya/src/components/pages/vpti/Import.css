@@ -94,10 +94,6 @@
     text-align: left;
     padding: 0;
     border-radius: 0%;
-    overflow-x: hidden;
-    overflow-y: auto;
-    display: -webkit-box;
-    display: -moz-box;
 }
 
 .nav_pills-vpti {
@@ -159,13 +155,6 @@
 
     height: 1350px;
     overflow-y: scroll;
-}
-
-.scroll-view {
-    overflow-x: hidden;
-    overflow-y: auto;
-    display: -webkit-box;
-    display: -moz-box;
 }
 
 @media screen and (max-width: 960px) {
