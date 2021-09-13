@@ -409,7 +409,7 @@ let data = {
             "Tires: No. 365/2020",
             "Cell Phones, Handheld Computers and Tablet Computers: No. 366/2020",
             "Color Multipurpose Machines, Color Photocopy Machines, and Color Printers: No. 367/2020",
-            "Goods Based on the Cooling System: NO. 421/2020",
+            "Cooling System Based Goods: NO. 421/2020",
             "Footwear, Electronics, Bicycles & Tricycles: No. 1067/2020",
             "Secondhand Capital Goods: No. 1087/2020",
             "Ceramics: No. 778/2021",
@@ -429,7 +429,7 @@ let data = {
         "title": "MINISTRY OF TRADE REPUBLIC OF INDONESIA",
         "val": [
             "Coal: No. 780/M-DAG/KEP/6/2017",
-            "Mineral: No. 558 TAHUN 2020"
+            "Mineral: No. 558/2020"
 
         ]
     },
@@ -1789,7 +1789,7 @@ let data = {
                                     "sub_item": []
                                 },
                                 {
-                                    "item": "Goods Based on the Cooling System",
+                                    "item": "Cooling System Based Goods",
                                     "sub_item": []
                                 },
                                 {

@@ -47,7 +47,7 @@ function Flow() {
                             </Row>
                         }
                         <div>
-                            <p className='detail-flow-vpti'>{t('desc_vpti')}</p>
+                            {/* <p className='detail-flow-vpti'>{t('desc_vpti')}</p> */}
                         </div>
                         <div className='flow-img'>
                             <img className='img-vpti' src={mobile ? require(`../../../images/vpti-portrait.png`).default : require(`../../../images/flow-vpti.png`).default} alt='VPTI Flow'/>

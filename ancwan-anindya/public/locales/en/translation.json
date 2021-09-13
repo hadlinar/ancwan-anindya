@@ -23,7 +23,7 @@
     ],
     "hero_title": "We are Anindya,",
     "hero_title2": "an independent surveying company",
-    "hero_subtitle": "Our service network from branch, laboratory, and office to provide super services for our customers",  
+    "hero_subtitle": "Our wide service network from branch, laboratory, and offices are always ready to provide super services for our customers",  
     "about_anindya": "About Anindya",
     "about_vpti": "About VPTI",  
     "about": "We are an independent surveying company providing quality and quantity superintending services export import verification for government purpose.",
@@ -255,7 +255,7 @@
                                     "sub_item": []
                                 },
                                 {
-                                    "item": "Goods Based on the Cooling System",
+                                    "item": "Cooling System Based Goods",
                                     "sub_item": []
                                 },
                                 {
@@ -801,7 +801,7 @@
             ]
         },
         {
-            "tab_title": "COOLING SYSTEM BASED GOOD",
+            "tab_title": "COOLING SYSTEM BASED GOODS",
             "pic": "barang",
             "dasar_hukum": [
                 {
@@ -878,7 +878,7 @@
             ]
         },
         {
-            "tab_title": "SECOND HAND CAPITAL GOOD",
+            "tab_title": "SECOND HAND CAPITAL GOODS",
             "pic": "barang-modal-tidak-baru",
             "dasar_hukum": [
                 {
@@ -2059,7 +2059,7 @@
             "Tires: No. 365/2020",
             "Cell Phones, Handheld Computers and Tablet Computers: No. 366/2020",
             "Color Multipurpose Machines, Color Photocopy Machines, and Color Printers: No. 367/2020",
-            "Goods Based on the Cooling System: NO. 421/2020",
+            "Cooling System Based Goods: NO. 421/2020",
             "Footwear, Electronics, Bicycles & Tricycles: No. 1067/2020",
             "Secondhand Capital Goods: No. 1087/2020",
             "Ceramics: No. 778/2021",
@@ -2079,7 +2079,7 @@
         "title": "MINISTRY OF TRADE REPUBLIC OF INDONESIA",
         "val": [
             "Coal: No. 780/M-DAG/KEP/6/2017",
-            "Mineral: No. 558 TAHUN 2020"
+            "Mineral: No. 558/2020"
 
         ]
     },

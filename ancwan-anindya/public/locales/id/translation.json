@@ -54,9 +54,9 @@
         },
         {
             "key": 1,
-            "name":"Batubara",
+            "name":"Batu bara",
             "img":"coal-id",
-            "label":"Batubara",
+            "label":"Batu bara",
             "path": "/our-service"
         },
         {
@@ -101,7 +101,7 @@
     "lab_around_the_world": "Laboratorium di Seluruh Dunia",
     "location_in_overseas": "Lokasi di Luar Negeri",
     "our_client": "Klien Kami",
-    "default_key_coal": "Batubara",
+    "default_key_coal": "Batu bara",
     "clients": [
         {
             "name":"VPTI",
@@ -130,7 +130,7 @@
             ]
         },
         {
-            "name":"Batubara",
+            "name":"Batu bara",
             "index": 1,
             "img": [
                 "Borneo Indobara",
@@ -217,11 +217,11 @@
 
 
 
-    "our_service": "Memberikan jasa pengawasan kualitas dan kuantitas untuk industri batubara dan mineral, sektor minyak dan gas, serta survei kapal laut",
+    "our_service": "Memberikan jasa pengawasan kualitas dan kuantitas untuk industri batu bara dan mineral, sektor minyak dan gas, serta survei kapal laut",
     "service_val": [
         {
             "name": "VPTI",
-            "subtitle": "Mulai tahun 2019, ANINDYA, telah ditunjuk oleh Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia untuk mengatur pelaksanaan verifikasi dari beberapa komoditi yang di impor. Untuk memenuhi persyaratan pasar Indonesia, layanan verifikasi teknis kami mengidentifikasi kelayakan barang yang akan diimpor ke Indonesia serta kuantitas, klasifikasi tarif, dan spesifikasi Kementerian Perdagangan. Penerbitan laporan ANINDYA yang diketahui sebagai Laporan Surveyor atau Laporan Surveyor memudahkan proses perdagangan internasional, mengurangi risiko keterlambatan bea cukai dan mengurangi potensi kerugian atas impor barang yang tidak sesuai.",
+            "subtitle": "Mulai tahun 2019, ANINDYA, telah ditunjuk oleh Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia untuk mengatur pelaksanaan verifikasi dari beberapa komoditi yang di impor. Untuk memenuhi persyaratan pasar Indonesia, layanan verifikasi teknis kami mengidentifikasi kelayakan barang yang akan diimpor ke Indonesia serta kuantitas, klasifikasi tarif, dan spesifikasi Kementerian Perdagangan. Penerbitan laporan ANINDYA yang diketahui sebagai Laporan Surveyor memudahkan proses perdagangan internasional, mengurangi risiko keterlambatan bea cukai dan mengurangi potensi kerugian atas impor barang yang tidak sesuai.",
             "col1": [
                 {
                     "title": "Layanan Kami",
@@ -316,8 +316,8 @@
             ]
         },
         {
-            "name": "Batubara",
-            "subtitle": "Penganalisan batubara dalam proses produksi dan distribusi harus dilakukan dengan perhatian penuh terhadap akurasi dan metode terbaik. Seluruh fasilitas laboratorium terakreditasi kami dan ahli menawarkan sertifikasi kualitas terpercaya untuk inspeksi dan pengujian batubara.",
+            "name": "Batu bara",
+            "subtitle": "Penganalisan batu bara dalam proses produksi dan distribusi harus dilakukan dengan perhatian penuh terhadap akurasi dan metode terbaik. Seluruh fasilitas laboratorium terakreditasi kami dan ahli menawarkan sertifikasi kualitas terpercaya untuk inspeksi dan pengujian batu bara.",
             "col1": [
                 {
                     "title": "Layanan Tambang dan Geologis",
@@ -634,7 +634,7 @@
     "button": "PELAJARI LEBIH LANJUT",
     "sub_vpti": "Cabang, laboratorium, dan kantor yang tersebar di berbagai lokasi strategis untuk memberikan layanan terbaik bagi pelanggan kami",
     "login": "MASUK SISTEM VPTI",
-    "desc_vpti": "Mulai tahun 2019, ANINDYA, telah ditunjuk oleh Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia untuk mengatur pelaksanaan verifikasi dari beberapa komoditi yang di impor. Untuk memenuhi persyaratan pasar Indonesia, layanan verifikasi teknis kami mengidentifikasi kelayakan barang yang akan diimpor ke Indonesia serta kuantitas, klasifikasi tarif, dan spesifikasi Kementerian Perdagangan. Penerbitan laporan ANINDYA yang diketahui sebagai Laporan Surveyor atau Laporan Surveyor memudahkan proses perdagangan internasional, mengurangi risiko keterlambatan bea cukai dan mengurangi potensi kerugian atas impor barang yang tidak sesuai.",
+    "desc_vpti": "Mulai tahun 2019, ANINDYA, telah ditunjuk oleh Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia untuk mengatur pelaksanaan verifikasi dari beberapa komoditi yang di impor. Untuk memenuhi persyaratan pasar Indonesia, layanan verifikasi teknis kami mengidentifikasi kelayakan barang yang akan diimpor ke Indonesia serta kuantitas, klasifikasi tarif, dan spesifikasi Kementerian Perdagangan. Penerbitan laporan ANINDYA yang diketahui sebagai Laporan Surveyor memudahkan proses perdagangan internasional, mengurangi risiko keterlambatan bea cukai dan mengurangi potensi kerugian atas impor barang yang tidak sesuai.",
     "flow_vpti": "Alur VPTI",
     "import_verif": "Verifikasi Impor",
     "import_vpti": [
@@ -1862,12 +1862,12 @@
     "about_our_company": "Tentang Perusahaan Kami",
     "branches": "Cabang Indonesia",
     "licenses_tab": "Lisensi & Sertifikasi",
-    "desc_about_us": "ANINDYA berdiri di Bandung pada Agustus 1982, merupakan perusahaan survei independen yang memberikan layanan pengawasan kualitas dan kuantitas untuk industri batubara dan mineral, sektor minyak dan gas, begitu juga survei kapal laut. ANINDYA juga mendapatkan izin dari Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia, untuk dapat melakukan verifikasi barang impor di beberapa komoditi seperti besi baja, makanan minuman, obat tradisional, mainan anak, sepatu, pakaian jadi, elektronik, dll. Anindya memiliki kantor cabang dan laboratorium yang terdapat di banyak lokasi strategis di seluruh Indonesia. Dalam memberikan pelayanan untuk klien internasional, ANINDYA juga memiliki kantor di beberapa negara yaitu Cina, India, Singapura, Banglades, dan Vietnam.",
+    "desc_about_us": "ANINDYA berdiri di Bandung pada Agustus 1982, merupakan perusahaan survei independen yang memberikan layanan pengawasan kualitas dan kuantitas untuk industri batu bara dan mineral, sektor minyak dan gas, begitu juga survei kapal laut. ANINDYA juga mendapatkan izin dari Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia, untuk dapat melakukan verifikasi barang impor di beberapa komoditi seperti besi baja, makanan minuman, obat tradisional, mainan anak, sepatu, pakaian jadi, elektronik, dll. Anindya memiliki kantor cabang dan laboratorium yang terdapat di banyak lokasi strategis di seluruh Indonesia. Dalam memberikan pelayanan untuk klien internasional, ANINDYA juga memiliki kantor di beberapa negara yaitu Cina, India, Singapura, Banglades, dan Vietnam.",
     "vission": "Visi",
     "mission": "Misi",
     "membership": "Keanggotaan & Asosiasi",
     "vission_company": "Percaya diri untuk menjadi salah satu perusahaan survei independen terbesar di Indonesia yang mampu memberikan layanan terbaik kepada pelanggan kami.",
-    "mission_company": "Memastikan konsumen kami puas dengan layanan kami dengan memberikan layanan secara akurat, profesional, dan tepat waktu. Memberikan jasa pengawasan kualitas dan kuantitas untuk industri batubara, mineral, survei kelautan, serta minyak dan gas bumi dengan budaya kerja profesional yang didukung oleh sumber daya yang berkompeten dengan integritas yang tinggi.",
+    "mission_company": "Memastikan konsumen kami puas dengan layanan kami dengan memberikan layanan secara akurat, profesional, dan tepat waktu. Memberikan jasa pengawasan kualitas dan kuantitas untuk industri batu bara, mineral, survei kelautan, serta minyak dan gas bumi dengan budaya kerja profesional yang didukung oleh sumber daya yang berkompeten dengan integritas yang tinggi untuk industri batu bara, mineral, survei kelautan, minyak dan gas bumi, serta verifikasi penelusuran teknis barang impor dengan budaya kerja.",
     "branches_our_company": [
         {
             "location": "Bandung",
@@ -2082,8 +2082,8 @@
         ]
     },
     "licenses_tab2": {
-        "name": "Analisis Kualitas dan Verifikasi Kuantitas untuk Perdagangan Batubara",
-        "title": "DIREKTORAT JENDERAL MINERAL DAN BATUBARA - ESDM",
+        "name": "Analisis Kualitas dan Verifikasi Kuantitas untuk Perdagangan Batu bara",
+        "title": "DIREKTORAT JENDERAL MINERAL DAN BATU BARA - ESDM",
         "val": [
             "No. 1029.K/30/DJB/2014"
         ]
@@ -2092,8 +2092,8 @@
         "name": "Verifikasi Eksport (Laporan Surveyor)",
         "title": "KEMENTERIAN PERDAGANGAN REPUBLIK INDONESIA",
         "val": [
-            "Batubara: No. 780/M-DAG/KEP/6/2017",
-            "Mineral: No. 558 TAHUN 2020"
+            "Batu bara: No. 780/M-DAG/KEP/6/2017",
+            "Mineral: No. 558/2020"
 
         ]
     },
@@ -2146,7 +2146,7 @@
     "our_offices": "Kantor Kami",
 
 
-    "desc_footer_top": "Perusahaan survei independen yang memberikan layanan pengawasan kualitas dan kuantitas untuk industri batubara dan mineral, sektor minyak dan gas, serta survei kapal laut.",
+    "desc_footer_top": "Perusahaan survei independen yang memberikan layanan pengawasan kualitas dan kuantitas untuk industri batu bara dan mineral, sektor minyak dan gas, serta survei kapal laut.",
     "desc_footer_bottom": "Telah mendapatkan izin dari Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia, untuk dapat melakukan verifikasi barang impor.",
     "hq": "Kantor Pusat Kami"
 }

@@ -70,12 +70,13 @@ function Footer() {
                                 </Col>
                                 <Col>
                                     <p className="footer-widget-title">{t('hq')}</p>
-                                    <p className="footer-widget-content">
-                                        Springhill Office Tower 17 th & 18th Floor
+                                    <a className="footer-widget-content" href="https://www.google.com/maps/search/Springhill+Office+Tower+17th+and+18th+Floor+Jl.+H.+Benyamin+Suaeb+Ruas+D7+Block+D6+Pademangan+Timur+Jakarta+Utara+DKI+Jakarta+14410/@-6.1495136,106.8503369,17z" target="_blank">
+                                        Springhill Office Tower 17th & 18th Floor
                                         <br/>Jl. H. Benyamin Suaeb Ruas D7  Block D6
                                         <br/>Pademangan Timur Jakarta Utara
                                         <br/>DKI Jakarta 14410
-                                    </p>
+                                    </a>
+                                    <p/>
                                     <p className="footer-widget-content"><i class="fas fa-phone-alt"/>    (+62 21) 2260 6207</p>
                                     <p className="footer-widget-content"><i class="fas fa-fax"/>    (+62 21) 2260 6236</p>
                                     <i class="fas fa-envelope"/><a className="footer-widget-content" href="mailto:marketing@anindya.biz">    marketing@anindya.biz</a>
