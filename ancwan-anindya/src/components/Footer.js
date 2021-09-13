@@ -77,7 +77,7 @@ function Footer() {
                                         <br/>DKI Jakarta 14410
                                     </a>
                                     <p/>
-                                    <p className="footer-widget-content"><i class="fas fa-phone-alt"/>    (+62 21) 2260 6207</p>
+                                    <i class="fas fa-phone-alt"/><a className="footer-widget-content" href="tel:(+6221)22606207">    (+62 21) 2260 6207</a><p/>
                                     <p className="footer-widget-content"><i class="fas fa-fax"/>    (+62 21) 2260 6236</p>
                                     <i class="fas fa-envelope"/><a className="footer-widget-content" href="mailto:marketing@anindya.biz">    marketing@anindya.biz</a>
                                 </Col>

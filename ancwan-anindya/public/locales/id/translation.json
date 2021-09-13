@@ -54,9 +54,9 @@
         },
         {
             "key": 1,
-            "name":"Batu bara",
+            "name":"Batu Bara",
             "img":"coal-id",
-            "label":"Batu bara",
+            "label":"Batu Bara",
             "path": "/our-service"
         },
         {
@@ -101,7 +101,7 @@
     "lab_around_the_world": "Laboratorium di Seluruh Dunia",
     "location_in_overseas": "Lokasi di Luar Negeri",
     "our_client": "Klien Kami",
-    "default_key_coal": "Batu bara",
+    "default_key_coal": "Batu Bara",
     "clients": [
         {
             "name":"VPTI",
@@ -130,7 +130,7 @@
             ]
         },
         {
-            "name":"Batu bara",
+            "name":"Batu Bara",
             "index": 1,
             "img": [
                 "Borneo Indobara",
@@ -316,7 +316,7 @@
             ]
         },
         {
-            "name": "Batu bara",
+            "name": "Batu Bara",
             "subtitle": "Penganalisan batu bara dalam proses produksi dan distribusi harus dilakukan dengan perhatian penuh terhadap akurasi dan metode terbaik. Seluruh fasilitas laboratorium terakreditasi kami dan ahli menawarkan sertifikasi kualitas terpercaya untuk inspeksi dan pengujian batu bara.",
             "col1": [
                 {
@@ -2082,7 +2082,7 @@
         ]
     },
     "licenses_tab2": {
-        "name": "Analisis Kualitas dan Verifikasi Kuantitas untuk Perdagangan Batu bara",
+        "name": "Analisis Kualitas dan Verifikasi Kuantitas untuk Perdagangan Batu Bara",
         "title": "DIREKTORAT JENDERAL MINERAL DAN BATU BARA - ESDM",
         "val": [
             "No. 1029.K/30/DJB/2014"
