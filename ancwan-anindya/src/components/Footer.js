@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react'
 import { Row, Col } from 'react-bootstrap'
 import './Footer.css'
-import { useTranslation } from "react-i18next";
+import { useTranslation } from "react-i18next"
+import { ButtonVPTI } from './Button'
 
 function Footer() {
     const { t } = useTranslation()
@@ -38,6 +39,11 @@ function Footer() {
                                     <br/>
                                     {t('desc_footer_bottom')}
                                 </p>
+                                <div className="hero-btns" style={{marginTop: '-10px', marginBottom: '20px'}}>
+                                    <ButtonVPTI className='btns' buttonStyle='btn--primary' buttonSize='btn--xsmall' pathn='https://drive.google.com/file/d/1KInr8egz9zBQ1SBJGlcXFw7brjUpzioN/preview'>
+                                        {t('company_profile')}
+                                    </ButtonVPTI>
+                                </div>
                             </Row>
                             <Row>
                                 <p className="footer-widget-title-hq">{t('hq')}</p>
@@ -67,6 +73,11 @@ function Footer() {
                                         <br/>
                                         {t('desc_footer_bottom')}
                                     </p>
+                                    <div className="hero-btns" style={{marginTop: '-10px'}}>
+                                        <ButtonVPTI className='btns' buttonStyle='btn--primary' buttonSize='btn--xsmall' pathn='https://drive.google.com/file/d/1KInr8egz9zBQ1SBJGlcXFw7brjUpzioN/preview'>
+                                            {t('company_profile')}
+                                        </ButtonVPTI>
+                                    </div>
                                 </Col>
                                 <Col>
                                     <p className="footer-widget-title">{t('hq')}</p>
