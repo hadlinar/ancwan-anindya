@@ -56,24 +56,14 @@ function About() {
                                     }
                                 </Row>
                         </Col>
-                        : <Row>
+                        : <Row style={{width: '100%'}}>
                             <Col md={3}>
                                 <Row className="border-title" />
                                 <Row className="col-title-about">
                                     <h1>{t('about_anindya')}</h1>
                                 </Row>
                             </Col>
-                            <Col md={9}>
-                                <Row className="col-desc-about">
-                                    <p>
-                                        {t('about')}
-                                    </p>
-                                </Row>
-                                <Row className="col-desc-about">
-                                    <p>
-                                        {t('subabout')}
-                                    </p>
-                                </Row>
+                            <Col md={9} >
                                 <Row className="col-val">
 
                                     {

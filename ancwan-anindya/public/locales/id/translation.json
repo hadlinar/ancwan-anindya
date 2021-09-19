@@ -32,7 +32,7 @@
     "values": [
         {
             "key": 1,
-            "val":"Ketepatan"
+            "val":"Akurat"
         },
         {
             "key": 2,
@@ -98,7 +98,7 @@
     "branch_office": "Kantor Cabang & Perwakilan",
     "branch": "Anindya memiliki kantor cabang dan laboratorium yang terdapat di banyak lokasi strategis di seluruh Indonesia. Dalam memberikan pelayanan untuk klien internasional, ANINDYA juga memiliki kantor di beberapa negara yaitu Cina, India, Singapura, Banglades, dan Vietnam.",
     "location_in_indonesia": "Lokasi di Indonesia",
-    "lab_around_the_world": "Laboratorium di Seluruh Dunia",
+    "lab_around_the_world": "Laboratorium di Luar Indonesia",
     "location_in_overseas": "Lokasi di Luar Negeri",
     "our_client": "Klien Kami",
     "default_key_coal": "Batu Bara",
@@ -107,26 +107,26 @@
             "name":"VPTI",
             "index": 0,
             "img": [
-                "Philips",
-                "Xiaomi",
-                "Pomelo",
-                "LV",
                 "Sharp",
+                "The North Face",
+                "Matsuo",
+                "Mercedes",
+                "Komatsu",
+                "Panasonic",
+                "Bridgestone",
+                "Apple",
                 "Samsung",
-                "Ikea",
-                "Puma",
-                "Chanel",
-                "Cheerios",
+                "LV",
+                "Brompton",
+                "Aik Moh",
                 "Uniqlo",
-                "Unilever",
-                "United Tractors",
-                "Hero",
-                "Lulu",
-                "Indofresh",
-                "Mulia Raya",
-                "Tunas Maju",
-                "Wingsfood",
-                "Indofood"
+                "Hermes",
+                "Canon",
+                "Hp",
+                "Starbucks",
+                "Cold Stone",
+                "ELC",
+                "Kohler"
             ]
         },
         {
@@ -293,26 +293,26 @@
             "col2": [],
             "method": [],
             "clients" : [
-                "Philips",
-                "LV",
-                "Pomelo",
-                "Xiaomi",
                 "Sharp",
+                "The North Face",
+                "Matsuo",
+                "Mercedes",
+                "Komatsu",
+                "Panasonic",
+                "Bridgestone",
+                "Apple",
                 "Samsung",
-                "Ikea",
-                "Puma",
-                "Chanel",
-                "Cheerios",
+                "LV",
+                "Brompton",
+                "Aik Moh",
                 "Uniqlo",
-                "Unilever",
-                "United Tractors",
-                "Hero",
-                "Lulu",
-                "Indofresh",
-                "Mulia Raya",
-                "Tunas Maju",
-                "Wingsfood",
-                "Indofood"
+                "Hermes",
+                "Canon",
+                "Hp",
+                "Starbucks",
+                "Cold Stone",
+                "ELC",
+                "Kohler"
             ]
         },
         {
@@ -741,6 +741,15 @@
                     "email": "intan.rusli_lsi@anindya.biz",
                     "telp": "+62 813-1331-1168"
                 }
+            ],
+            "clients": [
+                "Hush Puppies",
+                "Under Armour",
+                "Columbia",
+                "Fitflop",
+                "Vans",
+                "The North Face",
+                "Salomon"
             ]
         },
         {
@@ -812,6 +821,17 @@
                     "email": "zulkifli.heru@anindya.biz",
                     "telp": "+62 856-9242-7289"
                 }
+            ],
+            "clients": [
+                "Continental",
+                "Goodyear",
+                "Bridgestone",
+                "Yokohama",
+                "Pirelli",
+                "Longmarch",
+                "Maxxis",
+                "Toyo Tires",
+                "Triangle"
             ]
         },
         {
@@ -889,6 +909,16 @@
                     "email": "dicky.muis_lsi@anindya.biz",
                     "telp": "+62 812-2297-0989"
                 }
+            ],
+            "clients": [
+                "Ace",
+                "Daikin",
+                "Hisense",
+                "Modena",
+                "Panasonic",
+                "Krisbow",
+                "LG",
+                "Tica"
             ]
         },
         {
@@ -944,6 +974,14 @@
                     "email": "adhy_lsi@anindya.biz",
                     "telp": "+62 812-5954-8903"
                 }
+            ],
+            "clients": [
+                "Akebono",
+                "BAP",
+                "Cimory",
+                "Matsuo",
+                "IMCP",
+                "Texcoms"
             ]
         },
         {
@@ -1003,6 +1041,15 @@
                     "email": "gunawan_lsi@anindya.biz",
                     "telp": "+62 812-2392-6667"
                 }
+            ],
+            "clients": [
+                "Komatsu",
+                "Mercedes",
+                "Bridon",
+                "Sarana Steel",
+                "Kobexindo",
+                "Schlumberger",
+                "Toyota Tsusho"
             ]
         },
         {
@@ -1096,6 +1143,19 @@
                     "email": "dicky.muis_lsi@anindya.biz",
                     "telp": "+62 812-2297-0989"
                 }
+            ],
+            "clients": [
+                "Panasonic",
+                "Acer",
+                "Aqua Japan",
+                "Fujifilm",
+                "Gree",
+                "Hp",
+                "Asus",
+                "Sharp",
+                "Lenovo",
+                "Phillips",
+                "Tefal"
             ]
         },
         {
@@ -1163,6 +1223,10 @@
                     "email": "novia_lsi@anindya.biz",
                     "telp": "+62 812-9511-1380"
                 }
+            ],
+            "clients": [
+                "Calbee Wings",
+                "Jakarta Sereal"
             ]
         },
         {
@@ -1232,6 +1296,16 @@
                     "email": "tiaregita_lsi@anindya.biz",
                     "telp": "+62 811-9279-197"
                 }
+            ],
+            "clients": [
+                "Goldengres",
+                "American Standard",
+                "Kohler",
+                "Informa",
+                "Kkv",
+                "Lixil",
+                "Nakshatra",
+                "Torch Ceramics"
             ]
         },
         {
@@ -1324,6 +1398,12 @@
                     "email": "intan.rusli_lsi@anindya.biz",
                     "telp": "+62 813-1331-1168"
                 }
+            ],
+            "clients": [
+                "Emco",
+                "ELC",
+                "Mothercare",
+                "Tomica"
             ]
         },
         {
@@ -1416,6 +1496,14 @@
                     "email": "intan.rusli_lsi@anindya.biz",
                     "telp": "+62 813-1331-1168"
                 }
+            ],
+            "clients": [
+                "Ajinomoto",
+                "Chatime",
+                "Starbucks",
+                "Cold Stone",
+                "Mamasuka",
+                "Mixue"
             ]
         },
         {
@@ -1479,6 +1567,12 @@
                     "email": "dicky.muis_lsi@anindya.biz",
                     "telp": "+62 812-2297-0989"
                 }
+            ],
+            "clients": [
+                "Ricoh",
+                "Fujifilm",
+                "Hp",
+                "Canon"
             ]
         },
         {
@@ -1571,6 +1665,9 @@
                     "email": "intan.rusli_lsi@anindya.biz",
                     "telp": "+62 813-1331-1168"
                 }
+            ],
+            "clients": [
+                "Herbalife"
             ]
         },
         {
@@ -1666,6 +1763,15 @@
                     "email": "intan.rusli_lsi@anindya.biz",
                     "telp": "+62 813-1331-1168"
                 }
+            ],
+            "clients": [
+                "Chanel",
+                "Under Armour",
+                "Giordano",
+                "Hermes",
+                "Uniqlo",
+                "LV",
+                "Mothercare "
             ]
         },
         {
@@ -1732,6 +1838,12 @@
                     "email": "shania_lsi@anindya.biz",
                     "telp": "+62 811-8700-650"
                 }
+            ],
+            "clients": [
+                "Petrokimia Gresik",
+                "Aik Moh",
+                "BSP",
+                "SSK"
             ]
         },
         {
@@ -1795,6 +1907,15 @@
                     "email": "intan.rusli_lsi@anindya.biz",
                     "telp": "+62 813-1331-1168"
                 }
+            ],
+            "clients": [
+                "Surly",
+                "Cannondale",
+                "Colnago",
+                "Brompton",
+                "United",
+                "Pacific",
+                "Specialized"
             ]
         },
         {
@@ -1853,6 +1974,12 @@
                     "email": "dicky.muis_lsi@anindya.biz",
                     "telp": "+62 812-2297-0989"
                 }
+            ],
+            "clients": [
+                "Oppo",
+                "Vivo",
+                "Samsung",
+                "Apple"
             ]
         }
     ],

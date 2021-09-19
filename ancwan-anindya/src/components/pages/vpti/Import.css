@@ -157,6 +157,36 @@
     overflow-y: scroll;
 }
 
+.grid-clients {
+    padding: 20px 0 20px 0;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    grid-gap: 30px;
+    list-style: none;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.clients-vpti {
+    padding: 10px;
+    max-width: 200px;
+    max-height: 150px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.clients-vpti-lv {
+    padding: 10px;
+    max-width: 150px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
 @media screen and (max-width: 960px) {
     .container-import {
         padding: 80px 40px 40px 40px;
@@ -208,5 +238,36 @@
 
     .rectangle {
         background-color: #E0E0E0;
-      }
+    }
+
+    .grid-clients {
+        padding: 20px 0 0 0;
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        grid-gap: 20px;
+        list-style: none;
+        text-align: center;
+        justify-content: center;
+        margin: auto;
+    }
+    
+    .clients-vpti {
+        padding: 2px;
+        max-width: 120px;
+        max-height: 200px;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    
+    .clients-vpti-lv {
+        padding: 2px;
+        max-width: 120px;
+        max-height: 120px;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
 }

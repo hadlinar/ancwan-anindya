@@ -23,8 +23,9 @@ p {
     left: 4%;
 }
 
-.col-title-about {
+.col-title-about > h1 {
     padding-top: 28px;
+    text-align: left;
 }
 
 .col-desc-about {
@@ -34,7 +35,7 @@ p {
 }
 
 .col-val {
-    padding-left: 1rem;
+    padding-left: 3rem;
     margin-top: 20px;
 }
 

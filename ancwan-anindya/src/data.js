@@ -99,26 +99,26 @@ let data = {
             "name":"VPTI",
             "index": "0",
             "img": [
-                "Philips",
-                "LV",
-                "Pomelo",
-                "Xiaomi",
                 "Sharp",
+                "The North Face",
+                "Matsuo",
+                "Mercedes",
+                "Komatsu",
+                "Panasonic",
+                "Bridgestone",
+                "Apple",
                 "Samsung",
-                "Ikea",
-                "Puma",
-                "Chanel",
-                "Cheerios",
+                "LV",
+                "Brompton",
+                "Aik Moh",
                 "Uniqlo",
-                "Unilever",
-                "United Tractors",
-                "Hero",
-                "Lulu",
-                "Indofresh",
-                "Mulia Raya",
-                "Tunas Maju",
-                "Wingsfood",
-                "Indofood"
+                "Hermes",
+                "Canon",
+                "Hp",
+                "Starbucks",
+                "Cold Stone",
+                "ELC",
+                "Kohler"
             ]
         },
         {
@@ -483,75 +483,75 @@ let data = {
     "flow_vpti": "Indonesia’s Ministry of Trade has mandated that a wide range of goods be inspected prior to export to the country to demonstrate compliance with various national regulations. To meet the Indonesian market requirements our technical verification services identify the eligibility of the goods to be imported into Indonesia as well as the quantity, tariff classification and Ministry of Trade specifications. The issuance of the ANINDYA report known as a Laporan Surveyor or Surveyor’s Report facilitates international trade, reduces the risk of delays in Customs clearance and reduces potential losses from the import of non-compliant goods.",
     "import_vpti": [
         {
-            "tab_title": "ALAS KAKI",
+            "tab_title": "FOOTWEAR",
             "pic": "alas-kaki",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
                             "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 28 Tahun 2020 tentang Perubahan Kedelapan atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 concerning the Eighth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1JWCPymLibiK72u7tzyg3gN8llytWXMI0/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 24 Tahun 2019 tentang Perubahan Ketujuh atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 24 of the Year 2019 concerning the Seventh Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1Wa66lbZnpuBrmStAy-pf4pao3Dj-pADF/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 121 Tahun 2018 tentang Perubahan keenam atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 121 of the Year 2018 concerning the Sixth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 42 Tahun 2018 tentang Perubahan kelima atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 42 of the Year 2018 concerning the Fifth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 12 Tahun 2018 tentang Perubahan keempat atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 12 of the Year 2018 concerning the Fourth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94 Tahun 2017 tentang Perubahan ketiga atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94 of the Year 2017 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1HkEDhBMj6Lg7FppOR06J6uJctIQDo4NI/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 81 Tahun 2017 tentang Perubahan kedua atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 81 of the Year 2017 concerning the Second Amendment to the Regulation of the Minister of Trade (Permendag) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1rUBYQFKDKJHyvKXENybVbcYdl5feHDts/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94/M-DAG/PER/10/2015 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94/M-DAG/PER/10/2015 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1rUvUxyVExAo9dzYgSOnAMhWy1EFiMjLn/preview"
-                                },
+                                }
                             ]
                         },
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 68 Tahun 2020 tentang Ketentuan Impor Alas Kaki, Elektronik, Serta Sepeda Roda Dua dan Roda Tiga.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
                             "url": "https://drive.google.com/file/d/1qqnL8WYoyVPtkqNbOvjHVhw0wdPgdo3k/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 78 Tahun 2020 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 68 Tahun 2020 tentang Ketentuan Impor Alas Kaki, Elektronik, Serta Sepeda Roda Dua dan Roda Tiga.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 78 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
                                     "url": "https://drive.google.com/file/d/1o47ZpzBwRlLKS10Ry9Q6CwUJi4DX4ciD/preview"
                                 }
                             ]
                         }
-                    ],
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Alas Kaki",
+                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Footwear Products",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of the Year 2019 concerning Delegation of Surveyors to execute Verification or Technical Investigation for the Import of Certain Products.",
                             "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
                             "rev": []
                         },
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 1067 Tahun 2020 tentang Penetapan PT Anindya Wiraputra Konsult (Persero) sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Alas Kaki, Elektronik, serta Sepeda Roda Dua dan Roda Tiga.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 1067 of the Year 2020 concerning the Appointment of PT Anindya Wiraputra Konsult (Persero) as a Surveyor to Execute Verification or Technical Investigation for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
                             "url": "https://drive.google.com/file/d/1j54C2Cw48yguhx_UU9fhaY--8mbLGgQp/preview",
                             "rev": []
                         }
@@ -560,68 +560,77 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Negara asal dan pelabuhan muat;",
-                        "Uraian barang dan pos tarif / HS;",
-                        "Nomor Sertifikasi Produk Penggunaan Tanda SNI (SPPT SNI), untuk Produk tertentu yang SNI-nya diberlakukan secara wajib;",
-                        "Nomor Pendaftaran Barang (NPB);",
-                        "Waktu pengapalan; dan",
-                        "Pelabuhan Tujuan."
+                        "Country of origin and port of loading",
+                        "Description of goods and Tariff Post / HS code",
+                        "Product Certification Number Using National Standard Mark (SPPT SNI), for certain required products",
+                        "Goods Registration Number (NPB)",
+                        "Shipping time",
+                        "Destination port"
                     ]
                 }
             ],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "Pengaturan Larangan Pembatasan (Lartas) untuk Produk Alas Kaki dipisahkan menjadi 2 (dua) kategori, di bawah Permendag. No. 28 Th. 2020 dan Permendag. No. 78 Th. 2020."
+                    "title": "Notes",
+                    "text": "Regulations on the Limit and Restrictions (Lartas) for Footwear Products are separated into 2 (two) categories, under the Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 and Number 78 of the Year 2020."
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
+                    "title": "Contact Us",
                     "nama": "Intan Rusli",
                     "email": "intan.rusli_lsi@anindya.biz",
                     "telp": "+62 813-1331-1168"
                 }
+            ],
+            "clients": [
+                "Hush Puppies",
+                "Under Armour",
+                "Columbia",
+                "Fitflop",
+                "Vans",
+                "The North Face",
+                "Salomon"
             ]
         },
         {
-            "tab_title": "BAN",
+            "tab_title": "TIRE",
             "pic": "ban",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 77/M-DAG/PER/11/2016 tentang Ketentuan Impor Ban.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 77/M-DAG/PER/11/2016 concerning Provisions for the Import of Tires.",
                             "url": "https://drive.google.com/file/d/1ShZAPLUSq5f129wuDEE_rGbBupEZU07Q/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 05 Tahun 2019 tentang Perubahan ketiga atas Peraturan Menteri Perdagangan (Permendag) Nomor 77/M-DAG/PER/11/2016 tentang Ketentuan Impor Ban;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 05 of the Year 2019 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 77/M-DAG/PER/11/2016 concerning Provisions for the Import of Tires;",
                                     "url": "https://drive.google.com/file/d/1Ze6lWsYbUS8nI-vbg1qM0Ewtg1cQNyiV/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 117 Tahun 2018 tentang Perubahan kedua atas Peraturan Menteri Perdagangan (Permendag) Nomor 77/M-DAG/PER/11/2016 tentang Ketentuan Impor Ban;",
+                                    "text": "Regulation of the Minister of Trade (Permendag) Number 117 of the Year 2018 concerning the Second Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 77/M-DAG/PER/11/2016 concerning Provisions for the Import of Tires;",
                                     "url": "https://drive.google.com/file/d/1xLMoMFoiS7c0cSk4gcgPuwm0ttLfHYbp/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 06 Tahun 2018 Nomor 06 Tahun 2018 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 77/M-DAG/PER/11/2016 tentang Ketentuan Impor Ban.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 06 of the Year 2018 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 77/M-DAG/PER/11/2016 concerning Provisions for the Import of Tires;",
                                     "url": "https://drive.google.com/file/d/1GClfdM-wM7CCrqSf4Zc96BjhGYQRx0fw/preview"
                                 }
                             ]
                         }
-                    ],
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Ban",
+                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Tires",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 365 tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelurusan Teknis Impor Ban.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 365 of the Year 2020 concerning the Delegation of Surveyors to Execute Verification or Technical Investigation for the Import of Tires.",
                             "url": "https://drive.google.com/file/d/1Bf-4Hn-LjJQS55kn0JCzBsxFM4cywyGr/preview",
                             "rev": []
                         }
@@ -630,75 +639,86 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Negara asal dan pelabuhan muat;",
-                        "Pos Tarif atau nomor HS dan uraian;",
-                        "Jenis dan jumlah;",
-                        "Tipe dan ukuran;",
-                        "Waktu pengapalan;",
-                        "Pelabuhan tujuan; dan",
-                        "Kesesuaian Sertifikat Produk Penggunaan Tanda Standar Nasional Indonesia (SPPT SNI) Ban dengan dokumen asal barang."
+                        "Country of origin and port of loading",
+                        "Tariff Post or HS code and description",
+                        "Brand and quantity",
+                        "Type and size",
+                        "Shipping time",
+                        "Destination port",
+                        "Propriety of Product Certification Number Using Indonesian National Standard Mark (SPPT SNI) for Tires with documents from origin"
                     ]
                 }
             ],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "Perbedaan pengaturan masa berlaku Persetujuan Impor (PI) untuk API-P (berlaku 1 tahun) dan API-U (berlaku 6 bulan)."
+                    "title": "Notes",
+                    "text": "Import Approval from the Minister of Trade (PI) expiration date differs for API-P (valid for 1 year) and API-U (valid for 6 months)."
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
+                    "title": "Contact Us",
                     "nama": "Zulkifli Heru Susanto",
                     "email": "zulkifli.heru@anindya.biz",
                     "telp": "+62 856-9242-7289"
                 }
+            ],
+            "clients": [
+                "Continental",
+                "Goodyear",
+                "Bridgestone",
+                "Yokohama",
+                "Pirelli",
+                "Longmarch",
+                "Maxxis",
+                "Toyo Tires",
+                "Triangle"
             ]
         },
         {
-            "tab_title": "BARANG BERBASIS SISTEM PENDINGIN",
+            "tab_title": "COOLING SYSTEM BASED GOODS",
             "pic": "barang",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 84/M-DAG/PER/10/2015 tentang Ketentuan Impor Barang Berbasis Sistem Pendingin.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 84/M-DAG/PER/10/2015 concerning Provisions on Import of Cooling System Based Goods.",
                             "url": "https://drive.google.com/file/d/1VJgJX5OiQjrw06vV5ucybkf8b25YLY0j/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 18 Tahun 2018 tentang Perubahan Peraturan Menteri Perdagangan (Permendag) Nomor 84/M-DAG/PER/10/2015 tentang Ketentuan Impor Barang Berbasis Sistem Pendingin;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 18 of the Year 2018 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 84/M-DAG/PER/10/2015 concerning Provisions on Import of Cooling System Based Goods;",
                                     "url": "https://drive.google.com/file/d/1cZh1EQOnBpZjopZ9qft_kgVt-_YppWAV/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 40/M-DAG/PER/5/2016 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 84/M-DAG/PER/10/2015 tentang Ketentuan Impor Barang Berbasis Sistem Pendingin.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 40 of the Year 2016 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 84/M-DAG/PER/10/2015 concerning Provisions on Import of Cooling System Based Goods.",
                                     "url": "https://drive.google.com/file/d/1SQGtjq3FTWUrMZ7nmMWkcrkkzmES6LHW/preview"
                                 }
                             ]
                         },
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 68 Tahun 2020 tentang Ketentuan Impor Alas Kaki, Elektronik, Serta Sepeda Roda Dua dan Roda Tiga.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
                             "url": "https://drive.google.com/file/d/1qqnL8WYoyVPtkqNbOvjHVhw0wdPgdo3k/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 78 Tahun 2020 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 68 Tahun 2020 tentang Ketentuan Impor Alas Kaki, Elektronik, Serta Sepeda Roda Dua dan Roda Tiga.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 78 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
                                     "url": "https://drive.google.com/file/d/1o47ZpzBwRlLKS10Ry9Q6CwUJi4DX4ciD/preview"
                                 }
                             ]
-                        },
-                    ],
+                        }
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Barang Berbasis Sistem Pendingin",
+                    "title": "Letter of Appointment of PT Anindya Wiraputra Kosult for Cooling System Based Goods",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 421 tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelurusan Teknis Impor Barang Berbasis Sistem Pendingin.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 421 of the Year 2020 concerning Delegation of Surveyors to Execute Verification or Technical Investigation of Imported Cooling System Based Goods.",
                             "url": "https://drive.google.com/file/d/1hb0Tl2sa1hgs1E_XYyTVSzP33H7oWogR/preview",
                             "rev": []
                         }
@@ -707,61 +727,71 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Nama dan alamat importir dan eksportir;",
-                        "Jenis, pos tariff / HS 10 (sepuluh) digit dan uraiannya;",
-                        "Jenis dan spesifikasi refrigeran yang digunakan pada barang;",
-                        "Jumlah, volume atau berat;",
-                        "Negara asal barang;",
-                        "Negara dan pelabuhan muat; dan",
-                        "Pelabuhan tujuan."
+                        "Name and address of importer and exporter",
+                        "Type, Tariff Post / HS code 10 (ten) digits and their description",
+                        "Specification of refrigerants used",
+                        "Amount, volume or weight",
+                        "Country of origin",
+                        "Country and port of loading",
+                        "Destination port"
                     ]
                 }
             ],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "Barang Modal Bukan Baru (yang termasuk ke dalam BBSP) di dalam Permendag 75/2013 tunduk pada Ketentuan Impor Barang Berbasis Sistem Pendingin. Untuk Barang Berbasis Sistem Refrigerant, agar memperhatikan juga ketentuan dalam Permendag No. 84/2015 dan No. 68/2020."
+                    "title": "Notes",
+                    "text": "Non-New Capital Goods that are included in Cooling System Based Goods in the Minister of Trade Regulation 75/2013 are subject to the Provisions for the Import of Cooling System Based Goods. For Refrigerant System Based Goods, also pay attention to the provisions in the Minister of Trade Regulation Number. 84/2015 and Number 68/2020."
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
+                    "title": "Contact Us",
                     "nama": "Dicky Muis",
                     "email": "dicky.muis_lsi@anindya.biz",
                     "telp": "+62 812-2297-0989"
                 }
+            ],
+            "clients": [
+                "Ace",
+                "Daikin",
+                "Hisense",
+                "Modena",
+                "Panasonic",
+                "Krisbow",
+                "LG",
+                "Tica"
             ]
         },
         {
-            "tab_title": "BARANG MODAL TIDAK BARU",
+            "tab_title": "SECOND HAND CAPITAL GOODS",
             "pic": "barang-modal-tidak-baru",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 118 Tahun 2018 tentang Ketentuan Impor Barang Modal dalam Keadaan Tidak Baru.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 118 of 2018 concerning Provisions on the Import of Second Hand Capital Goods.",
                             "url": "https://drive.google.com/file/d/10Q001ky7mbDXotDkBtYtyviyhKb5aoWW/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 76 Tahun 2019 tentang Perubahan Atas Peraturan Menteri Perdagangan Nomor 118 Tahun 2018 tentang Ketentuan Impor Barang Modal dalam Keadaan Tidak Baru.",
+                                    "text": "Regulation of the Minister of Trade (Permendag) Number 76 of 2019 concerning Amendments to Regulation of the Minister of Trade Number 118 of 2018 concerning Provisions on the Import of Capital Goods in Non-New Conditions.",
                                     "url": "https://drive.google.com/file/d/1b1v2gs8fY5cKkxwHmGqkSFOBbF6EasUw/preview"
                                 }
                             ]
-                        },
-                    ],
+                        }
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Barang Modal Tidak Baru",
+                    "title": "Letter of Appointment of PT Anindya Wiraputra Kosult for Second Hand Capital Goods",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 1087 Tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Barang Modal dalam Keadaan Tidak Baru.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 1087 of the Year 2020 concerning Delegation of Surveyors to Execute Verification or Technical Investigation of Imported Capital Goods in Non-New Conditions.",
                             "url": "https://drive.google.com/file/d/1FbVwYtH_Vk-Z9ldItnJMrPlE3my4FBwn/preview",
                             "rev": []
                         }
@@ -770,53 +800,61 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Kelayakan pakai: layak pakai, diperbaiki, dan atau dioperasikan kembali;",
-                        "HS Code;",
-                        "Usia untuk BMTB yang ditetapkan batasan usia impornya; dan",
-                        "Jumlah dan nilai.",
+                        "Usability: suitable for use, repair, and/or re-operation",
+                        "HS Code",
+                        "Age for goods which import age limit is set",
+                        "Amount and value"
                     ]
                 }
             ],
             "catatan": [],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
+                    "title": "Contact Us",
                     "nama": "Adhy Herlastadhy",
                     "email": "adhy_lsi@anindya.biz",
                     "telp": "+62 812-5954-8903"
                 }
+            ],
+            "clients": [
+                "Akebono",
+                "BAP",
+                "Cimory",
+                "Matsuo",
+                "IMCP",
+                "Texcoms"
             ]
         },
         {
-            "tab_title": "BESI BAJA DAN PRODUK TURUNANNYA",
+            "tab_title": "STEEL IRON, STEEL ALLOY, & STEEL DERIVATIVE PRODUCT",
             "pic": "besi-baja",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 110 Tahun 2018 tentang Ketentuan Impor Besi atau Baja, Baja Paduan, dan Produk Turunannya.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 110 of the Year 2018 concerning Provisions for the Import of Steel Iron, Steel Alloy, & Steel Derivatives.",
                             "url": "https://drive.google.com/file/d/11Lpjv_3Ch2tSij7kjaIly510d1ijshLX/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 03 Tahun 2020 tentang Perubahan Atas Peraturan Menteri Perdagangan (Permendag) Nomor 110 Tahun 2018 tentang Ketentuan Impor Besi atau Baja, Baja Paduan, dan Produk Turunannya",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 03 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 110 of the Year 2018 concerning Provisions on the Import of Steel Iron, Steel Alloy, and Steel Derivative Products.",
                                     "url": "https://drive.google.com/file/d/1QSmCyZ6cV4ptLCxNuEigvhECdS_wdsYY/preview"
                                 }
                             ]
-                        },
-                    ],
+                        }
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Besi Baja dan Produk Turunannya",
+                    "title": "Appointment Letter of PT Anindya Wiraputra Kosult for Steel Iron, Steel Alloy, & Steel Derivative Products",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 781 Tahun 2019 tentang Penetapan Surveyor Sebagai pelaksana Verifikasi atau penelusuran Teknis Impor Besi atau Baja, Baja Paduan, dan Produk Turunannya",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 781 of the Year 2019 concerning Delegation of Surveyors to Execute Verification or Technical Investigation for the Import of Steel Iron, Steel Alloy, and Steel Derivative Products",
                             "url": "https://drive.google.com/file/d/1u-MH0j3kR6N6jBnONuJn5G_RGgyuuhqm/preview",
                             "rev": []
                         }
@@ -825,86 +863,95 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Data atau keterangan di Persetujuan Impor;",
-                        "Kesesuaian Besi atau Baja, dan Baja Paduan yang diimpor dengan mill test certificate (MTC), dan",
-                        "Standar Nasional Indonesia Wajib (SNI Wajib), bagi yang dipersyaratkan."
+                        "Data or information in the Import Approval (PI) from the Minister of Trade",
+                        "Conformity of imported Iron or Steel and Alloy Steel with mill test certificate (MTC)",
+                        "Product Certification Number Using National Standard Mark (SPPT SNI), for certain required products"
                     ]
                 }
             ],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "Terdapat 360 Kode Pos Tarif untuk Besi dan Baja, 65 Kode Pos Tarif untuk Baja Paduan, dan 55 Kode Pos Tarif untuk Produk Turunan Baja."
+                    "title": "Notes",
+                    "text": "There are 360 ​Post ​Tariff Codes for Iron and Steel, 65 Post ​Tariff Codes for Alloy Steel, and 55 Post ​Tariff Codes for Steel Derivative Products."
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
+                    "title": "Contact Us",
                     "nama": "Gunawan Pragusty Indrabuana",
                     "email": "gunawan_lsi@anindya.biz",
                     "telp": "+62 812-2392-6667"
                 }
+            ],
+            "clients": [
+                "Komatsu",
+                "Mercedes",
+                "Bridon",
+                "Sarana Steel",
+                "Kobexindo",
+                "Schlumberger",
+                "Toyota Tsusho"
             ]
         },
         {
-            "tab_title": "ELEKTRONIKA",
+            "tab_title": "ELECTRONIC",
             "pic": "elektronika",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
                             "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 28 Tahun 2020 tentang Perubahan Kedelapan atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 concerning the Eighth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1JWCPymLibiK72u7tzyg3gN8llytWXMI0/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 24 Tahun 2019 tentang Perubahan Ketujuh atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 24 of the Year 2019 concerning the Seventh Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1Wa66lbZnpuBrmStAy-pf4pao3Dj-pADF/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 121 Tahun 2018 tentang Perubahan keenam atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 121 of the Year 2018 concerning the Sixth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 42 Tahun 2018 tentang Perubahan kelima atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 42 of the Year 2018 concerning the Fifth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 12 Tahun 2018 tentang Perubahan keempat atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 12 of the Year 2018 concerning the Fourth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94 Tahun 2017 tentang Perubahan ketiga atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94 of the Year 2017 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1HkEDhBMj6Lg7FppOR06J6uJctIQDo4NI/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 81 Tahun 2017 tentang Perubahan kedua atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 81 of the Year 2017 concerning the Second Amendment to the Regulation of the Minister of Trade (Permendag) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1rUBYQFKDKJHyvKXENybVbcYdl5feHDts/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94/M-DAG/PER/10/2015 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94/M-DAG/PER/10/2015 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1rUvUxyVExAo9dzYgSOnAMhWy1EFiMjLn/preview"
                                 }
                             ]
-                        },
+                        }
                         
-                    ],
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Elektronika",
+                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Electronics",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of the Year 2019 concerning Delegation of Surveyors to execute Verification or Technical Investigation for the Import of Certain Products.",
                             "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
                             "rev": []
                         }
@@ -913,63 +960,76 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Negara asal dan pelabuhan muat;",
-                        "Uraian barang dan pos tarif / HS;",
-                        "Nomor Sertifikasi Produk Penggunaan Tanda SNI (SPPT SNI), untuk Produk tertentu yang SNI-nya diberlakukan secara wajib;",
-                        "Nomor Pendaftaran Barang (NPB);",
-                        "Petunjuk Penggunaan (manual) dan kartu jaminan / garansi purna jual dalam Bahasa Indonesia, untuk Produk Tertentu yang dipersyaratkan;",
-                        "Sertifikasi Alat dan Perangkat Telekomunikasi (POSTEL), untuk Produk Tertentu yang dipersyaratkan;",
-                        "Waktu pengapalan; dan",
-                        "Pelabuhan Tujuan."
+                        "Country of origin and port of loading",
+                        "Description of goods and Post Tariff / HS Code",
+                        "Product Certification Number Using National Standard Mark (SPPT SNI), for certain required products",
+                        "Goods Registration Number (NPB);",
+                        "Instructions for use (manuals) and after-sales warranty/guarantee cards in Indonesian, for certain required products",
+                        "Certification of Telecommunication Tools and Equipment (POSTEL), for certain required products",
+                        "Shipping time",
+                        "Destination port"
                     ]
                 }
             ],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "Elektronika terdiri dari 93 Kode Pos Tarif yang dikenakan VPTI."
+                    "title": "Notes",
+                    "text": "Electronics has 93 Post Tariff Codes that is required for VPTI."
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
-                    "nama": "Zulkifli Heru Susanto",
-                    "email": "zulkifli.heru@anindya.biz",
-                    "telp": "+62 856-9242-7289"
+                    "title": "Contact Us",
+                    "nama": "Dicky Muis",
+                    "email": "dicky.muis_lsi@anindya.biz",
+                    "telp": "+62 812-2297-0989"
                 }
+            ],
+            "clients": [
+                "Panasonic",
+                "Acer",
+                "Aqua Japan",
+                "Fujifilm",
+                "Gree",
+                "Hp",
+                "Asus",
+                "Sharp",
+                "Lenovo",
+                "Phillips",
+                "Tefal"
             ]
         },
         {
-            "tab_title": "HORTIKULTURA",
+            "tab_title": "HORTICULTURAL",
             "pic": "hortikultura",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan Republik Indonesia Nomor 44 Tahun 2019 Tentang Ketentuan Impor Produk Hortikultura.",
+                            "main": "Regulation of the Minister of Trade of the Republic of Indonesia Number 44 of the Year 2019 concerning Provisions for the Import of Horticultural Products.",
                             "url": "https://drive.google.com/file/d/1SEAiybeBxGkVi-920jaepGS_99UowBGF/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan Republik Indonesia Nomor 27 Tahun 2020 Tentang Perubahan atas Peraturan Menteri Perdagangan Nomor 44 Tahun 2019 Tentang Ketentuan Impor Produk Hortikultura.",
+                                    "text": "Regulation of the Minister of Trade of the Republic of Indonesia Number 27 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade Number 44 of the Year 2019 concerning Provisions for the Import of Horticultural Products.",
                                     "url": "https://drive.google.com/file/d/1yn5wqtS4gl_UBeyL-oMzMQToAm7xg6ZM/preview"
                                 }
                             ]
-                        },
+                        }
                         
-                    ],
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Hortikultura",
+                    "title": "Appointment Letter of PT Anindya Wiraputra Kosult for Horticultural Products",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 779 Tahun 2021 tentang Penetapan PT Anindya Wiraputra Konsult sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Hortikultura.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 779 of the Year 2021 concerning the Appointment of PT Anindya Wiraputra Konsult as the Surveyor to Execute Verification or Technical Investigation for the Import of Horticultural Product.",
                             "url": "https://drive.google.com/file/d/1sXQ17iBOv4DBHvMaUmpgbxO1AY3Wtiyq/preview",
                             "rev": []
                         }
@@ -978,73 +1038,77 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Negara dan pelabuhan asal muat;",
-                        "Uraian produk & Pos Tarif / HS;",
-                        "Jenis & volume;",
-                        "Waktu pengapalan;",
-                        "Pelabuhan tujuan;",
-                        "Pencantuman logo tara pangan dan kode daur ulang kemasan;",
-                        "Sertifikat kesehatan;",
-                        "Phytosanitary Certificate;",
-                        "Certificate of Origin;",
-                        "Sertifikat atau pernyataan kemasan food grade."
+                        "Country and port of origin",
+                        "Product Description & Tariff Post / HS Code",
+                        "Type & volume",
+                        "Shipping time",
+                        "Destination port",
+                        "Food safe & recycling symbols in the packaging",
+                        "Health certificate",
+                        "Phytosanitary Certificate",
+                        "Certificate of Origin",
+                        "Food grade packaging certificate or statement"
                     ]
                 }
             ],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "Terdapat 2 (dua) macam PI, yaitu PI untuk Produk Hortikultura Segar Konsumsi dan Produk Hortikultura Segar Bahan Baku Industri."
+                    "title": "Notes",
+                    "text": "There are 2 types of Import Approval (PI) from the Minister of Trade, namely PI for Fresh Horticultural Products for Consumption and Fresh Horticultural Products for Industrial Raw Materials."
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
+                    "title": "Contact Us",
                     "nama": "Novia Giselaputri Sukandar",
                     "email": "novia_lsi@anindya.biz",
                     "telp": "+62 812-9511-1380"
                 }
+            ],
+            "clients": [
+                "Calbee Wings",
+                "Jakarta Sereal"
             ]
         },
         {
-            "tab_title": "KERAMIK",
+            "tab_title": "CERAMIC",
             "pic": "keramik",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) No. 06/M-DAG/PER/1/2007 tentang Verifikasi atau Penelusuran Teknis Impor Keramik.",
+                            "main": "Regulation of The Minister of Trade (PERMENDAG) Number 06/M-DAG/PER/1/2007 concerning Verification or Technical Investigation for the Import of Ceramic.",
                             "url": "https://drive.google.com/file/d/1kg-ZltuTemWnJf6eu9sim83rZkihi6SL/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 10 Tahun 2018 tentang Perubahan Ketiga atas Peraturan Menteri Perdagangan (Permendag) Nomor 06/M-DAG/PER/1/2007 tentang Verifikasi atau Penelusuran Teknis Impor Keramik;",
+                                    "text": "Regulation of the Minister of Trade (Permendag) Number 10 of the Year 2018 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 06/M-DAG/PER/1/2007 concerning Verification or Technical Investigation for the Import of Ceramic;",
                                     "url": "https://drive.google.com/file/d/1Ho0WzCx2N20CyIjHjrt8_9RWNVrmDTlj/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 72/M-DAG/PER/11/2012 tentang Perubahan kedua atas Peraturan Menteri Perdagangan (Permendag) Nomor 06/M-DAG/PER/1/2007 tentang Verifikasi atau Penelusuran Teknis Impor Keramik;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 72/M-DAG/PER/11/2012 concerning the Second Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 06/M-DAG/PER/1/2007 concerning Verification or Technical Investigation for the Import of Ceramic;",
                                     "url": "https://drive.google.com/file/d/1Vo9ur4WzDP7h9gmbwb7lMXAJZBWCfaWO/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 25/M-DAG/PER/6/2007 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 06/M-DAG/PER/1/2007 tentang Verifikasi atau Penelusuran Teknis Impor Keramik.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25/M-DAG/PER/6/2007 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 06/M-DAG/PER/1/2007 concerning Verification or Technical Investigation for the Import of Ceramic..",
                                     "url": "https://drive.google.com/file/d/1iAGvtlTC1fARqYNxEryusqWbC4jy9BMX/preview"
                                 }
                             ]
-                        },
+                        }
                         
-                    ],
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Keramik",
+                    "title": "Appointment Letter of PT Anindya Wiraputra Kosult for Ceramic",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 778 Tahun 2021 tentang Penetapan PT Anindya Wiraputra Konsult sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Keramik.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 778 of 2021 concerning the Appointment of PT Anindya Wiraputra Konsult as the Surveyor to Execute Verification or Technical Investigation for the Import of Ceramic.",
                             "url": "https://drive.google.com/file/d/16oBelH4RHwKvAbMRcXTn8ZNuH6jHy34u/preview",
                             "rev": []
                         }
@@ -1053,87 +1117,97 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Uraian dan spesifikasi barang yang mencakup nomor pos tarif/ HS;",
-                        "Jumlah (volume) serta berat bersih (netto) per jenis barang;",
-                        "Data atau keterangan mengenai negara asal barang; dan",
-                        "Waktu pengapalan.",
+                        "Description and specifications of goods which include tariff post/HS Code",
+                        "Amount (volume) and net weight per type of goods",
+                        "Data or information regarding the country of origin of the goods",
+                        "Shipping time."
                     ]
                 }
             ],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "Komoditas Post Border, di bawah Sub Direktorat III (Barang Aneka Industri Dan Bahan Baku Industri)"
+                    "title": "Notes",
+                    "text": "Post Border Commodities, under Sub-Directorate III (Miscellaneous Industrial Goods and Industrial Raw Materials)"
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
+                    "title": "Contact Us",
                     "nama": "Tia Regita",
                     "email": "tiaregita_lsi@anindya.biz",
                     "telp": "+62 811-9279-197"
                 }
+            ],
+            "clients": [
+                "Goldengres",
+                "American Standard",
+                "Kohler",
+                "Informa",
+                "Kkv",
+                "Lixil",
+                "Nakshatra",
+                "Torch Ceramics"
             ]
         },
         {
-            "tab_title": "MAINAN ANAK",
+            "tab_title": "CHILDREN'S TOYS",
             "pic": "mainan",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
                             "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 28 Tahun 2020 tentang Perubahan Kedelapan atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 concerning the Eighth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1JWCPymLibiK72u7tzyg3gN8llytWXMI0/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 24 Tahun 2019 tentang Perubahan Ketujuh atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 24 of the Year 2019 concerning the Seventh Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1Wa66lbZnpuBrmStAy-pf4pao3Dj-pADF/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 121 Tahun 2018 tentang Perubahan keenam atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 121 of the Year 2018 concerning the Sixth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 42 Tahun 2018 tentang Perubahan kelima atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 42 of the Year 2018 concerning the Fifth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 12 Tahun 2018 tentang Perubahan keempat atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 12 of the Year 2018 concerning the Fourth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94 Tahun 2017 tentang Perubahan ketiga atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94 of the Year 2017 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1HkEDhBMj6Lg7FppOR06J6uJctIQDo4NI/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 81 Tahun 2017 tentang Perubahan kedua atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 81 of the Year 2017 concerning the Second Amendment to the Regulation of the Minister of Trade (Permendag) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1rUBYQFKDKJHyvKXENybVbcYdl5feHDts/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94/M-DAG/PER/10/2015 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94/M-DAG/PER/10/2015 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
                                     "url": "https://drive.google.com/file/d/1rUvUxyVExAo9dzYgSOnAMhWy1EFiMjLn/preview"
                                 }
                             ]
-                        },
+                        }
                         
-                    ],
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Mainan Anak",
+                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Children's Toys",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of the Year 2019 concerning Delegation of Surveyors to execute Verification or Technical Investigation for the Import of Certain Products.",
                             "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
                             "rev": []
                         }
@@ -1142,90 +1216,96 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Negara asal dan pelabuhan muat;",
-                        "Uraian barang dan pos tarif / HS;",
-                        "Nomor Sertifikasi Produk Penggunaan Tanda SNI (SPPT SNI), untuk Produk tertentu yang SNI-nya diberlakukan secara wajib;",
-                        "Nomor Pendaftaran Barang (NPB);",
-                        "Petunjuk Penggunaan (manual) dan kartu jaminan / garansi purna jual dalam Bahasa Indonesia, untuk Produk Tertentu yang dipersyaratkan;",
-                        "Waktu pengapalan; dan",
-                        "Pelabuhan Tujuan."
+                        "Country of origin and port of loading",
+                        "Description of goods and Tariff Post / HS Code",
+                        "Product Certification Number Using National Standard Mark (SPPT SNI), for certain required products",
+                        "Goods Registration Number (NPB);",
+                        "Instructions for use (manuals) and after-sales warranty/guarantee cards in Indonesian, for certain required products",
+                        "Shipping time",
+                        "Destination port"
                     ]
                 }
             ],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "Mainan Anak terdiri dari 29 Kode Pos Tarif yang dikenakan VPTI."
+                    "title": "Notes",
+                    "text": "Children's Toys consist of 29 Tariff Post Code that is required for VPTI."
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
+                    "title": "Contact Us",
                     "nama": "Intan Rusli",
                     "email": "intan.rusli_lsi@anindya.biz",
                     "telp": "+62 813-1331-1168"
                 }
+            ],
+            "clients": [
+                "Emco",
+                "ELC",
+                "Mothercare",
+                "Tomica"
             ]
         },
         {
-            "tab_title": "MAKANAN MINUMAN",
+            "tab_title": "FOOD & BEVERAGE",
             "pic": "makanan",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
                             "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 28 Tahun 2020 tentang Perubahan Kedelapan atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 concerning the Eighth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1JWCPymLibiK72u7tzyg3gN8llytWXMI0/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 24 Tahun 2019 tentang Perubahan Ketujuh atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 24 of the Year 2019 concerning the Seventh Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1Wa66lbZnpuBrmStAy-pf4pao3Dj-pADF/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 121 Tahun 2018 tentang Perubahan keenam atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 121 of the Year 2018 concerning the Sixth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 42 Tahun 2018 tentang Perubahan kelima atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 42 of the Year 2018 concerning the Fifth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 12 Tahun 2018 tentang Perubahan keempat atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 12 of the Year 2018 concerning the Fourth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94 Tahun 2017 tentang Perubahan ketiga atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94 of the Year 2017 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1HkEDhBMj6Lg7FppOR06J6uJctIQDo4NI/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 81 Tahun 2017 tentang Perubahan kedua atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 81 of the Year 2017 concerning the Second Amendment to the Regulation of the Minister of Trade (Permendag) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1rUBYQFKDKJHyvKXENybVbcYdl5feHDts/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94/M-DAG/PER/10/2015 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94/M-DAG/PER/10/2015 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
                                     "url": "https://drive.google.com/file/d/1rUvUxyVExAo9dzYgSOnAMhWy1EFiMjLn/preview"
                                 }
                             ]
-                        },
+                        }
                         
-                    ],
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Makanan dan Minuman",
+                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Food & Beverage",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of the Year 2019 concerning Delegation of Surveyors to execute Verification or Technical Investigation for the Import of Certain Products.",
                             "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
                             "rev": []
                         }
@@ -1234,62 +1314,70 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Negara asal dan pelabuhan muat;",
-                        "Uraian barang dan pos tarif / HS;",
-                        "Nomor Sertifikasi Produk Penggunaan Tanda SNI (SPPT SNI), untuk Produk tertentu yang SNI-nya diberlakukan secara wajib;",
-                        "Nomor Pendaftaran Barang (NPB);",
-                        "Certificate of Analysis (COA), untuk Produk Tertentu yang dipersyaratkan;",
-                        "Waktu pengapalan; dan",
-                        "Pelabuhan Tujuan."
+                        "Country of origin and port of loading;",
+                        "Description of goods and Tariff Post / HS Code",
+                        "Product Certification Number Using National Standard Mark (SPPT SNI), for certain required products",
+                        "Goods Registration Number (NPB);",
+                        "Certificate of Analysis (COA), for certain required products",
+                        "Shipping time",
+                        "Destination port"
                     ]
                 }
             ],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "Makanan dan Minuman terdiri dari 231 Kode Pos Tarif yang dikenakan VPTI."
+                    "title": "Notes",
+                    "text": "Food and Beverage consists of 231 Tariff Post Code that is required for VPTI."
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
+                    "title": "Contact Us",
                     "nama": "Intan Rusli",
                     "email": "intan.rusli_lsi@anindya.biz",
                     "telp": "+62 813-1331-1168"
                 }
+            ],
+            "clients": [
+                "Ajinomoto",
+                "Chatime",
+                "Starbucks",
+                "Cold Stone",
+                "Mamasuka",
+                "Mixue"
             ]
         },
         {
-            "tab_title": "MESIN MULTIFUNGSI BERWARNA, MESIN FOTOKOPI BERWARNA, DAN MESIN PRINTER BERWARNA",
+            "tab_title": "COLOR MULTIFUNCTION MACHINE, COLOR PHOTOCOPY MACHINE, AND COLOR PRINTER MACHINE",
             "pic": "mesin",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 102/M-DAG/PER/12/2015 tentang Ketentuan Impor Mesin Multifungsi Berwarna, Mesin Fotokopi Berwarna, dan Mesin Printer Berwarna.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 102/M-DAG/PER/12/2015 concerning Provisions for the Import of Color Multifunction Machine, Color Photocopy Machine, and Color Printer Machine.",
                             "url": "https://drive.google.com/file/d/1GY4riqL5OrPs3xeUXI8yKNQvirT_EE5p/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 14 Tahun 2018 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 102/M-DAG/PER/12/2015 Tentang Ketentuan Impor Mesin Multifungsi Berwarna, Mesin Fotokopi Berwarna, dan Mesin Printer Berwarna.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 14 of the Year 2018 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 102/M-DAG/PER/12/2015 concerning Provisions on Import of Color Multifunction Machine, Color Photocopy Machine, and Color Printer Machine.",
                                     "url": "https://drive.google.com/file/d/1S5PRjJfltdwFeiBnXkmNJTm8WNnhUx9e/preview"
                                 }
                             ]
-                        },
+                        }
                         
-                    ],
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Mesin Multifungsi Berwarna, Mesin Fotokopi Berwarna, dan Mesin Printer Berwarna",
+                    "title": "Appointment Letter of PT Anindya Wiraputra Kosult for Color Multifunction Machines, Color Photocopy Machine, and Color Printer Machine",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 367 Tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Mesin Multifungsi Berwarna, Mesin Fotokopi Berwarna, dan Mesin Printer Berwarna.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 367 of the Year 2020 concerning Delegation of Surveyors to Execute Verification or Technical Investigation of the Import of Color Multifunction Machine, Color Photocopy Machine, and Color Printer Machine.",
                             "url": "https://drive.google.com/file/d/1Jy9QhMqitBHHTjwmRkfPjzVZV3kS8aDS/preview",
                             "rev": []
                         }
@@ -1298,89 +1386,95 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Negara asal dan pelabuhan muat barang;",
-                        "Uraian barang dan pos tarif / HS;",
-                        "Jenis, jumlah, dan spesifikasi barang;",
-                        "Tipe barang;",
-                        "Waktu pengapalan; dan",
-                        "Pelabuhan Tujuan."
+                        "Country of origin and port of loading",
+                        "Description of goods and Tariff Post / HS Code",
+                        "Type, quantity, and specification of goods",
+                        "Item type",
+                        "Shipping time",
+                        "Destination port"
                     ]
                 }
             ],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "API atas Rekomendasi dari BOTASUPAL."
+                    "title": "Notes",
+                    "text": "API with recommendation from BOTASUPAL."
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
+                    "title": "Contact Us",
                     "nama": "Dicky Muis",
                     "email": "dicky.muis_lsi@anindya.biz",
                     "telp": "+62 812-2297-0989"
                 }
+            ],
+            "clients": [
+                "Ricoh",
+                "Fujifilm",
+                "Hp",
+                "Canon"
             ]
         },
         {
-            "tab_title": "OBAT TRADISIONAL DAN SUPLEMEN KESEHATAN",
+            "tab_title": "TRADITIONAL MEDICINE AND HEALTH SUPPLEMENTS",
             "pic": "obat",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
                             "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 28 Tahun 2020 tentang Perubahan Kedelapan atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 concerning the Eighth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1JWCPymLibiK72u7tzyg3gN8llytWXMI0/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 24 Tahun 2019 tentang Perubahan Ketujuh atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 24 of the Year 2019 concerning the Seventh Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1Wa66lbZnpuBrmStAy-pf4pao3Dj-pADF/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 121 Tahun 2018 tentang Perubahan keenam atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 121 of the Year 2018 concerning the Sixth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 42 Tahun 2018 tentang Perubahan kelima atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 42 of the Year 2018 concerning the Fifth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 12 Tahun 2018 tentang Perubahan keempat atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 12 of the Year 2018 concerning the Fourth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94 Tahun 2017 tentang Perubahan ketiga atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94 of the Year 2017 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1HkEDhBMj6Lg7FppOR06J6uJctIQDo4NI/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 81 Tahun 2017 tentang Perubahan kedua atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 81 of the Year 2017 concerning the Second Amendment to the Regulation of the Minister of Trade (Permendag) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1rUBYQFKDKJHyvKXENybVbcYdl5feHDts/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94/M-DAG/PER/10/2015 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94/M-DAG/PER/10/2015 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
                                     "url": "https://drive.google.com/file/d/1rUvUxyVExAo9dzYgSOnAMhWy1EFiMjLn/preview"
                                 }
                             ]
-                        },
+                        }
                         
-                    ],
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Obat Tradisional dan Suplemen Kesehatan",
+                    "title": "Letter of Appointment of PT Anindya Wiraputra Kosult for Traditional Medicine Products and Health Supplements",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of the Year 2019 concerning Delegation of Surveyors to execute Verification or Technical Investigation for the Import of Certain Products.",
                             "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
                             "rev": []
                         }
@@ -1389,94 +1483,97 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Negara asal dan pelabuhan muat;",
-                        "Uraian barang dan pos tarif / HS;",
-                        "Nomor Sertifikasi Produk Penggunaan Tanda SNI (SPPT SNI), untuk Produk tertentu yang SNI-nya diberlakukan secara wajib;",
-                        "Nomor Pendaftaran Barang (NPB);",
-                        "Certificate of Analysis (COA), untuk Produk Tertentu yang dipersyaratkan;",
-                        "Waktu pengapalan; dan",
-                        "Pelabuhan Tujuan."
+                        "Country of origin and port of loading",
+                        "Description of goods and postal Tariff Post / HS Number",
+                        "Product Certification Number Using the National Standard Mark (SPPT SNI), for certain Products that is deemed mandatory",
+                        "Goods Registration Number (NPB)",
+                        "Certificate of Analysis (COA), for certain required products",
+                        "Shipping time",
+                        "Destination port."
                     ]
                 }
             ],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "Obat Tradisional dan Suplemen Makanan terdiri dari 30 Kode Pos Tarif yang dikenakan VPTI."
+                    "title": "Notes",
+                    "text": "Traditional Medicines and Food Supplements consist of 30 Tariff Post Code that is required for VPTI."
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
+                    "title": "Contact Us",
                     "nama": "Intan Rusli",
                     "email": "intan.rusli_lsi@anindya.biz",
                     "telp": "+62 813-1331-1168"
                 }
+            ],
+            "clients": [
+                "Herbalife"
             ]
         },
         {
-            "tab_title": "PAKAIAN JADI",
+            "tab_title": "APPAREL",
             "pic": "pakaian",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
                             "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 28 Tahun 2020 tentang Perubahan Kedelapan atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 concerning the Eighth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1JWCPymLibiK72u7tzyg3gN8llytWXMI0/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 24 Tahun 2019 tentang Perubahan Ketujuh atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 24 of the Year 2019 concerning the Seventh Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1Wa66lbZnpuBrmStAy-pf4pao3Dj-pADF/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 121 Tahun 2018 tentang Perubahan keenam atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 121 of the Year 2018 concerning the Sixth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 42 Tahun 2018 tentang Perubahan kelima atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 42 of the Year 2018 concerning the Fifth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 12 Tahun 2018 tentang Perubahan keempat atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 12 of the Year 2018 concerning the Fourth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94 Tahun 2017 tentang Perubahan ketiga atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94 of the Year 2017 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1HkEDhBMj6Lg7FppOR06J6uJctIQDo4NI/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 81 Tahun 2017 tentang Perubahan kedua atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 81 of the Year 2017 concerning the Second Amendment to the Regulation of the Minister of Trade (Permendag) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
                                     "url": "https://drive.google.com/file/d/1rUBYQFKDKJHyvKXENybVbcYdl5feHDts/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94/M-DAG/PER/10/2015 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94/M-DAG/PER/10/2015 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
                                     "url": "https://drive.google.com/file/d/1rUvUxyVExAo9dzYgSOnAMhWy1EFiMjLn/preview"
                                 }
                             ]
                         },
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 86/M-DAG/PER/10/2015 tentang Ketentuan Impor Tekstil dan Produk Tekstil Batik dan Motif Batik.",
+                            "main": "Minister of Trade Regulation (PERMENDAG) Number 86/M-DAG/PER/10/2015 concerning Provisions on Import of Textiles and Batik Textile Products and Batik Pattern.",
                             "url": "https://drive.google.com/file/d/1_7rcw1eXc992MBgvtkGRX7BTsVwgCaX7/preview",
                             "rev": []
-                        },
-                    ],
+                        }
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Pakaian Jadi",
+                    "title": "Letter of Appointment PT Anindya Wiraputra Kosult for Apparel Products",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of the Year 2019 concerning Delegation of Surveyors to execute Verification or Technical Investigation for the Import of Certain Products.",
                             "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
                             "rev": []
                         }
@@ -1485,64 +1582,73 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Negara asal dan pelabuhan muat;",
-                        "Uraian barang dan pos tarif / HS;",
-                        "Nomor Sertifikasi Produk Penggunaan Tanda SNI (SPPT SNI), untuk Produk tertentu yang SNI-nya diberlakukan secara wajib;",
-                        "Nomor Pendaftaran Barang (NPB);",
-                        "Waktu pengapalan; dan",
-                        "Pelabuhan Tujuan."
+                        "Country of origin and port of loading",
+                        "Description of goods and Tariff Post / HS number",
+                        "Product Certification Number for Using the SNI Mark (SPPT SNI), for certain Products that is deemed mandatory",
+                        "Goods Registration Number (NPB)",
+                        "Shipping time",
+                        "Destination port."
                     ]
                 }
             ],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "Pakaian Jadi dan Barang Tekstil Sudah Jadi Lainnya terdiri dari 436 Kode Pos Tarif yang dikenakan VPTI, juga terdapat Permendag. No. 86 Tahun 2015 yang mengatur tentang Motif Batik"
+                    "title": "Notes",
+                    "text": "Apparel and Other Finished Textile Goods consist of 436 Tariff Post Code that is required for VPTI, there is also the Minister of Trade Regulation. Number 86 of the Year 2015 which regulates Batik Pattern."
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
-                    "nama": "Shania Chantaly",
-                    "email": "shania_lsi@anindya.biz",
-                    "telp": "+62 811-8700-650"
+                    "title": "Contact Us",
+                    "nama": "Intan Rusli",
+                    "email": "intan.rusli_lsi@anindya.biz",
+                    "telp": "+62 813-1331-1168"
                 }
+            ],
+            "clients": [
+                "Chanel",
+                "Under Armour",
+                "Giordano",
+                "Hermes",
+                "Uniqlo",
+                "LV",
+                "Mothercare "
             ]
         },
         {
-            "tab_title": "PREKURSOR",
+            "tab_title": "PRECURSOR",
             "pic": "prekursor",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Keputusan Menteri Perindustrian dan Perdagangan (Kepmenperindag) Nomor 647/MPP/Kep/10/2004 tentang Ketentuan Impor Prekursor.",
+                            "main": "Decree of the Minister of Industry and the Minister of Trade (KEPMENPERINDAG) Number 647/MPP/KEP/10/2004 concerning Provisions on Import of Precursor.",
                             "url": "https://drive.google.com/file/d/1ECm0v4rF7uEsLZN5uqyaFjtlSGS-oM4n/preview",
                             "rev": [
                                 {
-                                    "text": "Keputusan Menteri Perindustrian dan Perdagangan (Kepmenperindag) Nomor 649/MPP/Kep/10/2004 tentang Ketentuan Impor Prekursor.",
+                                    "text": "Decree of the Minister of Industry and the Minister of Trade (KEPMENPERINDAG) Number 649/MPP/KEP/10/2004 concerning Provisions on Import of Precursor;",
                                     "url": "https://drive.google.com/file/d/1vUc4BJqVrN9qnVkiCeJ6-GEVYOSnFlfV/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Kesehatan Republik Indonesia No. 26 Tahun 2014.",
+                                    "text": "Regulation of the Minister of Health of the Republic of Indonesia Number 26 of the Year 2014.",
                                     "url": "http://hukor.kemkes.go.id/uploads/produk_hukum/PMK%20No.%2026%20ttg%20Kebutuhan%20Narkotika,%20Psikotropika%20dan%20Prekursor.pdf"
                                 }
                             ]
-                        },
-                    ],
+                        }
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Prekursor",
+                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Precursor Products",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 780 Tahun 2021 tentang Penetapan PT Anindya Wiraputra Konsult sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Prekursor.",
+                            "main": "Decree of the Minister of Industry and the Minister of Trade (KEPMENPERINDAG) Number 780 of the Year 2021 concerning the Delegation of PT Anindya Wiraputra Konsult as the Surveyor to execute Verification or Technical Investigation of the Import of Precursor.",
                             "url": "https://drive.google.com/file/d/1HDPRKTseRv_79cgeDIl1hwAHawyyggZC/preview",
                             "rev": []
                         }
@@ -1551,61 +1657,67 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Nama dan alamat eksportir;",
-                        "Negara pembuat;",
-                        "Uraian barang dan pos tarif / HS;",
-                        "Jenis dan spesifikasi teknis;",
-                        "Komposisi kimia prekursor; dan",
-                        "Jumlah prekursor yang akan diimpor.",
+                        "Name and address of exporter",
+                        "Country of manufacture",
+                        "Description of goods and Tariff Post / HS number",
+                        "Types and technical specifications",
+                        "Chemical composition of the precursor and",
+                        "The number of precursors to be imported"
                     ]
                 }
             ],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "Untuk IP - Prekursor terdapat Rekomendasi DJ IAK Kemenperin, sedangkan untuk IT - Prekursor terdapat Rekomendasi Kabareskrim POLRI dan Ketua BNN."
+                    "title": "Notes",
+                    "text": "For IP - Precursor there is a Recommendation from the Ministry of Industry's DJ IAK, while for IT - Precursor there is a Recommendation from the Head of the Indonesian Police Criminal Investigation Agency (KABARESKRIM POLRI) and the Head of the National Narcotics Board (BNN)."
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
+                    "title": "Contact Us",
                     "nama": "Shania Chantaly",
                     "email": "shania_lsi@anindya.biz",
                     "telp": "+62 811-8700-650"
                 }
+            ],
+            "clients": [
+                "Petrokimia Gresik",
+                "Aik Moh",
+                "BSP",
+                "SSK"
             ]
         },
         {
-            "tab_title": "SEPEDA RODA DUA DAN RODA TIGA",
+            "tab_title": "TWO WHEEL AND THREE WHEEL BICYCLE",
             "pic": "sepeda",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 68 Tahun 2020 tentang Ketentuan Impor Alas Kaki, Elektronik, Serta Sepeda Roda Dua dan Roda Tiga.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
                             "url": "https://drive.google.com/file/d/1qqnL8WYoyVPtkqNbOvjHVhw0wdPgdo3k/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 78 Tahun 2020 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 68 Tahun 2020 tentang Ketentuan Impor Alas Kaki, Elektronik, Serta Sepeda Roda Dua dan Roda Tiga.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 78 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
                                     "url": "https://drive.google.com/file/d/1o47ZpzBwRlLKS10Ry9Q6CwUJi4DX4ciD/preview"
                                 }
                             ]
-                        },
+                        }
                         
-                    ],
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Sepeda Roda Dua dan Roda Tiga",
+                    "title": "Letter of Appointment of PT Anindya Wiraputra Kosult for Two-Wheel and Three-Wheel Bicycle Products",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 1067 Tahun 2020 tentang Penetapan PT Anindya Wiraputra Konsult (Persero) sebagai Surveyor Pelaksana Verifikasi atau Penelusuran Teknis Impor Alas Kaki, Elektronik, serta Sepeda Roda Dua dan Roda Tiga.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 1067 of the Year 2020 concerning the Appointment of PT Anindya Wiraputra Konsult (Persero) as a Surveyor to Execute Verification or Technical Investigation for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
                             "url": "https://drive.google.com/file/d/1j54C2Cw48yguhx_UU9fhaY--8mbLGgQp/preview",
                             "rev": []
                         }
@@ -1614,69 +1726,78 @@ let data = {
             ],
             "ruang_lingkup": [
                 {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
-                        "Negara asal dan pelabuhan muat;",
-                        "Informasi jenis barang;",
-                        "Nomor Sertifikasi Produk Penggunaan Tanda SNI, untuk produk Sepeda Roda Dua dan Roda Tiga yang SNI-nya diberlakukan secara wajib;",
-                        "Nomor Pendaftaran barang;",
-                        "Waktu pengapalan; dan",
-                        "Pelabuhan Tujuan.",
+                        "Country of origin and port of loading;",
+                        "Information on the type of goods",
+                        "Product Certification Number for Using National Standard Mark (SNI), for two-wheel and three-wheel bicycle products that are deemed mandatory",
+                        "Goods Registration Number (NPB)",
+                        "Shipping time",
+                        "Destination port"
                     ]
                 }
             ],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "Sepeda untuk keperluan Racing atau Perlombaan, membutuhkan konten atau keterangan mengenai berat, tinggi, dan gambaran sepeda setelah dirakit."
+                    "title": "Notes",
+                    "text": "Bicycles for Racing or Competition purposes, requires content or information regarding the weight, height, and description of the bicycle after it is assembled."
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
+                    "title": "Contact Us",
                     "nama": "Intan Rusli",
                     "email": "intan.rusli_lsi@anindya.biz",
                     "telp": "+62 813-1331-1168"
                 }
+            ],
+            "clients": [
+                "Surly",
+                "Cannondale",
+                "Colnago",
+                "Brompton",
+                "United",
+                "Pacific",
+                "Specialized"
             ]
         },
         {
-            "tab_title": "TELEPON SELULER, KOMPUTER GENGGAM (HANDHELD), DAN KOMPUTER TABLET",
+            "tab_title": "CELLULAR PHONE, HANDHELD, AND COMPUTER TABLET",
             "pic": "telepon",
             "dasar_hukum": [
                 {
-                    "title": "Dasar Hukum",
+                    "title": "Legal Basis",
                     "permendag": [
                         {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 82/M-DAG/PER/12/2012 tentang Ketentuan Impor Telepon Seluler, Komputer Genggam (Handheld), dan Komputer Tablet.",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 82/M-DAG/PER/12/2012 concerning Provisions for the Import of Cellular Phone, Handheld, and Computers Tablet.",
                             "url": "https://drive.google.com/file/d/12XVAczCBOTtp78pUS_oNZjB-koAIupcq/preview",
                             "rev": [
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 41/M-DAG/PER/5/2016 tentang Perubahan ke-3 atas Peraturan Menteri Perdagangan (Permendag) Nomor 82/M-DAG/PER/12/2012 tentang Ketentuan Impor Telepon Seluler, Komputer Genggam (Handheld), dan Komputer Tablet.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 41/M-DAG/PER/5/2016 concerning the 3rd Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 82/M-DAG/PER/12/2012 concerning Provisions for the Import of Cellular Phone, Handheld, and Computers Tablet;",
                                     "url": "https://drive.google.com/file/d/1vVL-vJ3CHwpcYaVCARtgqp0_Td1k0d6a/preview"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 48/M-DAG/PER/8/2014 tentang Perubahan ke-2 atas Peraturan Menteri Perdagangan (Permendag) Nomor 82/M-DAG/PER/12/2012 tentang Ketentuan Impor Telepon Seluler, Komputer Genggam (Handheld), dan Komputer Tablet.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 48/M-DAG/PER/8/2014 concerning the 2nd Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 82/M-DAG/PER/12/2012 concerning Provisions for the Import of Cellular Phone, Handheld, and Computers Tablet;",
                                     "url": "http://jdih.kemendag.go.id/peraturan/detail/479/2"
                                 },
                                 {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 38/M-DAG/PER/8/2013 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 82/M-DAG/PER/12/2012 tentang Ketentuan Impor Telepon Seluler, Komputer Genggam (Handheld), dan Komputer Tablet.",
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 38/M-DAG/PER/8/2013 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 82/M-DAG/PER/12/2012 concerning Provisions on the Import of Cellular Phone, Handheld, and Computers Tablet.",
                                     "url": "https://drive.google.com/file/d/1aMz6KipJHmSXxKnEERbIuOBIC-_H1ZMC/preview"
                                 }
                             ]
-                        },
+                        }
                         
-                    ],
+                    ]
                 }
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Telepon Seluler, Komputer Genggang (Handheld), dan Komputer Tablet",
+                    "title": "Letter of Appointment PT Anindya Wiraputra Kosult for Cellular Phone, Handheld, and Computers Tablet",
                     "permendag": [],
                     "kepmendag": [
                         {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 366 Tahun 2020 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Telepon Seluler, Komputer Genggam (Handheld), dan Komputer Tablet.",
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 366 of the Year 2020 concerning Delegation of Surveyors to execute Verification or Technical Investigation of the Import of Cellular Phone, Handheld, and Computers Tablet.",
                             "url": "https://drive.google.com/file/d/1gC2gNAp2trg6QMOiro0DPCI5AOVJKxFT/preview",
                             "rev": []
                         }
@@ -1686,17 +1807,23 @@ let data = {
             "ruang_lingkup": [],
             "catatan": [
                 {
-                    "title": "Catatan",
-                    "text": "Terdapat Rekomendasi Investasi Industri Dirjen. ILMATE, Kementerian Perindustrian."
+                    "title": "Notes",
+                    "text": "There is a Director General's Industrial Investment Recommendation. ILMATE, Ministry of Industry."
                 }
             ],
             "kontak": [
                 {
-                    "title": "Kontak Kami",
+                    "title": "Contact Us",
                     "nama": "Dicky Muis",
                     "email": "dicky.muis_lsi@anindya.biz",
                     "telp": "+62 812-2297-0989"
                 }
+            ],
+            "clients": [
+                "Oppo",
+                "Vivo",
+                "Samsung",
+                "Apple"
             ]
         }
     ],
@@ -1820,26 +1947,26 @@ let data = {
             "col2": [],
             "method": [],
             "clients" : [
-                "Philips",
-                "LV",
-                "Pomelo",
-                "Xiaomi",
                 "Sharp",
+                "The North Face",
+                "Matsuo",
+                "Mercedes",
+                "Komatsu",
+                "Panasonic",
+                "Bridgestone",
+                "Apple",
                 "Samsung",
-                "Ikea",
-                "Puma",
-                "Chanel",
-                "Cheerios",
+                "LV",
+                "Brompton",
+                "Aik Moh",
                 "Uniqlo",
-                "Unilever",
-                "United Tractors",
-                "Hero",
-                "Lulu",
-                "Indofresh",
-                "Mulia Raya",
-                "Tunas Maju",
-                "Wingsfood",
-                "Indofood"
+                "Hermes",
+                "Canon",
+                "Hp",
+                "Starbucks",
+                "Cold Stone",
+                "ELC",
+                "Kohler"
             ]
         },
         {
