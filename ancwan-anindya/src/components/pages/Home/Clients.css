@@ -58,7 +58,8 @@
 
 .clients {
     padding: 10px;
-    max-width: 200px;
+    min-width: 140px;
+    max-width: 140px;
     max-height: 150px;
     margin: auto;
     display: flex;
@@ -69,6 +70,7 @@
 .clients-lv {
     padding: 10px;
     max-width: 130px;
+    max-height: 130px;
     margin: auto;
     display: flex;
     align-items: center;

@@ -37,6 +37,11 @@ h1 {
 
 .counter {
     padding-top: 108px;
+    margin: auto;
+}
+
+.counter-col {
+    margin: auto;
 }
 
 .count-up {

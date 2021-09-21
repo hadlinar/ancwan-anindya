@@ -5,8 +5,8 @@
             "path": "/"
         },
         {
-            "name": "Our Service",
-            "path": "/our-service"
+            "name": "Our Services",
+            "path": "/our-services"
         },
         {
             "name": "VPTI",
@@ -23,7 +23,7 @@
     ],
     "hero_title": "We are Anindya,",
     "hero_title2": "an independent surveying company",
-    "hero_subtitle": "Our wide service network from branch, laboratory, and offices are always ready to provide super services for our customers",  
+    "hero_subtitle": "Our wide service network from branch, laboratory, and offices are always ready to provide superior services for our customers",  
     "about_anindya": "About Anindya",
     "about_vpti": "About VPTI",  
     "about": "We are an independent surveying company providing quality and quantity superintending services export import verification for government purpose.",
@@ -56,49 +56,49 @@
             "name":"Coal",
             "img":"coal",
             "label":"Coal",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 2,
             "name":"Marine",
             "img":"marine",
             "label":"Marine",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 3,
             "name":"Oil & Gas",
             "img":"oil-and-gas",
             "label":"Oil & Gas",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 4,
             "name":"Agriculture & Food",
             "img":"agri",
             "label":"Agriculture & Food",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 5,
             "name":"Mineral & Water",
             "img":"mineral",
             "label":"Mineral & Water",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 6,
             "name":"Sand, Pebble & Crushed Stone",
             "img":"sand",
             "label":"Sand, Pebble & Crushed Stone",
-            "path": "/our-service"
+            "path": "/our-services"
         }
     ],
     "branch_office": "Branch Office & Representative",
     "branch": "ANINDYA has branch offices and laboratories located in many strategic locations throughout Indonesia. In serving clients from abroad, ANINDYA has also opened offices in several countries, that includes China, India, Singapore, Bangladesh and Vietnam.",
     "location_in_indonesia": "Location in Indonesia",
     "lab_around_the_world": "Laboratories Overseas",
-    "location_in_overseas": "Location in Overseas",
+    "location_in_overseas": "Location Overseas",
     "our_client": "Our Clients",
     "default_key_coal": "Coal",
     "clients": [
@@ -179,12 +179,12 @@
             "index": 3,
             "img": [
                 "DCG",
-                "ABS",
-                "FJS",
                 "BNP",
                 "PC",
                 "RBN",
-                "DSI"
+                "DSI",
+                "ABS",
+                "FJS"
             ]
         },
         {
@@ -231,7 +231,7 @@
                                     ]
                                 },
                                 {
-                                    "item": "Spesific Products",
+                                    "item": "Specific Products",
                                     "sub_item": [
                                         "Food and Drink",
                                         "Toys",
@@ -392,7 +392,7 @@
         },
         {
             "name": "Marine",
-            "subtitle": "Inspections, surveys or examinations of marine vessels to assess, monitor and report on their conditions and the products on them, as well as investigate the nature/cause of damage to both vessel and cargo. ANINDYA operates on a 24/7 basis and has invested in a significant pool of expert surveyors so as to be operationally ready at a short notice. With the backing of experienced technical staff, we can assist customers with expert witnesses or perform duties in any legal, dispute and/or claims cases.",
+            "subtitle": "Inspections, surveys or examinations of marine vessels to assess, monitor and report on their conditions and the products on them, as well as investigate the nature/cause of damage to both vessel and cargo. ANINDYA operates on a 24/7 basis and has invested in a significant pool of expert surveyors to be operationally ready at a short notice. With the backing of experienced technical staff, we can assist customers with expert witnesses or perform duties in any legal, dispute and/or claims cases.",
             "col1": [
                 {
                     "title": "Technical Survey",
@@ -465,12 +465,12 @@
             "method": [],
             "clients": [
                 "DCG",
-                "ABS",
-                "FJS",
                 "BNP",
                 "PC",
                 "RBN",
-                "DSI"
+                "DSI",
+                "ABS",
+                "FJS"
             ]
         },
         {
@@ -619,9 +619,9 @@
     "button": "LEARN MORE",
     "sub_vpti": "Our service network from branch, laboratory, and office to provide super services for our customers",
     "login": "LOGIN VPTI SYSTEM",
-    "desc_vpti": "Indonesia’s Ministry of Trade has mandated that a wide range of goods be inspected prior to export to the country to demonstrate compliance with various national regulations. To meet the Indonesian market requirements our technical verification services identify the eligibility of the goods to be imported into Indonesia as well as the quantity, tariff classification and Ministry of Trade specifications. The issuance of the ANINDYA report known as a Laporan Surveyor or Surveyor’s Report facilitates international trade, reduces the risk of delays in Customs clearance and reduces potential losses from the import of non-compliant goods.",
+    "desc_vpti": "Indonesia’s Ministry of Trade has mandated that a wide range of goods be inspected prior to export to the country to demonstrate compliance with various national regulations. To meet the Indonesian market requirements our technical verification services identify the eligibility of the goods to be imported into Indonesia as well as the quantity, tariff classification, and Ministry of Trade specifications. The issuance of the ANINDYA report known as a Laporan Surveyor or Surveyor’s Report facilitates international trade, reduces the risk of delays in Customs clearance, and reduces potential losses from the import of non-compliant goods.",
     "flow_vpti": "Flow VPTI",
-    "desc_flow": "Indonesia’s Ministry of Trade has mandated that a wide range of goods be inspected prior to export to the country to demonstrate compliance with various national regulations. To meet the Indonesian market requirements our technical verification services identify the eligibility of the goods to be imported into Indonesia as well as the quantity, tariff classification and Ministry of Trade specifications. The issuance of the ANINDYA report known as a Laporan Surveyor or Surveyor’s Report facilitates international trade, reduces the risk of delays in Customs clearance and reduces potential losses from the import of non-compliant goods.",
+    "desc_flow": "Indonesia’s Ministry of Trade has mandated that a wide range of goods be inspected prior to export to the country to demonstrate compliance with various national regulations. To meet the Indonesian market requirements our technical verification services identify the eligibility of the goods to be imported into Indonesia as well as the quantity, tariff classification, and Ministry of Trade specifications. The issuance of the ANINDYA report known as a Laporan Surveyor or Surveyor’s Report facilitates international trade, reduces the risk of delays in Customs clearance, and reduces potential losses from the import of non-compliant goods.",
     "import_verif": "Import Verification",
     "import_vpti": [
         {
@@ -875,7 +875,7 @@
                         "Name and address of importer and exporter",
                         "Type, Tariff Post / HS code 10 (ten) digits and their description",
                         "Specification of refrigerants used",
-                        "Amount, volume or weight",
+                        "Amount, volume, or weight",
                         "Country of origin",
                         "Country and port of loading",
                         "Destination port"
@@ -1119,7 +1119,7 @@
             "catatan": [
                 {
                     "title": "Notes",
-                    "text": "Electronics has 93 Post Tariff Codes that is required for VPTI."
+                    "text": "Electronics has 93 Post Tariff Codes required for VPTI."
                 }
             ],
             "kontak": [
@@ -1374,7 +1374,7 @@
             "catatan": [
                 {
                     "title": "Notes",
-                    "text": "Children's Toys consist of 29 Tariff Post Code that is required for VPTI."
+                    "text": "Children's Toys consist of 29 Tariff Post Code required for VPTI."
                 }
             ],
             "kontak": [
@@ -1472,7 +1472,7 @@
             "catatan": [
                 {
                     "title": "Notes",
-                    "text": "Food and Beverage consists of 231 Tariff Post Code that is required for VPTI."
+                    "text": "Food and Beverage consist of 231 Tariff Post Code required for VPTI."
                 }
             ],
             "kontak": [
@@ -1641,7 +1641,7 @@
             "catatan": [
                 {
                     "title": "Notes",
-                    "text": "Traditional Medicines and Food Supplements consist of 30 Tariff Post Code that is required for VPTI."
+                    "text": "Traditional Medicines and Food Supplements consist of 30 Tariff Post Code required for VPTI."
                 }
             ],
             "kontak": [
@@ -1729,7 +1729,7 @@
                     "val": [
                         "Country of origin and port of loading",
                         "Description of goods and Tariff Post / HS number",
-                        "Product Certification Number for Using the SNI Mark (SPPT SNI), for certain Products that is deemed mandatory",
+                        "Product Certification Number for Using the SNI Mark (SPPT SNI), for certain Products that deemed mandatory",
                         "Goods Registration Number (NPB)",
                         "Shipping time",
                         "Destination port."
@@ -1739,7 +1739,7 @@
             "catatan": [
                 {
                     "title": "Notes",
-                    "text": "Apparel and Other Finished Textile Goods consist of 436 Tariff Post Code that is required for VPTI, there is also the Minister of Trade Regulation. Number 86 of the Year 2015 which regulates Batik Pattern."
+                    "text": "Apparel and Other Finished Textile Goods consist of 436 Tariff Post Code required for VPTI, there is also the Minister of Trade Regulation. Number 86 of the Year 2015 which regulates Batik Pattern."
                 }
             ],
             "kontak": [
@@ -1829,7 +1829,8 @@
                 "Petrokimia Gresik",
                 "Aik Moh",
                 "BSP",
-                "SSK"
+                "SSK",
+                "HSP"
             ]
         },
         {
@@ -1979,8 +1980,8 @@
     "vission": "Vision",
     "mission": "Mission",
     "membership": "Membership & Association",
-    "vission_company": "Confident to become one of the greatest independents surveying company in Indonesia who is able deliver superb service to our customer.",
-    "mission_company": "Ensure our consumers are satisfied with our superb services in an accurate, professional and timely manner. Provide quality and quantity superintending services for coal-related industry, minerals, marine survey as well as oil and gas sectors with a professional working culture supported by highly competent resources with high integrity attitude.",
+    "vission_company": "Confident to become one of the greatest independent surveying companies in Indonesia who is able to deliver superb service to our customers.",
+    "mission_company": "Ensure our consumers are satisfied with our superb services in an accurate, professional, and timely manner. Provide quality and quantity superintending services as well as verification or technical investigation for imported products with a professional working culture supported by highly competent resources with high integrity attitude.",
     "branches_our_company": [
         {
             "location": "Bandung",
@@ -2260,7 +2261,7 @@
 
 
     "desc_footer_top": "An independent surveying company, providing quality and quantity superintending service for coal and minerals industry, the oil and gas sector as well as marine surveys.",
-    "desc_footer_bottom": "Received permission from the Directorate General of Foreign Trade, Ministry of Trade of the Republic of Indonesia to be able to verify imported products.",
+    "desc_footer_bottom": "Received permission from the Directorate General of Foreign Trade, Ministry of Trade of the Republic of Indonesia to verify imported products.",
     "hq": "Our HQ",
     "company_profile": "Download Company Profile"
 }

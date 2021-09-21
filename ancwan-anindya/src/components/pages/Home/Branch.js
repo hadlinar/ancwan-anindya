@@ -161,7 +161,7 @@ function Branch() {
                 </Row>
                 }
                 <Row className="counter">
-                    <Col md={4}>
+                    <Col md={4} className="counter-col">
                         <Row className="count-up">
                             <CountUp start={focus ? 0: null} end={14} redraw={false} duration={3}>
                                 {({ countUpRef }) => (
@@ -177,7 +177,7 @@ function Branch() {
                         </Row>
                         <Row className="count-text">{t('location_in_indonesia')}</Row>
                     </Col>
-                    <Col md={4}>
+                    {/* <Col md={4}>
                         <Row className='count-up'>
                             <CountUp start={focus ? 0: null} end={8} redraw={false} duration={3}>
                                 {({ countUpRef }) => (
@@ -192,8 +192,8 @@ function Branch() {
                             </CountUp>
                         </Row>
                         <Row className="count-text">{t('lab_around_the_world')}</Row>
-                    </Col>
-                    <Col md={4}>
+                    </Col> */}
+                    <Col md={4} className="counter-col">
                         <Row className='count-up'>
                             <CountUp start={focus ? 0: null} end={7} redraw={false} duration={3}>
                                 {({ countUpRef }) => (

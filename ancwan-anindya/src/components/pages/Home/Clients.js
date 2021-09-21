@@ -71,7 +71,7 @@ function Clients() {
                                                             <Row style={{margin: "auto"}}>
                                                                  <Col key={i} style={{margin: "auto"}}>
                                                                 {
-                                                                    pic !== "Unilever" ? <img className="clients" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
+                                                                    pic !== "Starbucks" ? <img className="clients" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
                                                                     : 
                                                                     <img className="clients-lv" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
                                                                 }
@@ -95,9 +95,10 @@ function Clients() {
                                                         return (
                                                             <Col key={i} style={{margin: "auto"}}>
                                                                 {
-                                                                    pic !== "LV" ? <img className="clients" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
+                                                                    pic === "Hp" ? <img className="clients-lv" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
+                                                                    :[pic !== "LV" ? <img className="clients" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
                                                                     : 
-                                                                    <img className="clients-lv" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />
+                                                                    <img className="clients-lv" src={require(`../../../images/clients/${e.name}/${pic}.png`).default} alt={pic}  />]
                                                                 }
                                                             </Col>
                                                         )

@@ -6,7 +6,7 @@
         },
         {
             "name": "Layanan Kami",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "name": "VPTI",
@@ -23,7 +23,7 @@
     ],
     "hero_title": "Kami Anindya,",
     "hero_title2": "sebuah perusahaan survei independen",
-    "hero_subtitle": "Jaringan layanan kami dari cabang, laboratorium, dan kantor untuk memberikan layanan super bagi pelanggan kami",
+    "hero_subtitle": "Jaringan layanan kami dari cabang, laboratorium, dan kantor hadir untuk memberikan layanan superior bagi pelanggan kami",
     "about_anindya": "Tentang Anindya",
     "about_vpti": "Tentang VPTI",
 
@@ -57,46 +57,46 @@
             "name":"Batu Bara",
             "img":"coal-id",
             "label":"Batu Bara",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 2,
             "name":"Survei Kapal Laut",
             "img":"marine-id",
             "label":"Survei Kapal Laut",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 3,
             "name":"Minyak & Gas",
             "img":"oil-and-gas-id",
             "label":"Minyak & Gas",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 4,
             "name":"Pertanian & Makanan",
             "img":"agri-id",
             "label":"Pertanian & Makanan",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 5,
             "name":"Mineral & Air",
             "img":"mineral-id",
             "label":"Mineral & Air",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 6,
             "name":"Pasir Kerikil & Pecahan Batu",
             "img":"sand-id",
             "label":"Pasir Kerikil & Pecahan Batu",
-            "path": "/our-service"
+            "path": "/our-services"
         }
     ],
     "branch_office": "Kantor Cabang & Perwakilan",
-    "branch": "Anindya memiliki kantor cabang dan laboratorium yang terdapat di banyak lokasi strategis di seluruh Indonesia. Dalam memberikan pelayanan untuk klien internasional, ANINDYA juga memiliki kantor di beberapa negara yaitu Cina, India, Singapura, Banglades, dan Vietnam.",
+    "branch": "ANINDYA memiliki kantor cabang dan laboratorium terletak di banyak lokasi strategis di seluruh Indonesia. Dalam memberikan pelayanan untuk klien internasional kami, ANINDYA juga memiliki kantor di beberapa negara yaitu Cina, India, Singapura, Bangladesh, dan Vietnam.",
     "location_in_indonesia": "Lokasi di Indonesia",
     "lab_around_the_world": "Laboratorium di Luar Indonesia",
     "location_in_overseas": "Lokasi di Luar Negeri",
@@ -317,7 +317,7 @@
         },
         {
             "name": "Batu Bara",
-            "subtitle": "Penganalisan batu bara dalam proses produksi dan distribusi harus dilakukan dengan perhatian penuh terhadap akurasi dan metode terbaik. Seluruh fasilitas laboratorium terakreditasi kami dan ahli menawarkan sertifikasi kualitas terpercaya untuk inspeksi dan pengujian batu bara.",
+            "subtitle": "Analisis batu bara pada setiap titik dalam rantai produksi dan distribusi harus dilakukan dengan perhatian penuh pada akurasi dan praktik terbaik. Semua fasilitas dan ahli laboratorium terakreditasi kami menawarkan sertifikasi kualitas yang dapat diandalkan untuk inspeksi dan pengujian batu bara.",
             "col1": [
                 {
                     "title": "Layanan Tambang dan Geologis",
@@ -399,7 +399,7 @@
         },
         {
             "name": "Survei Kapal Laut",
-            "subtitle": "Inspeksi, surveI, atau pemeriksaan dari kapal laut untuk menilai, memantau dan melaporkan kondisi kapal dan produknya, juga untuk menyelidiki penyebab kerusakan baik dari kapal maupun kargo. ANINDYA beroperasi selama 24/7 dan telah berinvestasi dalam kumpulan surveyor ahli yang signifikan sehingga siap secara operasional dalam waktu singkat. Dengan dukungan dari staf teknisi yang berpengalaman, kami dapat membantu customers dalam saksi ahli atau melakukan tugas dalam kasus hukum, sengketa, dan klaim apa pun.",
+            "subtitle": "Inspeksi, surveI, atau pemeriksaan dari kapal laut untuk menilai, memantau dan melaporkan kondisi kapal dan produknya, juga untuk menyelidiki penyebab kerusakan baik dari kapal maupun kargo. ANINDYA beroperasi selama 24/7 dan telah berinvestasi dalam kumpulan surveyor ahli yang signifikan sehingga siap secara operasional dalam waktu singkat. Dengan dukungan dari staf teknisi yang berpengalaman, kami dapat membantu pelanggan sebagai saksi ahli atau melakukan tugas dalam kasus hukum, sengketa, dan klaim apa pun.",
             "col1": [
                 {
                     "title": "Survei Teknis",
@@ -464,7 +464,7 @@
                         "Expediting services",
                         "Blending expertise",
                         "Cargo treatment",
-                        "PengelolaanvJaminan dan Pergudangan",
+                        "Pengelolaan Jaminan dan Pergudangan",
                         "Pemantauan Kondisi Oli dan Lubrikan Bekas"
                     ]
                 }
@@ -473,12 +473,12 @@
             "method": [],
             "clients": [
                 "DCG",
-                "ABS",
-                "FJS",
                 "BNP",
                 "PC",
                 "RBN",
-                "DSI"
+                "DSI",
+                "ABS",
+                "FJS"
             ]
         },
         {
@@ -503,7 +503,7 @@
         },
         {
             "name": "Mineral & Air",
-            "subtitle": "Dari eksplorasi tambang hingga pengiriman ekspor, ANINDYA menyediakan layanan uji coba mineral, inspeksi, asuransi dan sertifikasi servis untuk mendukung aktivitas pertambangan di seluruh dunia. Segala jenis mineral, baik ditambang, diproses, ataupun diproduksi, ANINDYA dapat menyertakan nilai intrinsik melalui inspeksi independen kami, sampel, dan uji coba. Kami telah memiliki surveyor yang sangat terlatih dan berpengalaman secara global untuk melakukan intervensi di pelabuhan utama, lokasi penambangan, fasilitas peleburan, dan pemurnian yang didukung oleh independen laboratorium uji coba.",
+            "subtitle": "Dari eksplorasi tambang hingga pengiriman ekspor, ANINDYA menyediakan layanan uji coba mineral, inspeksi, asuransi dan sertifikasi servis untuk mendukung aktivitas pertambangan di seluruh dunia. Segala jenis mineral, baik ditambang, diproses, ataupun diproduksi, ANINDYA dapat menyertakan nilai intrinsik melalui inspeksi independen, sampel, dan uji coba. Kami memiliki surveyor yang terlatih dan berpengalaman secara global untuk melakukan intervensi di pelabuhan utama, lokasi penambangan, fasilitas peleburan, dan pemurnian yang didukung oleh independen laboratorium uji coba.",
             "col1": [
                 {
                     "title": "Layanan Kami",
@@ -1843,7 +1843,8 @@
                 "Petrokimia Gresik",
                 "Aik Moh",
                 "BSP",
-                "SSK"
+                "SSK",
+                "HSP"
             ]
         },
         {
@@ -1989,12 +1990,12 @@
     "about_our_company": "Tentang Perusahaan Kami",
     "branches": "Cabang Indonesia",
     "licenses_tab": "Lisensi & Sertifikasi",
-    "desc_about_us": "ANINDYA berdiri di Bandung pada Agustus 1982, merupakan perusahaan survei independen yang memberikan layanan pengawasan kualitas dan kuantitas untuk industri batu bara dan mineral, sektor minyak dan gas, begitu juga survei kapal laut. ANINDYA juga mendapatkan izin dari Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia, untuk dapat melakukan verifikasi barang impor di beberapa komoditi seperti besi baja, makanan minuman, obat tradisional, mainan anak, sepatu, pakaian jadi, elektronik, dll. Anindya memiliki kantor cabang dan laboratorium yang terdapat di banyak lokasi strategis di seluruh Indonesia. Dalam memberikan pelayanan untuk klien internasional, ANINDYA juga memiliki kantor di beberapa negara yaitu Cina, India, Singapura, Banglades, dan Vietnam.",
+    "desc_about_us": "ANINDYA berdiri di Bandung pada Agustus 1982, merupakan perusahaan survei independen yang memberikan layanan pengawasan kualitas dan kuantitas untuk industri batu bara dan mineral, sektor minyak dan gas, begitu juga survei kapal laut. ANINDYA juga mendapatkan izin dari Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia, untuk dapat melakukan verifikasi barang impor di beberapa komoditi seperti besi baja, makanan minuman, obat tradisional, mainan anak, sepatu, pakaian jadi, elektronik, dll. Anindya memiliki kantor cabang dan laboratorium terletak di banyak lokasi strategis di seluruh Indonesia. Dalam memberikan pelayanan untuk klien internasional kami, ANINDYA juga memiliki kantor di beberapa negara yaitu Cina, India, Singapura, Bangladesh, dan Vietnam.",
     "vission": "Visi",
     "mission": "Misi",
     "membership": "Keanggotaan & Asosiasi",
     "vission_company": "Percaya diri untuk menjadi salah satu perusahaan survei independen terbesar di Indonesia yang mampu memberikan layanan terbaik kepada pelanggan kami.",
-    "mission_company": "Memastikan konsumen kami puas dengan layanan kami dengan memberikan layanan secara akurat, profesional, dan tepat waktu. Memberikan jasa pengawasan kualitas dan kuantitas untuk industri batu bara, mineral, survei kelautan, serta minyak dan gas bumi dengan budaya kerja profesional yang didukung oleh sumber daya yang berkompeten dengan integritas yang tinggi untuk industri batu bara, mineral, survei kelautan, minyak dan gas bumi, serta verifikasi penelusuran teknis barang impor dengan budaya kerja.",
+    "mission_company": "Memastikan konsumen kami puas dengan memberikan layanan secara akurat, profesional, dan tepat waktu. Memberikan jasa pengawasan kualitas, kuantitas, dan verifikasi penelusuran teknis barang impor dengan budaya kerja profesional yang didukung oleh sumber daya yang berkompeten dengan integritas yang tinggi.",
     "branches_our_company": [
         {
             "location": "Bandung",

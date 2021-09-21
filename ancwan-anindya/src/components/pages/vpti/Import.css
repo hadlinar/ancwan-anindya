@@ -180,7 +180,18 @@
 
 .clients-vpti-lv {
     padding: 10px;
-    max-width: 150px;
+    max-width: 130px;
+    max-height: 130px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.clients-vpti-hsp {
+    padding: 10px;
+    max-width: 100px;
+    max-height: 100px;
     margin: auto;
     display: flex;
     align-items: center;

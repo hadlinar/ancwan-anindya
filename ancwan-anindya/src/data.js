@@ -6,7 +6,7 @@ let data = {
         },
         {
             "name": "Our Service",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "name": "VPTI",
@@ -41,56 +41,56 @@ let data = {
             "name":"VPTI",
             "img":"vpti",
             "label":"VPTI",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 2,
             "name":"Coal",
             "img":"coal",
             "label":"Coal",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         // {
         //     "key": 3,
         //     "name":"Geological",
         //     "img":"geo",
         //     "label":"Geological",
-            // "path": "/our-service"
+            // "path": "/our-services"
         // },
         {
             "key": 3,
             "name":"Marine",
             "img":"marine",
             "label":"Marine",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 4,
             "name":"Oil & Gas",
             "img":"oil-and-gas",
             "label":"Oil & Gas",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 5,
             "name":"Agriculture & Food",
             "img":"agri",
             "label":"Agriculture & Food",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 6,
             "name":"Mineral & Water",
             "img":"mineral",
             "label":"Mineral & Water",
-            "path": "/our-service"
+            "path": "/our-services"
         },
         {
             "key": 7,
             "name":"Sand, Pebble & Crushed Stone",
             "img":"sand",
             "label":"Sand, Pebble & Crushed Stone",
-            "path": "/our-service"
+            "path": "/our-services"
         },
     ],
     "branch":"ANINDYA has branch offices and laboratories located in many strategic locations throughout Indonesia. In serving clients from abroad, ANINDYA has also opened offices in several countries, that includes China, India, Singapore, Bangladesh and Vietnam.",
@@ -172,12 +172,12 @@ let data = {
             "index": "3",
             "img": [
                 "DCG",
-                "ABS",
-                "FJS",
                 "BNP",
                 "PC",
                 "RBN",
-                "DSI"
+                "DSI",
+                "ABS",
+                "FJS"
             ]
         },
         {
@@ -733,7 +733,7 @@ let data = {
                         "Name and address of importer and exporter",
                         "Type, Tariff Post / HS code 10 (ten) digits and their description",
                         "Specification of refrigerants used",
-                        "Amount, volume or weight",
+                        "Amount, volume, or weight",
                         "Country of origin",
                         "Country and port of loading",
                         "Destination port"
@@ -977,7 +977,7 @@ let data = {
             "catatan": [
                 {
                     "title": "Notes",
-                    "text": "Electronics has 93 Post Tariff Codes that is required for VPTI."
+                    "text": "Electronics has 93 Post Tariff Codes required for VPTI."
                 }
             ],
             "kontak": [
@@ -1232,7 +1232,7 @@ let data = {
             "catatan": [
                 {
                     "title": "Notes",
-                    "text": "Children's Toys consist of 29 Tariff Post Code that is required for VPTI."
+                    "text": "Children's Toys consist of 29 Tariff Post Code required for VPTI."
                 }
             ],
             "kontak": [
@@ -1330,7 +1330,7 @@ let data = {
             "catatan": [
                 {
                     "title": "Notes",
-                    "text": "Food and Beverage consists of 231 Tariff Post Code that is required for VPTI."
+                    "text": "Food and Beverage  of 231 Tariff Post Code required for VPTI."
                 }
             ],
             "kontak": [
@@ -1499,7 +1499,7 @@ let data = {
             "catatan": [
                 {
                     "title": "Notes",
-                    "text": "Traditional Medicines and Food Supplements consist of 30 Tariff Post Code that is required for VPTI."
+                    "text": "Traditional Medicines and Food Supplements consist of 30 Tariff Post Code required for VPTI."
                 }
             ],
             "kontak": [
@@ -1597,7 +1597,7 @@ let data = {
             "catatan": [
                 {
                     "title": "Notes",
-                    "text": "Apparel and Other Finished Textile Goods consist of 436 Tariff Post Code that is required for VPTI, there is also the Minister of Trade Regulation. Number 86 of the Year 2015 which regulates Batik Pattern."
+                    "text": "Apparel and Other Finished Textile Goods consist of 436 Tariff Post Code required for VPTI, there is also the Minister of Trade Regulation. Number 86 of the Year 2015 which regulates Batik Pattern."
                 }
             ],
             "kontak": [
@@ -1687,7 +1687,8 @@ let data = {
                 "Petrokimia Gresik",
                 "Aik Moh",
                 "BSP",
-                "SSK"
+                "SSK",
+                "HSP"
             ]
         },
         {
@@ -1830,7 +1831,7 @@ let data = {
     "our_offices": [
         {
             "location": "Indonesia",
-            "address": "Springhill Office Tower 18th Floor Unit E",
+            "address": "Springhill Office Tower 17th & 18th Floor",
             "detail": "Jl. H. Benyamin Suaeb Ruas D7  Block D6 Pademangan Timur, Jakarta 14410",
             "email": "marketing@anindya.biz",
             "phone": "+62 21 2260 6207"
@@ -1892,7 +1893,7 @@ let data = {
                                     ]
                                 },
                                 {
-                                    "item": "Spesific Products",
+                                    "item": "Specific Products",
                                     "sub_item": [
                                         "Food and Drink",
                                         "Toys",
@@ -2053,7 +2054,7 @@ let data = {
         },
         {
             "name": "Marine",
-            "subtitle": "Inspections, surveys or examinations of marine vessels to assess, monitor and report on their conditions and the products on them, as well as investigate the nature/cause of damage to both vessel and cargo. ANINDYA operates on a 24/7 basis and has invested in a significant pool of expert surveyors so as to be operationally ready at a short notice. With the backing of experienced technical staff, we can assist customers with expert witnesses or perform duties in any legal, dispute and/or claims cases.",
+            "subtitle": "Inspections, surveys or examinations of marine vessels to assess, monitor and report on their conditions and the products on them, as well as investigate the nature/cause of damage to both vessel and cargo. ANINDYA operates on a 24/7 basis and has invested in a significant pool of expert surveyors to be operationally ready at a short notice. With the backing of experienced technical staff, we can assist customers with expert witnesses or perform duties in any legal, dispute and/or claims cases.",
             "col1": [
                 {
                     "title": "Technical Survey",
@@ -2126,12 +2127,12 @@ let data = {
             "method": [],
             "clients": [
                 "DCG",
-                "ABS",
-                "FJS",
                 "BNP",
                 "PC",
                 "RBN",
-                "DSI"
+                "DSI",
+                "ABS",
+                "FJS"
             ]
         },
         {

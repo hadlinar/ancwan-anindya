@@ -309,9 +309,11 @@ function Import() {
                                                             return (
                                                                 <Col key={i} style={{margin: "auto"}}>
                                                                     {
-                                                                        item2 !== "LV" ? <img className="clients-vpti" src={require(`../../../images/VPTI/${item2}.png`).default} alt={item2}  />
+                                                                        item2 === "HSP" ? <img className="clients-vpti-hsp" src={require(`../../../images/VPTI/${item2}.png`).default} alt={item2}  />
+                                                                        :
+                                                                        [item2 !== "LV" ? <img className="clients-vpti" src={require(`../../../images/VPTI/${item2}.png`).default} alt={item2}  />
                                                                         : 
-                                                                        <img className="clients-vpti-lv" src={require(`../../../images/VPTI/${item2}.png`).default} alt={item2}  />
+                                                                        <img className="clients-vpti-lv" src={require(`../../../images/VPTI/${item2}.png`).default} alt={item2}  />]
                                                                     }
                                                                 </Col>
                                                             )
