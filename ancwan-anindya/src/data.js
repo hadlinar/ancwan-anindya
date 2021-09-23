@@ -104,7 +104,7 @@ let data = {
                 "Matsuo",
                 "Mercedes",
                 "Komatsu",
-                "Panasonic",
+                "Starbucks",
                 "Bridgestone",
                 "Apple",
                 "Samsung",
@@ -115,7 +115,7 @@ let data = {
                 "Hermes",
                 "Canon",
                 "Hp",
-                "Starbucks",
+                "Panasonic",
                 "Cold Stone",
                 "ELC",
                 "Kohler"
@@ -150,7 +150,7 @@ let data = {
                 "AKR",
                 "Alexindo",
                 "Duta Marine",
-                "Figar",
+                "MSD",
                 "Holcim",
                 "Indocement",
                 "Lafarge",
@@ -164,7 +164,7 @@ let data = {
                 "Cotecna",
                 "DBS",
                 "Watama",
-                "MSD"
+                "Figar"
             ]
         },
         {
@@ -190,12 +190,12 @@ let data = {
                 "YNI",
                 "YII",
                 "YII-2",
-                "Ifishco",
+                "GAG",
                 "Ranger",
                 "Walsin",
                 "Hengjaya",
                 "TSI",
-                "GAG",
+                "Ifishco",
                 "CLM"
             ]
         }
@@ -994,12 +994,12 @@ let data = {
                 "Aqua Japan",
                 "Fujifilm",
                 "Gree",
-                "Hp",
+                "Tefal",
                 "Asus",
                 "Sharp",
                 "Lenovo",
                 "Phillips",
-                "Tefal"
+                "Hp"
             ]
         },
         {
@@ -1415,8 +1415,8 @@ let data = {
             "clients": [
                 "Ricoh",
                 "Fujifilm",
-                "Hp",
-                "Canon"
+                "Canon",
+                "Hp"
             ]
         },
         {
@@ -1953,7 +1953,7 @@ let data = {
                 "Matsuo",
                 "Mercedes",
                 "Komatsu",
-                "Panasonic",
+                "Starbucks",
                 "Bridgestone",
                 "Apple",
                 "Samsung",
@@ -1964,7 +1964,7 @@ let data = {
                 "Hermes",
                 "Canon",
                 "Hp",
-                "Starbucks",
+                "Panasonic",
                 "Cold Stone",
                 "ELC",
                 "Kohler"
@@ -2054,7 +2054,7 @@ let data = {
         },
         {
             "name": "Marine",
-            "subtitle": "Inspections, surveys or examinations of marine vessels to assess, monitor and report on their conditions and the products on them, as well as investigate the nature/cause of damage to both vessel and cargo. ANINDYA operates on a 24/7 basis and has invested in a significant pool of expert surveyors to be operationally ready at a short notice. With the backing of experienced technical staff, we can assist customers with expert witnesses or perform duties in any legal, dispute and/or claims cases.",
+            "subtitle": "Inspections, surveys or examinations of marine vessels to assess, monitor and report on their conditions and the products on them, as well as investigate the nature/cause of damage to both vessel and cargo. ANINDYA operates on a 24/7 basis and has invested in a significant pool of expert surveyors to operationally ready at a short notice. With the backing of experienced technical staff, we can assist customers with expert witnesses or perform duties in any legal, dispute and/or claims cases.",
             "col1": [
                 {
                     "title": "Technical Survey",
@@ -2089,7 +2089,7 @@ let data = {
                 "AKR",
                 "Alexindo",
                 "Duta Marine",
-                "Figar",
+                "MSD",
                 "Holcim",
                 "Indocement",
                 "Lafarge",
@@ -2103,7 +2103,7 @@ let data = {
                 "Cotecna",
                 "DBS",
                 "Watama",
-                "MSD"
+                "Figar"
             ]
         },
         {
@@ -2205,13 +2205,13 @@ let data = {
                 "BSI",
                 "YNI",
                 "YII",
-                "YII",
-                "Ifishco",
+                "YII-2",
+                "GAG",
                 "Ranger",
                 "Walsin",
                 "Hengjaya",
                 "TSI",
-                "GAG",
+                "Ifishco",
                 "CLM"
             ]
         },
