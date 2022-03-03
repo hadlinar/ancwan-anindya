@@ -1,0 +1,87 @@
+.about {
+    padding: 4rem;
+    background: #fff;
+    margin: auto;
+    max-width: 1340px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.border-title {
+    border-top: 4px solid #3A7AE3;
+    width: 60px;
+    position: absolute;
+    left: 4%;
+}
+
+.col-title-about > h1 {
+    padding-top: 28px;
+    text-align: left;
+}
+
+.col-desc-about {
+    padding-left: 1.7rem;
+    padding-right: 2rem;
+    padding-bottom: 20px;
+}
+
+.col-val {
+    padding-left: 3rem;
+    margin-top: 20px;
+}
+
+.values {
+    font-size: 16px;
+    font-weight: 600;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    margin-right: 32px;
+    border-left: 4px solid #3A7AE3;
+    background-color: #F2F2F2;
+}
+
+@media screen and (max-width: 960px) {
+
+    .border-title {
+        border-top: 4px solid #3A7AE3;
+        width: 60px;
+        position: absolute;
+        left: 3%;
+    }
+    
+    .col-title-about {
+        padding-top: 28px;
+        letter-spacing: 1px;
+        left: 1%;
+    }
+
+    .col-desc-about {
+        letter-spacing: 1px;
+        padding-top: 8px;
+        font-size: 16px;
+        padding-left: 0px;
+    }
+
+    .col-val {
+        padding-left: 20px;
+        margin-top: -10px;
+    }
+
+    .values {
+        width: 100%;
+        font-weight: 600;
+        margin-bottom: 20px;
+        border-left: 4px solid #3A7AE3;
+        background-color: #F2F2F2;
+    }
+}

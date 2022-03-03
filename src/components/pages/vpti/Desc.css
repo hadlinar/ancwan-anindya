@@ -1,0 +1,16 @@
+.container-desc {
+    padding: 80px 80px 80px 80px;
+    background-color: white;
+    max-width: 1340px;
+    margin: auto;
+}
+
+@media screen and (max-width: 960px) {
+    .container-desc {
+        padding: 30px 40px 40px 40px;
+    }
+
+    .about-vpti {
+        font-size: 14px;
+    }
+}

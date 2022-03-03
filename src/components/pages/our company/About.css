@@ -1,0 +1,98 @@
+.company-container{
+    padding: 80px 80px 40px 80px;
+    margin: auto;
+    max-width: 1340px;
+    text-align: center;
+}
+
+.slide {
+    margin: auto;
+    height: 600px;
+    width: 900px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    align-content: center;
+}
+
+.desc-about-company {
+    text-align: center;
+    font-size: 16px;
+    line-height: 160%;
+}
+
+.detail-about {
+    padding: 80px 0 80px 0;
+}
+
+.border-title-company {
+    border-top: 4px solid #3A7AE3;
+    width: 60px;
+    position: absolute;
+}
+
+.subtitle {
+    font-size: 24px;
+    font-weight: 600;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: 32px;
+}
+
+.detail-text {
+    text-align: left;
+    font-size: 16px;
+    line-height: 160%;
+}
+
+.border-title-member {
+    border-top: 4px solid #3A7AE3;
+    width: 60px;
+    position: absolute;
+}
+
+@media screen and (max-width: 960px){
+    .container-about {
+        padding: 0;
+        margin: auto;
+    }
+
+    .slide {
+        width: 100%;
+        padding-top: 40px;
+        height: 32vh;
+    }
+
+    .desc-about-company {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+
+    .border-title-company {
+        width: 50px;
+    }
+
+    .subtitle {
+        font-size: 20px;
+        text-align: left;
+    }
+
+    .detail-text {
+        font-size: 14px;
+    }
+
+    .about-pic-container-mobile {
+        padding: 10px 20px 20px 20px;
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        grid-gap: 20px;
+        list-style: none;
+        text-align: center;
+        justify-content: center;
+        margin: auto;
+    }
+
+    .member-pic {
+        max-width: 100%;
+        margin: auto;
+    }
+}

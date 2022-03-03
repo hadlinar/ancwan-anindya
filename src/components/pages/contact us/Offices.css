@@ -1,0 +1,103 @@
+.container-office {
+    padding: 80px 80px 40px 80px;
+}
+
+.border-title-office {
+    border-top: 4px solid #3A7AE3;
+    width: 60px;
+    position: absolute;
+}
+
+.hq {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left;
+    margin-bottom: 24px;
+}
+
+.address-branch {
+    color: black;
+    font-size: 16px;
+    padding-right: 50px;
+}
+
+.address-branch-overseas {
+    color: black;
+    font-size: 16px;
+    padding-right: 50px;
+}
+
+.title-office {
+    font-size: 32px;
+    font-weight: 600;
+    padding-top: 16px;
+    margin-right: 32px;
+    text-align: left;
+}
+.col-style {
+    padding-left: 0;
+    margin-bottom: 40px;
+}
+
+.list-container {
+    padding: 20px 0 0 0;
+}
+
+.list-office {
+    margin: auto;
+}
+
+.location-office {
+    font-size: 20px;
+    font-weight: 600;
+    color: #001133;
+    text-align: left;
+    padding-left: 0;
+    margin-bottom: 10px;
+}
+
+.detail-contact {
+    padding-top: 10px;
+    text-align: left;
+    margin-bottom: 0;
+}
+
+.detail-contact-overseas {
+    padding-top: 10px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.inquiries {
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.inquiries-style {
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 0;
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 960px) {
+    .container-office {
+        padding: 10px 40px 40px 40px;
+    }
+
+    .list-office {
+        margin: 0;
+    }
+
+    .location-office {
+        font-size: 20px;
+    }
+
+    .address-branch {
+        font-size: 14px;
+    }
+
+    .inquiries-style {
+        margin-top: 30px;
+    }
+}

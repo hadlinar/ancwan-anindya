@@ -1,0 +1,161 @@
+.service-container{
+    padding: 80px 80px 40px 80px;
+    margin: auto;
+    max-width: 1340px;
+    text-align: center;
+}
+
+h1 {
+    letter-spacing: 1px;
+}
+
+.slides-services {
+    margin: auto;
+    height: 600px;
+    width: 900px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    align-content: center;
+}
+
+.desc-our-service {
+    text-align: center;
+    font-size: 16px;
+    line-height: 160%;
+}
+
+.border-title-services {
+    border-top: 4px solid #3A7AE3;
+    width: 60px;
+    position: absolute;
+}
+
+.col-title {
+    font-size: 24px;
+    font-weight: 600;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: 32px;
+    text-align: left;
+}
+
+.list_ {
+    line-height: 180%;
+    padding: 0 0 0 20px;
+    text-align: left;
+}
+
+.list-dash {
+    line-height: 180%;
+    padding: 0 0 0 20px;
+    text-align: left;
+    list-style-type: none;
+}
+
+.list-dash li:before {
+    content: '\2014';
+    position: absolute;
+    margin-left: -20px;
+}
+
+.clients-services {
+    padding: 20px;
+    max-width: 200px;
+    max-height: 150px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.clients-services-lv {
+    padding: 10px;
+    max-width: 150px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.react-3d-carousel .slider-container .slider-content .slider-single .slider-single-content img {
+    max-width: 100%;
+    max-height: 400px;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    user-drag: none;
+    -webkit-touch-callout: none;
+}
+
+@media screen and (max-width: 960px){
+    .service-container{
+        padding: 10px 50px 40px 50px;
+    }
+
+    h1 { 
+        text-align: center;
+        letter-spacing: 1px;
+        font-size: 28px;
+    }
+
+    .container-service {
+        background: white;
+    }
+
+    .slides-services {
+        width: 100%;
+        padding-top: 40px;
+        height: 32vh;
+    }
+
+    .desc-our-service {
+        font-size: 14px;
+        padding-bottom: 10px;
+    }
+
+    .content-container {
+        background-color: white;
+    }
+
+    .border-title-services {
+        width: 50px;
+    }
+
+    .col-title {
+        font-size: 20px;
+    }
+
+    .list_ {
+        font-size: 14px;
+        padding-bottom: 20px;
+    }
+
+    .sub-title {
+        font-size: 14px;
+        font-weight: 600;
+        text-align: left;
+    }
+
+    .pic-container-mobile {
+        padding: 20px 0 20px 0;
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        grid-gap: 30px;
+        list-style: none;
+        text-align: center;
+        justify-content: center;
+        margin: auto;
+    }
+
+    .method-pic {
+        max-width: 110px;
+        margin: auto;
+    }
+
+    .method-pic-lv {
+        max-width: 80px;
+        margin: auto;
+    }
+}

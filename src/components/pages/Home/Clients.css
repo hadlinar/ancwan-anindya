@@ -1,0 +1,130 @@
+.section-client {
+    max-width: 1340px;
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 80px;
+    letter-spacing: 0.1rem;
+}
+
+.row-title-clients {
+    padding-top: 25px;
+    padding-bottom: 30px;
+    justify-content: center;
+    margin: auto;
+}
+
+.nav-tabs {
+    width: 100%;
+    font-weight: 300;
+    font-size: 16px;
+    justify-content: center;
+}
+
+.nav-link {
+    color: #828282;
+    padding: 16px 23px 16px 23px;
+    align-items: stretch;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-bottom: 0;
+}
+
+.nav-tabs .nav-link {
+    margin-bottom: 0;
+    border: 0;
+}
+
+.nav-tabs .nav-item.show .nav-link, 
+.nav-tabs .nav-link.active {
+    color: #3A7AE3;
+    background-color: #E0E0E0;
+    /* background-color: pink; */
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 3px solid #3A7AE3;
+}
+
+.nav-tabs .nav-item.show .nav-link, 
+.nav-tabs .nav-link:hover {
+    color: #828282;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    margin-bottom: 0;
+    background-color: #E0E0E0;
+}
+
+.clients {
+    padding: 20px;
+    min-width: 140px;
+    max-width: 200px;
+    max-height: 150px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.clients-lv {
+    padding: 20px;
+    max-width: 130px;
+    max-height: 130px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 960px) {
+    .clients {
+        max-width: 180px;
+    }
+
+    .clients-lv {
+        max-width: 120px;
+    }
+
+    .custom-select {
+        margin: auto;
+        top: 0;
+        background-color: #E0E0E0;
+    }
+
+    .dropdown-container {
+        width: 100%;
+    }
+
+    .container-clients {
+        padding: 20px 0 0 0;
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        grid-gap: 30px;
+        list-style: none;
+        text-align: center;
+        justify-content: center;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .clients {
+        padding: 10px;
+        max-width: 150px;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .container-clients {
+        display: grid;
+        grid-template-columns: repeat(2, auto);
+        grid-gap: 10px;
+        list-style: none;
+        text-align: center;
+        justify-content: center;
+        margin: auto 20px auto 20px;
+    }
+}
