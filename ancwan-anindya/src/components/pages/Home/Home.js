@@ -7,6 +7,7 @@ import Branch from './Branch';
 import Clients from './Clients';
 
 import Navigation from '../../Navbar';
+import Certification from './Certification';
 
 function Home () {
 
@@ -20,8 +21,9 @@ function Home () {
             </div>
             <Branch />
             <div style={{backgroundColor: "#F2F2F2"}}>
-                <Clients />
+                <Certification />
             </div>
+            <Clients />
         </>
     )
 }

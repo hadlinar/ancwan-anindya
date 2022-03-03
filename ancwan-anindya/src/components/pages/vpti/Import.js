@@ -143,15 +143,16 @@ function Import() {
                                         : <div/>
                                     }
                                 </div>
+                                
                                 <div>
                                     {
                                         Array.from(data.import_vpti[parseInt(dropdownState)].kontak, (item2, ind) => {
                                             return (
                                                 <>
                                                     <h3 className='subtitle-vpti'>{t(`import_vpti.${parseInt(dropdownState)}.kontak.${ind}.title`)}</h3>
-                                                    <p style={{fontSize: '14px', fontWeight: '300', color: 'black', margin: '0'}}>{t(`import_vpti.${parseInt(dropdownState)}.kontak.${ind}.nama`)}</p>
-                                                    <a style={{fontSize: '14px', fontWeight: '300', color: '#3A7AE3', margin: '0'}} href={"mailto:"+item2.email}>{t(`import_vpti.${parseInt(dropdownState)}.kontak.${ind}.email`)}</a>
-                                                    <p style={{fontSize: '14px', fontWeight: '300', color: 'black', margin: '0'}}>{t(`import_vpti.${parseInt(dropdownState)}.kontak.${ind}.telp`)}</p>
+                                                    <p className='contact-content'>{t(`import_vpti.${parseInt(dropdownState)}.kontak.${ind}.nama`)}</p>
+                                                    <a style={{fontSize: '14px', fontWeight: '300', color: '#3A7AE3', margin: '0'}} href={"mailto:"+item2.email}>{t(`import_vpti.${parseInt(dropdownState)}.kontak.${ind}.email`)}</a><br/>
+                                                    <a style={{fontSize: '14px', fontWeight: '300', color: '#3A7AE3', margin: '0'}} href={"tel:"+item2.telp}>{t(`import_vpti.${parseInt(dropdownState)}.kontak.${ind}.telp`)}</a>
                                                 </>
                                             )
                                         })
@@ -294,9 +295,9 @@ function Import() {
                                                         return (
                                                             <>
                                                                 <h3 className='subtitle-vpti'>{t(`import_vpti.${i}.kontak.${ind}.title`)}</h3>
-                                                                <p style={{fontSize: '16px', fontWeight: '300', color: 'black', margin: '0'}}>{t(`import_vpti.${i}.kontak.${ind}.nama`)}</p>
-                                                                <a style={{fontSize: '16px', fontWeight: '300', color: '#3A7AE3', margin: '0'}} href={"mailto:"+item2.email}>{t(`import_vpti.${i}.kontak.${ind}.email`)}</a>
-                                                                <p style={{fontSize: '16px', fontWeight: '300', color: 'black', margin: '0'}}>{t(`import_vpti.${i}.kontak.${ind}.telp`)}</p>
+                                                                <p style={{fontSize: '16px', fontWeight: '300', color: 'black', margin: '0', textAlign: 'left'}}>{t(`import_vpti.${i}.kontak.${ind}.nama`)}</p>
+                                                                <a style={{fontSize: '16px', fontWeight: '300', color: '#3A7AE3', margin: '0'}} href={"mailto:"+item2.email}>{t(`import_vpti.${i}.kontak.${ind}.email`)}</a><br/>
+                                                                <a style={{fontSize: '16px', fontWeight: '300', color: 'black', margin: '0'}} href={"tel:"+item2.telp}>{t(`import_vpti.${i}.kontak.${ind}.telp`)}</a>
                                                             </>
                                                         )
                                                     })}

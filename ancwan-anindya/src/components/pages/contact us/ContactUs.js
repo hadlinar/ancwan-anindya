@@ -1,6 +1,5 @@
 import React from 'react'
 import Offices from './Offices'
-// import FormMessage from './FormMessage'
 import Navigation2 from '../../NavbarLayout2';
 
 function ContactUs() {

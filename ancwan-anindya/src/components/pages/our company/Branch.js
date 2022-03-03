@@ -34,11 +34,12 @@ class Branch extends React.Component {
             interactive: false
         })
 
-        map.once('idle', function() {
+        map.on('idle', function() {
             map.resize();
         })
 
         map.on('load', function () {
+            map.resize();
             map.addSource('places', {
                 'type': 'geojson',
                 'data': {

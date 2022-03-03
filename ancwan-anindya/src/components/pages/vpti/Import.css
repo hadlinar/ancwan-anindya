@@ -13,6 +13,7 @@
 .subtitle-vpti {
     font-weight: 600;
     font-size: 16px;
+    text-align: left;
 }
 
 .permendag-main {
@@ -60,6 +61,7 @@
     color: black;
     font-size: 16px;
     font-weight: 300;
+    text-align: left;
 }
 
 .list-rev-rl {
@@ -70,10 +72,20 @@
     padding: 0 0 0 20px;
 }
 
+.contact-content {
+    font-size: 16px;
+    font-weight: 300;
+    color: black;
+    margin: 0px;
+    text-align: left;
+}
+
 .catatan-content {
     color: black;
     font-size: 16px;
     font-weight: 300;
+    text-align: left;
+    padding-top: 10px;
 }
 
 .rectangle {

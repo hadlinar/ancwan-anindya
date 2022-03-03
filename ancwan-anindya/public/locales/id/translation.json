@@ -46,52 +46,52 @@
     "our_service_title": "Layanan Kami",
     "services": [
         {
-            "key": 0,
+            "key": 1,
             "name":"VPTI",
             "img":"vpti",
             "label":"VPTI",
             "path": "/vpti"
         },
         {
-            "key": 1,
+            "key": 2,
             "name":"Batu Bara",
             "img":"coal-id",
             "label":"Batu Bara",
             "path": "/our-services"
         },
         {
-            "key": 2,
+            "key": 3,
             "name":"Survei Kapal Laut",
             "img":"marine-id",
             "label":"Survei Kapal Laut",
             "path": "/our-services"
         },
         {
-            "key": 3,
+            "key": 4,
             "name":"Minyak & Gas",
             "img":"oil-and-gas-id",
             "label":"Minyak & Gas",
             "path": "/our-services"
         },
         {
-            "key": 4,
+            "key": 5,
             "name":"Pertanian & Makanan",
             "img":"agri-id",
             "label":"Pertanian & Makanan",
             "path": "/our-services"
         },
         {
-            "key": 5,
+            "key": 6,
             "name":"Mineral & Air",
             "img":"mineral-id",
             "label":"Mineral & Air",
             "path": "/our-services"
         },
         {
-            "key": 6,
-            "name":"Pasir Kerikil & Pecahan Batu",
-            "img":"sand-id",
-            "label":"Pasir Kerikil & Pecahan Batu",
+            "key": 7,
+            "name":"Mineral Non-Logam",
+            "img":"non-metallic-id",
+            "label":"Mineral Non-Logam",
             "path": "/our-services"
         }
     ],
@@ -562,7 +562,7 @@
             ]
         },
         {
-            "name": "Pasir Kerikil & Pecahan Batu",
+            "name": "Mineral Non-Logam",
             "subtitle": "Memperkenalkan divisi baru di ANINDYA, dalam merespon kegiatan pembangunan infrastruktur negara yang pesat.",
             "col1": [
                 {
@@ -645,6 +645,11 @@
                 {
                     "title": "Dasar Hukum",
                     "permendag": [
+                        {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
                         {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
                             "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
@@ -760,6 +765,11 @@
                     "title": "Dasar Hukum",
                     "permendag": [
                         {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
+                        {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 77/M-DAG/PER/11/2016 tentang Ketentuan Impor Ban.",
                             "url": "https://drive.google.com/file/d/1ShZAPLUSq5f129wuDEE_rGbBupEZU07Q/preview",
                             "rev": [
@@ -841,6 +851,11 @@
                 {
                     "title": "Dasar Hukum",
                     "permendag": [
+                        {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
                         {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 84/M-DAG/PER/10/2015 tentang Ketentuan Impor Barang Berbasis Sistem Pendingin.",
                             "url": "https://drive.google.com/file/d/1VJgJX5OiQjrw06vV5ucybkf8b25YLY0j/preview",
@@ -929,6 +944,11 @@
                     "title": "Dasar Hukum",
                     "permendag": [
                         {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
+                        {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 118 Tahun 2018 tentang Ketentuan Impor Barang Modal dalam Keadaan Tidak Baru.",
                             "url": "https://drive.google.com/file/d/10Q001ky7mbDXotDkBtYtyviyhKb5aoWW/preview",
                             "rev": [
@@ -991,6 +1011,11 @@
                 {
                     "title": "Dasar Hukum",
                     "permendag": [
+                        {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
                         {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 110 Tahun 2018 tentang Ketentuan Impor Besi atau Baja, Baja Paduan, dan Produk Turunannya.",
                             "url": "https://drive.google.com/file/d/11Lpjv_3Ch2tSij7kjaIly510d1ijshLX/preview",
@@ -1059,6 +1084,11 @@
                 {
                     "title": "Dasar Hukum",
                     "permendag": [
+                        {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
                         {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
                             "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
@@ -1166,6 +1196,11 @@
                     "title": "Dasar Hukum",
                     "permendag": [
                         {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
+                        {
                             "main": "Peraturan Menteri Perdagangan Republik Indonesia Nomor 44 Tahun 2019 Tentang Ketentuan Impor Produk Hortikultura.",
                             "url": "https://drive.google.com/file/d/1SEAiybeBxGkVi-920jaepGS_99UowBGF/preview",
                             "rev": [
@@ -1236,6 +1271,11 @@
                 {
                     "title": "Dasar Hukum",
                     "permendag": [
+                        {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
                         {
                             "main": "Peraturan Menteri Perdagangan (Permendag) No. 06/M-DAG/PER/1/2007 tentang Verifikasi atau Penelusuran Teknis Impor Keramik.",
                             "url": "https://drive.google.com/file/d/1kg-ZltuTemWnJf6eu9sim83rZkihi6SL/preview",
@@ -1309,12 +1349,77 @@
             ]
         },
         {
+            "tab_title": "KOSMETIK DAN PERBEKALAN KESEHATAN RUMAH TANGGA",
+            "pic": "kosmetik",
+            "dasar_hukum": [
+                {
+                    "title": "Dasar Hukum",
+                    "permendag": [
+                        {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
+                        {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 16 Tahun 2021 tentang Verifikasi atau Penelusuran Teknis di Bidang Perdagangan Luar Negeri",
+                            "url": "http://jdih.kemendag.go.id/peraturan/stream/2169/2",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Kosmetik dan Perbekalan Kesehatan Rumah Tangga",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
+                            "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Ruang Lingkup",
+                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
+                    "val": [
+                        "Negara asal dan pelabuhan muat;",
+                        "Uraian barang dan pos tarif / HS;",
+                        "Nomor Sertifikasi Produk Penggunaan Tanda SNI (SPPT SNI), untuk Produk tertentu yang SNI-nya diberlakukan secara wajib;",
+                        "Nomor Pendaftaran Barang (NPB);",
+                        "Certificate of Analysis (COA), untuk Produk Tertentu yang dipersyaratkan;",
+                        "Waktu pengapalan;",
+                        "Pelabuhan Tujuan; dan",
+                        "Ketentuan lain yang dipersyaratkan dalam peraturan perundang-undangan."
+                    ]
+                }
+            ],
+            "catatan": [],
+            "kontak": [
+                {
+                    "title": "Kontak Kami",
+                    "nama": "Nadila Ramadhana",
+                    "email": "nadila_lsi@anindya.biz",
+                    "telp": "+62 821-2151-5104"
+                }
+            ],
+            "clients": []
+        },
+        {
             "tab_title": "MAINAN ANAK",
             "pic": "mainan",
             "dasar_hukum": [
                 {
                     "title": "Dasar Hukum",
                     "permendag": [
+                        {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
                         {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
                             "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
@@ -1413,6 +1518,11 @@
                 {
                     "title": "Dasar Hukum",
                     "permendag": [
+                        {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
                         {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
                             "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
@@ -1514,6 +1624,11 @@
                     "title": "Dasar Hukum",
                     "permendag": [
                         {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
+                        {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 102/M-DAG/PER/12/2015 tentang Ketentuan Impor Mesin Multifungsi Berwarna, Mesin Fotokopi Berwarna, dan Mesin Printer Berwarna.",
                             "url": "https://drive.google.com/file/d/1GY4riqL5OrPs3xeUXI8yKNQvirT_EE5p/preview",
                             "rev": [
@@ -1582,6 +1697,11 @@
                 {
                     "title": "Dasar Hukum",
                     "permendag": [
+                        {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
                         {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
                             "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
@@ -1671,116 +1791,17 @@
             ]
         },
         {
-            "tab_title": "PAKAIAN JADI",
-            "pic": "pakaian",
-            "dasar_hukum": [
-                {
-                    "title": "Dasar Hukum",
-                    "permendag": [
-                        {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
-                            "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
-                            "rev": [
-                                {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 28 Tahun 2020 tentang Perubahan Kedelapan atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
-                                    "url": "https://drive.google.com/file/d/1JWCPymLibiK72u7tzyg3gN8llytWXMI0/preview"
-                                },
-                                {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 24 Tahun 2019 tentang Perubahan Ketujuh atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
-                                    "url": "https://drive.google.com/file/d/1Wa66lbZnpuBrmStAy-pf4pao3Dj-pADF/preview"
-                                },
-                                {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 121 Tahun 2018 tentang Perubahan keenam atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
-                                    "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
-                                },
-                                {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 42 Tahun 2018 tentang Perubahan kelima atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
-                                    "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
-                                },
-                                {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 12 Tahun 2018 tentang Perubahan keempat atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
-                                    "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
-                                },
-                                {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94 Tahun 2017 tentang Perubahan ketiga atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
-                                    "url": "https://drive.google.com/file/d/1HkEDhBMj6Lg7FppOR06J6uJctIQDo4NI/preview"
-                                },
-                                {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 81 Tahun 2017 tentang Perubahan kedua atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu;",
-                                    "url": "https://drive.google.com/file/d/1rUBYQFKDKJHyvKXENybVbcYdl5feHDts/preview"
-                                },
-                                {
-                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 94/M-DAG/PER/10/2015 tentang Perubahan atas Peraturan Menteri Perdagangan (Permendag) Nomor 87/M-DAG/PER/10/2015 tentang Ketentuan Impor Produk Tertentu.",
-                                    "url": "https://drive.google.com/file/d/1rUvUxyVExAo9dzYgSOnAMhWy1EFiMjLn/preview"
-                                }
-                            ]
-                        },
-                        {
-                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 86/M-DAG/PER/10/2015 tentang Ketentuan Impor Tekstil dan Produk Tekstil Batik dan Motif Batik.",
-                            "url": "https://drive.google.com/file/d/1_7rcw1eXc992MBgvtkGRX7BTsVwgCaX7/preview",
-                            "rev": []
-                        }
-                    ]
-                }
-            ],
-            "daftar_perubahan": [
-                {
-                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Pakaian Jadi",
-                    "permendag": [],
-                    "kepmendag": [
-                        {
-                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 782 Tahun 2019 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Produk Tertentu.",
-                            "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
-                            "rev": []
-                        }
-                    ]
-                }
-            ],
-            "ruang_lingkup": [
-                {
-                    "title": "Ruang Lingkup",
-                    "subtitle": "Ruang lingkup VPTI meliputi data atau keterangan paling sedikit mengenai:",
-                    "val": [
-                        "Negara asal dan pelabuhan muat;",
-                        "Uraian barang dan pos tarif / HS;",
-                        "Nomor Sertifikasi Produk Penggunaan Tanda SNI (SPPT SNI), untuk Produk tertentu yang SNI-nya diberlakukan secara wajib;",
-                        "Nomor Pendaftaran Barang (NPB);",
-                        "Waktu pengapalan; dan",
-                        "Pelabuhan Tujuan."
-                    ]
-                }
-            ],
-            "catatan": [
-                {
-                    "title": "Catatan",
-                    "text": "Pakaian Jadi dan Barang Tekstil Sudah Jadi Lainnya terdiri dari 436 Kode Pos Tarif yang dikenakan VPTI, juga terdapat Permendag. No. 86 Tahun 2015 yang mengatur tentang Motif Batik"
-                }
-            ],
-            "kontak": [
-                {
-                    "title": "Kontak Kami",
-                    "nama": "Intan Rusli",
-                    "email": "intan.rusli_lsi@anindya.biz",
-                    "telp": "+62 813-1331-1168"
-                }
-            ],
-            "clients": [
-                "Chanel",
-                "Under Armour",
-                "Giordano",
-                "Hermes",
-                "Uniqlo",
-                "LV",
-                "Mothercare "
-            ]
-        },
-        {
             "tab_title": "PREKURSOR",
             "pic": "prekursor",
             "dasar_hukum": [
                 {
                     "title": "Dasar Hukum",
                     "permendag": [
+                        {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
                         {
                             "main": "Keputusan Menteri Perindustrian dan Perdagangan (Kepmenperindag) Nomor 647/MPP/Kep/10/2004 tentang Ketentuan Impor Prekursor.",
                             "url": "https://drive.google.com/file/d/1ECm0v4rF7uEsLZN5uqyaFjtlSGS-oM4n/preview",
@@ -1855,6 +1876,11 @@
                     "title": "Dasar Hukum",
                     "permendag": [
                         {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
+                        {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 68 Tahun 2020 tentang Ketentuan Impor Alas Kaki, Elektronik, Serta Sepeda Roda Dua dan Roda Tiga.",
                             "url": "https://drive.google.com/file/d/1qqnL8WYoyVPtkqNbOvjHVhw0wdPgdo3k/preview",
                             "rev": [
@@ -1927,6 +1953,11 @@
                     "title": "Dasar Hukum",
                     "permendag": [
                         {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
+                            "rev": []
+                        },
+                        {
                             "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 82/M-DAG/PER/12/2012 tentang Ketentuan Impor Telepon Seluler, Komputer Genggam (Handheld), dan Komputer Tablet.",
                             "url": "https://drive.google.com/file/d/12XVAczCBOTtp78pUS_oNZjB-koAIupcq/preview",
                             "rev": [
@@ -1988,7 +2019,7 @@
 
     "our_company": "One stop authorized mining-related trading certification & verification services",
     "about_our_company": "Tentang Perusahaan Kami",
-    "branches": "Cabang Indonesia",
+    "branches": "Kantor & Laboratorium",
     "licenses_tab": "Lisensi & Sertifikasi",
     "desc_about_us": "ANINDYA berdiri di Bandung pada Agustus 1982, merupakan perusahaan survei independen yang memberikan layanan pengawasan kualitas dan kuantitas untuk industri batu bara dan mineral, sektor minyak dan gas, begitu juga survei kapal laut. ANINDYA juga mendapatkan izin dari Dirjen Perdagangan Internasional, Kementerian Perdagangan Republik Indonesia, untuk dapat melakukan verifikasi barang impor di beberapa komoditi seperti besi baja, makanan minuman, obat tradisional, mainan anak, sepatu, pakaian jadi, elektronik, dll. Anindya memiliki kantor cabang dan laboratorium terletak di banyak lokasi strategis di seluruh Indonesia. Dalam memberikan pelayanan untuk klien internasional kami, ANINDYA juga memiliki kantor di beberapa negara yaitu Cina, India, Singapura, Bangladesh, dan Vietnam.",
     "vission": "Visi",
@@ -2272,6 +2303,44 @@
         "val": []
     },
     "our_offices": "Kantor Kami",
+    "domestic_hq": "Kantor Pusat Dalam Negeri",
+    "overseas_hq": "Kantor Pusat Luar Negeri",
+    "coal_and_mines": "Batu bara dan Tambang",
+    "inquiries": "Untuk pertanyaan, silakan hubungi:",
+    "coal_n_mines_contact" : [
+        {
+            "name": "Eddy Kristianto",
+            "email": "eddy.kristianto@anindya.biz",
+            "phone": "+62 811-1849-320"
+        },
+        {
+            "name": "Herry Fajar",
+            "email": "herry.fajar@anindya.biz",
+            "phone": "+62 811-9222-216"
+        },
+        {
+            "name": "Monang Jaya",
+            "email": "monang@anindya.biz",
+            "phone": "+62 811-805-169"
+        }
+    ],
+    "import_verif_contact": [
+        {
+            "name": "Adhy Herlastadhy",
+            "email": "adhy_lsi@anindya.biz",
+            "phone": "+62 812-5954-8903"
+        },
+        {
+            "name": "Dicky Muis",
+            "email": "dicky.muis_lsi@anindya.biz",
+            "phone": "+62 812-2297-0989"
+        },
+        {
+            "name": "Intan Rusli",
+            "email": "intan.rusli_lsi@anindya.biz",
+            "phone": "+62 813-1331-1168"
+        }
+    ],
 
 
     "desc_footer_top": "Perusahaan survei independen yang memberikan layanan pengawasan kualitas dan kuantitas untuk industri batu bara dan mineral, sektor minyak dan gas, serta survei kapal laut.",

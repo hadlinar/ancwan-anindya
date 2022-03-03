@@ -39,7 +39,7 @@ function OurServices(props) {
             "sort": "6"
         },
         {
-            "name": "Sand, Pebble & Crushed Stone",
+            "name": "Non-Metallic Minerals",
             "sort": "7"
         }
     ]
@@ -186,7 +186,7 @@ function OurServices(props) {
                                                                         {t(`service_val.${d}.col2.${i}.title`)}
                                                                     </div>
                                                                     {
-                                                                        filtered.name !== "Sand, Pebble & Crushed Stone" ? 
+                                                                        filtered.name !== "Non-Metallic Minerals" ? 
                                                                             <div>
                                                                                 <ol className="list_">
                                                                                     {Array.from(e.val, (e, id) => {
@@ -298,7 +298,7 @@ function OurServices(props) {
                                                 </p>
                                                 <Row style={{paddingTop: "80px", margin: "auto"}}>
                                                     {
-                                                        item.name !== "Sand, Pebble & Crushed Stone" ? 
+                                                        item.name !== "Non-Metallic Minerals" ? 
                                                         <>
                                                                 <Col md={6} style={{paddingRight: "80px"}}>
                                                                     <Row className="border-title-services"/>

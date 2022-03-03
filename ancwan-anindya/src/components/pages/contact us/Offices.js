@@ -13,7 +13,108 @@ function Offices() {
                 <div className='border-title-office'/>
                 <h1 className='title-office'>{t('our_offices')}</h1>
                 <div className='list-container'>
-                    <Row md={3} className="list-office">
+                    <Row>
+                        <Col>
+                            <Col className="col-style">
+                                <div className="hq">
+                                    {t('domestic_hq')}
+                                </div>
+                                <Col className="col-style">
+                                    <div>
+                                        <div className="location-office">{data.indo_office[0].location}</div>
+                                    </div>
+                                    <div>
+                                        <div className="address-branch">
+                                            {data.indo_office[0].address}<br/>
+                                            {data.indo_office[0].detail}<br/>
+                                            <div className='detail-contact'>
+                                                <i class="fas fa-envelope office" style={{color: 'black', marginRight: '10px'}}/> <a href={"mailto:"+data.indo_office[0].email}>{data.indo_office[0].email}<br/></a>
+                                                <i class="fas fa-phone-alt" style={{color: 'black', marginRight: '10px'}}/> <a href={"tel:"+data.indo_office[0].phone}> {data.indo_office[0].phone} <br/></a>
+                                            </div>
+                                        </div>
+                                        <div>
+                                            <p className='inquiries'>{t('inquiries')}</p>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <Row>
+                                            <Col md={6}>
+                                                <div className="inquiries-style">
+                                                    {t('coal_and_mines')}
+                                                </div>
+                                                <div>
+                                                    {data.coal_n_mines_contact.map((item) => {
+                                                        return(
+                                                            <div>
+                                                                <p className='detail-contact'>{item.name}</p>
+                                                                <i class="fas fa-envelope" style={{color: 'black', marginRight: '10px'}}/> <a href={"mailto:"+item.email} style={{fontWeight: '300'}}>{item.email}<br/></a>
+                                                                <i class="fas fa-phone-alt" style={{color: 'black', marginRight: '10px'}}/> <a href={"tel:"+item.phone} style={{fontWeight: '300'}}> {item.phone} <br/></a>
+                                                            </div>
+                                                        )
+                                                    })}
+                                                </div>
+                                            </Col>
+                                            <Col md={6} style={{paddingLeft: '20px'}}>
+                                                <div className="inquiries-style">
+                                                    {t('import_verif')}
+                                                </div>
+                                                <div>
+                                                    {data.import_verif_contact.map((item) => {
+                                                        return(
+                                                            <div>
+                                                                <p className='detail-contact'>{item.name}</p>
+                                                                <i class="fas fa-envelope" style={{color: 'black', marginRight: '10px'}}/> <a href={"mailto:"+item.email} style={{fontWeight: '300'}}>{item.email}<br/></a>
+                                                                <i class="fas fa-phone-alt" style={{color: 'black', marginRight: '10px'}}/> <a href={"tel:"+item.phone} style={{fontWeight: '300'}}> {item.phone} <br/></a>
+                                                            </div>
+                                                        )
+                                                    })}
+                                                </div>
+                                            </Col>
+                                        </Row>
+                                    </div>
+                                </Col>
+                            </Col>
+                        </Col>
+                        <Col>
+                            <Col style={{paddingLeft: '0'}}>
+                                <div className="hq">
+                                    {t('overseas_hq')}
+                                </div>
+                            </Col>
+                            <Col className="col-style">
+                                {
+                                    data.our_offices.map((item) => {
+                                        return (
+                                            <>
+                                                <div>
+                                                    <div className="location-office">{item.location}</div>
+                                                </div>
+                                                <div>
+                                                    <div className="address-branch-overseas">
+                                                        {item.address}<br/>
+                                                        {item.detail}<br/>
+                                                        {
+                                                            item.detail2 == "" ? <div/> : <>{item.detail2}<br/></>
+                                                        }
+                                                        <div className='detail-contact-overseas'>
+                                                            <i class="fas fa-envelope office" style={{color: 'black', marginRight: '10px'}}/> <a href={"mailto:"+item.email}>{item.email}<br/></a>
+                                                            {
+                                                                item.phone == "" ? <div/> : 
+                                                                <>
+                                                                    <i class="fas fa-phone-alt" style={{color: 'black', marginRight: '10px'}}/> <a href={"tel:"+item.phone}> {item.phone} <br/></a>
+                                                                </>
+                                                            }
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </>
+                                        )
+                                    })
+                                }
+                            </Col>
+                        </Col>
+                    </Row>
+                    {/* <Row md={3} className="list-office">
                         {data.our_offices.map(item => {
                             return (
                                 <Col style={{paddingLeft: '0', paddingBottom: '40px'}}>
@@ -36,7 +137,7 @@ function Offices() {
                                 </Col>
                             )
                         })}
-                    </Row>
+                    </Row> */}
                 </div>
             </div>
         </>

@@ -139,7 +139,7 @@ function Branch() {
                     <Col md={12}>
                         <Row className="border-title-branch" />
                         <Row className="title-branch">
-                            <h1 style={{textAlign: "left"}}>{t('branch_office')}</h1>
+                            <h1>{t('branch_office')}</h1>
                         </Row>
                         <Row>
                             <p className="text-description">

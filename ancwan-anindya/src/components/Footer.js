@@ -24,7 +24,7 @@ function Footer() {
 
     return (
         <>
-            <footer style={{backgroundColor: "white"}}>
+            <footer style={{backgroundColor: "#0167af"}}>
                 <div className="footer--light">
                     {
                         mobile ? 
@@ -50,8 +50,8 @@ function Footer() {
                                 <p className="footer-widget-content-hq">
                                     Springhill Office Tower 17 th & 18th Floor
                                     <br/>Jl. H. Benyamin Suaeb Ruas D7  Block D6
-                                    <br/>Pademangan Timur Jakarta Utara
-                                    <br/>DKI Jakarta 14410
+                                    <br/>Pademangan Timur, Jakarta Utara
+                                    <br/>Jakarta 14410
                                 </p>
                                 <p className="footer-widget-content-hq"><i class="fas fa-phone-alt"/>    (+62 21) 2260 6207</p><br/>
                                 <p className="footer-widget-content-hq"><i class="fas fa-fax"/>    (+62 21) 2260 6236</p><br/>
@@ -74,23 +74,23 @@ function Footer() {
                                         {t('desc_footer_bottom')}
                                     </p>
                                     <div className="hero-btns" style={{marginTop: '-10px'}}>
-                                        <ButtonVPTI className='btns' buttonStyle='btn--primary' buttonSize='btn--xsmall' pathn='https://drive.google.com/file/d/1KInr8egz9zBQ1SBJGlcXFw7brjUpzioN/preview'>
+                                        <ButtonVPTI className='btns' buttonStyle='btn--white' buttonSize='btn--xsmall' pathn='https://drive.google.com/file/d/1KInr8egz9zBQ1SBJGlcXFw7brjUpzioN/preview'>
                                             {t('company_profile')}
                                         </ButtonVPTI>
                                     </div>
                                 </Col>
                                 <Col>
                                     <p className="footer-widget-title">{t('hq')}</p>
-                                    <a className="footer-widget-content" href="https://www.google.com/maps/search/Springhill+Office+Tower+17th+and+18th+Floor+Jl.+H.+Benyamin+Suaeb+Ruas+D7+Block+D6+Pademangan+Timur+Jakarta+Utara+DKI+Jakarta+14410/@-6.1495136,106.8503369,17z" target="_blank">
+                                    <a className="footer-widget-misc" href="https://www.google.com/maps/search/Springhill+Office+Tower+17th+and+18th+Floor+Jl.+H.+Benyamin+Suaeb+Ruas+D7+Block+D6+Pademangan+Timur+Jakarta+Utara+DKI+Jakarta+14410/@-6.1495136,106.8503369,17z" target="_blank">
                                         Springhill Office Tower 17th & 18th Floor
                                         <br/>Jl. H. Benyamin Suaeb Ruas D7  Block D6
-                                        <br/>Pademangan Timur Jakarta Utara
-                                        <br/>DKI Jakarta 14410
+                                        <br/>Pademangan Timur, Jakarta Utara
+                                        <br/>Jakarta 14410
                                     </a>
                                     <p/>
-                                    <i class="fas fa-phone-alt"/><a className="footer-widget-content" href="tel:(+6221)22606207">    (+62 21) 2260 6207</a><p/>
-                                    <p className="footer-widget-content"><i class="fas fa-fax"/>    (+62 21) 2260 6236</p>
-                                    <i class="fas fa-envelope"/><a className="footer-widget-content" href="mailto:marketing@anindya.biz">    marketing@anindya.biz</a>
+                                    <i class="fas fa-phone-alt"/><a className="footer-widget-misc" href="tel:(+6221)22606207">    (+62 21) 2260 6207</a><br/><br/>
+                                    <i class="fas fa-fax"/><a className="footer-widget-misc">    (+62 21) 2260 6236</a><br/><br/>
+                                    <i class="fas fa-envelope"/><a className="footer-widget-misc" href="mailto:marketing@anindya.biz">    marketing@anindya.biz</a>
                                 </Col>
                             </Row>
                             <Row className="row-footer">
