@@ -1231,12 +1231,13 @@ let data = {
                     "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
                         "Country of origin and port of loading;",
-                        "Description of goods and Tariff Post / HS Code;",
-                        "Product Certification Number Using National Standard Mark (SPPT SNI), for certain required products;",
+                        "Description of goods and Tariff Post / HS;",
+                        "Product Certification Number Using National Standard Mark (SPPT SNI), for certain products;",
                         "Goods Registration Number (NPB);",
                         "Certificate of Analysis (COA), for certain required products;",
                         "Shipping time",
-                        "Destination port; and",
+                        "Destination port;",
+                        "SKI BPOM, NIE; and",
                         "Other provisions required by laws and regulations."
                     ]
                 }
