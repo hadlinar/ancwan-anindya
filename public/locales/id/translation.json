@@ -217,7 +217,7 @@
 
 
 
-    "our_service": "Memberikan jasa pengawasan kualitas dan kuantitas untuk industri batu bara dan mineral, sektor minyak dan gas, serta survei kapal laut",
+    "our_service": "Memberikan pelayanan pengawasan kualitas dan kuantitas untuk industri batubara dan mineral, sektor minyak dan gas bumi, survei kelautan, serta Verifikasi Penelusuran Teknis Impor untuk keperluan pemerintah.",
     "service_val": [
         {
             "name": "VPTI",
@@ -728,7 +728,7 @@
                         "Uraian barang dan pos tarif / HS;",
                         "Nomor Sertifikasi Produk Penggunaan Tanda SNI (SPPT SNI), untuk Produk tertentu yang SNI-nya diberlakukan secara wajib;",
                         "Nomor Pendaftaran Barang (NPB);",
-                        "Waktu pengapalan; dan",
+                        "Waktu pengiriman; dan",
                         "Pelabuhan Tujuan."
                     ]
                 }
@@ -812,7 +812,7 @@
                         "Pos Tarif atau nomor HS dan uraian;",
                         "Jenis dan jumlah;",
                         "Tipe dan ukuran;",
-                        "Waktu pengapalan;",
+                        "Waktu pengiriman;",
                         "Pelabuhan tujuan; dan",
                         "Kesesuaian Sertifikat Produk Penggunaan Tanda Standar Nasional Indonesia (SPPT SNI) Ban dengan dokumen asal barang."
                     ]
@@ -1155,7 +1155,7 @@
                         "Nomor Pendaftaran Barang (NPB);",
                         "Petunjuk Penggunaan (manual) dan kartu jaminan / garansi purna jual dalam Bahasa Indonesia, untuk Produk Tertentu yang dipersyaratkan;",
                         "Sertifikasi Alat dan Perangkat Telekomunikasi (POSTEL), untuk Produk Tertentu yang dipersyaratkan;",
-                        "Waktu pengapalan; dan",
+                        "Waktu pengiriman; dan",
                         "Pelabuhan Tujuan."
                     ]
                 }
@@ -1235,7 +1235,7 @@
                         "Negara dan pelabuhan asal muat;",
                         "Uraian produk & Pos Tarif / HS;",
                         "Jenis & volume;",
-                        "Waktu pengapalan;",
+                        "Waktu pengiriman;",
                         "Pelabuhan tujuan;",
                         "Pencantuman logo tara pangan dan kode daur ulang kemasan;",
                         "Sertifikat kesehatan;",
@@ -1319,7 +1319,7 @@
                         "Uraian dan spesifikasi barang yang mencakup nomor pos tarif/ HS;",
                         "Jumlah (volume) serta berat bersih (netto) per jenis barang;",
                         "Data atau keterangan mengenai negara asal barang; dan",
-                        "Waktu pengapalan."
+                        "Waktu pengiriman."
                     ]
                 }
             ],
@@ -1391,8 +1391,9 @@
                         "Nomor Sertifikasi Produk Penggunaan Tanda SNI (SPPT SNI), untuk Produk tertentu yang SNI-nya diberlakukan secara wajib;",
                         "Nomor Pendaftaran Barang (NPB);",
                         "Certificate of Analysis (COA), untuk Produk Tertentu yang dipersyaratkan;",
-                        "Waktu pengapalan;",
-                        "Pelabuhan Tujuan; dan",
+                        "Waktu pengiriman;",
+                        "Pelabuhan Tujuan;",
+                        "SKI BPOM, NIE; dan",
                         "Ketentuan lain yang dipersyaratkan dalam peraturan perundang-undangan."
                     ]
                 }
@@ -1406,7 +1407,15 @@
                     "telp": "+62 821-2151-5104"
                 }
             ],
-            "clients": []
+            "clients": [
+                "BBW",
+                "oriflame",
+                "JUST MISS",
+                "the body shop",
+                "Shiseido",
+                "sociolla",
+                "victoria secret"
+            ]
         },
         {
             "tab_title": "MAINAN ANAK",
@@ -1485,7 +1494,7 @@
                         "Nomor Sertifikasi Produk Penggunaan Tanda SNI (SPPT SNI), untuk Produk tertentu yang SNI-nya diberlakukan secara wajib;",
                         "Nomor Pendaftaran Barang (NPB);",
                         "Petunjuk Penggunaan (manual) dan kartu jaminan / garansi purna jual dalam Bahasa Indonesia, untuk Produk Tertentu yang dipersyaratkan;",
-                        "Waktu pengapalan; dan",
+                        "Waktu pengiriman; dan",
                         "Pelabuhan Tujuan."
                     ]
                 }
@@ -1588,7 +1597,7 @@
                         "Nomor Sertifikasi Produk Penggunaan Tanda SNI (SPPT SNI), untuk Produk tertentu yang SNI-nya diberlakukan secara wajib;",
                         "Nomor Pendaftaran Barang (NPB);",
                         "Certificate of Analysis (COA), untuk Produk Tertentu yang dipersyaratkan;",
-                        "Waktu pengapalan; dan",
+                        "Waktu pengiriman; dan",
                         "Pelabuhan Tujuan."
                     ]
                 }
@@ -1664,7 +1673,7 @@
                         "Uraian barang dan pos tarif / HS;",
                         "Jenis, jumlah, dan spesifikasi barang;",
                         "Tipe barang;",
-                        "Waktu pengapalan; dan",
+                        "Waktu pengiriman; dan",
                         "Pelabuhan Tujuan."
                     ]
                 }
@@ -1767,7 +1776,7 @@
                         "Nomor Sertifikasi Produk Penggunaan Tanda SNI (SPPT SNI), untuk Produk tertentu yang SNI-nya diberlakukan secara wajib;",
                         "Nomor Pendaftaran Barang (NPB);",
                         "Certificate of Analysis (COA), untuk Produk Tertentu yang dipersyaratkan;",
-                        "Waktu pengapalan; dan",
+                        "Waktu pengiriman; dan",
                         "Pelabuhan Tujuan."
                     ]
                 }
@@ -1916,7 +1925,7 @@
                         "Informasi jenis barang;",
                         "Nomor Sertifikasi Produk Penggunaan Tanda SNI, untuk produk Sepeda Roda Dua dan Roda Tiga yang SNI-nya diberlakukan secara wajib;",
                         "Nomor Pendaftaran barang;",
-                        "Waktu pengapalan; dan",
+                        "Waktu pengiriman; dan",
                         "Pelabuhan Tujuan."
                     ]
                 }

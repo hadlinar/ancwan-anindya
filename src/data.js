@@ -1193,7 +1193,7 @@ let data = {
             ]
         },
         {
-            "tab_title": "COSMETICS AND HOUSEHOLD HEALTH SUPPLEMENTS",
+            "tab_title": "COSMETICS AND HOUSEHOLD GOODS",
             "pic": "kosmetik",
             "dasar_hukum": [
                 {
@@ -1250,7 +1250,15 @@ let data = {
                     "telp": "+62 821-2151-5104"
                 }
             ],
-            "clients": []
+            "clients": [
+                "BBW",
+                "oriflame",
+                "JUST MISS",
+                "the body shop",
+                "Shiseido",
+                "sociolla",
+                "victoria secret"
+            ]
         },
         {
             "tab_title": "CHILDREN'S TOYS",

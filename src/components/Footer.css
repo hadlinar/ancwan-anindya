@@ -66,23 +66,34 @@
     .footer-widget-title-hq {
         font-size: 16px;
         font-weight: 600;
+        color: white
     }
 
     .footer-widget-content {
         font-size: 14px;
         font-weight: 300;
-        color: black;
+        /* color: black; */
     }
     
     .footer-widget-content-hq {
         font-size: 14px;
         font-weight: 300;
-        color: black;
+        color: white;
         text-align: left;
         width: 100%;
+        padding-top: 0;
     }
     
-    a {
-        color: black;
+    .footer-widget-hq-contact {
+        /* padding-top: 10px; */
+        text-align: left;
+        /* margin-bottom: 0; */
+        color: white;
+        font-size: 14px;
+        font-weight: 300;
+    }
+
+    .copywrite {
+        margin-top: 30px;
     }
 }
