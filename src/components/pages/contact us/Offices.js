@@ -46,9 +46,9 @@ function Offices() {
                                                     {data.coal_n_mines_contact.map((item) => {
                                                         return(
                                                             <div>
-                                                                <p className='detail-contact'>{item.name}</p>
-                                                                <i class="fas fa-envelope" style={{color: 'black', marginRight: '10px'}}/> <a href={"mailto:"+item.email} style={{fontWeight: '300'}}>{item.email}<br/></a>
-                                                                <i class="fas fa-phone-alt" style={{color: 'black', marginRight: '10px'}}/> <a href={"tel:"+item.phone} style={{fontWeight: '300'}}> {item.phone} <br/></a>
+                                                                <p className='detail-contact' style={{fontSize: '14px'}}>{item.name}</p>
+                                                                <i class="fas fa-envelope" style={{color: 'black', marginRight: '10px'}}/> <a href={"mailto:"+item.email} style={{fontWeight: '300', fontSize: '14px'}}>{item.email}<br/></a>
+                                                                <i class="fas fa-phone-alt" style={{color: 'black', marginRight: '10px'}}/> <a href={"tel:"+item.phone} style={{fontWeight: '300', fontSize: '14px'}}> {item.phone} <br/></a>
                                                             </div>
                                                         )
                                                     })}
@@ -62,9 +62,9 @@ function Offices() {
                                                     {data.import_verif_contact.map((item) => {
                                                         return(
                                                             <div>
-                                                                <p className='detail-contact'>{item.name}</p>
-                                                                <i class="fas fa-envelope" style={{color: 'black', marginRight: '10px'}}/> <a href={"mailto:"+item.email} style={{fontWeight: '300'}}>{item.email}<br/></a>
-                                                                <i class="fas fa-phone-alt" style={{color: 'black', marginRight: '10px'}}/> <a href={"tel:"+item.phone} style={{fontWeight: '300'}}> {item.phone} <br/></a>
+                                                                <p className='detail-contact' style={{fontSize: '14px'}}>{item.name}</p>
+                                                                <i class="fas fa-envelope" style={{color: 'black', marginRight: '10px'}}/> <a href={"mailto:"+item.email} style={{fontWeight: '300', fontSize: '14px'}}>{item.email}<br/></a>
+                                                                <i class="fas fa-phone-alt" style={{color: 'black', marginRight: '10px'}}/> <a href={"tel:"+item.phone} style={{fontWeight: '300', fontSize: '14px'}}> {item.phone} <br/></a>
                                                             </div>
                                                         )
                                                     })}

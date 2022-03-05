@@ -40,7 +40,7 @@ function Footer() {
                                     {t('desc_footer_bottom')}
                                 </p>
                                 <div className="hero-btns" style={{marginTop: '-10px', marginBottom: '20px'}}>
-                                    <ButtonVPTI className='btns' buttonStyle='btn--primary' buttonSize='btn--xsmall' pathn='https://drive.google.com/file/d/1KInr8egz9zBQ1SBJGlcXFw7brjUpzioN/preview'>
+                                    <ButtonVPTI className='btns' buttonStyle='btn--white' buttonSize='btn--xsmall' pathn='https://drive.google.com/file/d/1KInr8egz9zBQ1SBJGlcXFw7brjUpzioN/preview'>
                                         {t('company_profile')}
                                     </ButtonVPTI>
                                 </div>
@@ -53,9 +53,11 @@ function Footer() {
                                     <br/>Pademangan Timur, Jakarta Utara
                                     <br/>Jakarta 14410
                                 </p>
-                                <p className="footer-widget-content-hq"><i class="fas fa-phone-alt"/>    (+62 21) 2260 6207</p><br/>
-                                <p className="footer-widget-content-hq"><i class="fas fa-fax"/>    (+62 21) 2260 6236</p><br/>
-                                <p className="footer-widget-content-hq" ><i class="fas fa-envelope"/><a href="mailto:marketing@anindya.biz">    marketing@anindya.biz</a></p>
+                                <div className='footer-widget-hq-contact'>
+                                    <i class="fas fa-phone-alt"/><a href="tel:(+6221)22606207" style={{color: 'white', paddingTop: '0px', paddingLeft: '10px'}}>    (+62 21) 2260 6207</a><br/><br/>
+                                    <i class="fas fa-fax"/><a style={{color: 'white', paddingTop: '0px', paddingLeft: '10px'}}>    (+62 21) 2260 6236</a><br/><br/>
+                                    <i class="fas fa-envelope"/><a href="mailto:marketing@anindya.biz" style={{color: 'white', paddingTop: '0px', paddingLeft: '10px'}}>    marketing@anindya.biz</a>
+                                </div>
                             </Row>
                             <Row>
                                 <p className="copywrite">© 2021 ANINDYA. All Rights Reserved.</p>

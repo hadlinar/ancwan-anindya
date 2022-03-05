@@ -56,25 +56,27 @@ p {
         border-top: 4px solid #3A7AE3;
         width: 60px;
         position: absolute;
-        left: 3%;
+        left: 49.4%;
     }
     
-    .col-title-about {
-        padding-top: 28px;
+    .col-title-about > h1 {
+        padding-top: 25px;
         letter-spacing: 1px;
         left: 1%;
+        text-align: left;
+        margin: auto;
     }
 
     .col-desc-about {
         letter-spacing: 1px;
         padding-top: 8px;
         font-size: 16px;
-        padding-left: 0px;
     }
 
     .col-val {
-        padding-left: 20px;
-        margin-top: -10px;
+        /* padding-left: 20px;
+        margin-top: -10px; */
+        margin: auto;
     }
 
     .values {

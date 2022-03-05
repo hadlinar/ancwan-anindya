@@ -33,7 +33,7 @@ function About() {
                 <Row>
                     {
                         mobile ? 
-                        <Col md={12}>
+                        <Col md={12} style={{margin: 'auto'}}>
                             <Row className="border-title" />
                             <Row className="col-title-about">
                                 <h1>{t('about_anindya')}</h1>

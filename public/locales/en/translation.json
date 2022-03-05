@@ -1335,7 +1335,7 @@
             ]
         },
         {
-            "tab_title": "COSMETICS AND HOUSEHOLD HEALTH SUPPLEMENTS",
+            "tab_title": "COSMETICS AND HOUSEHOLD GOODS",
             "pic": "kosmetik",
             "dasar_hukum": [
                 {
@@ -1347,7 +1347,7 @@
                             "rev": []
                         },
                         {
-                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 16 of the Year 2021 concerning Verification or Technical Tracing in the Field of Foreign Trade",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 16 of the Year 2021 concerning Verification or Technical Investigation in the Foreign Trade Sector",
                             "url": "http://jdih.kemendag.go.id/peraturan/stream/2169/2",
                             "rev": []
                         }
@@ -1356,7 +1356,7 @@
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Cosmetics and Household Health Supplements",
+                    "title": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of 2019 concerning the Delegation of Surveyors to Execute Verification or Technical Investigation of the Import of Certain Products.",
                     "permendag": [],
                     "kepmendag": [
                         {
@@ -1373,12 +1373,13 @@
                     "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
                     "val": [
                         "Country of origin and port of loading;",
-                        "Description of goods and Tariff Post / HS Code;",
-                        "Product Certification Number Using National Standard Mark (SPPT SNI), for certain required products;",
+                        "Description of goods and Tariff Post / HS;",
+                        "Product Certification Number Using National Standard Mark (SPPT SNI), for certain products;",
                         "Goods Registration Number (NPB);",
                         "Certificate of Analysis (COA), for certain required products;",
                         "Shipping time",
-                        "Destination port; and",
+                        "Destination port;",
+                        "SKI BPOM, NIE; and",
                         "Other provisions required by laws and regulations."
                     ]
                 }
@@ -1392,7 +1393,15 @@
                     "telp": "+62 821-2151-5104"
                 }
             ],
-            "clients": []
+            "clients": [
+                "BBW",
+                "oriflame",
+                "JUST MISS",
+                "the body shop",
+                "Shiseido",
+                "sociolla",
+                "victoria secret"
+            ]
         },
         {
             "tab_title": "CHILDREN'S TOYS",
@@ -2003,7 +2012,7 @@
     ],
 
 
-    "our_company": "One stop authorized mining-related trading certification & verification services",
+    "our_company": "Jasa layanan survei sertifikasi & verifikasi perdagangan terkait sektor tambang dalam satu pintu",
     "about_our_company": "About Our Company",
     "branches": "Office & Laboratory",
     "licenses_tab": "Licenses & Certification",
