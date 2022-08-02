@@ -1,0 +1,17 @@
+.content-compliance {
+    text-align: left;
+    padding: 0 0 5px 0;
+}
+
+.content-compliance .clickable{
+    color: #3A7AE3;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.content-compliance .click-email{
+    color: #3A7AE3;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 0;
+}

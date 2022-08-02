@@ -1,15 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Link } from 'react-router-dom'
 import data from '../data'
 
-const Nav = styled.div`
-    background: pink;
-    height: 80px;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-`
 const SidebarNav = styled.div`
     background: yellow;
     width: 357px;

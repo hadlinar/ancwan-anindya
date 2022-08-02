@@ -94,12 +94,12 @@ function Offices() {
                                                         {item.address}<br/>
                                                         {item.detail}<br/>
                                                         {
-                                                            item.detail2 == "" ? <div/> : <>{item.detail2}<br/></>
+                                                            item.detail2 === "" ? <div/> : <>{item.detail2}<br/></>
                                                         }
                                                         <div className='detail-contact-overseas'>
                                                             <i class="fas fa-envelope office" style={{color: 'black', marginRight: '10px'}}/> <a href={"mailto:"+item.email}>{item.email}<br/></a>
                                                             {
-                                                                item.phone == "" ? <div/> : 
+                                                                item.phone === "" ? <div/> : 
                                                                 <>
                                                                     <i class="fas fa-phone-alt" style={{color: 'black', marginRight: '10px'}}/> <a href={"tel:"+item.phone}> {item.phone} <br/></a>
                                                                 </>
