@@ -26,7 +26,7 @@ function Compliance() {
             {
                 mobile ? 
                     <div className='container-about'>
-                        <div>
+                        <div style={{padding: '10px 0 0 0'}}>
                                 {t('compliance_iso')}
                             </div>
                             <div>
@@ -44,18 +44,20 @@ function Compliance() {
                     </div>
                 :   
                 <>
-                    <Row>
-                        <Col sm={4}>
+                    <div>
+                        {/* <Col sm={4}>
                             <img className="footer-logo" src={require(`../../../images/bribery.png`).default} alt="anti bribery" style={{marginBottom: '20px'}}/>
                             <img className="footer-logo" src={require(`../../../images/iso37001.png`).default} alt="iso 37001"/>
                         </Col>
-                        <Col sm={8}>
+                        <Col sm={8}> */}
                             <p className='content-compliance'>
                                 {t('compliance_iso')}
                             </p>
-                            <p className='content-compliance'>
-                                <a href={'https://drive.google.com/file/d/1Y1yhEsbds7TBdfzubXL7Gl7Hy3zJxzXs/view'} target='_blank' className='clickable'>{t('compliance_policy')}</a>
-                            </p>
+                            <div>
+                                <p style={{textAlign: "left", padding: "0 0 10px 0", }}>
+                                    <a href={'https://drive.google.com/file/d/1Y1yhEsbds7TBdfzubXL7Gl7Hy3zJxzXs/view'} target='_blank' className='clickable'>{t('compliance_policy')}</a>
+                                </p>
+                            </div>
                             <p className='content-compliance'>
                                 {t('compliance_1')}
                             </p>
@@ -65,8 +67,8 @@ function Compliance() {
                             <p className='content-compliance'>
                                 {t('compliance_thanks')}
                             </p>
-                        </Col>
-                    </Row>
+                        {/* </Col> */}
+                    </div>
                 </>
             }
         </>
