@@ -6,6 +6,7 @@ import Branch from './Branch'
 import Licenses from './Licenses'
 import Navigation2 from '../../NavbarLayout2'
 import { useTranslation } from "react-i18next"
+import Compliance from './Compliance'
 
 function OurCompany() {
     const { t } = useTranslation()
@@ -24,6 +25,10 @@ function OurCompany() {
         {
             "component": <Licenses />,
             "index": "2"
+        },
+        {
+            "component": <Compliance />,
+            "index": "3"
         }
     ]
 
@@ -64,6 +69,7 @@ function OurCompany() {
                                 <option value={0}>{t('about_our_company')}</option> 
                                 <option value={1}>{t('branches')}</option> 
                                 <option value={2}>{t('licenses_tab')}</option> 
+                                <option value={3}>{t('compliance_tab')}</option> 
                                 </select>
                                     {d.component}
                             </div>
@@ -83,6 +89,11 @@ function OurCompany() {
                             <Tab eventKey={3} title={t('licenses_tab')} >
                                 <div>
                                     <Licenses />
+                                </div>
+                            </Tab>
+                            <Tab eventKey={4} title={t('compliance_tab')} >
+                                <div>
+                                    <Compliance />
                                 </div>
                             </Tab>
                         </Tabs>

@@ -3,7 +3,6 @@ import data from '../../../data'
 import './Import.css'
 import { Row, Col, Tab, Nav } from 'react-bootstrap'
 import { useTranslation } from "react-i18next"
-import Sidebar from '../../Sidebar'
 
 function Import() {
     const { t } = useTranslation()

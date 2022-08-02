@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import './Certification.css'
 import { Container, Row, Col } from 'react-bootstrap'
-import data from '../../../data'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
 import { useTranslation } from "react-i18next";

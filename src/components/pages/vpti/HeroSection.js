@@ -4,7 +4,6 @@ import { ButtonVPTI } from '../../Button'
 import './HeroSection.css'
 import { useTranslation } from "react-i18next"
 import vid from '../../../videos/vpti-hero.mp4'
-import bg from '../../../images/hero-banner-vpti.jpeg'
 
 function HeroSectionVpti() {
     const { t } = useTranslation()

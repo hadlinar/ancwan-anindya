@@ -2012,7 +2012,7 @@
     ],
 
 
-    "our_company": "Jasa layanan survei sertifikasi & verifikasi perdagangan terkait sektor tambang dalam satu pintu",
+    "our_company": "One stop authorized mining-related trading certification & verification services",
     "about_our_company": "About Our Company",
     "branches": "Office & Laboratory",
     "licenses_tab": "Licenses & Certification",
@@ -2341,5 +2341,14 @@
     "desc_footer_top": "An independent surveying company, providing quality and quantity superintending service for coal and minerals industry, the oil and gas sector as well as marine surveys.",
     "desc_footer_bottom": "Received permission from the Directorate General of Foreign Trade, Ministry of Trade of the Republic of Indonesia to verify imported products.",
     "hq": "Our HQ",
-    "company_profile": "Download Company Profile"
+    "company_profile": "Download Company Profile",
+
+    "compliance_tab": "Compliance",
+    "compliance_iso": "ANINDYA is in compliance with anti bribery Policy by obtaining Anti Bribery Management System refer to ISO 37001:2016.",
+    "compliance_policy": "Anti Bribery Policy.pdf",
+    "compliance_1": "In an effort to improve the effectiveness of Anti-Bribery Strategy , as well as maintaining the trust and reputation of the company for all stakeholders (employees, customers, partners, etc), ANINDYA provides a communication tool for both internal and external parties to report violation acts done by ANINDYA internal employees through the whistleblowing system.",
+    "compliance_2": "ANINDYA guarantees confidentiality of the identity of the whistleblower in order to allow them to feel secure while filing the alleged wrongdoings. Reports submitted must be related to Bribery or violation of laws, code of conduct, and conflict of interests. Whistleblowers must provide their identity, including name (anonymous allowed), and active phone number/email. Reports must at least explain what happened (what), the parties involved (who), time of the incident (when), place of the incident (where), and how did it happen (how). We expect that the reports you submit are not of personal complaints or bad faith/defamation. You can be a whistleblower for ANINDYA at anytime and anywhere. Submit your WBS report through e-Form ",
+    "compliance_click": "click here",
+    "compliance_2_cont": " or sent to wbs@anindya.biz.",
+    "compliance_thanks": "Thank you for your concern and trust in us."
 }
