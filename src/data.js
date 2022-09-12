@@ -491,8 +491,13 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
@@ -534,7 +539,7 @@ let data = {
                         },
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
-                            "url": "https://drive.google.com/file/d/1qqnL8WYoyVPtkqNbOvjHVhw0wdPgdo3k/preview",
+                            "url": "https://drive.google.com/file/d/1Yr3SltRGlXUBDkBnmTZr2FXXynUXZQXM/preview",
                             "rev": [
                                 {
                                     "text": "Regulation of the Minister of Trade (PERMENDAG) Number 78 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
@@ -610,24 +615,29 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 77/M-DAG/PER/11/2016 concerning Provisions for the Import of Tires.",
-                            "url": "https://drive.google.com/file/d/1ShZAPLUSq5f129wuDEE_rGbBupEZU07Q/preview",
+                            "url": "https://drive.google.com/file/d/1MFJHiu6pYwxOaawIZKC4Kz9fYhioTfa_/preview",
                             "rev": [
                                 {
                                     "text": "Regulation of the Minister of Trade (PERMENDAG) Number 05 of the Year 2019 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 77/M-DAG/PER/11/2016 concerning Provisions for the Import of Tires;",
-                                    "url": "https://drive.google.com/file/d/1Ze6lWsYbUS8nI-vbg1qM0Ewtg1cQNyiV/preview"
+                                    "url": "https://drive.google.com/file/d/1dXJBlFcyt96jYKRy2ovU7MKerZ8fht51/preview"
                                 },
                                 {
                                     "text": "Regulation of the Minister of Trade (Permendag) Number 117 of the Year 2018 concerning the Second Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 77/M-DAG/PER/11/2016 concerning Provisions for the Import of Tires;",
-                                    "url": "https://drive.google.com/file/d/1xLMoMFoiS7c0cSk4gcgPuwm0ttLfHYbp/preview"
+                                    "url": "https://drive.google.com/file/d/1Q05WH85bz7-2C8U9wbsjBN2_epgS2t-J/preview"
                                 },
                                 {
                                     "text": "Regulation of the Minister of Trade (PERMENDAG) Number 06 of the Year 2018 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 77/M-DAG/PER/11/2016 concerning Provisions for the Import of Tires;",
-                                    "url": "https://drive.google.com/file/d/1GClfdM-wM7CCrqSf4Zc96BjhGYQRx0fw/preview"
+                                    "url": "https://drive.google.com/file/d/1WvDrdCEnFubRDEuk4HXwltYgpjmyzUk2/preview"
                                 }
                             ]
                         }
@@ -697,26 +707,31 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 84/M-DAG/PER/10/2015 concerning Provisions on Import of Cooling System Based Goods.",
-                            "url": "https://drive.google.com/file/d/1VJgJX5OiQjrw06vV5ucybkf8b25YLY0j/preview",
+                            "url": "https://drive.google.com/file/d/1yToXFoC5SvldCUoKlUShxyFbOovoGAwJ/preview",
                             "rev": [
                                 {
                                     "text": "Regulation of the Minister of Trade (PERMENDAG) Number 18 of the Year 2018 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 84/M-DAG/PER/10/2015 concerning Provisions on Import of Cooling System Based Goods;",
-                                    "url": "https://drive.google.com/file/d/1cZh1EQOnBpZjopZ9qft_kgVt-_YppWAV/preview"
+                                    "url": "https://drive.google.com/file/d/1NYnasaTngPeU2DOZtLKFCo0rqRYEhdB7/preview"
                                 },
                                 {
                                     "text": "Regulation of the Minister of Trade (PERMENDAG) Number 40 of the Year 2016 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 84/M-DAG/PER/10/2015 concerning Provisions on Import of Cooling System Based Goods.",
-                                    "url": "https://drive.google.com/file/d/1SQGtjq3FTWUrMZ7nmMWkcrkkzmES6LHW/preview"
+                                    "url": "https://drive.google.com/file/d/1rie_I05XGbkVu6OJplaqjoEQ35zwT_Om/preview"
                                 }
                             ]
                         },
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
-                            "url": "https://drive.google.com/file/d/1qqnL8WYoyVPtkqNbOvjHVhw0wdPgdo3k/preview",
+                            "url": "https://drive.google.com/file/d/1Yr3SltRGlXUBDkBnmTZr2FXXynUXZQXM/preview",
                             "rev": [
                                 {
                                     "text": "Regulation of the Minister of Trade (PERMENDAG) Number 78 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
@@ -789,16 +804,21 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 118 of 2018 concerning Provisions on the Import of Second Hand Capital Goods.",
-                            "url": "https://drive.google.com/file/d/10Q001ky7mbDXotDkBtYtyviyhKb5aoWW/preview",
+                            "url": "https://drive.google.com/file/d/1i2k8ZDE0LM6VrHLUVvRRRlo_ZT-NYPOZ/preview",
                             "rev": [
                                 {
                                     "text": "Regulation of the Minister of Trade (Permendag) Number 76 of 2019 concerning Amendments to Regulation of the Minister of Trade Number 118 of 2018 concerning Provisions on the Import of Capital Goods in Non-New Conditions.",
-                                    "url": "https://drive.google.com/file/d/1b1v2gs8fY5cKkxwHmGqkSFOBbF6EasUw/preview"
+                                    "url": "https://drive.google.com/file/d/1-kC4DQA5yDfM9QxKz-v9f4pMSx2t_4lA/preview"
                                 }
                             ]
                         }
@@ -857,16 +877,21 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 110 of the Year 2018 concerning Provisions for the Import of Steel Iron, Steel Alloy, & Steel Derivatives.",
-                            "url": "https://drive.google.com/file/d/11Lpjv_3Ch2tSij7kjaIly510d1ijshLX/preview",
+                            "url": "https://drive.google.com/file/d/1RxhrqMH_Li3wBMArHatEm7M8XXECWB2J/preview",
                             "rev": [
                                 {
                                     "text": "Regulation of the Minister of Trade (PERMENDAG) Number 03 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 110 of the Year 2018 concerning Provisions on the Import of Steel Iron, Steel Alloy, and Steel Derivative Products.",
-                                    "url": "https://drive.google.com/file/d/1QSmCyZ6cV4ptLCxNuEigvhECdS_wdsYY/preview"
+                                    "url": "https://drive.google.com/file/d/1EsST9do-O-tYnxH-vEH8uXpLlBfc6RxA/preview"
                                 }
                             ]
                         }
@@ -930,8 +955,13 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
@@ -1041,16 +1071,21 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Regulation of the Minister of Trade of the Republic of Indonesia Number 44 of the Year 2019 concerning Provisions for the Import of Horticultural Products.",
-                            "url": "https://drive.google.com/file/d/1SEAiybeBxGkVi-920jaepGS_99UowBGF/preview",
+                            "url": "https://drive.google.com/file/d/170gcu-NvCKThIxV5SNwgDegKE-jB09dL/preview",
                             "rev": [
                                 {
                                     "text": "Regulation of the Minister of Trade of the Republic of Indonesia Number 27 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade Number 44 of the Year 2019 concerning Provisions for the Import of Horticultural Products.",
-                                    "url": "https://drive.google.com/file/d/1yn5wqtS4gl_UBeyL-oMzMQToAm7xg6ZM/preview"
+                                    "url": "https://drive.google.com/file/d/1GMMxCyTyYlwK-CGogFtjCz-euFnqxpFM/preview"
                                 }
                             ]
                         }
@@ -1117,8 +1152,13 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Regulation of The Minister of Trade (PERMENDAG) Number 06/M-DAG/PER/1/2007 concerning Verification or Technical Investigation for the Import of Ceramic.",
@@ -1201,12 +1241,17 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
-                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 16 of the Year 2021 concerning Verification or Technical Tracing in the Field of Foreign Trade",
-                            "url": "http://jdih.kemendag.go.id/peraturan/stream/2169/2",
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 16 of the Year 2021 concerning Verification or Technical Investigation in the Foreign Trade Sector",
+                            "url": "https://drive.google.com/file/d/1uym_4R1K-cW25M_fJQmCkBhJa_5VEgt6/preview",
                             "rev": []
                         }
                     ]
@@ -1214,7 +1259,7 @@ let data = {
             ],
             "daftar_perubahan": [
                 {
-                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Cosmetics and Household Health Supplements",
+                    "title": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of 2019 concerning the Delegation of Surveyors to Execute Verification or Technical Investigation of the Import of Certain Products.",
                     "permendag": [],
                     "kepmendag": [
                         {
@@ -1270,8 +1315,13 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
@@ -1373,8 +1423,13 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
@@ -1449,7 +1504,7 @@ let data = {
             "catatan": [
                 {
                     "title": "Notes",
-                    "text": "Food and Beverage  of 231 Tariff Post Code required for VPTI."
+                    "text": "Food and Beverage consist of 231 Tariff Post Code required for VPTI."
                 }
             ],
             "kontak": [
@@ -1478,16 +1533,21 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 102/M-DAG/PER/12/2015 concerning Provisions for the Import of Color Multifunction Machine, Color Photocopy Machine, and Color Printer Machine.",
-                            "url": "https://drive.google.com/file/d/1GY4riqL5OrPs3xeUXI8yKNQvirT_EE5p/preview",
+                            "url": "https://drive.google.com/file/d/19u0jl9cx9ljfSH5AdlAnqb5gtb4J3WHW/preview",
                             "rev": [
                                 {
                                     "text": "Regulation of the Minister of Trade (PERMENDAG) Number 14 of the Year 2018 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 102/M-DAG/PER/12/2015 concerning Provisions on Import of Color Multifunction Machine, Color Photocopy Machine, and Color Printer Machine.",
-                                    "url": "https://drive.google.com/file/d/1S5PRjJfltdwFeiBnXkmNJTm8WNnhUx9e/preview"
+                                    "url": "https://drive.google.com/file/d/1Ef_x3xpD7Pyo7jl370sPGXhrEFkQruNL/preview"
                                 }
                             ]
                         }
@@ -1552,8 +1612,13 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
@@ -1643,115 +1708,6 @@ let data = {
                 "Herbalife"
             ]
         },
-        // {
-        //     "tab_title": "APPAREL",
-        //     "pic": "pakaian",
-        //     "dasar_hukum": [
-        //         {
-        //             "title": "Legal Basis",
-        //             "permendag": [
-        //                 {
-        //                     "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-        //                     "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-        //                     "rev": []
-        //                 },
-        //                 {
-        //                     "main": "Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
-        //                     "url": "https://drive.google.com/file/d/1GlLNdFwDHVvIlY-9CVj0HBvBj7N9F8VR/preview",
-        //                     "rev": [
-        //                         {
-        //                             "text": "Regulation of the Minister of Trade (PERMENDAG) Number 28 of the Year 2020 concerning the Eighth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
-        //                             "url": "https://drive.google.com/file/d/1JWCPymLibiK72u7tzyg3gN8llytWXMI0/preview"
-        //                         },
-        //                         {
-        //                             "text": "Regulation of the Minister of Trade (PERMENDAG) Number 24 of the Year 2019 concerning the Seventh Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
-        //                             "url": "https://drive.google.com/file/d/1Wa66lbZnpuBrmStAy-pf4pao3Dj-pADF/preview"
-        //                         },
-        //                         {
-        //                             "text": "Regulation of the Minister of Trade (PERMENDAG) Number 121 of the Year 2018 concerning the Sixth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
-        //                             "url": "https://drive.google.com/file/d/1PyaTiSPoFZrj1JRmGC43iI8In_pG_ZjM/preview"
-        //                         },
-        //                         {
-        //                             "text": "Regulation of the Minister of Trade (PERMENDAG) Number 42 of the Year 2018 concerning the Fifth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
-        //                             "url": "https://drive.google.com/file/d/1bQ-LTq8QaLEQry2D0DCOZ-30CGPsTa3N/preview"
-        //                         },
-        //                         {
-        //                             "text": "Regulation of the Minister of Trade (PERMENDAG) Number 12 of the Year 2018 concerning the Fourth Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
-        //                             "url": "https://drive.google.com/file/d/1LT5jW3R1CNXaES45UUiSD-TyoMbTAOGF/preview"
-        //                         },
-        //                         {
-        //                             "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94 of the Year 2017 concerning the Third Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
-        //                             "url": "https://drive.google.com/file/d/1HkEDhBMj6Lg7FppOR06J6uJctIQDo4NI/preview"
-        //                         },
-        //                         {
-        //                             "text": "Regulation of the Minister of Trade (PERMENDAG) Number 81 of the Year 2017 concerning the Second Amendment to the Regulation of the Minister of Trade (Permendag) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products;",
-        //                             "url": "https://drive.google.com/file/d/1rUBYQFKDKJHyvKXENybVbcYdl5feHDts/preview"
-        //                         },
-        //                         {
-        //                             "text": "Regulation of the Minister of Trade (PERMENDAG) Number 94/M-DAG/PER/10/2015 concerning Amendments to the Regulation of the Minister of Trade (PERMENDAG) Number 87/M-DAG/PER/10/2015 concerning Provisions for the Import of Certain Products.",
-        //                             "url": "https://drive.google.com/file/d/1rUvUxyVExAo9dzYgSOnAMhWy1EFiMjLn/preview"
-        //                         }
-        //                     ]
-        //                 },
-        //                 {
-        //                     "main": "Minister of Trade Regulation (PERMENDAG) Number 86/M-DAG/PER/10/2015 concerning Provisions on Import of Textiles and Batik Textile Products and Batik Pattern.",
-        //                     "url": "https://drive.google.com/file/d/1_7rcw1eXc992MBgvtkGRX7BTsVwgCaX7/preview",
-        //                     "rev": []
-        //                 }
-        //             ]
-        //         }
-        //     ],
-        //     "daftar_perubahan": [
-        //         {
-        //             "title": "Letter of Appointment PT Anindya Wiraputra Kosult for Apparel Products",
-        //             "permendag": [],
-        //             "kepmendag": [
-        //                 {
-        //                     "main": "Decree of the Minister of Trade (KEPMENDAG) Number 782 of the Year 2019 concerning Delegation of Surveyors to execute Verification or Technical Investigation for the Import of Certain Products.",
-        //                     "url": "https://drive.google.com/file/d/1s0qJqjcKlo08tiSX3QWJxOs5uHeO0l7e/preview",
-        //                     "rev": []
-        //                 }
-        //             ]
-        //         }
-        //     ],
-        //     "ruang_lingkup": [
-        //         {
-        //             "title": "Scope",
-        //             "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
-        //             "val": [
-        //                 "Country of origin and port of loading",
-        //                 "Description of goods and Tariff Post / HS number",
-        //                 "Product Certification Number for Using the SNI Mark (SPPT SNI), for certain Products that is deemed mandatory",
-        //                 "Goods Registration Number (NPB)",
-        //                 "Shipping time",
-        //                 "Destination port."
-        //             ]
-        //         }
-        //     ],
-        //     "catatan": [
-        //         {
-        //             "title": "Notes",
-        //             "text": "Apparel and Other Finished Textile Goods consist of 436 Tariff Post Code required for VPTI, there is also the Minister of Trade Regulation. Number 86 of the Year 2015 which regulates Batik Pattern."
-        //         }
-        //     ],
-        //     "kontak": [
-        //         {
-        //             "title": "Contact Us",
-        //             "nama": "Intan Rusli",
-        //             "email": "intan.rusli_lsi@anindya.biz",
-        //             "telp": "+62 813-1331-1168"
-        //         }
-        //     ],
-        //     "clients": [
-        //         "Chanel",
-        //         "Under Armour",
-        //         "Giordano",
-        //         "Hermes",
-        //         "Uniqlo",
-        //         "LV",
-        //         "Mothercare "
-        //     ]
-        // },
         {
             "tab_title": "PRECURSOR",
             "pic": "prekursor",
@@ -1761,16 +1717,21 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Decree of the Minister of Industry and the Minister of Trade (KEPMENPERINDAG) Number 647/MPP/KEP/10/2004 concerning Provisions on Import of Precursor.",
-                            "url": "https://drive.google.com/file/d/1ECm0v4rF7uEsLZN5uqyaFjtlSGS-oM4n/preview",
+                            "url": "https://drive.google.com/file/d/1Gx9a8pse4JsdvCDaa20BAFhmXBFFZjaF/preview",
                             "rev": [
                                 {
                                     "text": "Decree of the Minister of Industry and the Minister of Trade (KEPMENPERINDAG) Number 649/MPP/KEP/10/2004 concerning Provisions on Import of Precursor;",
-                                    "url": "https://drive.google.com/file/d/1vUc4BJqVrN9qnVkiCeJ6-GEVYOSnFlfV/preview"
+                                    "url": "https://drive.google.com/file/d/1IBi2ejhmA6alchhvTKdTTW6jjJM-z-Is/preview"
                                 },
                                 {
                                     "text": "Regulation of the Minister of Health of the Republic of Indonesia Number 26 of the Year 2014.",
@@ -1839,12 +1800,17 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
-                            "url": "https://drive.google.com/file/d/1qqnL8WYoyVPtkqNbOvjHVhw0wdPgdo3k/preview",
+                            "url": "https://drive.google.com/file/d/1Yr3SltRGlXUBDkBnmTZr2FXXynUXZQXM/preview",
                             "rev": [
                                 {
                                     "text": "Regulation of the Minister of Trade (PERMENDAG) Number 78 of the Year 2020 concerning Amendments to Regulation of the Minister of Trade (PERMENDAG) Number 68 of the Year 2020 concerning Provisions for the Import of Footwear, Electronics, and Two-Wheel and Three-Wheel Bikes.",
@@ -1916,8 +1882,13 @@ let data = {
                     "permendag": [
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
-                            "url": "https://drive.google.com/file/d/1l815zkFbbYKT1VNPGmKTLK9Wi_0Qeu-1/preview",
-                            "rev": []
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
                         },
                         {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 82/M-DAG/PER/12/2012 concerning Provisions for the Import of Cellular Phone, Handheld, and Computers Tablet.",
