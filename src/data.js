@@ -1293,11 +1293,6 @@ let data = {
                             "main": "Regulation of the Minister of Trade (PERMENDAG) Number 16 of the Year 2021",
                             "url": "https://drive.google.com/file/d/1uym_4R1K-cW25M_fJQmCkBhJa_5VEgt6/preview",
                             "rev": []
-                        },
-                        {
-                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 16 of the Year 2021 concerning Verification or Technical Investigation in the Foreign Trade Sector",
-                            "url": "https://drive.google.com/file/d/1uym_4R1K-cW25M_fJQmCkBhJa_5VEgt6/preview",
-                            "rev": []
                         }
                     ]
                 }
