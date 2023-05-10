@@ -950,9 +950,9 @@
             "kontak": [
                 {
                     "title": "Kontak Kami",
-                    "nama": "Dicky Muis",
-                    "email": "dicky.muis_lsi@anindya.biz",
-                    "telp": "+62 812-2297-0989"
+                    "nama": "Adhy Herlastadhy",
+                    "email": "adhy_lsi@anindya.biz",
+                    "telp": "+62 812-5954-8903"
                 }
             ],
             "clients": [
@@ -1229,9 +1229,9 @@
             "kontak": [
                 {
                     "title": "Kontak Kami",
-                    "nama": "Dicky Muis",
-                    "email": "dicky.muis_lsi@anindya.biz",
-                    "telp": "+62 812-2297-0989"
+                    "name": "Adhy Herlastadhy",
+                    "email": "adhy_lsi@anindya.biz",
+                    "telp": "+62 812-5954-8903"
                 }
             ],
             "clients": [
@@ -1802,9 +1802,9 @@
             "kontak": [
                 {
                     "title": "Kontak Kami",
-                    "nama": "Dicky Muis",
-                    "email": "dicky.muis_lsi@anindya.biz",
-                    "telp": "+62 812-2297-0989"
+                    "nama": "Adhy Herlastadhy",
+                    "email": "adhy_lsi@anindya.biz",
+                    "telp": "+62 812-5954-8903"
                 }
             ],
             "clients": [
@@ -2166,9 +2166,9 @@
             "kontak": [
                 {
                     "title": "Kontak Kami",
-                    "nama": "Dicky Muis",
-                    "email": "dicky.muis_lsi@anindya.biz",
-                    "telp": "+62 812-2297-0989"
+                    "nama": "Adhy Herlastadhy",
+                    "email": "adhy_lsi@anindya.biz",
+                    "telp": "+62 812-5954-8903"
                 }
             ],
             "clients": [
@@ -2468,7 +2468,9 @@
     },
     "our_offices": "Kantor Kami",
     "domestic_hq": "Kantor Pusat Dalam Negeri",
-    "overseas_hq": "Kantor Pusat Luar Negeri",
+    "overseas_hq": "Kantor Cabang Luar Negeri",
+    "overseas_representative": "Kantor Representatif Luar Negeri",
+    "overseas_rep_us": "Amerika Serikat",
     "coal_and_mines": "Batu bara dan Tambang",
     "inquiries": "Untuk pertanyaan, silakan hubungi:",
     "coal_n_mines_contact" : [
@@ -2493,11 +2495,6 @@
             "name": "Adhy Herlastadhy",
             "email": "adhy_lsi@anindya.biz",
             "phone": "+62 812-5954-8903"
-        },
-        {
-            "name": "Dicky Muis",
-            "email": "dicky.muis_lsi@anindya.biz",
-            "phone": "+62 812-2297-0989"
         },
         {
             "name": "Intan Rusli",

@@ -794,9 +794,9 @@ let data = {
             "kontak": [
                 {
                     "title": "Contact Us",
-                    "nama": "Dicky Muis",
-                    "email": "dicky.muis_lsi@anindya.biz",
-                    "telp": "+62 812-2297-0989"
+                    "nama": "Adhy Herlastadhy",
+                    "email": "adhy_lsi@anindya.biz",
+                    "telp": "+62 812-5954-8903"
                 }
             ],
             "clients": [
@@ -1073,9 +1073,9 @@ let data = {
             "kontak": [
                 {
                     "title": "Contact Us",
-                    "nama": "Dicky Muis",
-                    "email": "dicky.muis_lsi@anindya.biz",
-                    "telp": "+62 812-2297-0989"
+                    "nama": "Adhy Herlastadhy",
+                    "email": "adhy_lsi@anindya.biz",
+                    "telp": "+62 812-5954-8903"
                 }
             ],
             "clients": [
@@ -1646,9 +1646,9 @@ let data = {
             "kontak": [
                 {
                     "title": "Contact Us",
-                    "nama": "Dicky Muis",
-                    "email": "dicky.muis_lsi@anindya.biz",
-                    "telp": "+62 812-2297-0989"
+                    "nama": "Adhy Herlastadhy",
+                    "email": "adhy_lsi@anindya.biz",
+                    "telp": "+62 812-5954-8903"
                 }
             ],
             "clients": [
@@ -2010,9 +2010,9 @@ let data = {
             "kontak": [
                 {
                     "title": "Contact Us",
-                    "nama": "Dicky Muis",
-                    "email": "dicky.muis_lsi@anindya.biz",
-                    "telp": "+62 812-2297-0989"
+                    "nama": "Adhy Herlastadhy",
+                    "email": "adhy_lsi@anindya.biz",
+                    "telp": "+62 812-5954-8903"
                 }
             ],
             "clients": [
@@ -2025,12 +2025,19 @@ let data = {
     ],
     "indo_office": [
         {
-            "location": "Indonesia",
+            "location": "Jakarta",
             "address": "Springhill Office Tower 17th & 18th Floor",
             "detail": "Jl. H. Benyamin Suaeb Ruas D7  Block D6 Pademangan Timur, Jakarta Utara 14410",
             "email": "marketing@anindya.biz",
             "phone": "+62 21 2260 6207"
-        }
+        },
+        {
+            "location": "Surabaya",
+            "address": "Pakuwon Center Lantai 12, Tunjungan Plaza 5",
+            "detail": "Jl. Embong Malang no 1, 3, & 5 Surabaya 60261",
+            "email": "surabaya@anindya.biz",
+            "phone": ""
+        },
     ],
     "our_offices": [
         {
@@ -2043,9 +2050,9 @@ let data = {
         },
         {
             "location": "China",
-            "address": "3/F, No.13, Baijiazhuang Dongli",
-            "detail": "Chaoyang District - Beijing",
-            "detail2": "CHINA 100026",
+            "address": "Room 1001, Block A, Hengda Tianjing Building, Nanhai Avenue,",
+            "detail": "Nanshan District, Shenzhen City, Guangdong Province/广东省",
+            "detail2": "深圳市南山区南海大道恒大天璟A座1001",
             "email": "china@anindya.biz",
             "phone": ""
         },
@@ -2074,6 +2081,16 @@ let data = {
             "phone": ""
         }
     ],
+    "our_offices_rep": [
+        {
+            "location": "United States",
+            "address": "4350 Heights Ave",
+            "detail": "Pittsburg CA",
+            "detail2": "94565",
+            "email": "united.states@anindya.biz",
+            "phone": ""
+        }
+    ],
     "coal_n_mines_contact" : [
         {
             "name": "Eddy Kristianto",
@@ -2096,11 +2113,6 @@ let data = {
             "name": "Adhy Herlastadhy",
             "email": "adhy_lsi@anindya.biz",
             "phone": "+62 812-5954-8903"
-        },
-        {
-            "name": "Dicky Muis",
-            "email": "dicky.muis_lsi@anindya.biz",
-            "phone": "+62 812-2297-0989"
         },
         {
             "name": "Intan Rusli",

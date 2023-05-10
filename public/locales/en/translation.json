@@ -936,9 +936,9 @@
             "kontak": [
                 {
                     "title": "Contact Us",
-                    "nama": "Dicky Muis",
-                    "email": "dicky.muis_lsi@anindya.biz",
-                    "telp": "+62 812-2297-0989"
+                    "nama": "Adhy Herlastadhy",
+                    "email": "adhy_lsi@anindya.biz",
+                    "telp": "+62 812-5954-8903"
                 }
             ],
             "clients": [
@@ -1215,9 +1215,9 @@
             "kontak": [
                 {
                     "title": "Contact Us",
-                    "nama": "Dicky Muis",
-                    "email": "dicky.muis_lsi@anindya.biz",
-                    "telp": "+62 812-2297-0989"
+                    "nama": "Adhy Herlastadhy",
+                    "email": "adhy_lsi@anindya.biz",
+                    "telp": "+62 812-5954-8903"
                 }
             ],
             "clients": [
@@ -1788,9 +1788,9 @@
             "kontak": [
                 {
                     "title": "Contact Us",
-                    "nama": "Dicky Muis",
-                    "email": "dicky.muis_lsi@anindya.biz",
-                    "telp": "+62 812-2297-0989"
+                    "nama": "Adhy Herlastadhy",
+                    "email": "adhy_lsi@anindya.biz",
+                    "telp": "+62 812-5954-8903"
                 }
             ],
             "clients": [
@@ -2152,9 +2152,9 @@
             "kontak": [
                 {
                     "title": "Contact Us",
-                    "nama": "Dicky Muis",
-                    "email": "dicky.muis_lsi@anindya.biz",
-                    "telp": "+62 812-2297-0989"
+                    "nama": "Adhy Herlastadhy",
+                    "email": "adhy_lsi@anindya.biz",
+                    "telp": "+62 812-5954-8903"
                 }
             ],
             "clients": [
@@ -2454,7 +2454,9 @@
     },
     "our_offices": "Our Offices",
     "domestic_hq": "Domestic Headquarter",
-    "overseas_hq": "Overseas Headquarters",
+    "overseas_hq": "Overseas Branch",
+    "overseas_representative": "Overseas Representative Office",
+    "overseas_rep_us": "United States",
     "coal_and_mines": "Coal and Mines",
     "inquiries": "For inquiries, please contact:",
     "coal_n_mines_contact" : [
@@ -2479,11 +2481,6 @@
             "name": "Adhy Herlastadhy",
             "email": "adhy_lsi@anindya.biz",
             "phone": "+62 812-5954-8903"
-        },
-        {
-            "name": "Dicky Muis",
-            "email": "dicky.muis_lsi@anindya.biz",
-            "phone": "+62 812-2297-0989"
         },
         {
             "name": "Intan Rusli",
