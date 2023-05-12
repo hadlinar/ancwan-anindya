@@ -21,9 +21,9 @@ function Offices() {
                                 </div>
                                 <Col className="col-style">
                                     <div>
-                                        <div>
-                                            <div className="location-office">{data.indo_office[0].location}</div>
-                                        </div>
+                                        <div className="location-office">{data.indo_office[0].location}</div>
+                                    </div>
+                                    <div>
                                         <div className="address-branch">
                                             {data.indo_office[0].address}<br/>
                                             {data.indo_office[0].detail}<br/>
@@ -32,20 +32,9 @@ function Offices() {
                                                 <i class="fas fa-phone-alt" style={{color: 'black', marginRight: '10px'}}/> <a href={"tel:"+data.indo_office[0].phone}> {data.indo_office[0].phone} <br/></a>
                                             </div>
                                         </div>
-                                    </div>
-                                    <br/>
-                                    <div>
-                                        <div>
-                                            <div className="location-office">{data.indo_office[1].location}</div>
-                                        </div>
-                                        <div className="address-branch">
-                                            {data.indo_office[1].address}<br/>
-                                            {data.indo_office[1].detail}<br/>
-                                            <div className='detail-contact'>
-                                                <i class="fas fa-envelope office" style={{color: 'black', marginRight: '10px'}}/> <a href={"mailto:"+data.indo_office[1].email}>{data.indo_office[1].email}<br/></a>
-                                                {/* <i class="fas fa-phone-alt" style={{color: 'black', marginRight: '10px'}}/> <a href={"tel:"+data.indo_office[1].phone}> {data.indo_office[1].phone} <br/></a> */}
-                                            </div>
-                                        </div>
+                                        {/* <div>
+                                            <p className='inquiries'>{t('inquiries')}</p>
+                                        </div> */}
                                     </div>
                                     <div>
                                         <p className='inquiries'>{t('inquiries')}</p>

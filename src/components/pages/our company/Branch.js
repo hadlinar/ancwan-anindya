@@ -105,6 +105,20 @@ class Branch extends React.Component {
                             "geometry_type":"Point"
                             }
                         },
+                        
+                        {
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates":  [ 112.613144,-7.312134 ]
+                            },
+                            "properties": {
+                            "type":"Feature",
+                            "description":"<div style='text-align:left;'><h5>Surabaya</h5><b>Office</b><br/>Pakuwon Center Lantai 12, Tunjungan Plaza 5<br/>Jl. Embong Malang no 1, 3, & 5<br/>Surabaya 60261</div>",
+                            "geometry_type":"Point"
+                            }
+                        },
+
                         {
                             "type": "Feature",
                             "geometry": {

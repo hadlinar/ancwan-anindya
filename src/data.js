@@ -2025,7 +2025,7 @@ let data = {
     ],
     "indo_office": [
         {
-            "location": "Jakarta",
+            "location": "Indonesia",
             "address": "Springhill Office Tower 17th & 18th Floor",
             "detail": "Jl. H. Benyamin Suaeb Ruas D7  Block D6 Pademangan Timur, Jakarta Utara 14410",
             "email": "marketing@anindya.biz",

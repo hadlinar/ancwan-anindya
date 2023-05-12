@@ -2361,6 +2361,18 @@
             ]
         },
         {
+            "location": "Surabaya",
+            "type": "Kantor",
+            "address": [
+                {
+                    "name": "Pakuwon Center Lantai 12, Tunjungan Plaza 5",
+                    "district": "Jl. Embong Malang no 1, 3, & 5",
+                    "province": "Surabaya 60261",
+                    "phone": ""
+                }
+            ]
+        },
+        {
             "location": "Tamiang Layang",
             "type": "Kantor",
             "address": [
