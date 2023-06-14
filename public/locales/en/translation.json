@@ -13,6 +13,10 @@
             "path": "/vpti"
         },
         {
+            "name": "TKDN",
+            "path": "/tkdn"
+        },
+        {
             "name": "Our Company",
             "path": "/our-company"
         },
@@ -2165,6 +2169,13 @@
             ]
         }
     ],
+
+
+    "tkdn_system": "ANINDYA TKDN Service",
+    "button_tkdn": "AVS TKDN",
+    "sub_tkdn": "We provide a Local Content Assessment (TKDN) certification service",
+    "desc_tkdn": "Based on Decree of the Indonesian Ministry of Industry No. ..., Anindya Wiraputra Konsult has been appointed as Independent Verification Body of Indonesia's Local Content Assessment Verification. In an effort to support government programs to improve domestic industry, Anindya Wiraputra Konsult provides a service in form of Local Content Assessment certification.",
+
 
 
     "our_company": "One stop authorized mining-related trading certification & verification services",

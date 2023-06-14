@@ -13,6 +13,10 @@ let data = {
             "path": "/vpti"
         },
         {
+            "name": "TKDN",
+            "path": "/tkdn"
+        },
+        {
             "name": "Our Company",
             "path": "/our-company"
         },
