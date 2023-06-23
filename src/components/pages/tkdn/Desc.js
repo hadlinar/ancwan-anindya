@@ -7,7 +7,7 @@ function Desc() {
 
     return (
         <>
-            <div className='container-desc'>
+            <div className='container-desc-tkdn'>
                 <p className='about-tkdn'>{t('desc_tkdn')}</p>
             </div>
             

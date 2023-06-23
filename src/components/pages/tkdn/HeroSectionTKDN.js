@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import '../../../App.css'
 import { ButtonTKDN } from '../../Button'
-import './HeroSection.css'
+import './HeroSectionTKDN.css'
 import { useTranslation } from "react-i18next"
 
 function HeroSectionTkdn() {
@@ -29,7 +29,7 @@ function HeroSectionTkdn() {
             <p>{t('sub_tkdn')}</p>
             <div className="hero-btns">
                 <ButtonTKDN className='btns' buttonStyle='btn--primary' buttonSize='btn--large' pathn='https://avs.anindya.biz/'>
-                    {t('login')}
+                    {t('button_tkdn')}
                 </ButtonTKDN>
             </div>
         </div>
@@ -39,7 +39,7 @@ function HeroSectionTkdn() {
             <p>{t('sub_tkdn')}</p>
             <div className="hero-btns">
                 <ButtonTKDN className='btns' buttonStyle='btn--primary' buttonSize='btn--large' pathn='https://avs.anindya.biz/'>
-                    {t('login')}
+                    {t('button_tkdn')}
                 </ButtonTKDN>
             </div>
         </div>

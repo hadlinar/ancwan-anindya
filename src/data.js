@@ -2524,7 +2524,41 @@ let data = {
             "method": [],
             "clients": []
         }
-    ]
+    ],
+
+    "benefit_title": "Benefit of Local Content Assessment (TKDN)",
+    "benefit": [
+        {
+            "pic": "domestic-industrial",
+            "title": "Increase Domestic Industrial Sector",
+            "desc": "Local content assessment program can boost productivity and increase the competitiveness of domestic industries during the uncertain world economic conditions."
+        },
+        {
+            "pic": "small-industry",
+            "title": "Increase Small Industry",
+            "desc": "Local content assessment program provides an opportunity for SMEs to produce products that are of good quality and have high competitiveness."
+        },
+        {
+            "pic": "job-opportunities",
+            "title": "Create Job Opportunities",
+            "desc": "Local content assessment program creates new jobs for domestic workers, reducing national unemployment."
+        },
+        {
+            "pic": "tax-revenue",
+            "title": "Increase Tax Revenue",
+            "desc": "Local content assessment program is able to sustain the national economy through the production and buying and selling of domestic products."
+        },
+        {
+            "pic": "economic-sectors",
+            "title": "Increase Other Economic Sectors",
+            "desc": "Local content assessment program has a positive chain effect for businesses that are directly involved in the process of making domestic products."
+        },
+        {
+            "pic": "investment-opportunities",
+            "title": "Create Investment Opportunities",
+            "desc": "Investors can directly gain the benefits of the Local Content Assessment program with the use of preferred products, so that they can increase their sales to attract more investment interest."
+        }
+    ],
 }
 
 export default data

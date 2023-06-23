@@ -2175,8 +2175,44 @@
     "button_tkdn": "AVS TKDN",
     "sub_tkdn": "We provide a Local Content Assessment (TKDN) certification service",
     "desc_tkdn": "Based on Decree of the Indonesian Ministry of Industry No. ..., Anindya Wiraputra Konsult has been appointed as Independent Verification Body of Indonesia's Local Content Assessment Verification. In an effort to support government programs to improve domestic industry, Anindya Wiraputra Konsult provides a service in form of Local Content Assessment certification.",
-
-
+    "definition_title": "Definition of Local Content Assessment (TKDN)",
+    "def_domestic": "Domestic Products",
+    "def_domestic_desc": "Domestic Products are Goods and Services, including design and engineering, which are produced or worked on by companies that invest and produce in Indonesia, use all or part of the labor of Indonesian citizens, and the process uses raw materials or components which are wholly or partly come from within the country.",
+    "def_local": "Local Content Assessment",
+    "def_local_desc": "Local Content Assessment hereinafter referred to as TKDN is the amount of local content in Goods, Services, and Combined Goods and Services.",
+    "benefit_title": "Benefit of Local Content Assessment (TKDN)",
+    "benefit": [
+        {
+            "pic": "domestic-industrial",
+            "title": "Increase Domestic Industrial Sector",
+            "desc": "Local content assessment program can boost productivity and increase the competitiveness of domestic industries during the uncertain world economic conditions."
+        },
+        {
+            "pic": "small-industry",
+            "title": "Increase Small Industry",
+            "desc": "Local content assessment program provides an opportunity for SMEs to produce products that are of good quality and have high competitiveness."
+        },
+        {
+            "pic": "job-opportunities",
+            "title": "Create Job Opportunities",
+            "desc": "Local content assessment program creates new jobs for domestic workers, reducing national unemployment."
+        },
+        {
+            "pic": "tax-revenue",
+            "title": "Increase Tax Revenue",
+            "desc": "Local content assessment program is able to sustain the national economy through the production and buying and selling of domestic products."
+        },
+        {
+            "pic": "economic-sectors",
+            "title": "Increase Other Economic Sectors",
+            "desc": "Local content assessment program has a positive chain effect for businesses that are directly involved in the process of making domestic products."
+        },
+        {
+            "pic": "investment-opportunities",
+            "title": "Create Investment Opportunities",
+            "desc": "Investors can directly gain the benefits of the Local Content Assessment program with the use of preferred products, so that they can increase their sales to attract more investment interest."
+        }
+    ],
 
     "our_company": "One stop authorized mining-related trading certification & verification services",
     "about_our_company": "About Our Company",

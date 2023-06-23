@@ -3,6 +3,8 @@ import { useLocation } from "react-router-dom"
 import HeroSection from './HeroSectionTKDN'
 import Navigation from '../../Navbar';
 import Desc from './Desc';
+import Definition from './Definition';
+import Benefit from './Benefit';
 
 function Tkdn() {
     const { pathname } = useLocation()
@@ -16,7 +18,13 @@ function Tkdn() {
         <>  
             <Navigation />
             <HeroSection/>
-            <Desc />
+            <div style={{backgroundColor: "#F2F2F2"}}>
+                <Desc />
+            </div>
+            <Definition />
+            <div style={{backgroundColor: "#F2F2F2"}}>
+                <Benefit />
+            </div>
             {/* <div style={{backgroundColor: "#F2F2F2"}}>
                 <Flow/>
             </div>

@@ -11,7 +11,6 @@ import OurServices from './components/pages/our services/OurServices';
 import Footer from './components/Footer';
 
 function App() {
-  console.log("test")
   return (
     <>
       <Router>

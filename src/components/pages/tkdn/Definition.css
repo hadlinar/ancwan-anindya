@@ -1,0 +1,95 @@
+.container-def {
+    padding: 0px 80px 80px 80px;
+    background-color: white;
+    max-width: 1340px;
+    margin: auto;
+}
+
+.about-vpti {
+    text-align: center;
+    font-size: 16px;
+    line-height: 160%;
+}
+
+.definition {
+    padding: 80px 0 0 0;
+}
+
+.border-title-tkdn {
+    border-top: 4px solid #3A7AE3;
+    width: 60px;
+    position: absolute;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: 600;
+    padding-top: 16px;
+    padding-bottom: 15px;
+    margin-right: 32px;
+    text-align: left;
+}
+
+.sub-def {
+    text-align: left;
+    font-size: 16px;
+    line-height: 160%;
+}
+
+.detail-desc-tkdn {
+    text-align: left;
+    font-size: 16px;
+    padding-top: 8px;
+    padding-right: 10px;
+    line-height: 160%;
+}
+
+.title-detail-desc {
+    font-weight: 600;
+    padding-top: 18px;
+    font-size: 18px;
+    text-align: left;
+}
+
+.tab-content {
+    width: 100%;
+    padding: 20px;
+    justify-content: center;
+    align-items: stretch;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.content-title {
+    font-weight: 600;
+    margin: 40px 0 40px 0;
+    font-size: 24px;
+}
+
+@media screen and (max-width: 960px) {
+    .container-flow {
+        padding: 0px 40px 40px 40px;
+    }
+
+    .title {
+        font-size: 20px;
+    }
+
+    .border-title-vpti {
+        width: 50px;
+    }
+
+    .detail-flow-vpti {
+        font-size: 14px;
+    }
+
+    .flow-img {
+        padding: 20px 50px 50px 50px;
+        margin: auto;
+    }
+
+    .img-vpti {
+        margin: auto;
+        width: 100%;
+    }
+}
