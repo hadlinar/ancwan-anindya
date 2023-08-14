@@ -967,6 +967,95 @@
             ]
         },
         {
+            "tab_title": "KACA LEMBARAN",
+            "pic": "kaca-lembaran",
+            "dasar_hukum": [
+                {
+                    "title": "Dasar Hukum",
+                    "permendag": [
+                        {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Peraturan Menteri Perdagangan (Permendag) Nomor 25 Tahun 2022 tentang Perubahan atas  Peraturan Menteri Perdagangan (Permendag) Nomor 20 Tahun 2021 tentang Kebijakan dan Pengaturan Impor.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
+                        },
+                        {
+                            "main": "Peraturan Menteri Perdagangan (Permendag) Nomor 16 Tahun 2021",
+                            "url": "https://drive.google.com/file/d/1uym_4R1K-cW25M_fJQmCkBhJa_5VEgt6/preview",
+                            "rev": []
+                        },
+                        {
+                            "main": "Permendag No 40 Tahun 2009 tentang Ketentuan Impor Produk Kaca Lembaran.",
+                            "url": "https://drive.google.com/file/d/1O9Tfsbe_VJjLdmAl4ppV0LiYksW88gdD/preview",
+                            "rev": [
+                                {
+                                    "text": "Permendag No 71 Tahun 2012 perubahan atas Permendag  No 40 Tahun 2009 tentang Ketentuan Impor Produk Kaca Lembaran",
+                                    "url": "https://drive.google.com/file/d/1XSzssW9I8g64eLbyUm2buChJbsSWHoZ2/preview"
+                                },
+                                {
+                                    "text": "Permendag No 92 Tahun 2017 Perubahan Kedua atas Permendag No 40 Tahun 2009 tentang Ketentuan Impor Produk Kaca Lembaran",
+                                    "url": "https://drive.google.com/file/d/1Q1Yt6XgMEeewLt-aM6P_CbklIJKZC0H9/preview"
+                                },
+                                {
+                                    "text": "Permendag No 09 Tahun 2018 Perubahan Ketiga atas Permendag No 40 Tahun 2009 tentang Ketentuan Impor Produk Kaca Lembaran.",
+                                    "url": "https://drive.google.com/file/d/10T1XgOo1kGwsLJiNAwhDePzLLJNtKIuV/preview"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Surat Penunjukkan PT Anindya Wiraputra Kosult untuk Produk Kaca Lembaran",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Keputusan Menteri Perdagangan (Kepmendag) Nomor 1241 Tahun 2023 tentang Penetapan Surveyor sebagai Pelaksana Verifikasi atau Penelusuran Teknis Impor Kaca Lembaran.",
+                            "url": "https://drive.google.com/file/d/1mNQRUXdi0pfJWM2LtR1VRaxf_2g6QOgG/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Ruang Lingkup",
+                    "subtitle": "Lingkup Verifikasi Kaca Lembaran:",
+                    "val": [
+                        "Kode HS",
+                        "Uraian Barang",
+                        "Volume / Jumlah Barang",
+                        "Satuan Barang",
+                        "Negara Asal",
+                        "Pelabuhan Tujuan Akhir",
+                        "Keterangan / Spesifikasi Barang",
+                        "Negara Muat / Pelabuhan Muat",
+                        "Nama dan Alamat Importir dan Eksportir"
+                    ]
+                }
+            ],
+            "catatan": [
+                {
+                    "title": "Catatan",
+                    "text": "Khusus untuk API P terdapat PI Barang Komplementer, barang untuk keperluan tes pasar, dan / atau barang untuk pelayanan purna jual"
+                }
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Tia Regita",
+                    "email": "tiaregita_lsi@anindya.biz",
+                    "telp": "+62 811-9279-197"
+                }
+            ],
+            "clients": []
+        },
+        {
             "tab_title": "BARANG MODAL TIDAK BARU",
             "pic": "barang-modal-tidak-baru",
             "dasar_hukum": [

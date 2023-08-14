@@ -811,6 +811,89 @@ let data = {
             ]
         },
         {
+            "tab_title": "GLASS SHEET",
+            "pic": "kaca-lembaran",
+            "dasar_hukum": [
+                {
+                    "title": "Legal Basis",
+                    "permendag": [
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2021",
+                            "url": "https://drive.google.com/file/d/1Q7_nQMzqbRzyuygScu4pIJ0lW5uJXoR0/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade (PERMENDAG) Number 25 of the Year 2022 concerning the Amendment to the Regulation of the Minister of Trade (PERMENDAG) Number 20 of the Year 2020 concerning Provisions for the Import of Certain Products.",
+                                    "url": "https://drive.google.com/file/d/1MS7sSnMARqx5qbwEnaRDDXmOZ-PksFQz/preview"
+                                }
+                            ]
+                        },
+                        {
+                            "main": "Regulation of the Minister of Trade (PERMENDAG) Number 16 of the Year 2021",
+                            "url": "https://drive.google.com/file/d/1uym_4R1K-cW25M_fJQmCkBhJa_5VEgt6/preview",
+                            "rev": []
+                        },
+                        {
+                            "main": "Regulation of the Minister of Trade of the Republic of Indonesia Number 40 of the Year 2009 concerning Provisions for the Import of Glass Sheet.",
+                            "url": "https://drive.google.com/file/d/1O9Tfsbe_VJjLdmAl4ppV0LiYksW88gdD/preview",
+                            "rev": [
+                                {
+                                    "text": "Regulation of the Minister of Trade of the Republic of Indonesia Number 71 of the Year 2012 concerning the Amendments to Regulation of the Minister of Trade Number 40 of the Year 2009 concerning Provisions for the Import of Glass Sheet",
+                                    "url": "https://drive.google.com/file/d/1XSzssW9I8g64eLbyUm2buChJbsSWHoZ2/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade of the Republic of Indonesia Number 92 of the Year 2017 concerning the Second Amendment to Regulation of the Minister of Trade Number 40 of the Year 2009 concerning Provisions for the Import of Glass Sheet",
+                                    "url": "https://drive.google.com/file/d/1Q1Yt6XgMEeewLt-aM6P_CbklIJKZC0H9/preview"
+                                },
+                                {
+                                    "text": "Regulation of the Minister of Trade of the Republic of Indonesia Number 09 of the Year 2018 concerning the Third Amendment to Regulation of the Minister of Trade Number 40 of the Year 2009 concerning Provisions for the Import of Glass Sheet",
+                                    "url": "https://drive.google.com/file/d/10T1XgOo1kGwsLJiNAwhDePzLLJNtKIuV/preview"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "daftar_perubahan": [
+                {
+                    "title": "Letter of Appointment to PT Anindya Wiraputra Kosult for Glass Sheet",
+                    "permendag": [],
+                    "kepmendag": [
+                        {
+                            "main": "Decree of the Minister of Trade (KEPMENDAG) Number 1241 of the Year 2023 concerning Delegation of Surveyors to execute Verification or Technical Investigation for the Import of Glass Sheet.",
+                            "url": "https://drive.google.com/file/d/1mNQRUXdi0pfJWM2LtR1VRaxf_2g6QOgG/preview",
+                            "rev": []
+                        }
+                    ]
+                }
+            ],
+            "ruang_lingkup": [
+                {
+                    "title": "Scope",
+                    "subtitle": "The scope of VPTI includes data & information at the minimum regarding:",
+                    "val": [
+                        "Description of goods and Tariff Post / HS code",
+                        "Volume / Quantity of Goods",
+                        "Specification of Goods",
+                        "Destination Port",
+                        "Exporter & Importer Details",
+                        "Other Provisions Required by Laws and Regulations"
+                    ]
+                }
+            ],
+            "catatan": [
+                "Specifically for API-P, there are Complementary PI, goods for market test purposes, and/or goods for after-sales service"
+            ],
+            "kontak": [
+                {
+                    "title": "Contact Us",
+                    "nama": "Tia Regita",
+                    "email": "tiaregita_lsi@anindya.biz",
+                    "telp": "+62 811-9279-197"
+                }
+            ],
+            "clients": []
+        },
+        {
             "tab_title": "SECOND HAND CAPITAL GOODS",
             "pic": "barang-modal-tidak-baru",
             "dasar_hukum": [
