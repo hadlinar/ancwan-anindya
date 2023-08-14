@@ -5,6 +5,7 @@ import Navigation from '../../Navbar';
 import Desc from './Desc';
 import Definition from './Definition';
 import Benefit from './Benefit';
+import Statutory from './Statutory';
 
 function Tkdn() {
     const { pathname } = useLocation()
@@ -25,10 +26,7 @@ function Tkdn() {
             <div style={{backgroundColor: "#F2F2F2"}}>
                 <Benefit />
             </div>
-            {/* <div style={{backgroundColor: "#F2F2F2"}}>
-                <Flow/>
-            </div>
-            <Import /> */}
+            <Statutory />
         </>
     )
 }

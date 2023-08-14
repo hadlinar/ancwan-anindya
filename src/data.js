@@ -2559,6 +2559,10 @@ let data = {
             "desc": "Investors can directly gain the benefits of the Local Content Assessment program with the use of preferred products, so that they can increase their sales to attract more investment interest."
         }
     ],
+
+    "statutoy_tab1": {
+        "title": "Government Laws and Regulations"
+    } 
 }
 
 export default data
