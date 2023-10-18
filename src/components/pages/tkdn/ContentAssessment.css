@@ -1,0 +1,30 @@
+.card-tkdn {
+  display: flex;
+  flex: 1;
+  max-width: 400px;
+  align-items: flex-start;
+  background: #fff;
+}
+
+.card-text-tkdn {
+  display: flex;
+  padding: 16px;
+  align-items: center;
+  gap: 10px;
+  flex: 1 0 0;
+}
+
+.card-img-tkdn {
+  width: 150px;
+  height: 200px;
+  background-color: red;
+}
+
+.content-assessment-container {
+  display: flex;
+  align-items: flex-start;
+  align-content: flex-start;
+  gap: 26px;
+  align-self: stretch;
+  flex-wrap: wrap;
+}
