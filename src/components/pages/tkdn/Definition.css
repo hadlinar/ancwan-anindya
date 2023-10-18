@@ -1,0 +1,44 @@
+.tkdn-container-definition {
+  padding: 80px;
+  max-width: 1340px;
+  margin: auto;
+  gap: 48px;
+  display: flex;
+  flex-direction: column;
+}
+
+.tkdn-text {
+  text-align: left;
+  padding: 0;
+}
+
+.tkdn-desc-container {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.tkdn-desc-flex {
+  flex: 1;
+}
+
+.tkdn-section-title {
+  text-align: left;
+  padding-top: 24px;
+}
+
+.tkdn-section-header {
+  display: flex;
+  flex-direction: column;
+}
+
+.tkdn-subtitle {
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%; /* 38.4px */
+  letter-spacing: 0.72px;
+}
