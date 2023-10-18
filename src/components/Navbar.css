@@ -85,7 +85,7 @@
 }
 
 .selected {
-  color: #3A7AE3;
+  color: #3a7ae3;
   display: flex;
   align-items: center;
   text-decoration: none;
@@ -96,16 +96,16 @@
 .selected:hover {
   border-bottom: none;
   transition: all 0.2s ease-out;
-  color: #3A7AE3;
+  color: #3a7ae3;
   text-decoration: none;
 }
 
 .nav-items {
-  color: white
+  color: white;
 }
 
 .nav-items.active {
-  color: black
+  color: black;
 }
 
 .fa-bars {
@@ -186,16 +186,16 @@
     padding: 2rem;
     width: 100%;
     display: table;
-    color: #3A7AE3;
+    color: #3a7ae3;
   }
 
   .selected:hover {
     border-bottom: none;
     transition: all 0.2s ease-out;
-    color: #3A7AE3;
+    color: #3a7ae3;
     text-decoration: none;
   }
-  
+
   .navbar-logo {
     position: absolute;
     margin-top: -25px;
