@@ -10,6 +10,7 @@
 .tkdn-text {
   text-align: left;
   padding: 0;
+  margin: 0;
 }
 
 .tkdn-desc-container {
@@ -41,4 +42,5 @@
   font-weight: 600;
   line-height: 160%; /* 38.4px */
   letter-spacing: 0.72px;
+  margin: 0;
 }
