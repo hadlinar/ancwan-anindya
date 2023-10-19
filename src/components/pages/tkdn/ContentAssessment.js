@@ -19,12 +19,14 @@ function ContentAssessment() {
           {Array.from(data.content_assessment_list, (card, i) => {
             return (
               <div className="card-tkdn">
-                <div className="card-text-tkdn">
-                  <h2 className="tkdn-subtitle">
-                    {t(`content_assessment_list.${i}`)}
-                  </h2>
+                <div className="card-text-tkdn tkdn-subtitle-2">
+                  {t(`content_assessment_list.${i}`)}
                 </div>
-                <div className="card-img-tkdn"></div>
+                <img
+                  src={require(`../../../images/TKDN/LCA/${card}.png`).default}
+                  alt={card}
+                  className="card-img-tkdn"
+                />
               </div>
             );
           })}

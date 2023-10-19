@@ -1,9 +1,9 @@
 .card-tkdn {
   display: flex;
   flex: 1;
-  max-width: 400px;
   align-items: flex-start;
   background: #fff;
+  max-width: 275px;
 }
 
 .card-text-tkdn {
@@ -12,11 +12,12 @@
   align-items: center;
   gap: 10px;
   flex: 1 0 0;
+  width: 100px;
 }
 
 .card-img-tkdn {
-  width: 150px;
-  height: 200px;
+  width: 126px;
+  height: 168px;
   background-color: red;
 }
 
@@ -24,7 +25,17 @@
   display: flex;
   align-items: flex-start;
   align-content: flex-start;
-  gap: 26px;
+  gap: 24px;
   align-self: stretch;
   flex-wrap: wrap;
+}
+
+.tkdn-subtitle-2 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 160%; /* 25.6px */
+  letter-spacing: 0.48px;
+  margin: 0;
 }
