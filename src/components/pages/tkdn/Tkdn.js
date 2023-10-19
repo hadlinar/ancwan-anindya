@@ -7,6 +7,12 @@ import Desc from "./Desc";
 import Definition from "./Definition";
 import StatutoryLaws from "./StatutoryLaws";
 import ContentAssessment from "./ContentAssessment";
+import Provision from "./Provision";
+import LCAProcess from "./LCAProcess";
+import FAQ from "./FAQ";
+import Impartiality from "./Impartiality";
+import HandlingProcess from "./HandlingProcess";
+import ComplainForm from "./ComplainForm";
 
 function Tkdn() {
   const { pathname } = useLocation();
@@ -29,6 +35,18 @@ function Tkdn() {
       <StatutoryLaws />
       <div style={{ backgroundColor: "#F2F2F2" }}>
         <ContentAssessment />
+      </div>
+      <Provision />
+      <div style={{ backgroundColor: "#F2F2F2" }}>
+        <LCAProcess />
+      </div>
+      <FAQ />
+      <div style={{ backgroundColor: "#F2F2F2" }}>
+        <Impartiality />
+      </div>
+      <HandlingProcess />
+      <div style={{ backgroundColor: "#F2F2F2" }}>
+        <ComplainForm />
       </div>
     </>
   );
