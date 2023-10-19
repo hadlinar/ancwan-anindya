@@ -1,0 +1,17 @@
+.faq-card {
+  display: flex;
+  padding: 16px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+  align-self: stretch;
+
+  border: 1px solid var(--Gray-5, #e0e0e0);
+  background: var(--Gray-6, #f2f2f2);
+}
+
+.faq_list {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
