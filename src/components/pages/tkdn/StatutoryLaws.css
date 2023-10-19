@@ -1,23 +1,40 @@
 .right-col-tkdn {
-  padding: 0 40px;
+  padding: 16px;
   margin-left: 0;
   flex-wrap: nowrap;
   text-align: left;
   justify-content: left;
   background-color: #e0e0e0;
-
-  height: 800px;
+  display: flex;
+  gap: 24px;
+  height: 900px;
   overflow-y: scroll;
 }
 
 .left-col-tkdn {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  align-self: stretch;
-
-  height: 800px;
+  height: 900px;
   overflow-y: scroll;
   background-color: #f2f2f2;
   padding: 0;
+}
+
+.nav_pills-tkdn {
+  background-color: #f2f2f2;
+  width: 100%;
+  height: 300px;
+  margin: auto;
+  border-radius: 0%;
+  color: black;
+}
+
+.nav_pills-tkdn:hover {
+  background-color: #e0e0e0;
+  border-radius: 0%;
+}
+
+.tkdn-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-left: 20px;
 }

@@ -32,11 +32,11 @@ function StatutoryLaws() {
         </div>
         <Tab.Container defaultActiveKey={1}>
           <Row>
-            <Col sm={4} className="left-col-vpti">
+            <Col sm={4} className="left-col-tkdn">
               <Nav variant="pills">
                 {Array.from(data.statutory_list, (tab, i) => {
                   return (
-                    <Nav.Item className="nav_pills-vpti">
+                    <Nav.Item className="nav_pills-tkdn">
                       <Nav.Link eventKey={i + 1} className="name-tab-vpti">
                         {t(`statutory_list.${i}.tab_title`)}
                       </Nav.Link>
@@ -50,24 +50,28 @@ function StatutoryLaws() {
                 {Array.from(data.statutory_list, (tab, i) => {
                   return (
                     <Tab.Pane eventKey={i + 1}>
-                      <div className="content-title">
+                      <h2 className="tkdn-subtitle">
                         {t(`statutory_list.${i}.tab_title`)}
-                      </div>
-                      {Array.from(tab.documents, (doc, id) => {
-                        return (
-                          <>
-                            <li>
-                              <a
-                                href={doc.link}
-                                target="_blank"
-                                rel="noreferrer"
-                              >
-                                {t(`statutory_list.${i}.documents.${id}.name`)}
-                              </a>
-                            </li>
-                          </>
-                        );
-                      })}
+                      </h2>
+                      <ol className="tkdn-list">
+                        {Array.from(tab.documents, (doc, id) => {
+                          return (
+                            <>
+                              <li>
+                                <a
+                                  href={doc.link}
+                                  target="_blank"
+                                  rel="noreferrer"
+                                >
+                                  {t(
+                                    `statutory_list.${i}.documents.${id}.name`
+                                  )}
+                                </a>
+                              </li>
+                            </>
+                          );
+                        })}
+                      </ol>
                     </Tab.Pane>
                   );
                 })}
