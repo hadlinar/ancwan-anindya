@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import "./Definition.css";
 import "./Benefit.css";
 import { useTranslation } from "react-i18next";
+import data from "../../../data";
 
 function Benefit() {
   const { t } = useTranslation();
@@ -14,20 +15,24 @@ function Benefit() {
           <h1 className="tkdn-section-title">{t("benefit_tkdn_title")}</h1>
         </div>
         <div className="tkdn-desc-container">
-          {iterasiBenefit.map((e) => (
-            <div className="tkdn-desc-flex tkdn-benefit">
-              {/* <img
-                src={
-                  require(`src/images/TKDN/Increase Tax Revenue.png`).default
-                }
-              ></img> */}
-              <div className="tkdn-benefit-img" />
-              <h2 className="tkdn-subtitle">
-                {t(`benefit_tkdn_list.${e}.title`)}
-              </h2>
-              <p className="tkdn-text">{t(`benefit_tkdn_list.${e}.desc`)}</p>
-            </div>
-          ))}
+          {Array.from(data.benefit_tkdn_list, (benefit, i) => {
+            return (
+              <div className="tkdn-desc-flex tkdn-benefit">
+                <img
+                  src={
+                    require(`../../../images/TKDN/Benefit/${benefit}.png`)
+                      .default
+                  }
+                  alt={benefit}
+                  className="tkdn-benefit-img"
+                />
+                <h2 className="tkdn-subtitle">
+                  {t(`benefit_tkdn_list.${i}.title`)}
+                </h2>
+                <p className="tkdn-text">{t(`benefit_tkdn_list.${i}.desc`)}</p>
+              </div>
+            );
+          })}
         </div>
       </div>
     </>
