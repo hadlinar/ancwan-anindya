@@ -2210,6 +2210,15 @@ let data = {
     },
   ],
 
+  benefit_tkdn_list: [
+    "Increase Domestic Industrial Sector",
+    "Increase Small Industry",
+    "Create Job Opportunities",
+    "Increase Tax Revenue",
+    "Increase Other Economic Sectors",
+    "Create Investment Opportunities",
+  ],
+
   statutory_list: [
     {
       tab_title: "Government Laws and Regulations",
@@ -2292,26 +2301,70 @@ let data = {
     },
   ],
   content_assessment_list: [
-    "Bahan Penunjang Pertanian",
-    "Mesin dan Peralatan Pabrik",
-    "Peralatan Kelistrikan",
-    "Komputer dan Peralatan Kantor",
-    "Mesin dan Peralatan Pertanian",
-    "Bahan Bangunan / Konstruksi",
-    "Peralatan Telekomunikasi",
-    "Pakaian dan Perlengkapan Kerja",
-    "Mesin dan Peralatan Pertambangan",
-    "Logam dan Barang Logam",
-    "Alat Transport",
-    "Peralatan Olahraga dan Pendidikan",
-    "Mesin dan Peralatan Migas",
-    "Bahan Kimia dan Barang Kimia",
-    "Bahan dan Peralatan Kesehatan",
-    "Sarana Pertahanan",
-    "Alat Berat, Konstruksi dan Material Handling",
-    "Peralatan Elektronika",
-    "Peralatan Laboratorium",
-    "Barang Lainnya",
+    "Agricultural Supporting Materials",
+    "Factory Machinery and Equipment",
+    "Electrical Equipment",
+    "Computers and Office Equipment",
+    "Agricultural Machinery and Equipment",
+    "Building Construction Materials",
+    "Telecommunications Equipment",
+    "Clothing and Work Equipment",
+    "Mining Machinery and Equipment",
+    "Metal and Metal Items",
+    "Transportation",
+    "Sports and Education Equipment",
+    "Oil and Gas Machinery and Equipment",
+    "Chemicals and Chemical Goods",
+    "Materials and Health Equipment",
+    "Defense Tools",
+    "Heavy Equipment, Construction and Material Handling",
+    "Electronic Equipment",
+    "Laboratory Equipment",
+    "Other Goods",
+  ],
+
+  faq_list: [
+    {
+      title: "WHAT ARE THE PURPOSES OF TKDN?",
+      desc: "To fulfill the document requirements for the procurement of goods/services in government agencies and the main requirements for registering an E-Catalog. In addition, TKDN is used as a mandatory requirement for production in the cellular telephone, tablet and television set industries.",
+    },
+    {
+      title: "WHAT ARE THE TERMS OF SUBMISSION OF TKDN?",
+      desc: "Company Requirements:\n1.Invest in Indonesia\n2.Located in Indonesia\n3.Producing in Indonesia\n\nProduct Terms:\nMaterials & Labor\nProduction Process (change in function)\nDomestic Product (has a higher product value)",
+    },
+    {
+      title: "WHAT IS SIINAS?",
+      desc: "The National Industrial Information System (SIINas) is a mechanism to simplify and speed up the process of submitting data originating from the business world to the government. The following is the link to SIINas: https://siinas.kemenperin.go.id/",
+    },
+    {
+      title: "WHAT IS TKDN PRICE PREFERENCE?",
+      desc: "Price preference is the price adjustment value to the bid price in the final evaluation process in the procurement of goods/services. Price preference is an incentive for domestic products in the selection of Providers in the form of acceptable excess prices.",
+    },
+    {
+      title: "WHAT IS COMPANY BENEFIT WEIGHT (BMP)?",
+      desc: "Company Benefit Weight (BMP) is the value of the award given to Industrial Companies investing and producing in Indonesia. BMP is calculated based on the accumulated weight of the determining factor multiplied by the maximum weight, with a maximum total value of 15%.",
+    },
+    {
+      title: "HOW MUCH DOES TKDN VERIFICATION COST?",
+      desc: "TKDN verification costs depend on the product kind, product type, product specifications and location of the production process to be verified. For more information, please contact Marketing PT. Anindya Wiraputra Konsult.",
+    },
+    {
+      title: "HOW LONG DOES THE TKDN VERIFICATION PROCESS CAN BE DONE?",
+      desc: "In accordance to Regulation of the Minister of Industry No. 43 of 2022 Article 6 paragraph 2 Calculation and verification of TKDN values and BMP values is carried out within a maximum period of 22 (twenty two) working days counted from received complete and correct application documents.",
+    },
+    {
+      title: "WHAT DOCUMENTS ARE REQUIRED FOR TKDN VERIFICATION?",
+      desc: "Documents needed include Legality, Information on Product Raw Materials, Labor, and Working Tools. For more information, please contact Marketing PT. Anindya Wiraputra Konsult.",
+    },
+    {
+      title: "HOW LONG IS THE TKDN AND BMP CERTIFICATE VALID?",
+      desc: "Goods TKDN and BMP Certificate valid for 3 years.\nFor Pharmacy TKDN Certificate valid for 2 years.",
+    },
+    {
+      title:
+        "WHAT IS THE PROCEDURE FOR EXTENSION OF TKDN CERTIFICATE IF THE VALIDITY PERIOD HAS EXPIRED?",
+      desc: "The certificate renewal procedure is the same as when it was originally submitted. Companies can contact PT. Anindya Wiraputra Konsult who has been appointed as an Independent Verification Agency.",
+    },
   ],
 
   our_services:

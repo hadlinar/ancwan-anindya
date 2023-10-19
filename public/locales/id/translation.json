@@ -2210,6 +2210,29 @@
     }
   ],
 
+  "content_assessment_list": [
+    "Bahan Penunjang Pertanian",
+    "Mesin dan Peralatan Pabrik",
+    "Peralatan Kelistrikan",
+    "Komputer dan Peralatan Kantor",
+    "Mesin dan Peralatan Pertanian",
+    "Bahan Bangunan / Konstruksi",
+    "Peralatan Telekomunikasi",
+    "Pakaian dan Perlengkapan Kerja",
+    "Mesin dan Peralatan Pertambangan",
+    "Logam dan Barang Logam",
+    "Alat Transport",
+    "Peralatan Olahraga dan Pendidikan",
+    "Mesin dan Peralatan Migas",
+    "Bahan Kimia dan Barang Kimia",
+    "Bahan dan Peralatan Kesehatan",
+    "Sarana Pertahanan",
+    "Alat Berat, Konstruksi dan Material Handling",
+    "Peralatan Elektronika",
+    "Peralatan Laboratorium",
+    "Barang Lainnya"
+  ],
+
   "our_company": "Jasa layanan survei sertifikasi & verifikasi perdagangan terkait sektor tambang dalam satu pintu",
   "about_our_company": "Tentang Perusahaan Kami",
   "branches": "Kantor & Laboratorium",
