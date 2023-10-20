@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import "./Definition.css";
 import "./Benefit.css";
 import { useTranslation } from "react-i18next";
@@ -6,7 +6,7 @@ import data from "../../../data";
 
 function Benefit() {
   const { t } = useTranslation();
-  const iterasiBenefit = [0, 1, 2, 3, 4, 5];
+
   return (
     <>
       <div className="tkdn-container-definition">
