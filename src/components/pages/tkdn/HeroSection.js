@@ -1,37 +1,24 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import "../../../App.css";
 import "./HeroSection.css";
 import { useTranslation } from "react-i18next";
-import vid from "../../../videos/vpti-hero.mp4";
+import { ButtonVPTI } from "../../Button";
 
 function HeroSection() {
   const { t } = useTranslation();
-  const [mobile, setMobile] = useState(false);
 
-  useEffect(() => {
-    mobileVer();
-  }, []);
-
-  const mobileVer = () => {
-    if (window.innerWidth <= 960) {
-      setMobile(true);
-    } else {
-      setMobile(false);
-    }
-  };
-
-  window.addEventListener("resize", mobileVer);
-
-  return mobile ? (
-    <div className="hero-container-vpti-mobile">
+  return (
+    <div className="hero-container-tkdn-mobile">
       <h1>{t("anindya_tkdn")}</h1>
       <p>{t("sub_tkdn")}</p>
-    </div>
-  ) : (
-    <div className="hero-container-vpti">
-      <video src={vid} autoPlay loop muted />
-      <h1>{t("anindya_tkdn")}</h1>
-      <p>{t("sub_tkdn")}</p>
+      <ButtonVPTI
+        className="btns"
+        buttonStyle="btn--primary"
+        buttonSize="btn--xsmall"
+        pathn="https://avs.anindya.biz/"
+      >
+        AVS TKDN
+      </ButtonVPTI>
     </div>
   );
 }
