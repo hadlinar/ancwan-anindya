@@ -3,7 +3,7 @@
   flex: 1;
   align-items: flex-start;
   background: #fff;
-  max-width: 275px;
+  min-width: 275px;
 }
 
 .card-text-tkdn {
@@ -38,4 +38,10 @@
   line-height: 160%; /* 25.6px */
   letter-spacing: 0.48px;
   margin: 0;
+}
+
+@media only screen and (max-width: 960px) {
+  .card-tkdn {
+    width: 100%;
+  }
 }
