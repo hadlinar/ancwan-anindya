@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import "./Definition.css";
 import "./Provision.css";
 import { useTranslation } from "react-i18next";

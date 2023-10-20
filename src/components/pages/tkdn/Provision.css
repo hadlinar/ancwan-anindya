@@ -49,3 +49,18 @@
   align-items: flex-start;
   gap: 24px;
 }
+
+@media only screen and (max-width: 960px) {
+  .content-assessment-container {
+    flex-direction: column;
+  }
+  .tkdn-provision-card {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .tkdn-project-card {
+    width: 100%;
+    min-width: 0;
+  }
+}
