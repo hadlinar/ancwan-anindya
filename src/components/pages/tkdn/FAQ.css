@@ -1,17 +1,70 @@
 .faq-card {
   display: flex;
+  flex: 1;
   padding: 16px;
   flex-direction: column;
   align-items: flex-start;
   gap: 16px;
-  align-self: stretch;
+  width: 100%;
 
   border: 1px solid var(--Gray-5, #e0e0e0);
   background: var(--Gray-6, #f2f2f2);
 }
 
-.faq_list {
+.faq-header {
+  width: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.faq-header button {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  text-align: left;
+  border: none;
+  background-color: transparent;
+  color: black;
+}
+
+.faq-header h3 {
+  display: flex;
+  flex: 2;
+}
+.faq-header p {
+  display: flex;
+  width: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.faq-list {
+  display: flex;
+  align-items: flex-start;
+  align-content: flex-start;
+  gap: 24px;
+}
+
+.faq-half {
   display: flex;
   flex-direction: column;
-  gap: 40px;
+  align-items: flex-start;
+  align-content: flex-start;
+  gap: 24px;
+  width: 50%;
+}
+
+@media only screen and (max-width: 960px) {
+  .faq-list {
+    flex-direction: column;
+  }
+
+  .faq-half {
+    width: 100%;
+  }
+
+  .faq-card {
+    min-width: 0;
+  }
 }
