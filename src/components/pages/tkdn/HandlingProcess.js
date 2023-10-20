@@ -1,11 +1,24 @@
 import React, { useState, useEffect } from "react";
 import "./Definition.css";
 import { useTranslation } from "react-i18next";
-import complainProcessImg from "../../../images/TKDN/Complaint Handling.png";
-import appealProcessImg from "../../../images/TKDN/Appeal Handling.png";
 
 function HandlingProcess() {
   const { t } = useTranslation();
+  const [mobile, setMobile] = useState(false);
+
+  useEffect(() => {
+    mobileVer();
+  }, []);
+
+  const mobileVer = () => {
+    if (window.innerWidth <= 960) {
+      setMobile(true);
+    } else {
+      setMobile(false);
+    }
+  };
+
+  window.addEventListener("resize", mobileVer);
 
   return (
     <>
@@ -16,9 +29,31 @@ function HandlingProcess() {
         </div>
         <p className="tkdn-text">{t("handling_process_desc")}</p>
         <h2 className="tkdn-subtitle">{t("complain_title")}</h2>
-        <img src={complainProcessImg} />
+        <img
+          src={
+            mobile
+              ? require(`../../../images/TKDN/Complaint-Mobile-${t(
+                  "image_language"
+                )}.png`).default
+              : require(`../../../images/TKDN/Complaint-Web-${t(
+                  "image_language"
+                )}.png`).default
+          }
+          alt={t("complain_title")}
+        />
         <h2 className="tkdn-subtitle">{t("appeal_title")}</h2>
-        <img src={appealProcessImg} />
+        <img
+          src={
+            mobile
+              ? require(`../../../images/TKDN/Appeal-Mobile-${t(
+                  "image_language"
+                )}.png`).default
+              : require(`../../../images/TKDN/Appeal-Web-${t(
+                  "image_language"
+                )}.png`).default
+          }
+          alt={t("appeal_title")}
+        />
       </div>
     </>
   );
