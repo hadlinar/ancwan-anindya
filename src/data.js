@@ -2283,7 +2283,7 @@ let data = {
         },
         {
           name: "Permen Kominfo No. 12/2019 Tata Cara Penilaian Pencapaian Tingkat Komponen Dalam Negeri Belanja Modal Dan Belanja Operasional Pada Penyelenggaraan Telekomunikasi",
-          link: "",
+          link: "https://drive.google.com/file/d/1h8rLZlUwWpawYoSuyK8YnZjSJfZYW6jx/view?usp=share_link",
         },
         {
           name: "Permen BUMN No. PER - 08/MBU/12/2019 Pedoman Umum Pelaksanaan Pengadaan Barang dan Jasa Badan Usaha Milik Negara (BUMN)",
