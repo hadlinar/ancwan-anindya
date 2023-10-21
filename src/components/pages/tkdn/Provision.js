@@ -2,6 +2,8 @@ import React from "react";
 import "./Definition.css";
 import "./Provision.css";
 import { useTranslation } from "react-i18next";
+import ManufacturingCard from "./ManufacturingCard";
+import ProjectCard from "./ProjectCard";
 
 function Provision() {
   const { t } = useTranslation();
@@ -76,6 +78,16 @@ function Provision() {
     },
   ];
 
+  const manufacture1 = provision_manufacturing_list.filter(
+    (item, index) => index < 4
+  );
+  const manufacture2 = provision_manufacturing_list.filter(
+    (item, index) => index >= 4
+  );
+
+  const project1 = provision_project_list.filter((item, index) => index < 4);
+  const project2 = provision_project_list.filter((item, index) => index >= 4);
+
   return (
     <>
       <div className="tkdn-container-definition">
@@ -87,60 +99,54 @@ function Provision() {
           <h2 className="tkdn-subtitle">
             {t("provision_manufacturing_title")}
           </h2>
-          <div className="content-assessment-container">
-            {Array.from(provision_manufacturing_list, (project, i) => {
-              const getTag = t(`provision_manufacturing_list.${i}.tag`);
-              let tagColor = {};
-
-              if (getTag === "cost based") {
-                tagColor = { backgroundColor: "#F2994A" };
-              } else if (getTag === "product based") {
-                tagColor = { backgroundColor: "#F2C94C" };
-              } else if (getTag === "process based") {
-                tagColor = { backgroundColor: "#6FCF97" };
-              } else {
-                tagColor = { backgroundColor: "#56CCF2" };
-              }
-
-              return (
-                <div className="tkdn-provision-card" key={i}>
-                  <h1>{i + 1}</h1>
-                  <div className="tkdn-provision-container">
-                    <h3 className="tkdn-subtitle-2">
-                      <a href={project.url}>
-                        {t(`provision_manufacturing_list.${i}.title`)}
-                      </a>
-                    </h3>
-                    <p className="tkdn-text">
-                      {t(`provision_manufacturing_list.${i}.desc`)}
-                    </p>
-                    <div className="tkdn-chip" style={tagColor}>
-                      {t(`provision_manufacturing_list.${i}.tag`)}
-                    </div>
-                  </div>
-                </div>
-              );
-            })}
+          <div className="faq-list">
+            <div className="faq-half">
+              {manufacture1.map((project, i) => (
+                <ManufacturingCard
+                  index={i + 1}
+                  title={t(`provision_manufacturing_list.${i}.title`)}
+                  desc={t(`provision_manufacturing_list.${i}.desc`)}
+                  tag={t(`provision_manufacturing_list.${i}.tag`)}
+                  url={project.url}
+                />
+              ))}
+            </div>
+            <div className="faq-half">
+              {manufacture2.map((project, i) => (
+                <ManufacturingCard
+                  index={i + 5}
+                  title={t(`provision_manufacturing_list.${i + 4}.title`)}
+                  desc={t(`provision_manufacturing_list.${i + 4}.desc`)}
+                  tag={t(`provision_manufacturing_list.${i + 4}.tag`)}
+                  url={project.url}
+                />
+              ))}
+            </div>
           </div>
         </div>
         <div className="tkdn-provision-section">
           <h2 className="tkdn-subtitle">{t("provision_project_title")}</h2>
           <div className="content-assessment-container">
-            {Array.from(provision_project_list, (project, i) => {
-              return (
-                <a
-                  className="tkdn-project-card"
-                  href={project.url}
-                  target="_blank"
-                  rel="noreferrer"
-                  key={i}
-                >
-                  <div className="values col tkdn-project-card">
-                    {t(`provision_project_list.${i}`)}
-                  </div>
-                </a>
-              );
-            })}
+            <div className="faq-list">
+              <div className="faq-half">
+                {project1.map((project, i) => (
+                  <ProjectCard
+                    index={i}
+                    title={t(`provision_project_list.${i}`)}
+                    url={project.url}
+                  />
+                ))}
+              </div>
+              <div className="faq-half">
+                {project2.map((project, i) => (
+                  <ProjectCard
+                    index={i + 4}
+                    title={t(`provision_project_list.${i + 4}`)}
+                    url={project.url}
+                  />
+                ))}
+              </div>
+            </div>
           </div>
         </div>
       </div>

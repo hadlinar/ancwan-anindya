@@ -5,13 +5,14 @@
   gap: 20px;
   flex: 1 0 0;
   align-self: stretch;
-  min-width: 500px;
+
+  min-height: 135px;
 
   background: var(--Gray-6, #f2f2f2);
   box-shadow: 4px 4px 4px 0px rgba(0, 0, 0, 0.1);
 }
 
-.tkdn-provision-container {
+.tkdn-provision-text-container {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -39,8 +40,9 @@
 .tkdn-project-card {
   display: flex;
   flex: 1;
-  min-width: 500px;
+
   margin: 0;
+  width: 100%;
 }
 
 .tkdn-provision-section {
@@ -50,17 +52,18 @@
   gap: 24px;
 }
 
+.tkdn-provision-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  align-content: flex-start;
+  gap: 24px;
+  align-self: stretch;
+  flex-wrap: wrap;
+}
+
 @media only screen and (max-width: 960px) {
   .content-assessment-container {
     flex-direction: column;
-  }
-  .tkdn-provision-card {
-    width: 100%;
-    min-width: 0;
-  }
-
-  .tkdn-project-card {
-    width: 100%;
-    min-width: 0;
   }
 }
