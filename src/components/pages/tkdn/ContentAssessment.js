@@ -25,8 +25,6 @@ function ContentAssessment() {
     checkIfBumperNeeded();
   }, []);
 
-  console.log(bumperNeeded);
-
   return (
     <>
       <div className="tkdn-container-definition">
@@ -54,7 +52,7 @@ function ContentAssessment() {
             );
           })}
           {Array(bumperNeeded)
-            .fill("hi")
+            .fill("")
             .map((e, i) => (
               <div className="tkdn-bumper-card" />
             ))}

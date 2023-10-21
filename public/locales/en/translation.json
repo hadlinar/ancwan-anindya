@@ -2371,60 +2371,73 @@
   "faq_list": [
     {
       "title": "WHAT ARE THE PURPOSES OF TKDN?",
-      "desc": "To fulfill the document requirements for the procurement of goods/services in government agencies and the main requirements for registering an E-Catalog. In addition, TKDN is used as a mandatory requirement for production in the cellular telephone, tablet and television set industries."
+      "desc": "To fulfill the document requirements for the procurement of goods/services in government agencies and the main requirements for registering an E-Catalog. In addition, TKDN is used as a mandatory requirement for production in the cellular telephone, tablet and television set industries.",
+      "url": ""
     },
     {
       "title": "WHAT ARE THE TERMS OF SUBMISSION OF TKDN?",
-      "desc": "Company Requirements:\n1. Invest in Indonesia\n2. Located in Indonesia\n3. Producing in Indonesia\n\nProduct Terms:\n1. Materials & Labor\n2. Production Process (change in function)\n3. Domestic Product (has a higher product value)"
+      "desc": "Company Requirements:\n1. Invest in Indonesia\n2. Located in Indonesia\n3. Producing in Indonesia\n\nProduct Terms:\n1. Materials & Labor\n2. Production Process (change in function)\n3. Domestic Product (has a higher product value)",
+      "url": ""
     },
     {
       "title": "WHAT IS SIINAS?",
-      "desc": "The National Industrial Information System (SIINas) is a mechanism to simplify and speed up the process of submitting data originating from the business world to the government. The following is the link to SIINas: https://siinas.kemenperin.go.id/"
+      "desc": "The National Industrial Information System (SIINas) is a mechanism to simplify and speed up the process of submitting data originating from the business world to the government. The following is the link to SIINas: ",
+      "url": "https://siinas.kemenperin.go.id/"
     },
     {
       "title": "WHAT IS TKDN PRICE PREFERENCE?",
-      "desc": "Price preference is the price adjustment value to the bid price in the final evaluation process in the procurement of goods/services. Price preference is an incentive for domestic products in the selection of Providers in the form of acceptable excess prices."
+      "desc": "Price preference is the price adjustment value to the bid price in the final evaluation process in the procurement of goods/services. Price preference is an incentive for domestic products in the selection of Providers in the form of acceptable excess prices.",
+      "url": ""
     },
     {
       "title": "WHAT IS COMPANY BENEFIT WEIGHT (BMP)?",
-      "desc": "Company Benefit Weight (BMP) is the value of the award given to Industrial Companies investing and producing in Indonesia. BMP is calculated based on the accumulated weight of the determining factor multiplied by the maximum weight, with a maximum total value of 15%."
+      "desc": "Company Benefit Weight (BMP) is the value of the award given to Industrial Companies investing and producing in Indonesia. BMP is calculated based on the accumulated weight of the determining factor multiplied by the maximum weight, with a maximum total value of 15%.",
+      "url": ""
     },
     {
       "title": "HOW MUCH DOES TKDN VERIFICATION COST?",
-      "desc": "TKDN verification costs depend on the product kind, product type, product specifications and location of the production process to be verified. For more information, please contact Marketing PT. Anindya Wiraputra Konsult."
+      "desc": "TKDN verification costs depend on the product kind, product type, product specifications and location of the production process to be verified. For more information, please contact Marketing PT. Anindya Wiraputra Konsult.",
+      "url": ""
     },
     {
       "title": "HOW LONG DOES THE TKDN VERIFICATION PROCESS CAN BE DONE?",
-      "desc": "In accordance to Regulation of the Minister of Industry No. 43 of 2022 Article 6 paragraph 2 Calculation and verification of TKDN values and BMP values is carried out within a maximum period of 22 (twenty two) working days counted from received complete and correct application documents."
+      "desc": "In accordance to Regulation of the Minister of Industry No. 43 of 2022 Article 6 paragraph 2 Calculation and verification of TKDN values and BMP values is carried out within a maximum period of 22 (twenty two) working days counted from received complete and correct application documents.",
+      "url": ""
     },
     {
       "title": "WHAT DOCUMENTS ARE REQUIRED FOR TKDN VERIFICATION?",
-      "desc": "Documents needed include Legality, Information on Product Raw Materials, Labor, and Working Tools. For more information, please contact Marketing PT. Anindya Wiraputra Konsult."
+      "desc": "Documents needed include Legality, Information on Product Raw Materials, Labor, and Working Tools. For more information, please contact Marketing PT. Anindya Wiraputra Konsult.",
+      "url": ""
     },
     {
       "title": "HOW LONG IS THE TKDN AND BMP CERTIFICATE VALID?",
-      "desc": "Goods TKDN and BMP Certificate valid for 3 years.\nFor Pharmacy TKDN Certificate valid for 2 years."
+      "desc": "Goods TKDN and BMP Certificate valid for 3 years.\nFor Pharmacy TKDN Certificate valid for 2 years.",
+      "url": ""
     },
     {
       "title": "WHAT IS THE PROCEDURE FOR EXTENSION OF TKDN CERTIFICATE IF THE VALIDITY PERIOD HAS EXPIRED?",
-      "desc": "The certificate renewal procedure is the same as when it was originally submitted. Companies can contact PT. Anindya Wiraputra Konsult who has been appointed as an Independent Verification Agency."
+      "desc": "The certificate renewal procedure is the same as when it was originally submitted. Companies can contact PT. Anindya Wiraputra Konsult who has been appointed as an Independent Verification Agency.",
+      "url": ""
     }
   ],
   "impartiality_title": "ANINDYA Impartiality Policy",
   "impartiality_desc": "PT Anindya Wiraputra Konsult publishes the following policy with regard to Impartiality in compliance with SNI ISO/IEC 17029:2019.",
   "impartiality_button": "PT AWK Independent Verification Agency Policy",
   "handling_process_title": "ANINDYA Complaint/Appeal Handling Process",
-  "handling_process_desc": "For clients who would like to submit complaints in regards to the performance of PT. Anindya Wiraputra Konsult verification activities through Complaint/Appeal Submission Form or by emailing keluhan.banding_tkdn@anindya.biz",
+  "handling_process_desc": "For clients who would like to submit complaints in regards to the performance of PT. Anindya Wiraputra Konsult verification activities through",
+  "complaint_link": " Complaint/Appeal Submission Form",
+  "or_emailing": " or by emailing ",
   "complain_title": "Complaint Handling Process",
   "appeal_title": "Appeal Handling Process",
   "complain_appeal_form_title": "Complaints/Appeals Submission Form",
   "submission_type_form": "Submission Type",
   "company_name_form": "Company Name",
   "company_pic_form": "Company's Person in Charge",
-  "company_address_form": "Company Address",
+  "company_address_form": "Company Email",
   "company_phone_form": "Telephone/Fax Number",
   "details_form": "Details",
   "button_form_submit": "Send",
+  "contact_title": "Contact Us",
 
   "our_company": "One stop authorized mining-related trading certification & verification services",
   "about_our_company": "About Our Company",

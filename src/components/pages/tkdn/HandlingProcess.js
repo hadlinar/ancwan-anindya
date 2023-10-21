@@ -27,7 +27,14 @@ function HandlingProcess() {
           <div className="border-title-vpti" />
           <h1 className="tkdn-section-title">{t("handling_process_title")}</h1>
         </div>
-        <p className="tkdn-text">{t("handling_process_desc")}</p>
+        <p className="tkdn-text">
+          {t("handling_process_desc")}
+          <a href="#complain-form">{t("complaint_link")}</a>
+          {t("or_emailing")}
+          <a href="mailto:keluhan.banding_tkdn@anindya.biz">
+            keluhan.banding_tkdn@anindya.biz
+          </a>
+        </p>
         <h2 className="tkdn-subtitle">{t("complain_title")}</h2>
         <img
           src={

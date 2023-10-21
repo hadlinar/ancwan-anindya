@@ -2396,60 +2396,73 @@
   "faq_list": [
     {
       "title": "APA KEGUNAAN DARI TKDN?",
-      "desc": "Untuk pemenuhan syarat dokumen pengadaan barang/jasa di instansi pemerintah dan syarat utama pendaftaran E-Katalog. Selain itu TKDN digunakan sebagai syarat kewajiban untuk produksi di industri telepon seluler, tablet dan pesawat televisi."
+      "desc": "Untuk pemenuhan syarat dokumen pengadaan barang/jasa di instansi pemerintah dan syarat utama pendaftaran E-Katalog. Selain itu TKDN digunakan sebagai syarat kewajiban untuk produksi di industri telepon seluler, tablet dan pesawat televisi.",
+      "url": ""
     },
     {
       "title": "SYARAT PENGAJUAN TKDN?",
-      "desc": "Syarat Perusahaan:\n1. Berinvestasi di Indonesia\n2. Berlokasi di Indonesia\n3. Berproduksi di Indonesia\n\nSyarat Produk:\n1. Material & Tenaga Kerja\n2. Proses Produksi (adanya perubahan fungsi)\n3. Produk Dalam Negeri (memiliki nilai produk lebih tinggi)"
+      "desc": "Syarat Perusahaan:\n1. Berinvestasi di Indonesia\n2. Berlokasi di Indonesia\n3. Berproduksi di Indonesia\n\nSyarat Produk:\n1. Material & Tenaga Kerja\n2. Proses Produksi (adanya perubahan fungsi)\n3. Produk Dalam Negeri (memiliki nilai produk lebih tinggi)",
+      "url": ""
     },
     {
       "title": "APA ITU SIINAS?",
-      "desc": "Sistem Informasi Industri Nasional (SIINas) adalah suatu mekanisme untuk mempermudah dan mempercepat proses penyampaian data yang berasal dari dunia usaha kepada pemerintah. Berikut link SIINas: https://siinas.kemenperin.go.id/"
+      "desc": "Sistem Informasi Industri Nasional (SIINas) adalah suatu mekanisme untuk mempermudah dan mempercepat proses penyampaian data yang berasal dari dunia usaha kepada pemerintah. Berikut link SIINas: ",
+      "url": "https://siinas.kemenperin.go.id/"
     },
     {
       "title": "APA ITU PREFERENSI HARGA TKDN?",
-      "desc": "Preferensi Harga adalah Nilai penyesuaian harga terhadap harga penawaran dalam proses evaluasi akhir dalam pengadaan barang/jasa. Preferensi harga merupakan insentif bagi produk dalam negeri pada pemilihan Penyedia berupa kelebihan harga yang dapat diterima."
+      "desc": "Preferensi Harga adalah Nilai penyesuaian harga terhadap harga penawaran dalam proses evaluasi akhir dalam pengadaan barang/jasa. Preferensi harga merupakan insentif bagi produk dalam negeri pada pemilihan Penyedia berupa kelebihan harga yang dapat diterima.",
+      "url": ""
     },
     {
       "title": "APA ITU BOBOT MANFAAT PERUSAHAAN (BMP)?",
-      "desc": "Bobot Manfaat Perusahaan (BMP) merupakan nilai penghargaan yang diberikan kepada Perusahaan Industri yang berinvestasi dan berproduksi di Indonesia. BMP dihitung berdasarkan akumulasi bobot faktor penentu dikalikan dengan bobot maksimum, dengan total nilai paling tinggi 15%."
+      "desc": "Bobot Manfaat Perusahaan (BMP) merupakan nilai penghargaan yang diberikan kepada Perusahaan Industri yang berinvestasi dan berproduksi di Indonesia. BMP dihitung berdasarkan akumulasi bobot faktor penentu dikalikan dengan bobot maksimum, dengan total nilai paling tinggi 15%.",
+      "url": ""
     },
     {
       "title": "BERAPA BIAYA VERIFIKASI TKDN?",
-      "desc": "Biaya verifikasi TKDN tergantung terhadap jenis, tipe, spesifikasi produk serta lokasi proses produksi yang akan diverifikasi. Untuk mendapatkan informasi lebih lanjut, silahkan menghubungi Marketing PT. Anindya Wiraputra Konsult."
+      "desc": "Biaya verifikasi TKDN tergantung terhadap jenis, tipe, spesifikasi produk serta lokasi proses produksi yang akan diverifikasi. Untuk mendapatkan informasi lebih lanjut, silahkan menghubungi Marketing PT. Anindya Wiraputra Konsult.",
+      "url": ""
     },
     {
       "title": "BERAPA LAMA PROSES VERIFIKASI TKDN DILAKUKAN?",
-      "desc": "Sesuai dengan Peraturan Menteri Perindustrian No. 43 tahun 2022 Pasal 6 ayat 2 penghitungan dan verifikasi besaran nilai TKDN dan nilai BMP dilakukan dalam jangka waktu paling lama 22 (dua puluh dua) hari kerja terhitung sejak dokumen permohonan diterima secara lengkap dan benar."
+      "desc": "Sesuai dengan Peraturan Menteri Perindustrian No. 43 tahun 2022 Pasal 6 ayat 2 penghitungan dan verifikasi besaran nilai TKDN dan nilai BMP dilakukan dalam jangka waktu paling lama 22 (dua puluh dua) hari kerja terhitung sejak dokumen permohonan diterima secara lengkap dan benar.",
+      "url": ""
     },
     {
       "title": "APA SAJA DOKUMEN YANG DIBUTUHKAN UNTUK VERIFIKASI TKDN?",
-      "desc": "Dokumen yang dibutuhkan diantaranya Legalitas, Informasi Bahan Baku Produk, Tenaga Kerja, Alat Kerja. Untuk mendapatkan informasi lebih lanjut, silahkan menghubungi Marketing PT. Anindya Wiraputra Konsult."
+      "desc": "Dokumen yang dibutuhkan diantaranya Legalitas, Informasi Bahan Baku Produk, Tenaga Kerja, Alat Kerja. Untuk mendapatkan informasi lebih lanjut, silahkan menghubungi Marketing PT. Anindya Wiraputra Konsult.",
+      "url": ""
     },
     {
       "title": "BERAPA LAMA MASA BERLAKU SERTIFIKAT TKDN DAN BMP?",
-      "desc": "Sertifikat TKDN Barang dan BMP berlaku selama 3 Tahun. Khusus untuk Sertifikat TKDN Farmasi berlaku selama 2 Tahun."
+      "desc": "Sertifikat TKDN Barang dan BMP berlaku selama 3 Tahun. Khusus untuk Sertifikat TKDN Farmasi berlaku selama 2 Tahun.",
+      "url": ""
     },
     {
       "title": "BAGAIMANA PROSEDUR PERPANJANGAN SERTIFIKAT TKDN JIKA MASA BERLAKUNYA TELAH HABIS?",
-      "desc": "Prosedur perpanjangan sertifikat sama dengan pada saat pengajuan awal. Perusahaan dapat menghubungi PT. Anindya Wiraputra Konsult yang telah ditunjuk sebagai Lembaga Verifikasi Independen."
+      "desc": "Prosedur perpanjangan sertifikat sama dengan pada saat pengajuan awal. Perusahaan dapat menghubungi PT. Anindya Wiraputra Konsult yang telah ditunjuk sebagai Lembaga Verifikasi Independen.",
+      "url": ""
     }
   ],
   "impartiality_title": "Kebijakan Lembaga Verifikasi Independen ANINDYA",
   "impartiality_desc": "PT. Anindya Wiraputra Konsult berkomitmen dalam menjalankan kebijakan perusahaan mengacu pada SNI ISO/IEC 17029:2019 yang digunakan sebagai pedoman dalam melaksanakan kegiatan verifikasi untuk mencapai visi misi perusahaan.",
   "impartiality_button": "Kebijakan Lembaga Verifikasi Independen PT AWK",
   "handling_process_title": "Alur Penanganan Keluhan/Banding ANINDYA",
-  "handling_process_desc": "Dalam rangka meningkatkan kualitas pelayanan kami dalam melaksanakan kegiatan verifikasi, PT. Anindya Wiraputra Konsult menyediakan media komunikasi untuk menyampaikan keluhan terhadap kinerja kegiatan verifikasi PT. Anindya Wiraputra Konsult. Keluhan dapat disampaikan melalui Form Keluhan/Banding atau dengan menghubungi email keluhan.banding_tkdn@anindya.biz",
+  "handling_process_desc": "Dalam rangka meningkatkan kualitas pelayanan kami dalam melaksanakan kegiatan verifikasi, PT. Anindya Wiraputra Konsult menyediakan media komunikasi untuk menyampaikan keluhan terhadap kinerja kegiatan verifikasi PT. Anindya Wiraputra Konsult. Keluhan dapat disampaikan melalui ",
+  "complaint_link": " Form Keluhan/Banding",
+  "or_emailing": " atau dengan menghubungi email ",
   "complain_title": "Alur Penanganan Keluhan",
   "appeal_title": "Alur Penanganan Banding",
   "complain_appeal_form_title": "Form Pengajuan Keluhan/Banding",
   "submission_type_form": "Jenis Pengajuan",
   "company_name_form": "Nama Perusahaan",
   "company_pic_form": "Personel Penghubung",
-  "company_address_form": "Alamat Perusahaan",
+  "company_address_form": "Email Perusahaan",
   "company_phone_form": "No Telepon/Fax",
   "details_form": "Rincian",
   "button_form_submit": "Kirim",
+  "contact_title": "Kontak Kami",
 
   "our_company": "Jasa layanan survei sertifikasi & verifikasi perdagangan terkait sektor tambang dalam satu pintu",
   "about_our_company": "Tentang Perusahaan Kami",
