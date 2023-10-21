@@ -5,7 +5,7 @@ import Accordion from "react-bootstrap/Accordion";
 import Icon from "@mdi/react";
 import { mdiChevronDown } from "@mdi/js";
 
-function FAQCard({ index, title, desc }) {
+function FAQCard({ index, title, desc, url }) {
   return (
     <>
       <Accordion.Item eventKey={index} key={index} className="faq-card">
@@ -13,7 +13,10 @@ function FAQCard({ index, title, desc }) {
           <h3 className="tkdn-subtitle-2">{title}</h3>
           <Icon path={mdiChevronDown} size={1} />
         </Accordion.Header>
-        <Accordion.Body className="faq-content">{desc}</Accordion.Body>
+        <Accordion.Body className="faq-content">
+          {desc}
+          <a href={url}>{url}</a>
+        </Accordion.Body>
       </Accordion.Item>
     </>
   );

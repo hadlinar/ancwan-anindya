@@ -25,6 +25,7 @@ function FAQ() {
                   index={i}
                   title={t(`faq_list.${i}.title`)}
                   desc={t(`faq_list.${i}.desc`)}
+                  url={t(`faq_list.${i}.url`)}
                 />
               ))}
             </div>
