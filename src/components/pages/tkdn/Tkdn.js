@@ -13,6 +13,7 @@ import FAQ from "./FAQ";
 import Impartiality from "./Impartiality";
 import HandlingProcess from "./HandlingProcess";
 import ComplainForm from "./ComplainForm";
+import ContactUs from "./ContactUs";
 
 function Tkdn() {
   const { pathname } = useLocation();
@@ -46,7 +47,8 @@ function Tkdn() {
       </div>
       <HandlingProcess />
       <div style={{ backgroundColor: "#F2F2F2" }}>
-        <ComplainForm />
+        {/* <ComplainForm /> */}
+        <ContactUs />
       </div>
     </>
   );
