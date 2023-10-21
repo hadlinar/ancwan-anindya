@@ -2210,6 +2210,109 @@
     }
   ],
 
+  "anindya_tkdn": "ANINDYA TKDN Service",
+  "button_tkdn": "AVS TKDN",
+  "sub_tkdn": "We provide a Local Content Assessment (TKDN) certification service",
+  "desc_tkdn": "Based on Decree of the Indonesian Ministry of Industry No. 4058/2023, Anindya Wiraputra Konsult has been appointed as Independent Verification Body of Indonesia's Local Content Assessment Verification. In an effort to support government programs to improve domestic industry, Anindya Wiraputra Konsult provides a service in form of Local Content Assessment certification.",
+  "definition_tkdn": "Definition of Local Content Assessment (TKDN)",
+  "domestic_title": "Domestic Products",
+  "domestic_desc": "Domestic Products are Goods and Services, including design and engineering, which are produced or worked on by companies that invest and produce in Indonesia, use all or part of the labor of Indonesian citizens, and the process uses raw materials or components which are wholly or partly come from within the country.",
+  "local_title": "Local Content Assessment",
+  "local_desc": "Local Content Assessment hereinafter referred to as TKDN is the amount of local content in Goods, Services, and Combined Goods and Services.",
+  "benefit_tkdn_title": "Benefit of Local Content Assessment (TKDN)",
+  "benefit_tkdn_list": [
+    {
+      "title": "Increase Domestic Industrial Sector",
+      "desc": "Local content assessment program can boost productivity and increase the competitiveness of domestic industries during the uncertain world economic conditions."
+    },
+    {
+      "title": "Increase Small Industry",
+      "desc": "Local content assessment program provides an opportunity for SMEs to produce products that are of good quality and have high competitiveness."
+    },
+    {
+      "title": "Create Job Opportunities",
+      "desc": "Local content assessment program creates new jobs for domestic workers, reducing national unemployment."
+    },
+    {
+      "title": "Increase Tax Revenue",
+      "desc": "Local content assessment program is able to sustain the national economy through the production and buying and selling of domestic products."
+    },
+    {
+      "title": "Increase Other Economic Sectors",
+      "desc": "Local content assessment program has a positive chain effect for businesses that are directly involved in the process of making domestic products."
+    },
+    {
+      "title": "Create Investment Opportunities",
+      "desc": "Investors can directly gain the benefits of the Local Content Assessment program with the use of preferred products, so that they can increase their sales to attract more investment interest."
+    }
+  ],
+  "statutory_title": "Statutory and Laws of Local Content Assessment (TKDN)",
+  "statutory_list": [
+    {
+      "tab_title": "Government Laws and Regulations",
+      "documents": [
+        {
+          "name": "Undang-Undang Nomor 3 Tahun 2014 Perindustrian Peraturan Pemerintah Nomor 29 Tahun 2018 Pemberdayaan Industri"
+        },
+        {
+          "name": "Peraturan Pemerintah Nomor 29 Tahun 2018 Pemberdayaan Industri"
+        }
+      ]
+    },
+    {
+      "tab_title": "Presidential Regulation, Decree, and Instruction",
+      "documents": [
+        {
+          "name": "Perpres No. 16/2018 Pengadaan Barang/Jasa Pemerintah"
+        },
+        {
+          "name": "Keppres No. 24/2018 Tim Nasional Peningkatan Penggunaan Produksi Dalam Negeri"
+        },
+        {
+          "name": "Inpres No. 6/2016 Tentang Percepatan Pengembangan Industri Farmasi Dan Alat Kesehatan"
+        },
+        {
+          "name": "Inpres No. 2/2009 Penggunaan Produk Dalam Negeri dalam Pengadaan Barang/Jasa Pemerintah"
+        }
+      ]
+    },
+    {
+      "tab_title": "Ministerial Regulation, Decree, and Circular Letter",
+      "documents": [
+        {
+          "name": "Permen Perindustrian No. 02/2014 Pedoman Peningkatan Penggunaan Produk Dalam Negeri Dalam Pengadaan Barang/Jasa Pemerintah"
+        },
+        {
+          "name": "Permen Perindustrian No. 03/2014 Pedoman Peningkatan Penggunaan Produk Dalam Negeri Dalam Pengadaan Barang/Jasa Pemerintah Yang Tidak Dibiayai Dari Anggaran Pendapatan dan Belanja Negara/Anggaran Pendapatan dan Belanja Daerah"
+        },
+        {
+          "name": "Permen Perindustrian No. 31/2017 Perubahan Ketiga Atas Peraturan Menteri Perindustrian Nomor 19/M-IND/PER/2/2010 Tentang Daftar Mesin, Barang, Dan Bahan Produksi Dalam Negeri Untuk Pembangunan Atau Pengembangan Industri Dalam Rangka Penanaman Modal."
+        },
+        {
+          "name": "Permen ESDM No. 15/2013 Tentang Penggunaan Produk Dalam Negeri Pada Kegiatan Usaha Hulu Migas"
+        },
+        {
+          "name": "Permen Kominfo No. 27/2015 Persyaratan Teknis Alat dan/atau Perangkat Perangkat Telekomunikasi Berbasis Standar Teknologi Long Term Evolution"
+        },
+        {
+          "name": "Permen Kominfo No. 4/2019 Persyaratan Teknis Alat dan/atau Perangkat Telekomunikasi Untuk Keperluan Penyelenggaraan Televisi Siaran dan Radio Siaran"
+        },
+        {
+          "name": "Permen Kominfo No. 12/2019 Tata Cara Penilaian Pencapaian Tingkat Komponen Dalam Negeri Belanja Modal Dan Belanja Operasional Pada Penyelenggaraan Telekomunikasi"
+        },
+        {
+          "name": "Permen BUMN No. PER - 08/MBU/12/2019 Pedoman Umum Pelaksanaan Pengadaan Barang dan Jasa Badan Usaha Milik Negara (BUMN)"
+        },
+        {
+          "name": "Kep Menko Bidang Kemaritiman No. 84/2019 Kelompok Kerja Tim Nasional Peningkatan Penggunaan Produk Dalam Negeri"
+        },
+        {
+          "name": "SE Menteri BUMN Nomor SE- 02/MBU/2006 Penggunaan Produk Dalam Negeri Dalam Pengadaan Barang/Jasa BUMN Dan Anak Perusahaan BUMN: “Melaporkan Penggunaan Produk Dalam Negeri Kepada Kementerian Negara BUMN Sebagai Wakil Ketua Tim Pelaksana Penggunaan Produk Dalam Negeri & Sebagai KPI Masing-Masing BUMN"
+        }
+      ]
+    }
+  ],
+  "content_assessment_title": "Local Content Assessment (TKDN) Goods Category",
   "content_assessment_list": [
     "Bahan Penunjang Pertanian",
     "Mesin dan Peralatan Pabrik",
@@ -2232,6 +2335,121 @@
     "Peralatan Laboratorium",
     "Barang Lainnya"
   ],
+  "provision_title": "Provisions and Procedures for Calculating Local Content Assessment (TKDN)",
+  "provision_manufacturing_title": "Manufacturing",
+  "provision_manufacturing_list": [
+    {
+      "title": "Peraturan Menteri Perindustrian Nomor 16 Tahun 2011",
+      "desc": "Provisions and Procedures for Calculating TKDN",
+      "tag": "cost based"
+    },
+    {
+      "title": "Peraturan Menteri Perindustrian Nomor 04 Tahun 2017",
+      "desc": "Provisions and Procedures for TKDN Assessment for Solar Power Plant",
+      "tag": "product based"
+    },
+    {
+      "title": "Peraturan Menteri Perindustrian Nomor 29 Tahun 2017",
+      "desc": "Provisions and Procedures for Calculating the TKDN of Cellular Phone, Handheld Computer, and Tablet Computer",
+      "tag": "product based"
+    },
+    {
+      "title": "Peraturan Menteri Perindustrian Nomor 16 Tahun 2020",
+      "desc": "Provisions and Procedures for Calculating the TKDN of Pharmaceutical",
+      "tag": "process based"
+    },
+    {
+      "title": "Peraturan Menteri Perindustrian Nomor 22 Tahun 2020",
+      "desc": "Provisions and Procedures for Calculating the TKDN of Electronics and Telematics",
+      "tag": "process + coat based"
+    },
+    {
+      "title": "Peraturan Menteri Perindustrian Nomor 06 Tahun 2022",
+      "desc": "Specifications, Development Roadmap, and Provisions for Calculating the TKDN of BEV (Battery Electric Vehicle)",
+      "tag": "process + coat based"
+    },
+    {
+      "title": "Peraturan Menteri Perindustrian Nomor 31 Tahun 2022",
+      "desc": "Provisions and Procedures for Calculating the TKDN of Medical Devices and In Vitro Medical Devices",
+      "tag": "cost based"
+    },
+    {
+      "title": "Peraturan Menteri Perindustrian Nomor 46 Tahun 2022",
+      "desc": "Provisions and Procedures for Calculating TKDN for Small Industries",
+      "tag": "cost based"
+    }
+  ],
+  "provision_project_title": "Project (Oil and Gas, Infrastructure, Power Plant)",
+  "provision_project_list": [
+    "Peraturan Menteri ESDM No 15 Tahun 2013",
+    "SK Dirjen Migas No. 181.K/10/DJM.S/2014",
+    "Pedoman Tata Kerja No. 007",
+    "Peraturan Presiden No.70 Tahun 2012",
+    "Peraturan Menteri Perindustrian No 05 Tahun 2017",
+    "Peraturan Menteri Perindustrian No 02 Tahun 2014",
+    "Peraturan Menteri Perindustrian No 03 Tahun 2014",
+    "Peraturan Menteri Perindustrian No 31 Tahun 2017"
+  ],
+  "lca_process_title": "Local Content Assessment  Verification Process at ANINDYA",
+  "image_language": "En",
+  "faq_title": "Frequently Asked Questions (FAQ)",
+  "faq_list": [
+    {
+      "title": "WHAT ARE THE PURPOSES OF TKDN?",
+      "desc": "To fulfill the document requirements for the procurement of goods/services in government agencies and the main requirements for registering an E-Catalog. In addition, TKDN is used as a mandatory requirement for production in the cellular telephone, tablet and television set industries."
+    },
+    {
+      "title": "WHAT ARE THE TERMS OF SUBMISSION OF TKDN?",
+      "desc": "Company Requirements:\n1. Invest in Indonesia\n2. Located in Indonesia\n3. Producing in Indonesia\n\nProduct Terms:\n1. Materials & Labor\n2. Production Process (change in function)\n3. Domestic Product (has a higher product value)"
+    },
+    {
+      "title": "WHAT IS SIINAS?",
+      "desc": "The National Industrial Information System (SIINas) is a mechanism to simplify and speed up the process of submitting data originating from the business world to the government. The following is the link to SIINas: https://siinas.kemenperin.go.id/"
+    },
+    {
+      "title": "WHAT IS TKDN PRICE PREFERENCE?",
+      "desc": "Price preference is the price adjustment value to the bid price in the final evaluation process in the procurement of goods/services. Price preference is an incentive for domestic products in the selection of Providers in the form of acceptable excess prices."
+    },
+    {
+      "title": "WHAT IS COMPANY BENEFIT WEIGHT (BMP)?",
+      "desc": "Company Benefit Weight (BMP) is the value of the award given to Industrial Companies investing and producing in Indonesia. BMP is calculated based on the accumulated weight of the determining factor multiplied by the maximum weight, with a maximum total value of 15%."
+    },
+    {
+      "title": "HOW MUCH DOES TKDN VERIFICATION COST?",
+      "desc": "TKDN verification costs depend on the product kind, product type, product specifications and location of the production process to be verified. For more information, please contact Marketing PT. Anindya Wiraputra Konsult."
+    },
+    {
+      "title": "HOW LONG DOES THE TKDN VERIFICATION PROCESS CAN BE DONE?",
+      "desc": "In accordance to Regulation of the Minister of Industry No. 43 of 2022 Article 6 paragraph 2 Calculation and verification of TKDN values and BMP values is carried out within a maximum period of 22 (twenty two) working days counted from received complete and correct application documents."
+    },
+    {
+      "title": "WHAT DOCUMENTS ARE REQUIRED FOR TKDN VERIFICATION?",
+      "desc": "Documents needed include Legality, Information on Product Raw Materials, Labor, and Working Tools. For more information, please contact Marketing PT. Anindya Wiraputra Konsult."
+    },
+    {
+      "title": "HOW LONG IS THE TKDN AND BMP CERTIFICATE VALID?",
+      "desc": "Goods TKDN and BMP Certificate valid for 3 years.\nFor Pharmacy TKDN Certificate valid for 2 years."
+    },
+    {
+      "title": "WHAT IS THE PROCEDURE FOR EXTENSION OF TKDN CERTIFICATE IF THE VALIDITY PERIOD HAS EXPIRED?",
+      "desc": "The certificate renewal procedure is the same as when it was originally submitted. Companies can contact PT. Anindya Wiraputra Konsult who has been appointed as an Independent Verification Agency."
+    }
+  ],
+  "impartiality_title": "ANINDYA Impartiality Policy",
+  "impartiality_desc": "PT Anindya Wiraputra Konsult publishes the following policy with regard to Impartiality in compliance with SNI ISO/IEC 17029:2019.",
+  "impartiality_button": "PT AWK Independent Verification Agency Policy",
+  "handling_process_title": "ANINDYA Complaint/Appeal Handling Process",
+  "handling_process_desc": "For clients who would like to submit complaints in regards to the performance of PT. Anindya Wiraputra Konsult verification activities through Complaint/Appeal Submission Form or by emailing keluhan.banding_tkdn@anindya.biz",
+  "complain_title": "Complaint Handling Process",
+  "appeal_title": "Appeal Handling Process",
+  "complain_appeal_form_title": "Complaints/Appeals Submission Form",
+  "submission_type_form": "Submission Type",
+  "company_name_form": "Company Name",
+  "company_pic_form": "Company's Person in Charge",
+  "company_address_form": "Company Address",
+  "company_phone_form": "Telephone/Fax Number",
+  "details_form": "Details",
+  "button_form_submit": "Send",
 
   "our_company": "Jasa layanan survei sertifikasi & verifikasi perdagangan terkait sektor tambang dalam satu pintu",
   "about_our_company": "Tentang Perusahaan Kami",
