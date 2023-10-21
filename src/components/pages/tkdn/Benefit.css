@@ -1,12 +1,12 @@
 .tkdn-benefit {
-  min-width: 300px;
+  flex: 1 0 30%;
   display: flex;
   flex-direction: column;
   gap: 8px;
 }
 
 .tkdn-benefit-img {
-  width: 100%;
-  height: 200px;
-  background-color: red;
+  aspect-ratio: 4/3;
+  max-height: 200px;
+  object-fit: cover;
 }
