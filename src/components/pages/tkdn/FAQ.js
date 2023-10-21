@@ -3,14 +3,12 @@ import "./Definition.css";
 import "./FAQ.css";
 import { useTranslation } from "react-i18next";
 import Accordion from "react-bootstrap/Accordion";
-import Icon from "@mdi/react";
-import { mdiChevronDown } from "@mdi/js";
+import FAQCard from "./FAQCard";
 
 function FAQ() {
   const { t } = useTranslation();
-
-  const odd = [1, 3, 5, 7, 9];
-  const even = [0, 2, 4, 6, 8];
+  const half1 = [0, 1, 2, 3, 4];
+  const half2 = [5, 6, 7, 8, 9];
 
   return (
     <>
@@ -22,29 +20,21 @@ function FAQ() {
         <div>
           <Accordion className="faq-list">
             <div className="faq-half">
-              {even.map((i) => (
-                <Accordion.Item eventKey={i} key={i} className="faq-card">
-                  <Accordion.Header className="faq-header">
-                    <h3 className="tkdn-subtitle-2">
-                      {t(`faq_list.${i}.title`)}
-                    </h3>
-                    <Icon path={mdiChevronDown} size={1} />
-                  </Accordion.Header>
-                  <Accordion.Body>{t(`faq_list.${i}.desc`)}</Accordion.Body>
-                </Accordion.Item>
+              {half1.map((i) => (
+                <FAQCard
+                  index={i}
+                  title={t(`faq_list.${i}.title`)}
+                  desc={t(`faq_list.${i}.desc`)}
+                />
               ))}
             </div>
             <div className="faq-half">
-              {odd.map((i) => (
-                <Accordion.Item eventKey={i} key={i} className="faq-card">
-                  <Accordion.Header className="faq-header">
-                    <h3 className="tkdn-subtitle-2">
-                      {t(`faq_list.${i}.title`)}
-                    </h3>
-                    <Icon path={mdiChevronDown} size={1} />
-                  </Accordion.Header>
-                  <Accordion.Body>{t(`faq_list.${i}.desc`)}</Accordion.Body>
-                </Accordion.Item>
+              {half2.map((i) => (
+                <FAQCard
+                  index={i}
+                  title={t(`faq_list.${i}.title`)}
+                  desc={t(`faq_list.${i}.desc`)}
+                />
               ))}
             </div>
           </Accordion>
