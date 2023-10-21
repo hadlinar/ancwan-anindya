@@ -15,7 +15,7 @@ function HeroSection() {
         className="btns"
         buttonStyle="btn--primary"
         buttonSize="btn--xsmall"
-        pathn="https://avs.anindya.biz/"
+        pathn="http://tkdn.anindya.biz/"
       >
         AVS TKDN
       </ButtonVPTI>
