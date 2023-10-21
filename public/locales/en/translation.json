@@ -2188,7 +2188,7 @@
   "anindya_tkdn": "ANINDYA TKDN Service",
   "button_tkdn": "AVS TKDN",
   "sub_tkdn": "We provide a Local Content Assessment (TKDN) certification service",
-  "desc_tkdn": "Indonesia’s Ministry of Trade has mandated that a wide range of goods be inspected prior to export to the country to demonstrate compliance with various national regulations. To meet the Indonesian market requirements our technical verification services identify the eligibility of the goods to be imported into Indonesia as well as the quantity, tariff classification, and Ministry of Trade specifications. The issuance of the ANINDYA report known as a Laporan Surveyor or Surveyor’s Report facilitates international trade, reduces the risk of delays in Customs clearance, and reduces potential losses from the import of non-compliant goods.",
+  "desc_tkdn": "Based on Decree of the Indonesian Ministry of Industry No. 4058/2023, Anindya Wiraputra Konsult has been appointed as Independent Verification Body of Indonesia's Local Content Assessment Verification. In an effort to support government programs to improve domestic industry, Anindya Wiraputra Konsult provides a service in form of Local Content Assessment certification.",
   "definition_tkdn": "Definition of Local Content Assessment (TKDN)",
   "domestic_title": "Domestic Products",
   "domestic_desc": "Domestic Products are Goods and Services, including design and engineering, which are produced or worked on by companies that invest and produce in Indonesia, use all or part of the labor of Indonesian citizens, and the process uses raw materials or components which are wholly or partly come from within the country.",
@@ -2375,7 +2375,7 @@
     },
     {
       "title": "WHAT ARE THE TERMS OF SUBMISSION OF TKDN?",
-      "desc": "Company Requirements:\n1.Invest in Indonesia\n2.Located in Indonesia\n3.Producing in Indonesia\n\nProduct Terms:\nMaterials & Labor\nProduction Process (change in function)\nDomestic Product (has a higher product value)"
+      "desc": "Company Requirements:\n1. Invest in Indonesia\n2. Located in Indonesia\n3. Producing in Indonesia\n\nProduct Terms:\n1. Materials & Labor\n2. Production Process (change in function)\n3. Domestic Product (has a higher product value)"
     },
     {
       "title": "WHAT IS SIINAS?",
