@@ -47,7 +47,7 @@ function Tkdn() {
       </div>
       <HandlingProcess />
       <div style={{ backgroundColor: "#F2F2F2" }}>
-        {/* <ComplainForm /> */}
+        <ComplainForm />
         <ContactUs />
       </div>
     </>

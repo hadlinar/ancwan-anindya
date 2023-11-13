@@ -75,111 +75,16 @@ function ComplainForm() {
             {t("complain_appeal_form_title")}
           </h1>
         </div>
-        <Form>
-          {mobile ? (
-            <Row className="form-container">
-              <Form.Group>
-                <Form.Label>{t("submission_type_form")}</Form.Label>
-                <Row className="submission-type-container">
-                  {["complaint", "appeal"].map((type) => (
-                    <Form.Check
-                      type={"radio"}
-                      name="typePicker"
-                      id={type}
-                      label={type}
-                    />
-                  ))}
-                </Row>
-              </Form.Group>
-              <Form.Group className="input-container">
-                <Form.Label>{t("company_name_form")}</Form.Label>
-                <Form.Control as="input" />
-              </Form.Group>
-              <Form.Group className="input-container">
-                <Form.Label>{t("company_pic_form")}</Form.Label>
-                <Form.Control as="input" />
-              </Form.Group>
-              <Form.Group className="input-container">
-                <Form.Label>{t("company_address_form")}</Form.Label>
-                <Form.Control as="input" />
-              </Form.Group>
-              <Form.Group className="input-container">
-                <Form.Label>{t("company_phone_form")}</Form.Label>
-                <Form.Control as="input" type="number" />
-              </Form.Group>
-              <Form.Group className="input-container">
-                <Form.Label>{t("details_form")}</Form.Label>
-                <Form.Control as="textarea" rows={15} />
-              </Form.Group>
-              <Button
-                buttonStyle="btn--primary"
-                buttonSize="btn--xsmall"
-                type="submit"
-              >
-                {t("button_form_submit")}
-              </Button>
-            </Row>
-          ) : (
-            <Row>
-              <Col sm={4} className="form-container">
-                <Form.Group onClick={(e) => handleSubmissionType(e)}>
-                  <Form.Label>{t("submission_type_form")}</Form.Label>
-                  <Row className="submission-type-container">
-                    {["Complaint", "Appeal"].map((type) => (
-                      <Form.Check
-                        type={"radio"}
-                        name="typePicker"
-                        id={type}
-                        label={type}
-                      />
-                    ))}
-                  </Row>
-                </Form.Group>
-                <Form.Group
-                  className="input-container"
-                  onChange={(e) => handleName(e)}
-                >
-                  <Form.Label>{t("company_name_form")}</Form.Label>
-                  <Form.Control as="input" />
-                </Form.Group>
-                <Form.Group
-                  className="input-container"
-                  onChange={(e) => handlePic(e)}
-                >
-                  <Form.Label>{t("company_pic_form")}</Form.Label>
-                  <Form.Control as="input" />
-                </Form.Group>
-                <Form.Group
-                  className="input-container"
-                  onChange={(e) => handleAdress(e)}
-                >
-                  <Form.Label>{t("company_address_form")}</Form.Label>
-                  <Form.Control as="input" />
-                </Form.Group>
-                <Form.Group
-                  className="input-container"
-                  onChange={(e) => handlePhone(e)}
-                >
-                  <Form.Label>{t("company_phone_form")}</Form.Label>
-                  <Form.Control as="input" type="number" />
-                </Form.Group>
-                <Button
-                  buttonStyle="btn--primary"
-                  buttonSize="btn--xsmall"
-                  onClick={handleSubmit}
-                >
-                  {t("button_form_submit")}
-                </Button>
-              </Col>
-              <Col sm={8}>
-                <Form.Group onChange={(e) => handleDetail(e)}>
-                  <Form.Label>{t("details_form")}</Form.Label>
-                  <Form.Control as="textarea" rows={15} />
-                </Form.Group>
-              </Col>
-            </Row>
-          )}
-        </Form>
+        <iframe
+          src="https://docs.google.com/forms/d/e/1FAIpQLSfmATagyIowKwrZufFL9mOIrsgl1pScCDpLn0XnDdMUI7u9Ww/viewform?embedded=true"
+          width="100%"
+          height="1300px"
+          frameborder="0"
+          marginheight="0"
+          marginwidth="0"
+        >
+          Loading…
+        </iframe>
       </div>
     </>
   );
