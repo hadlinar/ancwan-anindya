@@ -31,8 +31,8 @@ function HandlingProcess() {
           {t("handling_process_desc")}
           <a href="#complain-form">{t("complaint_link")}</a>
           {t("or_emailing")}
-          <a href="mailto:keluhan.banding_tkdn@anindya.biz">
-            keluhan.banding_tkdn@anindya.biz
+          <a href="mailto:keluhan_banding_TKDN@anindya.biz">
+            keluhan_banding_TKDN@anindya.biz
           </a>
         </p>
         <h2 className="tkdn-subtitle">{t("complain_title")}</h2>
